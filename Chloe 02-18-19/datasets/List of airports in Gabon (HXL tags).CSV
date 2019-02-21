@@ -1,0 +1,37 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2966,FOOL,medium_airport,"Libreville Leon M'ba International Airport",0.458600014448,9.412280082699999,39,AF,GA,GA-1,Libreville,1,FOOL,LBV,,http://www.adlgabon.com,http://en.wikipedia.org/wiki/Libreville_International_Airport,,1050,2013-11-08T08:55:32+00:00
+2963,FOOG,medium_airport,"Port Gentil Airport",-0.7117390036582947,8.754380226135254,13,AF,GA,GA-8,"Port Gentil",1,FOOG,POG,,,http://en.wikipedia.org/wiki/Port-Gentil_International_Airport,,875,2008-12-19T20:05:46+00:00
+2967,FOON,medium_airport,"M'Vengue El Hadj Omar Bongo Ondimba International Airport",-1.6561599969863892,13.437999725341797,1450,AF,GA,GA-2,Franceville,1,FOON,MVB,,,http://en.wikipedia.org/wiki/M'Vengue_El_Hadj_Omar_Bongo_Ondimba_International_Airport,,800,2008-12-19T20:05:50+00:00
+2958,FOGM,medium_airport,"Mouilla Ville Airport",-1.845139980316162,11.056699752807617,295,AF,GA,GA-4,Mouila,1,FOGM,MJL,,,http://en.wikipedia.org/wiki/Mouila_Airport,,800,2008-12-19T20:05:37+00:00
+2959,FOGO,medium_airport,"Oyem Airport",1.5431100130081177,11.581399917602539,2158,AF,GA,GA-9,Oyem,1,FOGO,OYE,,,http://en.wikipedia.org/wiki/Oyem_Airport,,800,2008-12-19T20:05:37+00:00
+2957,FOGK,medium_airport,"Koulamoutou Mabimbi Airport",-1.1846100091934,12.441300392151,1070,AF,GA,GA-7,Koulamoutou,1,FOGK,KOU,,,http://en.wikipedia.org/wiki/Koula_Moutou_Airport,"Koula Moutou, FO23, Koulamouton/Mabimbi",800,2015-12-05T13:40:53+00:00
+2965,FOOK,medium_airport,"Makokou Airport",0.5792109966278076,12.890899658203125,1726,AF,GA,GA-6,Makokou,1,FOOK,MKU,,,http://en.wikipedia.org/wiki/Makokou_Airport,,800,2008-12-19T20:05:46+00:00
+35322,GA-GAX,small_airport,"Gamba Airport",-2.785278,10.047222,30,AF,GA,GA-8,Gamba,1,FOGX,GAX,,,http://en.wikipedia.org/wiki/Gamba_Airport,,450,2018-04-26T06:09:01+00:00
+32428,FOOT,small_airport,"Tchibanga Airport",-2.8499999046325684,11.017000198364258,269,AF,GA,GA-5,Tchibanga,1,FOOT,TCH,,,,,450,2008-12-19T20:05:56+00:00
+2962,FOOB,medium_airport,"Bitam Airport",2.0756399631500244,11.493200302124023,1969,AF,GA,GA-9,Bitam,0,FOOB,BMM,,,,,250,2008-12-19T20:05:39+00:00
+2961,FOGR,medium_airport,"Lambarene Airport",-0.7043889760971069,10.245699882507324,82,AF,GA,GA-3,Lambarene,0,FOGR,LBQ,,,,,250,2008-12-19T20:05:37+00:00
+2960,FOGQ,medium_airport,"Okondja Airport",-0.6652140021324158,13.673100471496582,1325,AF,GA,GA-2,Okondja,0,FOGQ,OKN,,,,,250,2008-12-19T20:05:37+00:00
+31202,FOGF,small_airport,"Fougamou Airport",-1.2829999923706055,10.616999626159668,263,AF,GA,GA-4,Fougamou,0,FOGF,FOU,,,,,50,2008-12-19T20:05:31+00:00
+31857,FOOR,small_airport,"Lastourville Airport",-0.8266670107841492,12.748600006103516,1585,AF,GA,GA-7,Lastourville,0,FOOR,LTL,,,,,50,2008-12-19T20:05:52+00:00
+31880,FOGG,small_airport,"M'Bigou Airport",-1.8830000162124634,11.932999610900879,2346,AF,GA,GA-4,M'Bigou,0,FOGG,MBC,,,,,50,2008-12-19T20:05:33+00:00
+31984,FOOY,small_airport,"Mayumba Airport",-3.4584197998046875,10.674076080322266,13,AF,GA,GA-5,Mayumba,0,FOOY,MYB,,,,Mayoumba,50,2009-06-06T12:50:21+00:00
+2964,FOOH,medium_airport,"Omboue Hopital Airport",-1.5747300386428833,9.262689590454102,33,AF,GA,GA-8,Omboue,0,FOOH,OMB,,,,,250,2008-12-19T20:05:46+00:00
+30633,GA-AKE,small_airport,"Akieni Airport",-1.13967001438,13.9035997391,1660,AF,GA,GA-2,Akieni,0,FOGA,AKE,,,http://en.wikipedia.org/wiki/Akieni_Airport,,50,2014-04-24T19:56:09+00:00
+30698,FOGB,small_airport,"Booue Airport",-0.1075,11.9438,604,AF,GA,GA-6,Booue,0,FOGB,BGB,,,,,50,2015-12-06T01:21:20+00:00
+31201,FOOC,small_airport,"Cocobeach Airport",1,9.583000183105469,69,AF,GA,GA-1,Cocobeach,0,FOOC,,,,,,50,2008-12-19T20:05:42+00:00
+31915,FOOE,small_airport,"Mekambo Airport",1.0169999599456787,13.932999610900879,1686,AF,GA,GA-6,Mekambo,0,FOOE,MKB,,,,,50,2008-12-19T20:05:46+00:00
+31976,FOGV,small_airport,"Minvoul Airport",2.1500000953674316,12.133000373840332,1969,AF,GA,GA-9,Minvoul,0,FOGV,MVX,,,,,50,2008-12-19T20:05:39+00:00
+31999,FOOM,small_airport,"Mitzic Airport",0.7829999923706055,11.550000190734863,1913,AF,GA,GA-9,Mitzic,0,FOOM,MZC,,,,,50,2008-12-19T20:05:50+00:00
+31902,FOGI,small_airport,"Moabi Airport",-2.433000087738037,11,787,AF,GA,GA-5,Moabi,0,FOGI,MGX,,,,,50,2008-12-19T20:05:35+00:00
+31894,FOOD,small_airport,"Moanda Airport",-1.53299999237,13.2670001984,1877,AF,GA,GA-2,Moanda,0,FOOD,MFF,,,http://en.wikipedia.org/wiki/Moanda_Airport,,50,2011-10-26T23:35:16+00:00
+31736,FOGJ,small_airport,"Ville Airport",-0.18299999833106995,10.75,164,AF,GA,GA-3,N'Djolé,0,FOGJ,KDJ,,,,,50,2008-12-19T20:05:37+00:00
+31737,FOGE,small_airport,"Ndende Airport",-2.4000000953674316,11.366999626159668,417,AF,GA,GA-4,Ndende,0,FOGE,KDN,,,,,50,2008-12-19T20:05:29+00:00
+32747,FOOS,small_airport,"Sette Cama Airport",-2.5329999923706055,9.767000198364258,10,AF,GA,GA-8,"Sette Cama",0,FOOS,ZKM,,,,,50,2008-12-19T20:05:54+00:00
+318562,GA-0002,small_airport,"Amvémé Airport",0.287176,11.386303,,AF,GA,GA-9,Amvémé,0,,,,,,,0,2016-06-14T02:54:25+00:00
+312228,BGP,small_airport,"Bongo Airport",-2.1713,10.2088,120,AF,GA,GA-8,Bongo,0,,BGP,,,,,0,2014-06-17T23:36:08+00:00
+311974,FOOI,small_airport,"Tchongorove Airport",-1.9223,9.3092,48,AF,GA,GA-8,Iguela,0,FOOI,IGE,,,,,0,2014-05-21T00:44:55+00:00
+316479,GA-0001,small_airport,"Koulamoutou Airport",-1.106,12.503,1100,AF,GA,GA-7,Koulamoutou,0,,,,,,"KOU, Koulamouton",0,2015-12-05T13:29:25+00:00
+313892,LEO,small_airport,"Lekoni Airport",-1.5724,14.2878,2036,AF,GA,GA-2,Lekoni,0,,LEO,,,,Léconi,0,2015-02-20T01:16:15+00:00
+316478,WGY,closed,"Wagny Airport",-0.6035,12.2608,1025,AF,GA,GA-7,Wagny,0,,WGY,,,,,0,2015-12-05T12:29:47+00:00
+301838,AWE,small_airport,"Alowe Airport",-0.545,9.444,600,AF,GA,GA-3,"Wonga Wongué Presidential Reserve",0,FOGW,AWE,,,,,0,2015-12-05T15:16:58+00:00

@@ -1,0 +1,30 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5303,OSDI,large_airport,"Damascus International Airport",33.4114990234375,36.51559829711914,2020,AS,SY,SY-DI,Damascus,1,OSDI,DAM,,,http://en.wikipedia.org/wiki/Damascus_International_Airport,"مطار دمشق الدولي",1050,2009-02-04T17:17:48+00:00
+5302,OSAP,large_airport,"Aleppo International Airport",36.18069839477539,37.22439956665039,1276,AS,SY,SY-HL,Aleppo,1,OSAP,ALP,,http://www.aleppo-airport.com/en/,http://en.wikipedia.org/wiki/Aleppo_International_Airport,"مطار حلب الدولي",1050,2009-06-27T09:05:47+00:00
+5306,OSLK,large_airport,"Bassel Al-Assad International Airport",35.401100158691406,35.948699951171875,157,AS,SY,SY-LA,Latakia,1,OSLK,LTK,,,http://en.wikipedia.org/wiki/Bassel_Al-Assad_International_Airport,"مطار الشهيد باسل الأسد الدولي",1050,2009-06-27T09:07:47+00:00
+5304,OSDZ,medium_airport,"Deir ez-Zor Air Base",35.2854,40.175999,700,AS,SY,SY-DY,"Deir ez-Zor",1,OSDZ,DEZ,,,http://en.wikipedia.org/wiki/Deir_ez-Zor_Airport,"Al Jafrah Airport, مطار دير الزور",875,2017-08-12T01:39:56+00:00
+5305,OSKL,medium_airport,"Kamishly Airport",37.020599365234375,41.19139862060547,1480,AS,SY,SY-HA,Kamishly,1,OSKL,KAC,,,http://en.wikipedia.org/wiki/Kamishly_Airport,"مطار القامشلي‎, Qamishly",800,2009-02-04T17:22:12+00:00
+6351,OS69,medium_airport,"Khalkhalah Air Base",33.077301025390625,36.55820846557617,2310,AS,SY,SY-SU,Buraq,0,,,,,,OS69,250,2009-03-05T16:17:03+00:00
+5307,OSPR,medium_airport,"Palmyra Airport",34.5574,38.316898,1322,AS,SY,SY-HI,Tadmur,0,OSPR,PMS,,,https://en.wikipedia.org/wiki/Palmyra_Airport,,250,2016-01-30T20:09:17+00:00
+6343,OS61,small_airport,"Dumayr Air Base",33.60960006713867,36.749000549316406,2060,AS,SY,SY-DI,,0,OS61,,OS61,,,,50,2008-06-13T14:30:04+00:00
+6346,OS64,medium_airport,"An Nasiriyah Air Base",33.91899871826172,36.866600036621094,2727,AS,SY,SY-DI,,0,,,,,,OS64,50,2009-04-13T08:48:17+00:00
+6344,OS62,small_airport,"Jirah Air Base",36.09669876098633,37.936500549316406,1145,AS,SY,SY-HL,,0,OS62,,OS62,,,,50,2008-07-23T07:48:36+00:00
+6348,OS66,small_airport,"Rasin El Aboud Airport",36.18709945678711,37.58319854736328,1207,AS,SY,SY-HL,,0,OS66,,OS66,,,,50,2008-06-13T14:30:04+00:00
+6340,OS58,small_airport,"Hamah Air Base",35.11819839477539,36.71120071411133,1014,AS,SY,SY-HM,,0,OS58,,OS58,,,,50,2008-07-23T07:41:52+00:00
+6355,OS73,closed,"Al Al Airport",32.7867,35.717,1214,AS,SY,SY-QU,,0,OS73,,OS73,,,,50,2015-12-28T23:29:57+00:00
+6341,OS59,small_airport,"Tabqa Airport",35.75469970703125,38.56679916381836,1050,AS,SY,SY-RA,,0,OS59,,OS59,,,,50,2008-06-13T14:30:04+00:00
+6339,OS57,medium_airport,"Abu ad Duhur Air Base",35.732200622558594,37.10419845581055,846,AS,SY,SY-HL,"Abu ad Duhur",0,,,,,,"OS57, Abu ad Duhor",50,2009-04-13T08:50:29+00:00
+6352,OS70,medium_airport,"Al Qusayr Air Base",34.56909942626953,36.57279968261719,1768,AS,SY,SY-HI,Al-Qusayr,0,,,,,,"OS70, القصير",50,2009-04-13T08:54:23+00:00
+6342,OS60,small_airport,"As Suwayda West Air Base",32.7052001953125,36.412899017333984,2460,AS,SY,SY-SU,"As Suwayda",0,,,,,,OS60,50,2009-08-27T17:11:50+00:00
+6353,OS71,small_airport,"Minakh Air Base",36.5215988159,37.04150009159999,1613,AS,SY,SY-HL,Azaz,0,,,,,http://en.wikipedia.org/wiki/Menagh_Military_Airbase,OS71,50,2013-11-17T01:56:27+00:00
+6345,OS63,small_airport,"Marj Ruhayyil Air Base",33.2864990234375,36.457401275634766,2190,AS,SY,SY-DI,"Marj Ruhayyil",0,OS63,,OS63,,,,50,2008-07-23T07:38:17+00:00
+6349,OS67,small_airport,"Mezzeh Airport",33.4775,36.2234,2407,AS,SY,SY-DI,Mezzeh,0,OS67,,OS67,,http://en.wikipedia.org/wiki/Mezzeh_Military_Airport,,50,2013-11-17T02:09:51+00:00
+6350,OS68,small_airport,"Saiqal Air Base",33.68239974975586,37.21390151977539,2300,AS,SY,SY-DI,Saiqal,0,OS68,,OS68,,,Sayqal,50,2008-07-23T08:02:17+00:00
+6347,OS65,small_airport,"Shayrat Air Base",34.490299,36.909004,2644,AS,SY,SY-HI,Shayrat,0,OS65,,OS65,,https://en.wikipedia.org/wiki/Shayrat_Air_Base,,50,2017-04-07T12:52:56+00:00
+35317,SY-0001,heliport,"Taftanaz Airbase",35.9720993042,36.7831001282,1031,AS,SY,SY-ID,Taftanaz,0,,,,,http://en.wikipedia.org/wiki/Taftanaz_Military_Airbase,"Afis Air Base",50,2013-11-17T11:30:45+00:00
+6354,OS72,small_airport,"Tiyas Air Base",34.5225982666,37.629901886,1805,AS,SY,SY-HI,Tiyas,0,,,,,,OS72,50,2009-09-17T13:47:46+00:00
+314636,SOR,small_airport,"Al Thaurah Airport",34.3905,40.1524,1278,AS,SY,SY-DY,"Al Thaurah",0,,SOR,,,,,0,2015-05-28T16:20:09+00:00
+309975,SY-0002,heliport,"Qabr al-Sitt Heliport",33.45873,36.3577,2148,AS,SY,SY-RD,"Beit Sahem",0,,,,,,,0,2013-11-17T01:15:29+00:00
+309976,SY-0003,heliport,"Marj al-Sultan Heliport (North)",33.50026,36.4671,2038,AS,SY,SY-RD,"Marj al-Sultan",0,,,,,,,0,2013-11-17T03:11:08+00:00
+309977,SY-0004,heliport,"Marj al-Sultan Heliport (South)",33.487116,36.475288,2037,AS,SY,SY-RD,"Marj al-Sultan",0,,,,,,,0,2013-11-17T03:16:34+00:00

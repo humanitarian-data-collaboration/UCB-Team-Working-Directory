@@ -1,0 +1,209 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3260,HTZA,large_airport,"Abeid Amani Karume International Airport",-6.22202,39.224899,54,AF,TZ,TZ-07,Zanzibar,1,HTZA,ZNZ,,,http://en.wikipedia.org/wiki/Zanzibar_International_Airport,"HTAK, Zanzibar Airport, Kiembi Samaki",875,2018-10-21T13:18:33+00:00
+3251,HTDA,large_airport,"Julius Nyerere International Airport",-6.87811,39.202599,182,AF,TZ,TZ-02,"Dar es Salaam",1,HTDA,DAR,,http://www.tanzaniairports.com/,http://en.wikipedia.org/wiki/Julius_Nyerere_International_Airport,"HTJN, Mwalimu Julius K. Nyerere, Dar es Salaam International Airport",1050,2017-07-11T20:22:11+00:00
+3254,HTKJ,medium_airport,"Kilimanjaro International Airport",-3.42940998077,37.0745010376,2932,AF,TZ,TZ-26,Arusha,1,HTKJ,JRO,,http://www.kilimanjaroairport.co.tz/,http://en.wikipedia.org/wiki/Kilimanjaro_International_Airport,,1050,2010-09-06T16:12:22+00:00
+3250,HTAR,medium_airport,"Arusha Airport",-3.3677899837493896,36.63330078125,4550,AF,TZ,TZ-01,Arusha,1,HTAR,ARK,,,http://en.wikipedia.org/wiki/Arusha_Airport,,800,2008-11-12T14:28:21+00:00
+3257,HTMW,medium_airport,"Mwanza Airport",-2.4444899559020996,32.932701110839844,3763,AF,TZ,TZ-18,Mwanza,1,HTMW,MWZ,,,http://en.wikipedia.org/wiki/Mwanza_Airport,,875,2008-11-12T14:29:10+00:00
+3258,HTPE,medium_airport,"Pemba Airport",-5.257259845733643,39.8114013671875,80,AF,TZ,TZ-25,Chake,0,HTPE,PMA,,,,,250,2008-11-12T14:29:21+00:00
+3253,HTIR,medium_airport,"Iringa Airport",-7.668630123138428,35.75210189819336,4678,AF,TZ,TZ-04,Nduli,0,HTIR,IRI,,,,,250,2008-11-12T14:28:27+00:00
+3252,HTDO,medium_airport,"Dodoma Airport",-6.170440196990967,35.752601623535156,3673,AF,TZ,TZ-03,Dodoma,0,HTDO,DOD,,,,,250,2008-11-12T14:28:27+00:00
+31881,HTMB,small_airport,"Mbeya Airport",-8.919444,33.463889,5600,AF,TZ,TZ-14,Mbeya,0,HTMB,,,,https://en.wikipedia.org/wiki/Mbeya_Airport,,50,2018-05-05T12:45:06+00:00
+32283,HTSN,small_airport,"Seronera Airport",-2.45806,34.822498,5080,AF,TZ,TZ-13,Seronera,0,HTSN,SEU,,,https://en.wikipedia.org/wiki/Seronera_Airstrip,,50,2018-05-09T06:29:10+00:00
+3256,HTMT,medium_airport,"Mtwara Airport",-10.339099884033203,40.181800842285156,371,AF,TZ,TZ-17,Mtwara,1,HTMT,MYW,,,http://en.wikipedia.org/wiki/Mtwara_Airport,,800,2008-11-12T14:29:08+00:00
+3259,HTTG,medium_airport,"Tanga Airport",-5.092360019683838,39.07120132446289,129,AF,TZ,TZ-25,Tanga,1,HTTG,TGT,,,http://en.wikipedia.org/wiki/Tanga_Airport,,800,2008-11-12T14:29:38+00:00
+30767,HTBU,small_airport,"Bukoba Airport",-1.332,31.8212,3784,AF,TZ,TZ-05,Bukoba,1,HTBU,BKZ,,,http://en.wikipedia.org/wiki/Bukoba_Airport,,450,2018-03-26T15:27:40+00:00
+32454,HTKA,small_airport,"Kigoma Airport",-4.8862,29.6709,2700,AF,TZ,TZ-08,Kigoma,1,HTKA,TKQ,,,http://en.wikipedia.org/wiki/Kigoma_Airport,,450,2011-10-06T19:44:36+00:00
+31801,HTLI,small_airport,"Lindi Airport",-9.85111,39.757801,100,AF,TZ,TZ-12,Lindi,1,HTLI,LDI,,,https://en.wikipedia.org/wiki/Lindi_Airport,"Kikwetu Airport",450,2018-09-15T16:30:16+00:00
+31972,HTMU,small_airport,"Musoma Airport",-1.503,33.8021,3806,AF,TZ,TZ-13,Musoma,1,HTMU,MUZ,,,http://en.wikipedia.org/wiki/Musoma_Airport,,450,2011-10-06T20:04:02+00:00
+32297,HTSY,small_airport,"Shinyanga Airport",-3.6093,33.5035,3800,AF,TZ,TZ-22,Shinyanga,1,HTSY,SHY,,,http://en.wikipedia.org/wiki/Shinyanga_Airport,,450,2011-10-06T19:55:01+00:00
+32426,HTTB,small_airport,"Tabora Airport",-5.076389789581299,32.83330154418945,3868,AF,TZ,TZ-24,Tabora,1,HTTB,TBO,,,,,450,2008-11-12T14:29:38+00:00
+3255,HTLM,medium_airport,"Lake Manyara Airport",-3.376310110092163,35.81829833984375,4150,AF,TZ,TZ-26,"Lake Manyara National Park",0,HTLM,LKY,,,,,250,2008-11-12T14:28:49+00:00
+42487,HTOL,small_airport,"Oltipesi Airport",-4.287732,36.616115,4668,AF,TZ,TZ-26,,0,HTOL,,,,,,50,2013-01-05T15:57:41+00:00
+31637,HTCH,small_airport,"Chunya Airport",-8.558318,33.436368,5000,AF,TZ,TZ-14,Chunya,0,HTCH,,,,,,50,2016-06-18T01:03:10+00:00
+42491,TZ-GIT,small_airport,"Mchauru Airport",-2.813667,32.172472,3955,AF,TZ,TZ-18,Geita,0,HTRU,GIT,,,,,50,2016-06-16T02:23:28+00:00
+42476,HTIY,small_airport,"Inyonga Airport",-6.719232,32.062657,3790,AF,TZ,TZ-20,Inyonga,0,HTIY,,,,,,50,2016-06-18T02:17:35+00:00
+42477,HTKB,small_airport,"Kibondo Airport",-3.525979995727539,30.650400161743164,4262,AF,TZ,TZ-08,Kibondo,0,HTKB,,,,,,50,2008-11-12T14:28:31+00:00
+31639,HTKT,small_airport,"Kilimatinde Airport",-5.831378,34.966387,3300,AF,TZ,TZ-23,Kilimatinde,0,HTKT,,,,,,50,2016-06-16T02:43:53+00:00
+42480,HTKS,small_airport,"Kilosa Airport",-6.864605,37.00845,1567,AF,TZ,TZ-16,Kilosa,0,HTKS,,,,,,50,2016-06-18T02:19:39+00:00
+31754,HTKI,small_airport,"Kilwa Masoko Airport",-8.91123,39.508619,50,AF,TZ,TZ-12,"Kilwa Masoko",0,HTKI,KIY,,,,,50,2016-06-18T02:04:04+00:00
+42479,HTKL,small_airport,"Kirondatal Airport",-4.312575,34.346453,5033,AF,TZ,TZ-23,Kirondatal,0,HTKL,,,,,,50,2016-06-18T02:13:43+00:00
+42478,HTKD,small_airport,"Kondoa Airport",-4.893710136413574,35.7682991027832,4578,AF,TZ,TZ-03,Kondoa,0,HTKD,,,,,,50,2008-11-12T14:28:32+00:00
+31638,HTKO,small_airport,"Kongwa Airport",-6.150000095367432,36.41699981689453,3300,AF,TZ,TZ-03,Kongwa,0,HTKO,,,,,,50,2008-11-12T14:28:39+00:00
+42482,HTLL,small_airport,"Liuli Airport",-11.116399765014648,34.652198791503906,1667,AF,TZ,TZ-21,Liuli,0,HTLL,,,,,,50,2008-11-12T14:28:47+00:00
+42481,HTLD,small_airport,"Loliondo Airport",-2.069689989089966,35.54570007324219,6620,AF,TZ,TZ-01,Loliondo,0,HTLD,,,,,,50,2008-11-12T14:28:43+00:00
+42492,TZ-LUY,small_airport,"Lushoto Airport",-4.783259868621826,38.30419921875,5360,AF,TZ,TZ-25,Lushoto,0,,LUY,,,,,50,2008-11-12T14:29:51+00:00
+31893,HTMA,small_airport,"Mafia Island Airport",-7.917478,39.668502,60,AF,TZ,TZ-19,"Mafia Island",0,HTMA,MFA,,,https://en.wikipedia.org/wiki/Mafia_Airport,,50,2018-05-09T06:13:27+00:00
+31647,HTSH,small_airport,"Mafinga Airport",-8.350000381469727,35.29999923706055,6300,AF,TZ,TZ-04,Mafinga,0,HTSH,,,,,,50,2008-11-12T14:29:27+00:00
+42485,HTML,small_airport,"Mahale Airstrip",-6.012913,29.766937,2561,AF,TZ,TZ-U-A,Mahale,0,HTML,,,,,,50,2016-02-17T19:49:39+00:00
+42494,TZ-0002,small_airport,"Manyoni North Airport",-5.72119,34.838487,4080,AF,TZ,TZ-23,Manyoni,0,,,,,,,50,2016-06-30T17:19:40+00:00
+32707,HTMI,small_airport,"Masasi Airport",-10.732999801635742,38.766998291015625,1700,AF,TZ,TZ-17,Masasi,0,HTMI,XMI,,,,,50,2008-11-12T14:29:00+00:00
+42495,TZ-0003,small_airport,"Mbinga Airport",-10.96399974822998,35.01179885864258,4335,AF,TZ,TZ-21,Mbinga,0,,,,,,,50,2008-11-12T14:29:54+00:00
+42484,HTMK,small_airport,"Mikumi Airport",-7.333427906036377,37.11635971069336,1737,AF,TZ,TZ-16,Mikumi,0,HTMK,,,,,,50,2008-11-12T14:29:01+00:00
+31641,HTMO,small_airport,"Mombo Airport",-4.882999897003174,38.28300094604492,1350,AF,TZ,TZ-25,Mombo,0,HTMO,,,,,,50,2008-11-12T14:29:04+00:00
+31640,HTMG,small_airport,"Morogoro Airport",-6.797220230102539,37.653099060058594,1676,AF,TZ,TZ-16,Morogoro,0,HTMG,,,,,,50,2008-11-12T14:28:58+00:00
+32194,HTMS,small_airport,"Moshi Airport",-3.3633298873901367,37.326900482177734,2801,AF,TZ,TZ-09,Moshi,0,HTMS,QSI,,,,,50,2008-11-12T14:29:08+00:00
+31642,HTMP,small_airport,"Mpanda Airport",-6.355374,31.084116,3520,AF,TZ,TZ-20,Mpanda,0,HTMP,,,,,,50,2016-06-18T02:16:42+00:00
+31643,HTMX,small_airport,"Mpwapwa Airport",-6.349999904632568,36.483001708984375,3240,AF,TZ,TZ-03,Mpwapwa,0,HTMX,,,,,,50,2008-11-12T14:29:12+00:00
+42493,TZ-0001,small_airport,"Mtera Airport",-7.097152,35.981575,2399,AF,TZ,TZ-03,Mtera,0,,,,,,,50,2016-06-16T03:21:21+00:00
+42483,HTMF,small_airport,"Mufindi Airport",-8.732040405273438,35.3026008605957,4175,AF,TZ,TZ-04,Mufindi,0,HTMF,,,,,,50,2008-11-12T14:28:56+00:00
+31979,HTMD,small_airport,"Mwadui Airport",-3.521332,33.615542,3970,AF,TZ,TZ-22,Mwadui,0,HTMD,MWN,,,,,50,2016-06-14T09:48:17+00:00
+32009,HTNA,small_airport,"Nachingwea Airport",-10.357500076293945,38.77920150756836,1400,AF,TZ,TZ-12,Nachingwea,0,HTNA,NCH,,,,,50,2008-11-12T14:29:14+00:00
+42486,HTNR,small_airport,"Ngara Airport",-2.541790008544922,30.703100204467773,5030,AF,TZ,TZ-05,Ngara,0,HTNR,,,,,,50,2008-11-12T14:29:17+00:00
+31708,HTNJ,small_airport,"Njombe Airport",-9.350000381469727,34.79999923706055,6400,AF,TZ,TZ-04,Njombe,0,HTNJ,JOM,,,,,50,2008-11-12T14:29:16+00:00
+31646,HTSE,small_airport,"Same Airport",-4.053634,37.789462,3000,AF,TZ,TZ-09,Same,0,HTSE,,,,https://en.wikipedia.org/wiki/Same_Airstrip,,50,2016-06-14T10:09:54+00:00
+31645,HTSD,small_airport,"Singida Airport",-4.810928,34.724762,5000,AF,TZ,TZ-23,Singida,0,HTSD,,,,,,50,2016-06-18T02:12:50+00:00
+32293,HTSO,small_airport,"Songea Airport",-10.682999610900879,35.58300018310547,3445,AF,TZ,TZ-21,Songea,0,HTSO,SGX,,,,,50,2008-11-12T14:29:31+00:00
+32392,HTSU,small_airport,"Sumbawanga Airport",-7.948889,31.610278,5960,AF,TZ,TZ-20,Sumbawanga,0,HTSU,SUT,,,https://en.wikipedia.org/wiki/Sumbawanga_Airport,,50,2016-05-31T15:49:20+00:00
+31648,HTTU,small_airport,"Tunduru Airport",-11.100000381469727,37.367000579833984,2200,AF,TZ,TZ-21,Tunduru,0,HTTU,,,,,,50,2008-11-12T14:29:40+00:00
+42496,TZ-0004,small_airport,"Tura Airport",-5.4892401695251465,33.87820053100586,4216,AF,TZ,TZ-24,Tura,0,,,,,,,50,2008-11-12T14:29:55+00:00
+42488,HTUK,small_airport,"Nansio Airport",-2.043529987335205,33.06439971923828,4010,AF,TZ,TZ-13,Ukerewe,0,HTUK,,,,,,50,2008-11-12T14:29:41+00:00
+31649,HTUR,small_airport,"Urambo Airport",-5.075635,32.079868,3600,AF,TZ,TZ-24,Urambo,0,HTUR,,,,,,50,2016-06-18T02:18:05+00:00
+42489,HTUT,small_airport,"Utete Airport",-8.002579689025879,38.76169967651367,208,AF,TZ,TZ-19,Utete,0,HTUT,,,,,,50,2008-11-12T14:29:44+00:00
+42490,HTUV,small_airport,"Uvinza Airport",-5.090771,30.406772,563,AF,TZ,TZ-08,Uvinza,0,HTUV,,,,,,50,2016-06-18T02:05:08+00:00
+31650,HTWK,small_airport,"West Kilimanjaro Airport",-3.049999952316284,37,4300,AF,TZ,TZ-09,"West Kilimanjaro",0,HTWK,,,,,,50,2008-11-12T14:29:47+00:00
+318630,TZ-0069,small_airport,"Kagera Sugar Airport",-1.233641,31.327325,3830,AF,TZ,TZ-05,,0,,,,,,,0,2016-06-16T02:38:53+00:00
+318680,TZ-0118,small_airport,"TPC Airport",-3.500144,37.323855,2300,AF,TZ,TZ-09,,0,,,,,,,0,2016-06-16T03:38:40+00:00
+318573,TZ-0016,small_airport,"Sasakwa Airport",-2.073124,34.510235,4301,AF,TZ,TZ-13,,0,,,,,,,0,2016-06-16T03:35:40+00:00
+318673,TZ-0111,small_airport,"North Mara Airport",-1.425761,34.543508,4428,AF,TZ,TZ-13,,0,,,,,,,0,2016-06-16T03:30:52+00:00
+318781,TZ-0123,small_airport,"Klein's Camp Airport",-1.775438,35.278282,6300,AF,TZ,TZ-13,,0,HTKC,,,,,,0,2016-06-18T02:02:00+00:00
+318782,TZ-0124,small_airport,"Lamai Airport",-1.561738,34.702039,4410,AF,TZ,TZ-13,,0,,,,,,,0,2016-06-16T02:50:06+00:00
+318779,TZ-0121,small_airport,"Bushman Airstrip",-9.17479,35.966534,1021,AF,TZ,TZ-16,,0,,,,,,,0,2016-06-16T02:30:30+00:00
+318921,TZ-0142,small_airport,"Sumbazi Airport",-7.884957,37.678091,750,AF,TZ,TZ-16,,0,,,,,,,0,2016-06-19T18:40:02+00:00
+318920,TZ-0141,small_airport,"Stieglers Gorge Airport",-7.820084,37.87828,600,AF,TZ,TZ-19,,0,,,,,,,0,2016-06-19T18:39:10+00:00
+318576,TZ-0019,closed,"Lamai Airport",-2.269407,34.023569,,AF,TZ,TZ-22,,0,,,,,,,0,2016-06-14T04:37:52+00:00
+318617,TZ-0056,small_airport,"Alliance Airstrip",-2.602346,33.676018,3800,AF,TZ,TZ-22,,0,,,,,,,0,2016-06-16T02:27:02+00:00
+318622,TZ-0061,small_airport,"Golden Pride Mines Airport",-4.080354,33.160212,3789,AF,TZ,TZ-24,,0,HTGP,,,,,,0,2016-06-19T01:08:35+00:00
+318796,TZ-0138,small_airport,"Kasense Airport",-5.784903,31.355212,3000,AF,TZ,TZ-24,,0,HTKN,,,,,,0,2016-06-20T02:58:51+00:00
+318793,TZ-0135,small_airport,"Olemilei Airport",-2.40866,35.627164,6000,AF,TZ,TZ-01,Arash,0,,,,,,,0,2016-06-16T03:32:19+00:00
+318794,TZ-0136,small_airport,"Sanzale Airport",-6.471723,38.880082,47,AF,TZ,TZ-19,Bagamoyo,0,HTXX,,,,,,0,2016-06-18T02:11:21+00:00
+318589,TZ-0030,small_airport,"Beho Beho Airstrip",-7.666746,37.927229,393,AF,TZ,TZ-19,"Beho Beho",0,HTBO,,,,,,0,2018-07-28T02:43:09+00:00
+318566,TZ-0009,small_airport,"Biharamulo Airport",-2.663273,31.36515,4723,AF,TZ,TZ-05,Biharamulo,0,HTBH,,,,,,0,2016-06-18T02:02:50+00:00
+318618,TZ-0057,small_airport,"Birise Airport",-5.428612,35.166079,4250,AF,TZ,TZ-23,Birise,0,,,,,,,0,2016-06-16T02:27:37+00:00
+318590,TZ-0031,small_airport,"Boma Ulanga Airstrip",-8.188467,36.91211,,AF,TZ,TZ-16,"Boma Ulanga",0,,,,,,,0,2016-06-14T06:12:05+00:00
+318619,TZ-0058,small_airport,"Bulyanhulu Airport",-3.2292,32.473316,3944,AF,TZ,TZ-22,Bubada,0,HTBN,,,,,,0,2016-06-18T02:07:15+00:00
+318659,TZ-0097,small_airport,"Buhemba Airport",-1.774223,34.098139,4534,AF,TZ,TZ-18,Buhemba,0,,,,,,,0,2016-06-16T02:26:37+00:00
+318870,TZ-0140,small_airport,"Buckreef Airport",-3.095158,32.019562,4017,AF,TZ,TZ-18,Buseresere,0,,,,,,,0,2016-06-17T14:01:16+00:00
+318591,TZ-0032,small_airport,"Buturi Airport",-3.199844,34.436504,4730,AF,TZ,TZ-22,Buturi,0,,,,,,,0,2016-06-16T02:28:59+00:00
+318620,TZ-0059,small_airport,"Chidudu Airport",-6.565131,35.1737,3670,AF,TZ,TZ-23,Chidudu,0,,,,,,,0,2016-06-16T02:29:19+00:00
+318643,TZ-0082,small_airport,"Lualanje Airport",-7.918083,33.552315,,AF,TZ,TZ-14,Chunya,0,,,,,,,0,2016-06-14T09:08:04+00:00
+318645,TZ-0084,small_airport,"Lukwati Airport",-7.599608,32.3072,4000,AF,TZ,TZ-14,Chunya,0,,,,,,,0,2016-06-16T02:56:09+00:00
+318674,TZ-0112,small_airport,"Piti Airport",-7.20467,32.925773,3300,AF,TZ,TZ-14,Chunya,0,,,,,,,0,2016-06-16T03:35:07+00:00
+318621,TZ-0060,small_airport,"Endanyawish Airport",-3.711702,35.270623,4350,AF,TZ,TZ-01,Endanyawish,0,,,,,,,0,2016-06-16T02:30:46+00:00
+318927,HTEN,small_airport,"Endulen Airport",-3.194243,35.26315,5442,AF,TZ,TZ-01,Endulen,0,HTEN,,,,,,0,2016-06-20T02:44:53+00:00
+318583,TZ-0026,small_airport,"Fort Ikoma Airport",-2.080103,34.62952,4412,AF,TZ,TZ-13,"Fort Ikoma",0,HTFI,,,,,,0,2016-06-19T00:56:30+00:00
+318780,TZ-0122,small_airport,"Gelai East Airport",-2.476768,36.25761,3200,AF,TZ,TZ-01,Gelai,0,,,,,,,0,2016-06-16T02:32:24+00:00
+318623,TZ-0062,small_airport,"Gorimba Airport",-4.837753,35.366121,4660,AF,TZ,TZ-26,Gorimba,0,,,,,,,0,2016-06-16T02:31:21+00:00
+300757,GTZ,small_airport,"Kirawira B Aerodrome",-2.160833,34.225556,3970,AF,TZ,TZ-13,"Grumeti Game Reserve",0,HTGR,GTZ,,,,"Serengeti National Park",0,2016-06-20T02:45:37+00:00
+318624,TZ-0063,small_airport,"Gua Airport",-7.868375,32.48466,,AF,TZ,TZ-14,Gua,0,,,,,,,0,2016-06-14T08:33:23+00:00
+318627,TZ-0066,small_airport,"Haidom Airport",-4.198626,35.018655,5750,AF,TZ,TZ-26,Haidom,0,HTHY,,,,,,0,2016-06-18T18:02:14+00:00
+318625,TZ-0064,small_airport,"Handa Airport",-4.954854,35.323672,4150,AF,TZ,TZ-23,Handa,0,,,,,,,0,2016-06-16T02:35:50+00:00
+318626,TZ-0065,small_airport,"Harbanget Airport",-3.868369,35.396409,5500,AF,TZ,TZ-26,Harbanget,0,,,,,,,0,2016-06-16T02:35:58+00:00
+318628,TZ-0067,small_airport,"Ibanda Airport",-1.074975,30.51758,4300,AF,TZ,TZ-05,Ibanda,0,,,,,,,0,2016-06-16T02:36:32+00:00
+318592,TZ-0033,small_airport,"Fish Eagle Airport",-4.805057,31.276613,3300,AF,TZ,TZ-08,Ibolero,0,HTFE,,,,,,0,2016-06-18T01:59:58+00:00
+318569,TZ-0012,small_airport,"Ifakara Airport",-8.064876,36.698112,,AF,TZ,TZ-16,Ifakara,0,,,,,,,0,2016-06-14T04:10:17+00:00
+318664,TZ-0102,small_airport,"Mngeta Airport",-8.364091,36.103211,,AF,TZ,TZ-16,Ifakara,0,,,,,,,0,2016-06-14T09:37:44+00:00
+318629,TZ-0068,small_airport,"Ifunda Farm Airstrip",-8.070735,35.432556,5744,AF,TZ,TZ-04,Ifunda,0,,,,,,,0,2016-06-16T02:36:57+00:00
+318633,TZ-0072,small_airport,"Ihanda Airstrip",-1.552361,31.104871,4900,AF,TZ,TZ-05,Ihanda,0,,,,,,,0,2016-06-16T02:40:51+00:00
+318572,TZ-0015,small_airport,"Iku Airport",-6.908626,31.166407,,AF,TZ,TZ-20,Iku,0,,,,,,,0,2016-06-14T04:20:51+00:00
+318593,TZ-0034,small_airport,"Isanga Airport",-7.527162,33.884071,,AF,TZ,TZ-23,Isanga,0,,,,,,,0,2016-06-14T06:28:16+00:00
+318574,TZ-0017,small_airport,"Jongomeru Airport",-7.894934,34.580821,3000,AF,TZ,TZ-14,Jongomeru,0,,,,,,,0,2016-06-19T10:25:59+00:00
+318631,TZ-0070,small_airport,"Kapalagulu Airport",-5.904938,30.082868,3500,AF,TZ,TZ-08,Kapalagulu,0,,,,,,,0,2016-06-16T02:39:13+00:00
+300760,TZ-0006,small_airport,"Kasulu Airport",-4.549167,30.102222,4175,AF,TZ,TZ-08,Kasulu,0,HTKU,,,,,,0,2016-06-18T02:05:29+00:00
+318634,TZ-0073,small_airport,"Kibebe Airport",-7.797941,35.762345,4725,AF,TZ,TZ-04,Kibebe,0,,,,,,,0,2016-06-16T02:42:10+00:00
+318635,TZ-0074,small_airport,"Kibidula Airport",-8.412202,35.094073,6281,AF,TZ,TZ-04,Kibidula,0,,,,,,,0,2016-06-16T02:42:57+00:00
+318637,TZ-0076,small_airport,"Kilombero Airport",-7.687751,36.986496,984,AF,TZ,TZ-16,Kidatu,0,,,,,,,0,2016-06-16T02:44:02+00:00
+318646,TZ-0085,small_airport,"Maboxi Airport",-8.391651,37.168761,,AF,TZ,TZ-16,Kidatu,0,,,,,,,0,2016-06-14T09:15:31+00:00
+318594,TZ-0035,small_airport,"Kifura Airstrip",-3.838092,30.640202,,AF,TZ,TZ-08,Kifura,0,,,,,,,0,2016-06-14T06:35:01+00:00
+318636,TZ-0075,small_airport,"Kihansi Airport",-8.653119,35.865055,957,AF,TZ,TZ-04,Kihansi,0,,,,,,,0,2016-06-16T02:43:06+00:00
+318595,TZ-0036,small_airport,"Kihurumila Airport",-9.0411,38.273756,,AF,TZ,TZ-12,Kihurumila,0,,,,,,,0,2016-06-14T06:37:08+00:00
+318638,TZ-0077,small_airport,"Kilumbi Airport",-6.32536,34.173759,4540,AF,TZ,TZ-23,Kilumbi,0,,,,,,,0,2016-06-16T02:44:11+00:00
+318639,TZ-0078,small_airport,"Kishoshoroni Airport",-2.015174,35.273109,6100,AF,TZ,TZ-13,Kishoshoroni,0,,,,,,,0,2016-06-16T02:44:20+00:00
+318640,TZ-0079,small_airport,"Kitumbeine Airport",-2.820447,36.323156,,AF,TZ,TZ-01,Kitumbeine,0,,,,,,,0,2016-06-14T09:01:40+00:00
+318575,TZ-0018,small_airport,"Kogatende Airstrip",-1.568396,34.886933,,AF,TZ,TZ-13,Kogatende,0,,,,,,,0,2016-06-14T04:39:22+00:00
+318584,TZ-0027,small_airport,"Kuro Airport",-4.007918,36.076105,,AF,TZ,TZ-26,Kuro,0,,,,,,,0,2016-06-14T05:23:19+00:00
+308201,HTAG,small_airport,"Amani Gomvu Airport",-6.957292,39.505588,114,AF,TZ,TZ-02,Kutani,0,HTAG,,,,,,0,2016-06-14T08:19:21+00:00
+318641,TZ-0080,small_airport,"Kwajoni Airport",-5.512166,38.965097,15,AF,TZ,TZ-25,Kwajoni,0,,,,,,,0,2016-06-16T02:47:09+00:00
+318568,TZ-0011,small_airport,"Liwale Airport",-9.796886,37.870732,,AF,TZ,TZ-12,Liwale,0,,,,,,,0,2016-06-14T04:08:34+00:00
+318647,TZ-0086,small_airport,"Madaba Airport",-8.643293,37.673992,1040,AF,TZ,TZ-21,Liwale,0,,,,,,,0,2016-06-16T02:58:32+00:00
+318577,TZ-0020,small_airport,"Lobo Airstrip",-2.009865,35.159105,5500,AF,TZ,TZ-13,Lobo,0,,,,,,,0,2016-07-01T00:02:08+00:00
+318661,TZ-0099,small_airport,"Merugoi Airport",-2.723808,36.135783,3700,AF,TZ,TZ-01,Longido,0,,,,,,,0,2016-06-16T03:03:45+00:00
+318783,TZ-0125,small_airport,"Lugala Airport",-8.916494,36.126593,943,AF,TZ,TZ-16,Lugala,0,,,,,,,0,2016-06-16T02:55:50+00:00
+318596,TZ-0037,small_airport,"Luhanyando Airoprt",-9.447883,36.848932,,AF,TZ,TZ-16,Luhanyando,0,,,,,,,0,2016-06-14T06:46:28+00:00
+318784,TZ-0126,small_airport,"Luwegu Airport",-9.022345,37.289976,500,AF,TZ,TZ-16,Luwegu,0,,,,,,,0,2016-06-16T02:56:56+00:00
+318785,TZ-0127,small_airport,"Lwafi Airport",-6.982929,30.894894,3600,AF,TZ,TZ-20,Lwafi,0,,,,,,,0,2016-06-16T02:58:22+00:00
+318588,TZ-0029,small_airport,"Magangwe Airport",-7.719942,34.226726,,AF,TZ,TZ-14,Magangwe,0,,,,,,,0,2016-06-14T06:06:14+00:00
+318648,TZ-0087,small_airport,"Mahaka Airport",-6.135581,35.049797,2740,AF,TZ,TZ-03,Mahaka,0,,,,,,,0,2016-06-16T02:58:41+00:00
+318649,TZ-0088,small_airport,"Makau Airport",-3.367409,34.824166,5131,AF,TZ,TZ-22,Makau,0,,,,,,,0,2016-06-16T02:58:49+00:00
+318786,TZ-0128,small_airport,"Makwasa Airport",-6.817874,34.218918,4000,AF,TZ,TZ-23,Makwasa,0,,,,,,,0,2016-06-16T02:59:55+00:00
+318651,TZ-0089,small_airport,"Malagarasi Airport",-4.793813,30.712949,3819,AF,TZ,TZ-08,Malagarasi,0,,,,,,,0,2016-06-16T03:00:06+00:00
+318652,TZ-0090,small_airport,"Mamarehe Airport",-2.657814,34.394518,4750,AF,TZ,TZ-22,Mamarehe,0,,,,,,,0,2016-06-16T03:00:13+00:00
+318597,TZ-0038,closed,"Manane Airport",-8.206858,36.959834,,AF,TZ,TZ-16,Manane,0,,,,,,,0,2016-06-14T06:50:48+00:00
+318567,TZ-0010,small_airport,"Manyoni Airport",-5.758501,34.799656,4084,AF,TZ,TZ-23,Manyoni,0,HTMN,,,,,,0,2016-06-30T17:17:30+00:00
+318787,TZ-0129,small_airport,"Masusu Airport",-2.272545,35.808636,4000,AF,TZ,TZ-01,Masusu,0,,,,,,,0,2016-06-16T03:01:42+00:00
+318658,TZ-0096,small_airport,"Mbono 2 Airport",-3.11141,34.660824,5320,AF,TZ,TZ-22,Maswa,0,,,,,,,0,2016-06-16T03:02:54+00:00
+318598,TZ-0039,small_airport,"Matambwe Airport",-7.528887,37.76201,585,AF,TZ,TZ-16,Matambwe,0,HTME,,,,,,0,2018-07-28T05:21:44+00:00
+318599,TZ-0040,closed,"Matambwe Old Airport",-7.535478,37.776384,,AF,TZ,TZ-16,Matambwe,0,,,,,,,0,2016-06-14T06:53:52+00:00
+318655,TZ-0093,small_airport,"Matemanga Airport",-10.763142,36.953222,2700,AF,TZ,TZ-21,Matemanga,0,,,,,,,0,2016-06-16T03:02:10+00:00
+318656,TZ-0094,small_airport,"Matipwili Airport",-6.248936,38.678104,85,AF,TZ,TZ-19,Matipwili,0,,,,,,,0,2016-06-16T03:02:18+00:00
+318797,TZ-0139,small_airport,"Mawemeru Airport",-3.111222,32.21536,4000,AF,TZ,TZ-18,Mawemeru,0,,,,,,,0,2016-06-17T13:58:30+00:00
+318571,TZ-0014,small_airport,"Mbamba Bay Airport",-11.303451,34.842717,,AF,TZ,TZ-21,"Mbamba Bay",0,,,,,,,0,2016-06-14T04:15:42+00:00
+318657,TZ-0095,small_airport,"Mbarali Airport",-8.656494,34.273113,3432,AF,TZ,TZ-14,Mbarali,0,,,,,,,0,2016-06-16T03:02:26+00:00
+308203,HTBS,small_airport,"Mbesa Airport",-11.331675,37.067816,1980,AF,TZ,TZ-21,"Mbesa Mission",0,HTBS,,,,,,0,2013-01-05T13:30:06+00:00
+318875,HTGW,medium_airport,"Songwe Airport",-8.919942,33.273981,4412,AF,TZ,TZ-14,Mbeya,1,HTGW,MBI,,,https://en.wikipedia.org/wiki/Songwe_Airport,,0,2018-05-05T12:43:28+00:00
+318682,TZ-0120,small_airport,"Yaeda Airport",-3.961546,35.144932,,AF,TZ,TZ-26,Mbulu,0,,,,,,,0,2016-06-14T10:07:00+00:00
+318600,TZ-0041,small_airport,"Mbunga Airport",-8.978724,36.869154,,AF,TZ,TZ-16,Mbunga,0,,,,,,,0,2016-06-14T06:59:37+00:00
+318788,TZ-0130,small_airport,"Mikindani Airport",-10.256118,40.093869,136,AF,TZ,TZ-17,Mikindani,0,,,,,,,0,2016-06-16T03:07:44+00:00
+318603,TZ-0042,small_airport,"Mkangira Airport",-8.958151,37.338793,,AF,TZ,TZ-16,Mkangira,0,,,,,,,0,2016-06-14T07:30:53+00:00
+318604,TZ-0043,small_airport,"Mkomazi-Kisima Airport",-4.079592,38.086684,,AF,TZ,TZ-01,Mkomazi,0,,,,,,,0,2016-06-14T07:32:30+00:00
+318605,TZ-0044,small_airport,"Mkuyu Airport",-9.966951,36.878941,,AF,TZ,TZ-12,Mkuyu,0,,,,,,,0,2016-06-14T07:39:17+00:00
+318570,TZ-0013,small_airport,"Mkwaja Airport",-5.719283,38.828465,,AF,TZ,TZ-05,Mkwaja,0,,,,,,,0,2016-06-14T04:13:51+00:00
+318662,TZ-0100,small_airport,"Mlambala Airport",-7.233234,32.063351,3278,AF,TZ,TZ-20,Mlambala,0,,,,,,,0,2016-06-16T03:07:54+00:00
+318663,TZ-0101,small_airport,"Mlele Ram Airport",-6.784087,31.367951,3300,AF,TZ,TZ-20,Mlele,0,,,,,,,0,2016-06-16T02:38:39+00:00
+318789,TZ-0131,small_airport,"Mlele Airport",-7.119408,31.839151,3500,AF,TZ,TZ-20,Mlele,0,,,,,,,0,2016-06-16T03:09:17+00:00
+318606,TZ-0045,small_airport,"Mlembwe Airport",-9.426932,37.519672,,AF,TZ,TZ-12,Mlembwe,0,,,,,,,0,2016-06-14T07:41:30+00:00
+318681,TZ-0119,small_airport,"Wosiwosi Airport",-2.402902,36.120142,,AF,TZ,TZ-U-A,Monduli,0,,,,,,,0,2016-06-14T10:06:08+00:00
+318665,TZ-0103,small_airport,"Mountain Side Airport",-2.878109,37.135211,6200,AF,TZ,TZ-09,Moshi,0,,,,,,,0,2016-06-16T03:19:40+00:00
+318644,TZ-0083,small_airport,"Lugonesi Airport",-6.15954,30.298705,5200,AF,TZ,TZ-20,Mpanda,0,,,,,,,0,2016-06-16T02:56:01+00:00
+318578,TZ-0021,small_airport,"Mpululu Airport",-7.042659,34.724101,,AF,TZ,TZ-04,Mpululu,0,,,,,,,0,2016-06-14T04:46:56+00:00
+318607,TZ-0046,small_airport,"Mpunde Airport",-6.259359,33.619996,,AF,TZ,TZ-24,Mpunde,0,,,,,,,0,2016-06-14T07:44:28+00:00
+318585,TZ-0028,small_airport,"Msembe Airport",-7.684811,34.922282,2500,AF,TZ,TZ-04,Msembe,0,HTMR,,,,https://en.wikipedia.org/wiki/Msembe_Airstrip,,0,2016-06-19T10:15:41+00:00
+318666,TZ-0104,small_airport,"Msima 1 Airport",-6.339313,31.849913,3710,AF,TZ,TZ-20,Msima,0,,,,,,,0,2016-06-16T03:20:50+00:00
+318667,TZ-0105,small_airport,"Msima 2 Airport",-5.839096,31.459827,3600,AF,TZ,TZ-20,Msima,0,,,,,,,0,2016-06-16T03:21:04+00:00
+318608,TZ-0047,small_airport,"Mtemaupinde Airport",-11.206844,38.162974,,AF,TZ,TZ-17,Mtemaupinde,0,,,,,,,0,2016-06-14T07:47:06+00:00
+318609,TZ-0048,small_airport,"Mtemere Airport",-7.750093,38.208474,216,AF,TZ,TZ-19,Mtemere,0,,,,,https://en.wikipedia.org/wiki/Mtemere_Airstrip,,0,2018-07-28T02:45:43+00:00
+318790,TZ-0132,small_airport,"Mugumu Airport",-1.870455,34.645517,5172,AF,TZ,TZ-13,Mugumu,0,,,,,,,0,2016-06-16T03:23:02+00:00
+318669,TZ-0107,small_airport,"Muhesi Airport",-6.139352,34.464442,4300,AF,TZ,TZ-23,Muhesi,0,,,,,,,0,2016-06-16T03:09:29+00:00
+318610,TZ-0049,small_airport,"Muhuba Airport",-5.770289,31.721521,,AF,TZ,TZ-20,Muhuba,0,,,,,,,0,2016-06-14T07:54:42+00:00
+318670,TZ-0108,small_airport,"Murungu Airport",-4.185382,31.293522,3300,AF,TZ,TZ-08,Murungu,0,,,,,,,0,2016-06-16T03:23:38+00:00
+318668,TZ-0106,small_airport,"Mtibwa Airport",-6.148889,37.661551,1234,AF,TZ,TZ-16,Mvomero,0,,,,,,,0,2016-06-16T03:21:32+00:00
+300759,TZ-0005,small_airport,"Mvumi Airport",-6.376389,35.898611,3445,AF,TZ,TZ-03,Mvumi,0,HTMV,,,,,,0,2016-06-18T02:07:56+00:00
+318611,TZ-0050,small_airport,"Mwambesi Airport",-11.61227,37.564572,1000,AF,TZ,TZ-21,Mwambesi,0,,,,,,Mwambezi,0,2016-06-16T03:26:43+00:00
+318581,TZ-0024,small_airport,"Ndutu Airport",-3.030715,34.988468,5353,AF,TZ,TZ-01,Ndutu,0,,,,,,,0,2016-06-16T03:26:54+00:00
+318672,TZ-0110,small_airport,"Ng'Wazi Airport",-8.522635,35.179545,6040,AF,TZ,TZ-04,Ng'Wazi,0,,,,,,,0,2016-06-16T03:27:12+00:00
+318775,HTNG,small_airport,"Ngerengere Air Force Base",-6.717083,38.153944,738,AF,TZ,TZ-16,Ngerengere,0,HTNG,,,http://www.tpdf.mil.tz/,https://en.wikipedia.org/wiki/Ngerengere_Air_Force_Base,,0,2016-06-15T12:17:55+00:00
+318616,TZ-0055,small_airport,"Ngorongoro Airport",-3.221398,35.476965,7795,AF,TZ,TZ-01,Ngorongoro,0,,,,,,,0,2016-06-16T03:27:01+00:00
+318791,TZ-0133,small_airport,"Nkinga Airport",-4.425665,33.450677,4000,AF,TZ,TZ-24,Nkinga,0,,,,,,,0,2016-06-16T03:29:09+00:00
+318792,TZ-0134,small_airport,"Nkoname Airport",-6.918093,34.871684,3600,AF,TZ,TZ-23,Nkoname,0,,,,,,,0,2016-06-16T03:30:32+00:00
+318565,TZ-0008,small_airport,"Maswa Airstrip",-3.186741,33.792056,4196,AF,TZ,TZ-22,Nyalikungu,0,HTMC,,,,,,0,2016-06-30T16:23:36+00:00
+318653,TZ-0091,small_airport,"Mashado Airport",-5.470712,38.955266,200,AF,TZ,TZ-25,Pangani,0,,,,,,,0,2016-06-16T03:00:19+00:00
+318675,TZ-0113,small_airport,"Ras Kutani Airport",-6.93512,39.492977,144,AF,TZ,TZ-02,"Ras Kutani",0,,,,,,,0,2016-06-16T03:35:21+00:00
+318580,TZ-0023,small_airport,"Rubondo Airport",-2.30078,31.849455,,AF,TZ,TZ-05,"Rubondo Island",0,,,,,,,0,2016-06-14T05:13:02+00:00
+318660,TZ-0098,small_airport,"Mchukwi Rufiji Airport",-7.772857,39.019695,450,AF,TZ,TZ-19,Rufiji,0,,,,,,,0,2016-06-16T03:03:38+00:00
+318676,TZ-0114,small_airport,"Rungwa River Airport",-7.107139,32.481492,3565,AF,TZ,TZ-20,Rungwa,0,,,,,,,0,2016-06-16T03:35:33+00:00
+318612,TZ-0051,small_airport,"Rungwa Airport",-6.935716,33.530089,4110,AF,TZ,TZ-23,Rungwa,0,,,,,,,0,2016-06-16T03:24:57+00:00
+318654,TZ-0092,small_airport,"Masimba Airport",-7.267927,34.218247,,AF,TZ,TZ-23,Rungwa,0,,,,,,,0,2016-06-14T09:24:03+00:00
+318613,TZ-0052,small_airport,"Saadani Airport",-6.030896,38.770264,,AF,TZ,TZ-19,Saadani,0,,,,,,,0,2016-06-14T08:07:28+00:00
+308202,HTBB,small_airport,"Kibambawe Airstrip",-7.748241,38.001833,485,AF,TZ,TZ-19,"Selous Game Reserve",0,HTBB,,,,,,0,2013-01-05T12:04:12+00:00
+318677,TZ-0115,small_airport,"Shama Airport",-6.322146,32.562788,3650,AF,TZ,TZ-20,Shama,0,,,,,,,0,2016-06-16T03:37:01+00:00
+318795,TZ-0137,small_airport,"Sikonge Airport",-5.627718,32.762082,3600,AF,TZ,TZ-24,Sikonge,0,,,,,,,0,2016-06-16T03:37:59+00:00
+318671,TZ-0109,small_airport,"Naibormut Airport",-4.469807,36.669798,,AF,TZ,TZ-01,Simanjiro,0,,,,,,,0,2016-06-14T09:49:00+00:00
+318642,TZ-0081,small_airport,"Lolmorijoi Airport",-4.549415,37.024381,3800,AF,TZ,TZ-26,Simanjiro,0,,,,,,,0,2016-06-16T02:54:46+00:00
+318614,TZ-0053,small_airport,"Sire Airport",-5.713026,31.83135,,AF,TZ,TZ-20,Sire,0,,,,,,,0,2016-06-14T08:10:12+00:00
+318582,TZ-0025,small_airport,"Sitalike Airport",-6.631518,31.135481,,AF,TZ,TZ-20,Sitalike,0,,,,,,,0,2016-06-14T05:19:39+00:00
+318615,TZ-0054,small_airport,"Siwandu Airport",-7.6847,38.136731,195,AF,TZ,TZ-19,Siwandu,0,HTZW,,,,,,0,2018-07-28T03:41:10+00:00
+318678,TZ-0116,small_airport,"Songo Songo Airstrip",-8.528092,39.506976,24,AF,TZ,TZ-12,"Songo Songo Island",0,,,,,https://en.wikipedia.org/wiki/Songo_Songo_Airstrip,,0,2016-06-16T03:38:15+00:00
+318632,TZ-0071,small_airport,"Kapenta Airport",-8.357716,32.103045,2810,AF,TZ,TZ-20,Sumbawanga,0,,,,,,,0,2016-06-16T02:40:42+00:00
+318579,TZ-0022,small_airport,"Tarangire 2 Airport",-3.761121,36.027171,,AF,TZ,TZ-01,Tarangire,0,,,,,,,0,2016-06-14T04:55:14+00:00
+318679,TZ-0117,small_airport,"Tarime Airport",-1.293878,34.420428,4830,AF,TZ,TZ-13,Tarime,0,,,,,,,0,2016-06-16T03:38:24+00:00
+318563,TZ-0007,small_airport,"Tulawaka Gold Mine Airstrip",-3.210604,31.546516,3944,AF,TZ,TZ-05,Uyovu,0,,,,,,,0,2016-06-16T03:38:50+00:00

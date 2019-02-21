@@ -1,0 +1,129 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2863,FBMN,medium_airport,"Maun Airport",-19.97260093688965,23.431100845336914,3093,AF,BW,BW-NW,Maun,1,FBMN,MUB,,,http://en.wikipedia.org/wiki/Maun_Airport,,875,2009-07-20T13:28:35+00:00
+2864,FBSK,large_airport,"Sir Seretse Khama International Airport",-24.555201,25.9182,3299,AF,BW,BW-SE,Gaborone,1,FBSK,GBE,,,http://en.wikipedia.org/wiki/Sir_Seretse_Khama_International_Airport,,875,2019-01-13T13:20:03+00:00
+2862,FBKE,medium_airport,"Kasane Airport",-17.83289909362793,25.162399291992188,3289,AF,BW,BW-NW,Kasane,1,FBKE,BBK,,,http://en.wikipedia.org/wiki/Kasane_Airport,,875,2008-10-03T15:54:51+00:00
+2860,FBFT,medium_airport,"Francistown Airport",-21.15959930419922,27.47450065612793,3283,AF,BW,BW-NE,Francistown,1,FBFT,FRW,,,http://en.wikipedia.org/wiki/Francistown_Airport,,875,2008-10-04T09:10:09+00:00
+29891,FBGZ,small_airport,"Ghanzi Airport",-21.6924991607666,21.658100128173828,3730,AF,BW,BW-GH,Ghanzi,1,FBGZ,GNZ,,,http://en.wikipedia.org/wiki/Ghanzi_Airport,,450,2008-10-04T09:12:26+00:00
+2865,FBSN,medium_airport,"Sua Pan Airport",-20.5534,26.115801,2985,AF,BW,BW-CE,Sowa,0,FBSN,SXN,,,https://en.wikipedia.org/wiki/Sua_Pan_Airport,,250,2016-04-16T21:51:21+00:00
+2866,FBSP,medium_airport,"Selebi Phikwe Airport",-22.0583,27.8288,2925,AF,BW,BW-CE,,1,FBSP,PKW,,,http://en.wikipedia.org/wiki/Selebi-Phikwe_Airport,,875,2016-04-16T21:39:35+00:00
+2861,FBJW,medium_airport,"Jwaneng Airport",-24.6023006439209,24.69099998474121,3900,AF,BW,BW-SO,,1,FBJW,JWA,,,http://en.wikipedia.org/wiki/Jwaneng_Airport,,800,2008-08-03T11:28:35+00:00
+30218,FBOR,small_airport,"Orapa Airport",-21.266701,25.3167,3100,AF,BW,BW-CE,Orapa,1,FBOR,ORP,,,https://en.wikipedia.org/wiki/Orapa_Airport,,450,2018-09-16T04:22:54+00:00
+30411,FBSW,small_airport,"Shakawe Airport",-18.373899459838867,21.832599639892578,3379,AF,BW,BW-NW,Shakawe,1,FBSW,SWX,,http://www.dca.gov.bw/index.php?sectid=248,http://en.wikipedia.org/wiki/Shakawe_Airport,,450,2008-06-16T08:02:46+00:00
+30077,FBTL,small_airport,"Limpopo Valley Airport",-22.189199447599997,29.126899719199997,1772,AF,BW,BW-CE,"Tuli Lodge",1,FBLV,TLD,,,,,450,2014-10-06T10:25:58+00:00
+27305,FBXG,small_airport,"Xugana Airport",-19.049999237060547,23.09000015258789,,AF,BW,BW-NW,,0,FBXG,,,,,,50,2008-10-03T16:10:11+00:00
+31751,FBKR,small_airport,"Khwai River Lodge Airport",-19.149999618530273,23.783000946044922,3000,AF,BW,BW-NW,"Khwai River Lodge",0,FBKR,KHW,,,,,50,2008-10-03T16:09:20+00:00
+31076,FBSV,small_airport,"Savuti Airport",-18.520599365234,24.076700210571,3150,AF,BW,BW-NW,Savuti,0,FBSV,SVT,,,https://en.wikipedia.org/wiki/Savuti_Airport,,50,2015-07-19T23:29:01+00:00
+27306,FBXB,small_airport,"Xaxaba Airport",-19.550500869750977,23.054800033569336,3100,AF,BW,BW-NW,Xaxaba,0,FBXB,,,,,,50,2008-06-16T08:09:02+00:00
+317577,FBJA,small_airport,"Jao Airport",-19.3163,22.5951,3175,AF,BW,BW-NW,"Jao Camp",0,FBJA,,,,,FB26,0,2016-04-15T16:24:44+00:00
+30006,FBKG,small_airport,"Kang Airport",-23.683300018310547,22.816699981689453,3520,AF,BW,BW-KG,,0,FBKG,,,,,,50,2008-08-03T11:28:37+00:00
+2867,FBTP,small_airport,"Thebephatshwa Airport",-24.221099853515625,25.347299575805664,3750,AF,BW,BW-KW,,0,FBTP,,,,,,50,2008-06-13T14:30:04+00:00
+31064,FBCO,small_airport,"Camp Okavango Airport",-19.131115,23.102505,3158,AF,BW,BW-NW,"Camp Okavango",0,FBCO,,,,https://en.wikipedia.org/wiki/Camp_Okavango_Airport,,50,2016-04-10T01:23:29+00:00
+31072,FBNW,closed,"Gaborone Notwane Airport",-24.683000564599997,25.933000564599997,3218,AF,BW,BW-SE,"Gaborone Notwane",0,FBNW,,,,,,50,2013-09-02T15:09:38+00:00
+31066,FBGM,small_airport,"Gumare Airport",-19.338,22.1544,3177,AF,BW,BW-NW,Gumare,0,FBGM,,,,https://en.wikipedia.org/wiki/Gumare_Airport,Gomare,50,2016-04-08T23:43:53+00:00
+31654,BW-HUK,small_airport,"Hukuntsi Airport",-23.9897,21.758101,3720,AF,BW,BW-KG,Hukuntsi,0,FBHK,HUK,,,https://en.wikipedia.org/wiki/Hukuntsi_Airport,FB24,50,2016-06-02T08:06:41+00:00
+30008,FBKY,small_airport,"Kanye Airport",-25.049999237060547,25.316699981689453,4199,AF,BW,BW-SO,Kanye,0,FBKY,,,,,,50,2008-06-16T07:56:46+00:00
+31067,FBMG,small_airport,"Machaneng Airport",-23.183000564575195,27.466999053955078,2900,AF,BW,BW-CE,Machaneng,0,FBMG,,,,,,50,2008-08-03T11:28:42+00:00
+31069,FBMM,small_airport,"Makalamabedi Airport",-20.33300018310547,23.882999420166016,3100,AF,BW,BW-CE,Makalamabedi,0,FBMM,,,,,,50,2008-08-03T11:28:46+00:00
+31068,FBML,closed,"Molepolole Airport",-24.389444444,25.498611111,3790,AF,BW,BW-KW,Molepolole,0,FBML,,,,,,50,2013-09-02T15:08:41+00:00
+31071,FBNT,small_airport,"Nata Airport",-20.216100692749023,26.158899307250977,2690,AF,BW,BW-CE,Nata,0,FBNT,,,,,,50,2008-08-03T11:28:50+00:00
+31070,FBNN,small_airport,"Nokaneng Airport",-19.6802,22.1996,3145,AF,BW,BW-NW,Nokaneng,0,FBNN,,,,https://en.wikipedia.org/wiki/Nokaneng_Airport,,50,2016-04-08T22:23:13+00:00
+31073,FBOK,small_airport,"Okwa Airport",-23.08300018310547,21.882999420166016,3500,AF,BW,BW-GH,Okwa,0,FBOK,,,,,,50,2008-08-03T11:28:54+00:00
+32191,FBPY,small_airport,"Palapye Airport",-22.566999435424805,27.149999618530273,3000,AF,BW,BW-CE,Palapye,0,FBPY,QPH,,,,,50,2008-08-03T11:28:58+00:00
+31074,FBRK,small_airport,"Rakops Airport",-21,24.333000183099998,3000,AF,BW,BW-CE,Rakops,0,FBRK,,,,http://en.wikipedia.org/wiki/Rakops_Airport,,50,2012-11-01T16:33:30+00:00
+31075,FBSR,closed,"Serowe Airport",-22.423299789399998,26.7567005157,3800,AF,BW,BW-CE,Serowe,0,FBSR,,,,,,50,2013-09-02T15:05:27+00:00
+30494,FBTS,small_airport,"Tshabong Airport",-26.033300399780273,22.399999618530273,3179,AF,BW,BW-KG,Tshabong,0,FBTS,TBY,,,,Tsabong,50,2008-06-16T07:51:03+00:00
+31077,FBTE,closed,"Tshane Airport",-24.0170001984,21.8829994202,3700,AF,BW,BW-KG,Tshane,0,FBTE,,,,,,50,2013-09-02T15:06:42+00:00
+35351,BW-0001,small_airport,"Two Rivers Airport",-26.447900772094727,20.605600357055664,3018,AF,BW,BW-KG,"Two Rivers",0,,,,,,"Twee Rivieren",50,2008-10-03T16:07:18+00:00
+318467,BW-0044,small_airport,"Elephant Sands Airport",-19.746877,26.070069,,AF,BW,BW-CE,,0,,,,,,,0,2016-06-10T04:06:39+00:00
+319013,BW-0051,small_airport,"Central Kalahari Airport",-21.732301,24.482993,,AF,BW,BW-CE,,0,,,,,,,0,2016-06-22T06:42:43+00:00
+317669,BW-0015,small_airport,"Kgoro Pan Airport",-21.2019,22.5038,3550,AF,BW,BW-GH,,0,,,,,,FB30,0,2016-04-22T10:48:11+00:00
+317510,BW-0009,small_airport,"Riverside North Airport",-25.2898,23.4725,3410,AF,BW,BW-KG,,0,,,,,,,0,2016-04-10T21:05:29+00:00
+317511,BW-0010,closed,"Riverside Southeast Airport",-25.337175,23.514179,3420,AF,BW,BW-KG,,0,,,,,,,0,2016-04-10T21:43:27+00:00
+317559,FBCH,small_airport,"Chobe Airport",-18.53402,23.659027,3113,AF,BW,BW-NW,,0,FBCH,,,,,FB08,0,2016-04-16T17:18:30+00:00
+317671,BW-0017,small_airport,"Khwai North Airport",-19.041,23.8339,3090,AF,BW,BW-NW,,0,,,,,,,0,2016-04-22T12:39:13+00:00
+318345,BW-0027,small_airport,"Chief's Island Airport",-19.314182,22.94975,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-08T04:33:01+00:00
+318346,BW-0028,small_airport,"Chief's Camp Airport",-19.31107,22.908799,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-08T04:33:59+00:00
+318347,BW-0029,small_airport,"Mombo Camp Airport",-19.209503,22.794411,3165,AF,BW,BW-NW,,0,FBMB,,,,,,0,2018-04-08T09:34:51+00:00
+318348,BW-0030,small_airport,"Chitabe Airstrip",-19.467144,23.378341,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-08T04:38:56+00:00
+318351,BW-0033,small_airport,"Kwara Camp Airport",-19.102891,23.289115,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-08T04:44:54+00:00
+318352,BW-0034,small_airport,"Shindi Lodge Airport",-19.110265,23.162305,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-08T04:48:12+00:00
+318409,BW-0038,small_airport,"Rann Airport",-19.658743,22.955112,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-09T04:23:33+00:00
+318410,BW-0039,small_airport,"Sanctuary Stanley Airport",-19.626272,23.279398,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-09T04:26:42+00:00
+318411,BW-0040,small_airport,"Ketumetse Airport",-18.771248,23.041275,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-09T04:29:48+00:00
+318412,BW-0041,small_airport,"Mapula Airport",-18.787656,22.829697,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-09T04:31:01+00:00
+318413,BW-0042,small_airport,"Nxabega Safari Airport",-19.464174,22.777865,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-09T04:37:50+00:00
+318472,BW-0046,small_airport,"Xamaxai Airport",-18.878912,22.713563,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-10T04:22:51+00:00
+319014,BW-0052,small_airport,"Nxai Pan Airstrip",-19.872439,24.679162,,AF,BW,BW-NW,,0,,,,,,,0,2016-06-22T08:13:30+00:00
+317601,FBAB,small_airport,"Abu Airport",-19.4159,22.5526,3170,AF,BW,BW-NW,"Abu's Camp",0,FBAB,,,,,FB00,0,2016-04-16T16:49:38+00:00
+317704,BW-0021,small_airport,"Arizona Airport",-22.6036,28.2897,2440,AF,BW,BW-CE,"Arizona Farm",0,,,,,,"FB02, 6184",0,2016-04-24T14:07:01+00:00
+317705,BW-0022,small_airport,"Big Game Airport",-26.326,22.0946,3180,AF,BW,BW-KG,"Big Game",0,,,,,,,0,2016-04-24T15:10:49+00:00
+317502,FBBS,small_airport,"Bokspits Airport",-26.8881,20.6921,2815,AF,BW,BW-KG,Bokspits,0,FBBS,,,,,FB03,0,2016-04-10T00:20:38+00:00
+317503,FBBP,small_airport,"Bottle Pan Airport",-18.7704,25.2458,3395,AF,BW,BW-NW,"Bottle Pan",0,FBBP,,,,,FB04,0,2016-04-10T00:49:03+00:00
+317504,FBCM,small_airport,"Cement Airport",-19.541,22.591,3155,AF,BW,BW-NW,Cement,0,FBCM,,,,,FB05,0,2016-04-10T01:59:11+00:00
+317657,BW-0014,small_airport,"Chandia Airstrip",-18.5154,25.495408,3515,AF,BW,BW-NW,Chandia,0,FBCD,,,,,FB06,0,2016-04-21T16:44:38+00:00
+317561,FBDV,small_airport,"Deception Valley Airport",-20.9866,23.6576,3185,AF,BW,BW-NW,"Deception Valley Lodge",0,FBDV,,,,,FB10,0,2016-04-15T12:08:26+00:00
+317560,FBDT,small_airport,"Delta Camp Airport",-19.5323,23.0925,3140,AF,BW,BW-NW,"Delta Camp",0,FBDT,,,,,FB11,0,2016-04-15T11:48:30+00:00
+317703,FBOM,small_airport,"Omdop Airport",-19.0175,22.703,3194,AF,BW,BW-NW,"Duba Plains Camp",0,FBOM,,,,,"FB60, 6262",0,2016-04-24T13:11:38+00:00
+317692,BW-0019,small_airport,"Etsha Airport",-19.113219,22.261864,3205,AF,BW,BW-NW,Etsha,0,,,,,,,0,2016-04-23T14:20:56+00:00
+317615,FBGH,small_airport,"Goodhope Airport",-25.4329,25.4092,4250,AF,BW,BW-SO,Goodhope,0,FBGH,,,,,,0,2016-04-17T05:15:55+00:00
+317616,FBGP,small_airport,"Gope Airport",-22.6523,24.7536,3340,AF,BW,BW-GH,Gope,0,FBGP,,,,,FB16,0,2016-04-17T06:12:45+00:00
+317617,BW-0013,small_airport,"Ghaghoo Mine Airport",-22.6079,24.7897,3350,AF,BW,BW-GH,Gope,0,,,,,,,0,2016-04-17T06:15:18+00:00
+317565,FBGS,small_airport,"Grassland Airport",-21.7255,22.362657,3495,AF,BW,BW-GH,"Grassland Lodge",0,FBGS,,,,,FB18,0,2016-04-15T13:25:05+00:00
+317658,FBGY,small_airport,"Grundy's Airport",-21.40437,27.694864,3055,AF,BW,BW-NE,"Grundy's Lodge",0,FBGY,,,,,FB19,0,2016-04-21T21:09:58+00:00
+317562,FBGD,small_airport,"Gudigwa Airport",-18.61649,22.915932,3165,AF,BW,BW-NW,Gudigwa,0,FBGD,,,,,"FB20, Gundingwa",0,2016-04-15T12:28:20+00:00
+317568,FBGU,small_airport,"Guma Airport",-18.953997,22.367073,3220,AF,BW,BW-NW,Guma,0,FBGU,,,,,"Nguma, FB21",0,2016-04-15T13:53:44+00:00
+317701,BW-0020,small_airport,"Ntswi Airport",-19.52899,23.139408,3140,AF,BW,BW-NW,"Gunn's Camp",0,FBNW,,,,,FB56,0,2016-04-24T12:26:18+00:00
+317570,FBGW,small_airport,"Gweta Airport",-20.1987,25.2187,3050,AF,BW,BW-CE,Gweta,0,FBGW,,,,,FB22,0,2016-04-15T14:14:01+00:00
+317572,FBHV,small_airport,"Haina Ventures Airport",-20.9524,23.669184,3185,AF,BW,BW-NW,"Haina Kalahari Lodge",0,FBHV,,,,,FB23,0,2016-04-15T14:38:30+00:00
+317578,FBJC,small_airport,"Tsigaro Airport",-20.4563,25.1507,3000,AF,BW,BW-CE,"Jack's Camp",0,FBJC,,,,,FB81,0,2016-04-15T16:44:00+00:00
+318997,BW-0049,small_airport,"Jackalas 1 Airport",-20.55728,27.695399,,AF,BW,BW-NE,"Jackalas 1",0,,,,,,,0,2016-06-22T04:24:13+00:00
+317713,BW-0025,small_airport,"Jwala Airport",-22.041793,29.024605,2080,AF,BW,BW-CE,Jwala,0,,,,,,FB27,0,2016-04-24T23:46:18+00:00
+317659,FBKA,small_airport,"Kaa Airport",-24.330635,20.635671,3645,AF,BW,BW-KG,Kaa,0,FBKA,,,,,"FB28, Kaa Pan",0,2016-04-21T21:43:44+00:00
+317660,FBKK,small_airport,"Kanana Airport",-19.5688,22.875575,3140,AF,BW,BW-NW,"Kanana Camp",0,FBKK,,,,,FB29,0,2016-04-21T22:41:35+00:00
+318519,BW-0047,small_airport,"Kanana Farm Airport",-21.627363,21.390602,3905,AF,BW,BW-GH,"Kanana Farm",0,,,FBKN,,,,0,2016-06-12T16:09:11+00:00
+317715,BW-0026,small_airport,"Kgwedi Airport",-22.07392,29.106636,2005,AF,BW,BW-CE,Kgwedi,0,,,,,,FB31,0,2016-04-25T01:04:53+00:00
+317670,BW-0016,small_airport,"Khutse Airport",-23.35592,24.6036,3315,AF,BW,BW-KW,Khutse,0,,,,,,"FB32, Khutsi",0,2016-04-22T11:46:33+00:00
+317672,FBKP,small_airport,"Kings Pool Airport",-18.441959,23.688716,3100,AF,BW,BW-NW,"Kings Pool",0,FBKP,,,,,FB33,0,2016-04-25T01:18:40+00:00
+317673,FBKI,small_airport,"Kiri Airport",-19.616197,23.042473,3135,AF,BW,BW-NW,"Kiri Camp",0,FBKI,,,,,FB34,0,2016-04-22T13:52:51+00:00
+317712,BW-0024,small_airport,"Kwalata Airport",-23.062493,27.904797,2595,AF,BW,BW-CE,"Kwalata Ranch",0,,,,,,FB36,0,2016-04-24T22:51:02+00:00
+317674,FBKD,small_airport,"Kwando - Lagoon Airport",-18.209087,23.387197,3150,AF,BW,BW-NW,"Lagoon Camp",0,FBKD,,,,,,0,2016-04-22T16:19:32+00:00
+317675,FBKW,small_airport,"Kwando - Lebala Airport",-18.360992,23.530495,3125,AF,BW,BW-NW,"Lebala Camp",0,FBKW,,,,,FB38,0,2016-04-22T16:30:25+00:00
+317579,FBLL,small_airport,"Limpopo-Lipadi Airport",-22.55153,28.492105,2460,AF,BW,BW-CE,Limpopo-Lipadi,0,FBLL,,,,,Zanzibar,0,2016-04-15T18:46:49+00:00
+317486,BW-0004,small_airport,"Linyanti Airport",-18.46082,23.808989,3105,AF,BW,BW-NW,Linyanti,0,FBLN,,,,,FB41,0,2016-04-15T19:00:34+00:00
+313926,FBLO,small_airport,"Lobatse Airport",-25.1981,25.7139,3823,AF,BW,BW-SE,Lobatse,0,FBLO,LOQ,,,http://en.wikipedia.org/wiki/Lobatse_Airport,,0,2015-02-25T23:39:30+00:00
+326990,FBAL,small_airport,"Alpha Airfield",-25.198058,25.721603,3798,AF,BW,BW-SE,Lobatse,0,FBAL,,,,,,0,2018-04-08T10:02:47+00:00
+317716,FBMU,small_airport,"Mamuno Airport",-22.268095,20.031092,4155,AF,BW,BW-GH,Mamuno,0,FBMU,,,,,FB45,0,2016-04-25T02:01:40+00:00
+318998,BW-0050,closed,"Mapoka Airport",-20.532004,27.609445,,AF,BW,BW-NE,Mapoka,0,,,,,,,0,2016-06-22T04:25:21+00:00
+318466,BW-0043,small_airport,"Masame Airport",-19.329429,24.841567,,AF,BW,BW-NW,Masame,0,,,,,,,0,2016-06-10T04:02:49+00:00
+319015,BW-0053,small_airport,"Mmashoro Airport",-21.877487,26.350055,,AF,BW,BW-CE,Mmashoro,0,,,,,,,0,2016-06-22T08:35:45+00:00
+318386,BW-0036,small_airport,"Mochudi Airport",-24.357132,26.090237,,AF,BW,BW-KL,Mochudi,0,,,,,,,0,2016-06-08T09:29:16+00:00
+317473,BW-0002,small_airport,"Motopi Airport",-20.185848,24.173585,3070,AF,BW,BW-NW,Motopi,0,FBMO,,MOTOPI,,,"FB51, Matope Airport",0,2016-04-09T17:55:20+00:00
+317691,BW-0018,small_airport,"Ncamasere Airport",-18.569,21.9862,3265,AF,BW,BW-NW,Ncamasere,0,,,,,,,0,2016-04-23T14:15:00+00:00
+318408,BW-0037,small_airport,"Ncojane Airport",-23.140243,20.287681,,AF,BW,BW-GH,Ncojane,0,,,,,,,0,2016-06-09T04:17:45+00:00
+318385,BW-0035,small_airport,"New Xade Airport",-22.114649,22.408025,,AF,BW,BW-GH,"New Xade",0,,,,,,,0,2016-06-08T09:22:36+00:00
+317702,FBNB,small_airport,"Nxabega Airport",-19.4902,22.789192,3155,AF,BW,BW-NW,Nxabega,0,FBNB,,,,,FB57,0,2016-04-24T12:51:01+00:00
+317690,FBNX,small_airport,"Nxamaseri Airport",-18.5992,22.0696,3245,AF,BW,BW-NW,"Nxamaseri Lodge",0,FBNX,,,,,Nxamasire,0,2016-04-23T14:04:36+00:00
+317603,FBOD,small_airport,"Oakdene Airport",-21.4578,21.8057,3810,AF,BW,BW-SO,Oakdene,0,FBOD,,,,,FB58,0,2016-04-16T21:12:48+00:00
+317513,BW-0011,small_airport,"Oxford Airport",-25.0243,24.215,3535,AF,BW,BW-KG,Oxford,0,,,,,,FB61,0,2016-04-10T23:50:26+00:00
+317488,FBPA,small_airport,"Pandamatenga Airport",-18.5312,25.6516,3505,AF,BW,BW-NW,Pandamatenga,0,FBPA,,,,https://en.wikipedia.org/wiki/Pandamatenga_Airport,,0,2016-04-08T20:40:34+00:00
+317495,BW-0006,small_airport,"Pom Pom Airport",-19.59728,22.848081,3150,AF,BW,BW-NW,"Pom Pom Camp",0,,,,,,"FB63, Pompom",0,2016-04-09T11:24:20+00:00
+317590,FBSI,small_airport,"Saile Airport",-18.1357,24.067,3085,AF,BW,BW-NW,Saile,0,FBSI,,,,,FB64,0,2016-04-16T00:04:13+00:00
+317497,BW-0007,small_airport,"Santawani Airport",-19.5092,23.6211,3095,AF,BW,BW-NW,"Santawani Lodge",0,FBST,,,,,FB66,0,2016-04-15T23:26:57+00:00
+317589,FBSL,small_airport,"Selinda Airport",-18.579181,23.483757,3105,AF,BW,BW-NW,Selinda,0,FBSL,,,,,FB70,0,2016-06-16T05:35:38+00:00
+318822,BW-0048,small_airport,"Selinda Old Airport",-18.566713,23.511192,,AF,BW,BW-NW,Selinda,0,,,,,,,0,2016-06-16T05:36:21+00:00
+317487,BW-0005,small_airport,"Serondella Airport",-17.8386,25.031484,3070,AF,BW,BW-NW,Serondela,0,,,,,,,0,2016-04-08T20:15:08+00:00
+317484,BW-0003,small_airport,"Seronga Airport",-18.823303,22.422619,3240,AF,BW,BW-NW,Seronga,0,FBSG,,,,https://en.wikipedia.org/wiki/Seronga_Airport,FB71,0,2016-04-16T00:09:54+00:00
+317707,BW-0023,small_airport,"Sunny Side Airport",-23.0339,27.7406,2736,AF,BW,BW-CE,"Sunny Side",0,,,,,,"FB75, 6970",0,2016-04-24T16:09:31+00:00
+317586,FBTN,small_airport,"Tonunga Airport",-19.5085,25.0781,3145,AF,BW,BW-CE,Tonunga,0,FBTN,,,,,FB78,0,2016-04-15T22:52:49+00:00
+317498,BW-0008,small_airport,"Tsau Airport",-20.157905,22.449275,3097,AF,BW,BW-NW,Tsau,0,FBTU,,,,,FB79,0,2016-04-15T22:19:13+00:00
+317588,FBTH,small_airport,"Tsodilo Hills Airport",-18.7804,21.7416,3288,AF,BW,BW-NW,Tsodilo,0,FBTH,,,,,FB82,0,2016-04-15T23:14:17+00:00
+317575,FBHU,small_airport,"Hunda Airport",-19.2765,22.475646,3195,AF,BW,BW-NW,"Tubu Tree Camp",0,FBHU,,,,,FB25,0,2016-04-15T15:25:59+00:00
+317584,FBVM,small_airport,"Vumbura Airport",-18.955395,22.814533,3185,AF,BW,BW-NW,Vumbura,0,FBVM,,,,,FB88,0,2016-04-15T22:14:26+00:00
+317583,BW-0012,small_airport,"Xade Airstrip",-22.331339,23.003057,3285,AF,BW,BW-GH,Xade,0,,,,,,,0,2016-04-15T21:20:44+00:00
+318349,BW-0031,small_airport,"Xakanaxa Airport",-19.196998,23.43628,,AF,BW,BW-NW,Xakanaxa,0,,,,,,,0,2016-06-08T04:42:23+00:00
+318350,BW-0032,closed,"Xakanaxa Old Airport",-19.21495,23.439105,,AF,BW,BW-NW,Xakanaxa,0,,,,,,,0,2016-06-08T04:43:18+00:00
+317582,FBXA,small_airport,"Xai Xai Airport",-19.877718,21.075295,3655,AF,BW,BW-NW,Xaxa,0,FBXA,,,,,FB91,0,2016-04-15T20:59:41+00:00
+318471,BW-0045,small_airport,"Xhumaga Airport",-20.431797,24.458519,,AF,BW,BW-CE,Xhumaga,0,,,,,,,0,2016-06-10T04:15:36+00:00
+317581,FBXI,small_airport,"Xigera Airport",-19.385485,22.737648,3170,AF,BW,BW-NW,Xigera,0,FBXI,,,,,FB95,0,2016-04-15T20:41:06+00:00
+317580,FBXR,small_airport,"Xorogom Airport",-18.7068,23.0937,3150,AF,BW,BW-NW,Xorogom,0,FBXR,,,,,FB96,0,2016-04-15T19:42:42+00:00

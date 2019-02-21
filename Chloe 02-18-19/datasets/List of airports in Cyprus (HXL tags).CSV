@@ -1,0 +1,14 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3980,LCLK,large_airport,"Larnaca International Airport",34.875099182128906,33.624900817871094,8,AS,CY,CY-04,Larnarca,1,LCLK,LCA,,http://www.cyprusairports.com.cy/showpage.php?PageID=2,http://en.wikipedia.org/wiki/Larnaca_International_Airport,"Διεθνές Aεροδρόμιο Λάρνακας",1200,2009-07-01T17:27:29+00:00
+3981,LCPH,large_airport,"Paphos International Airport",34.71799850463867,32.48569869995117,41,AS,CY,CY-06,Paphos,1,LCPH,PFO,,http://paphosinternationalairport.com/index_papxmas.html,http://en.wikipedia.org/wiki/Paphos_International_Airport,"Pafos, Mandria, Kouklia, Διεθνής Αερολιμένας Πάφου",1050,2009-02-09T21:29:10+00:00
+30979,LCEN,medium_airport,"Ercan International Airport",35.154701232910156,33.49610137939453,404,AS,CY,CY-02,Nicosia,1,LCEN,ECN,,,http://en.wikipedia.org/wiki/Ercan_International_Airport,Tymvou,800,2008-06-13T14:30:04+00:00
+44646,CY-0002,medium_airport,"Lefkoniko Airport",35.235947,33.724358,146,AS,CY,CY-03,Geçitkale,1,LCGK,GEC,,,https://en.wikipedia.org/wiki/Geçitkale_Air_Base,"Geçitkale Air Base",0,2018-09-16T03:44:51+00:00
+44697,CY-0005,small_airport,"Kornos Highway Strip",34.909671783447266,33.40373229980469,,AS,CY,CY-04,,0,,,,,,,0,2009-08-14T03:30:03+00:00
+44935,CY-0006,small_airport,"Kophinou Highway Strip",34.8404183033,33.4244763851,,AS,CY,CY-04,,0,,,,,,,0,2009-09-03T03:16:46+00:00
+35128,CY-NIC,closed,"Nicosia International Airport",35.1507987976,33.2787017822,,AS,CY,CY-02,Nicosia,0,LCNC,NIC,,,http://en.wikipedia.org/wiki/Nicosia_International_Airport,"RAF Nicosia, Lefkosia, NIC.OLD",1,2013-03-08T21:34:27+00:00
+44647,CY-0003,small_airport,"Pınarbaşı Air Base",35.276466369628906,33.26728439331055,,AS,CY,CY-01,,0,,,,,,,0,2009-08-07T06:52:08+00:00
+44645,CY-0001,small_airport,"Lakatamia Airport",35.10638427734375,33.32130432128906,,AS,CY,CY-02,,1,,,,,,,0,2009-08-07T06:29:26+00:00
+312344,CY-0007,small_airport,"Marki Airfield",35.01622,33.310869,,AS,CY,CY-02,,0,,,,,,,0,2014-07-02T17:47:22+00:00
+44679,CY-0004,small_airport,"Kingsfield Air Base",35.0142745972,33.7158508301,288,AS,CY,CY-04,,0,LCRE,,,,,"Airfield Kingsfield",0,2013-11-02T16:37:18+00:00
+328184,CY-0008,closed,"RAF Ayios Nikolaos Air Base",35.0831777,33.9004317,,AS,CY,CY-04,,0,,,,,,,0,2018-06-03T04:44:38+00:00

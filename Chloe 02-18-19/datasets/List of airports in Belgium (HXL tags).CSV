@@ -1,0 +1,148 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2155,EBBR,large_airport,"Brussels Airport",50.901401519800004,4.48443984985,184,EU,BE,BE-BRU,Brussels,1,EBBR,BRU,,http://www.brusselsairport.be/en/,http://en.wikipedia.org/wiki/Brussels_Airport,,1024675,2011-06-29T18:07:02+00:00
+2157,EBCI,large_airport,"Brussels South Charleroi Airport",50.459202,4.45382,614,EU,BE,BE-WHT,Brussels,1,EBCI,CRL,,http://www.charleroi-airport.com/doc.php?nd=o29&tid=29&lg=2&docid=1&site=1,http://en.wikipedia.org/wiki/Brussels_South_Charleroi_Airport,"Gosselies Airport",1050,2017-05-01T23:16:18+00:00
+2152,EBAW,medium_airport,"Antwerp International Airport (Deurne)",51.1893997192,4.46027994156,39,EU,BE,BE-VAN,Antwerp,1,EBAW,ANR,,http://www.antwerp-airport.be/,http://en.wikipedia.org/wiki/Antwerp_International_Airport,,1050,2010-08-31T21:47:09+00:00
+2163,EBOS,medium_airport,"Ostend-Bruges International Airport",51.198898315399994,2.8622200489,13,EU,BE,BE-VWV,Ostend,1,EBOS,OST,,http://www.ost.aero/,http://en.wikipedia.org/wiki/Ostend-Bruges_International_Airport,,475,2013-08-31T12:51:54+00:00
+2162,EBLG,large_airport,"Liège Airport",50.63740158081055,5.443220138549805,659,EU,BE,BE-WLG,Liège,1,EBLG,LGG,,http://www.liegeairport.be/,http://en.wikipedia.org/wiki/Li%C3%A8ge_Airport,,1475,2009-03-21T16:48:57+00:00
+2161,EBKT,medium_airport,"Wevelgem Airport",50.817199707,3.20472002029,64,EU,BE,BE-VWV,Wevelgem,0,EBKT,KJK,,http://www.kortrijkairport.be,http://en.wikipedia.org/wiki/Kortrijk-Wevelgem_International_Airport,,250,2014-06-15T07:09:14+00:00
+29059,EBZW,small_airport,"Genk Zwartberg Airfield",51.0154,5.52647,278,EU,BE,BE-VLI,Genk,0,EBZW,,,http://www.ebzw.be,,,50,2017-05-01T13:28:32+00:00
+2167,EBUL,small_airport,"Ursel Air Base",51.14419937133789,3.475559949874878,95,EU,BE,BE-VOV,Ursel,0,EBUL,,,,,,50,2009-03-21T16:48:57+00:00
+29050,EBSP,small_airport,"Spa (la Sauvenière) Airport",50.48249816894531,5.910299777984619,1581,EU,BE,BE-WLG,Spa,0,EBSP,,,,,,50,2008-07-13T21:58:16+00:00
+29036,EBKH,small_airport,"Balen-Keiheuvel Airfield",51.180957,5.221124,131,EU,BE,BE-VAN,Balen,0,EBKH,,,http://www.aeroclub-keiheuvel.be/,http://en.wikipedia.org/wiki/Balen-Keiheuvel_Aerodrome,,50,2014-06-27T11:08:44+00:00
+29048,EBSH,small_airport,"St Hubert Airfield",50.0359,5.40425,1930,EU,BE,BE-WLX,"Saint Hubert",0,EBSH,,,http://www.sainthubert-airport.com/,,,50,2019-02-18T01:15:36+00:00
+29031,EBBT,small_airport,"Brasschaat Airfield",51.34259,4.503451,76,EU,BE,BE-VAN,Brasschaat,0,EBBT,,,http://www.aeroclub-brasschaat.be/,https://en.wikipedia.org/wiki/Brasschaat_Airfield,,50,2018-09-18T00:53:25+00:00
+29043,EBNM,small_airport,"Suarlée Airport",50.487999,4.76892,594,EU,BE,BE-WNA,Namur,0,EBNM,,,http://www.aerodromedenamur.be/,http://en.wikipedia.org/wiki/Namur-Suarlee_Airport,,50,2016-10-26T08:21:39+00:00
+2165,EBST,small_airport,"Limburg Regional Airport",50.791900634799994,5.20167016983,246,EU,BE,BE-VLI,"Sint Truiden",0,EBST,,,http://www.ebst.aero/,http://en.wikipedia.org/wiki/Sint-Truiden_Air_Base,"Brustem Air Base",50,2013-05-04T13:22:52+00:00
+2169,EBZR,small_airport,"Zoersel (Oostmalle) Airfield",51.264702,4.75333,53,EU,BE,BE-VAN,Zoersel,0,EBZR,OBL,,,https://en.wikipedia.org/wiki/Oostmalle_Airfield,,50,2018-05-02T15:58:42+00:00
+29056,EBZH,small_airport,"Kiewit Airfield Hasselt",50.970001,5.37507,141,EU,BE,BE-VLI,Hasselt,0,EBZH,,,http://www.aero-kiewit.be/,https://en.wikipedia.org/wiki/Kiewit_airfield,,50,2016-10-25T08:01:04+00:00
+29052,EBTX,small_airport,"Theux (Verviers) Airfield",50.552601,5.85503,1099,EU,BE,BE-WLG,Verviers,0,EBTX,,,http://www.verviers-aviation.be/,http://en.wikipedia.org/wiki/Verviers-Theux_Airfield,,50,2019-02-18T01:14:52+00:00
+2159,EBFN,medium_airport,"Koksijde Air Base",51.090301513671875,2.652780055999756,20,EU,BE,BE-VWV,Koksijde,0,EBFN,,,,,,250,2009-03-21T16:48:57+00:00
+29771,EBCF,small_airport,"Cerfontaine Airfield",50.152802,4.38722,961,EU,BE,BE-WNA,Cerfontaine,0,EBCF,,,http://www.gravitypark.be,,,50,2016-09-03T01:51:34+00:00
+28478,EBGB,small_airport,"Grimbergen Airfield",50.948546,4.39181,70,EU,BE,BE-VBR,Grimbergen,0,EBGB,,,,http://en.wikipedia.org/wiki/Grimbergen_Airfield,"Bullange, Lint Airport",50,2013-04-28T13:15:25+00:00
+30068,EBLE,small_airport,"Leopoldsburg Airfield",51.12,5.3072222,207,EU,BE,BE-VLI,Leopoldsburg,0,EBLE,,,http://www.eble.be/,http://en.wikipedia.org/wiki/Aeroclub_Sanicole_VZW,Beverlo,50,2016-08-22T01:15:29+00:00
+29042,EBMO,small_airport,"Moorsele Airfield",50.852798,3.14731,66,EU,BE,BE-VWV,Moorsele,0,EBMO,,,,,,50,2019-02-18T01:13:35+00:00
+29047,EBSG,small_airport,"Saint-Ghislain Airfield",50.4575,3.82028,75,EU,BE,BE-WHT,"Saint Ghislain",0,EBSG,,,,,,50,2019-02-18T01:17:32+00:00
+2154,EBBL,medium_airport,"Kleine Brogel Air Base",51.168301,5.47,200,EU,BE,BE-VLI,"Kleine Brogel",0,EBBL,,,,https://en.wikipedia.org/wiki/Kleine_Brogel_Air_Base,,400,2016-10-14T04:36:27+00:00
+30971,EBLB,closed,"Elsenborn Air Base",50.481701,6.18194,1830,EU,BE,BE-WLG,Bütgenbach,0,EBLB,,,,,,50,2016-11-13T02:32:52+00:00
+30969,EBDT,small_airport,"Schaffen Airport",50.99919891357422,5.0655598640441895,100,EU,BE,BE-VBR,Diest,0,EBDT,,,,,,50,2008-06-13T14:30:04+00:00
+29954,EBHN,small_airport,"Hoevenen Airfield",51.306098938,4.387219905849999,10,EU,BE,BE-VAN,Hoevenen,0,EBHN,,,,https://en.wikipedia.org/wiki/Hoevenen_Airfield,,50,2013-04-28T15:43:35+00:00
+29029,EBAM,small_airport,"Amougies Airfield",50.740101,3.4849,49,EU,BE,BE-WHT,Mont-de-l'Enclus,0,EBAM,,,http://www.airport-amougies.com/,https://en.wikipedia.org/wiki/Amougies_Airfield,,50,2019-02-18T01:12:48+00:00
+29899,EBTN,small_airport,"Goetsenhoven Air Base",50.781700134277344,4.957779884338379,246,EU,BE,BE-VBR,Tienen,0,EBTN,,,,,,50,2009-03-21T16:48:59+00:00
+2160,EBFS,medium_airport,"Florennes Air Base",50.2433013916,4.64583015442,935,EU,BE,BE-WNA,Florennes,0,EBFS,,,,http://en.wikipedia.org/wiki/Florennes_Air_Base,,300,2011-10-26T23:46:15+00:00
+30962,EBAR,small_airport,"Arlon-Sterpenich ULM",49.6628,5.88694,1138,EU,BE,BE-WLX,Arlon,0,EBAR,,,http://www.arelair.be,https://en.wikipedia.org/wiki/Arlon-Sterpenich_Aerodrome,,50,2016-10-26T12:54:32+00:00
+30975,EBML,small_airport,"Maillen Ulmodrome",50.3741989136,4.92778015137,886,EU,BE,BE-WNA,Assesse,0,EBML,,,,,,50,2014-07-02T14:08:12+00:00
+2156,EBBX,small_airport,"Jehonville Air Base",49.891700744628906,5.2238898277282715,1514,EU,BE,BE-WLX,Bertrix,0,EBBX,,,,,,50,2008-06-13T14:30:04+00:00
+30965,EBBN,small_airport,"Büllingen ULM",50.415001,6.27639,2067,EU,BE,BE-WLG,Büllingen,0,EBBN,,,http://www.feuervogel.be/,https://en.wikipedia.org/wiki/B%C3%BCllingen_Airfield,,50,2016-05-31T08:18:14+00:00
+30973,EBLN,small_airport,"Liernu ULM",50.580601,4.7925,564,EU,BE,BE-WNA,Eghezée,0,EBLN,,,,,,50,2016-10-16T05:37:03+00:00
+29033,EBGG,small_airport,"Overboelare Airfield",50.7556,3.86389,56,EU,BE,BE-VOV,Geraardsbergen,0,EBGG,,,,,,50,2019-02-18T01:14:06+00:00
+29053,EBTY,small_airport,"Tournai/Maubray Glider Field",50.531611,3.497382,161,EU,BE,BE-WHT,Tournai,0,EBTY,,,,http://en.wikipedia.org/wiki/Maubray_Airport,"Oostende-Brugge, Tournay",50,2016-10-16T05:40:41+00:00
+2168,EBWE,small_airport,"Weelde Air Base",51.394798278808594,4.9601898193359375,105,EU,BE,BE-VAN,Weelde,0,EBWE,,,,,,50,2009-03-21T16:48:57+00:00
+29058,EBZU,small_airport,"Zuienkerke ULM",51.2566986,3.14055991,16,EU,BE,BE-VWV,Zuienkerke,0,EBZU,,,,,,50,2015-12-03T16:25:41+00:00
+2164,EBSL,small_airport,"Zutendaal Air Base",50.9474983215332,5.590559959411621,312,EU,BE,BE-VLI,Zutendaal,0,EBSL,,,,,,50,2009-03-21T16:48:57+00:00
+29049,EBSJ,heliport,"Az Sint-Jan Heliport",51.2205063161,3.1960934400600003,20,EU,BE,BE-VWV,Bruges,0,EBSJ,,,,,,25,2010-05-09T12:52:40+00:00
+43757,EBLO,closed,"Orban heliport",50.630913,5.571726,160,EU,BE,BE-WLG,Liège,0,EBLO,,,,,,0,2017-09-09T06:40:54+00:00
+43739,EBLU,heliport,"Lummen heliport",50.991943359375,5.238889217376709,141,EU,BE,BE-VLI,Lummen,0,EBLU,,,,,,0,2009-03-21T16:49:45+00:00
+43731,EBME,heliport,"Meerbeek heliport",50.873756,4.596889,214,EU,BE,BE-VBR,Meerbeek,0,EBME,,,,,,0,2013-06-09T14:34:20+00:00
+308575,EBMB,small_airport,"Melsbroek Air Base",50.913,4.49,98,EU,BE,BE-VBR,"Melsbroek (Steenokkerzeel)",0,EBMB,,,http://www.opendoor15w.be/,https://en.wikipedia.org/wiki/Melsbroek_Air_Base,Steenokkerzeel,0,2016-10-21T05:00:13+00:00
+43749,EBBZ,small_airport,"Buzet ULM",50.541667,4.3811111,522,EU,BE,BE-WHT,Pont-A-Celles,0,EBBZ,,,http://www.confluence.be,,,0,2016-08-22T01:07:54+00:00
+2153,EBBE,medium_airport,"Beauvechain Air Base",50.75859832763672,4.768330097198486,370,EU,BE,BE-WBR,Beauvechain,0,EBBE,,,,http://en.wikipedia.org/wiki/Beauvechain_Air_Base,,300,2008-06-13T14:30:04+00:00
+2158,EBCV,medium_airport,"Chièvres Air Base",50.575801849365234,3.8310000896453857,194,EU,BE,BE-WHT,Chièvres,0,EBCV,,,,http://en.wikipedia.org/wiki/Chievres_Air_Base,,250,2009-03-21T16:48:57+00:00
+30967,EBBW,closed,"Bassenge-Wonck ULM",50.778301,5.61667,367,EU,BE,BE-WLG,Bassenge,0,EBBW,,,,,,50,2016-10-16T05:39:18+00:00
+30964,EBBG,closed,"Michamps Ulmodrome",50.0527992249,5.79861021042,1770,EU,BE,BE-WLX,Bastogne,0,EBBG,,,,,,50,2015-10-16T14:28:50+00:00
+30966,EBBO,closed,"Mogimont Ulmodrome",49.866402,5.06806,1394,EU,BE,BE-WLX,Bouillon,0,EBBO,,,,https://en.wikipedia.org/wiki/Mogimont_Airport,,50,2016-10-14T04:54:15+00:00
+30968,EBCS,closed,"Saint-Remy ULM",50.0583,4.28194,820,EU,BE,BE-WHT,Chimay,0,EBCS,,,,,,50,2016-10-20T04:46:57+00:00
+29032,EBDI,heliport,"Diksmuide heliport",51.0180549621582,2.8569440841674805,13,EU,BE,BE-VWV,Diksmuide,0,EBDI,,,,,,50,2009-03-21T16:48:57+00:00
+30974,EBMG,small_airport,"Matagne-la-Petite Ulmodrome",50.104698,4.63806,787,EU,BE,BE-WNA,Doische,0,EBMG,,,,,Matagne,50,2015-11-29T12:19:02+00:00
+30963,EBAV,small_airport,"Avernas-le-Bauduin ULM",50.706699,5.06806,394,EU,BE,BE-WLG,Hannut,0,EBAV,,,,https://en.wikipedia.org/wiki/Avernas-le-Bauduin_Airport,,50,2016-10-16T05:37:42+00:00
+30970,EBHE,closed,"Héron-Couthuin Ulmodrome",50.538898468,5.10916996002,607,EU,BE,BE-WLG,Héron,0,EBHE,,,,,,50,2014-04-18T03:14:12+00:00
+29035,EBIS,small_airport,"Ath/Isieres Ulmodrome",50.6641998291,3.80444002151,98,EU,BE,BE-WHT,Isieres,0,EBIS,,,,,,50,2015-10-18T05:40:01+00:00
+30972,EBLI,closed,"Lierneux ULM",50.286701,5.83639,1411,EU,BE,BE-WLG,Lierneux,0,EBLI,,,,,,50,2016-10-16T05:38:30+00:00
+29039,EBLR,heliport,"Reninge heliport",50.93388748168945,2.755000114440918,25,EU,BE,BE-VWV,Lo-Reninge,0,EBLR,,,,,,50,2009-03-21T16:48:57+00:00
+29044,EBNO,closed,"Outer ULM",50.854400634799994,3.98528003693,151,EU,BE,BE-VOV,Ninove,0,EBNO,,,,,,50,2014-04-18T03:17:23+00:00
+2166,EBSU,small_airport,"Saint Hubert Air Base",50.034400939941406,5.440810203552246,1930,EU,BE,BE-WLX,"Saint Hubert",0,EBSU,,,,,,50,2009-03-21T16:48:57+00:00
+29054,EBVE,heliport,"Veurne heliport",51.022220611572266,2.680000066757202,82,EU,BE,BE-VWV,Veurne,0,EBVE,,,,,Liège-Bierset,50,2009-03-21T16:48:59+00:00
+30977,EBOR,small_airport,"Orchimont Ulmodrome",49.9071998596,4.9363899231,1312,EU,BE,BE-WNA,Vresse-Sur-Semois,0,EBOR,,,,,,50,2014-06-23T06:43:43+00:00
+29057,EBZI,heliport,"Zingem heliport",50.926387786865234,3.6172220706939697,30,EU,BE,BE-VOV,Zingem,0,EBZI,,,,,,50,2009-03-21T16:48:59+00:00
+30586,EBZM,closed,"Oombergen Airfield",50.909401,3.82667,240,EU,BE,BE-VOV,Zottegem,0,EBZM,,,,,,50,2019-02-18T01:16:55+00:00
+29051,EBSS,heliport,"Sint-Lucas heliport",51.185001373291016,3.2511110305786133,16,EU,BE,BE-VWV,Brugge,0,EBSS,,,,,,25,2009-03-21T16:48:59+00:00
+29030,EBBA,heliport,"Baudour Heliport",50.469633,3.838724,98,EU,BE,BE-WHT,Douvrain,0,EBBA,,,,https://en.wikipedia.org/wiki/Baudour_Heliport,,25,2016-05-31T08:16:08+00:00
+29034,EBGT,heliport,"UZ Gent heliport",51.02055740356445,3.7302780151367188,26,EU,BE,BE-VOV,Gent,0,EBGT,,,,,,25,2009-03-21T16:48:57+00:00
+29038,EBKW,heliport,"Westkapelle heliport",51.32222366333,3.2930560112,10,EU,BE,BE-VWV,Knokke-Heist,0,EBKW,,,,http://en.wikipedia.org/wiki/Knokke-Heist/Westkapelle_Heliport,,25,2015-10-13T16:14:01+00:00
+29037,EBKU,closed,"Kuurne Heliport",50.859402,3.25667,47,EU,BE,BE-VWV,Kuurne,0,EBKU,,,,,,25,2017-09-09T06:40:18+00:00
+29040,EBLZ,closed,"Zaffelare heliport",51.131111,3.865556,26,EU,BE,BE-VOV,Lochristi,0,EBLZ,,,,,,25,2016-11-15T05:16:03+00:00
+29045,EBOO,heliport,"Oostdijckbank platform heliport",51.274444580078125,2.447499990463257,69,EU,BE,BE-VWV,Oostdijckbank,0,EBOO,,,,,,25,2009-03-21T16:48:57+00:00
+29046,EBPW,heliport,"Warcoing heliport",50.722254,3.326106,120,EU,BE,BE-WHT,Pecq,0,EBPW,,,,,,25,2016-09-20T05:36:33+00:00
+29055,EBVS,heliport,"Sint-Augustinus heliport",51.06277847290039,2.670833110809326,13,EU,BE,BE-VWV,Veurne,0,EBVS,,,,,,25,2009-03-21T16:48:59+00:00
+311995,EBOT,closed,Oud-Turnhout,51.323558854,5.01796245575,,EU,BE,BE-VAN,,0,EBOT,,,,,,0,2014-05-25T07:48:33+00:00
+311689,BE-0006,small_airport,"[Duplicate] Neerpelt ULM",51.211944,5.478611,148,EU,BE,BE-VLI,,0,EBNE,,,,,,0,2016-08-22T05:45:45+00:00
+301715,BE-0004,heliport,"Zomergem Heliport",51.131389,3.522222,66,EU,BE,BE-VOV,,0,EBZM,,,,,,0,2012-06-15T07:53:05+00:00
+324980,EBEH,seaplane_base,"Hydrobase de l'Eau d'Heure",50.183611,4.369722,810,EU,BE,BE-WNA,,0,EBEH,,,http://www.seaplane.be,,,0,2017-11-11T13:05:23+00:00
+43758,EBSN,closed,"'S Gravenvoeren heliport",50.764771,5.786845,394,EU,BE,BE-WLG,"'S Gravenvoeren",0,EBSN,,,,,,0,2016-11-13T05:52:41+00:00
+43743,EBAT,closed,"Meldert heliport",50.92683,4.112962,131,EU,BE,BE-VOV,Aalst,0,EBAT,,,,,,0,2016-11-13T06:57:19+00:00
+298604,EBAL,heliport,"Aalst Hospital Helistrip",50.943333,4.055833,,EU,BE,BE-VOV,Aalst,0,EBAL,,,,,OLV-Ziekenhuis,0,2016-08-30T06:14:06+00:00
+323797,EBDR,heliport,"Antwerp/Commandant Fourcault Heliport",51.239415,4.407885,,EU,BE,BE-VAN,Antwerp,0,EBDR,,,,,,0,2017-06-11T12:19:07+00:00
+43720,EBMD,heliport,"AZ Middelheim heliport",51.181674,4.421096,46,EU,BE,BE-VAN,Antwerpen,0,EBMD,,,,,,0,2016-08-30T07:20:03+00:00
+43724,EBAK,closed,"Kiel heliport",51.200153,4.359219,10,EU,BE,BE-VAN,Antwerpen,0,EBAK,,,,,,0,2018-12-14T03:07:52+00:00
+308567,EBGL,closed,"CRC Glons Heliport",50.73973,5.5421,438,EU,BE,BE-WLG,Bassenge,0,EBGL,,,,,,0,2016-11-13T05:59:18+00:00
+312154,BE-0007,closed,"Imelda Hospital Helipad",51.01767,4.55819,30,EU,BE,BE-VAN,Bonheiden,0,,,,,,,0,2015-10-18T05:37:07+00:00
+43723,EBBH,heliport,"Keysers heliport",51.343055725097656,4.621943950653076,82,EU,BE,BE-VAN,Brecht,0,EBBH,,,,,,0,2009-03-21T16:49:12+00:00
+43725,EBBC,heliport,"Luyckx heliport",51.30472183227539,4.629444122314453,99,EU,BE,BE-VAN,Brecht,0,EBBC,,,,,,0,2009-03-21T16:49:16+00:00
+323796,BE-0008,heliport,"Brecht/Vochten Heliport",51.332,4.62466,87,EU,BE,BE-VAN,Brecht,0,EBBV,,,,,,0,2017-06-24T16:30:17+00:00
+43718,EBUC,heliport,"UCL heliport",50.85318374633789,4.453608989715576,230,EU,BE,BE-BRU,Brussels,0,EBUC,,,,,,0,2009-03-21T16:49:01+00:00
+43719,EBUB,heliport,"ULB heliport",50.81305694580078,4.261388778686523,108,EU,BE,BE-BRU,Brussels,0,EBUB,,,,,,0,2009-03-21T16:49:03+00:00
+324445,BE-0012,balloonport,"Céroux-Mousty Ballon Field",50.660241,4.513276,,EU,BE,BE-WBR,Céroux-Mousty,0,,,,http://www.europeanballoon.be/fr/site-decollage-place-ceroux-mousty.html,,,0,2017-07-16T12:19:18+00:00
+43753,BE-0002,closed,"Chimay-Virelles Ulmodrome",50.117778778,4.33055591583,919,EU,BE,BE-WHT,Chimay,0,,,,,,,0,2015-10-18T05:25:38+00:00
+43761,EBCR,closed,"Chimay-Ronvaux Ulmodrome",50.2472229004,5.11388921738,1076,EU,BE,BE-WNA,Ciney,0,EBCR,,,,,,0,2014-04-18T03:15:06+00:00
+43762,BE-0003,small_airport,"Sovet Airfield",50.28666687,5.04027795791,919,EU,BE,BE-WNA,Ciney,0,,,,,,,0,2015-09-16T04:23:52+00:00
+43734,EBDW,closed,"Webbekom heliport",50.958132,5.064743,130,EU,BE,BE-VBR,Diest,0,EBDW,,,,,Paramount,0,2016-10-26T08:01:29+00:00
+43738,EBDL,closed,"Lanklaar heliport",51.017651,5.699703,131,EU,BE,BE-VLI,Dilsen-Stokkem,0,EBDL,,,,,,0,2017-05-01T13:26:21+00:00
+43727,EBEU,heliport,"UZA heliport",51.155879974365234,4.409976005554199,46,EU,BE,BE-VAN,Edegem,0,EBEU,,,,,,0,2009-03-21T16:49:20+00:00
+324056,EBEB,heliport,"Evergem / Belzele Heliport",51.100833,3.653611,27,EU,BE,BE-VOV,Evergem,0,EBEB,,,,,,0,2017-06-24T11:08:30+00:00
+43760,EBFD,closed,"Dompire heliport",50.550835,4.996389,607,EU,BE,BE-WNA,Fernelmont,0,EBFD,,,,,,0,2016-11-15T05:15:42+00:00
+43756,EBFR,heliport,"Francorchamps heliport",50.456178881499994,5.95332384109,1575,EU,BE,BE-WLG,Francorchamps,0,EBFR,,,,,,0,2011-12-09T22:33:08+00:00
+43750,BE-0001,closed,"Froidchapelle Glider Field",50.176388,4.352222,902,EU,BE,BE-WHT,Froidchapelle,0,,,,,,,0,2016-09-03T01:49:17+00:00
+43748,EBBY,small_airport,"Baisy-Thy ULM",50.568611145,4.4347219467,525,EU,BE,BE-WBR,Genappe,0,EBBY,,,http://www.ulm.be/,,,0,2016-01-03T11:31:06+00:00
+323798,BE-0009,closed,"Jan Palfijn Hospital Heliport",51.04837,3.700179,,EU,BE,BE-VOV,Gent,0,,,,,,,0,2017-06-29T20:36:09+00:00
+43735,EBHL,heliport,"Halen heliport",50.93083190917969,5.0813889503479,121,EU,BE,BE-VLI,Halen,0,EBHL,,,,,,0,2009-03-21T16:49:37+00:00
+43736,EBHA,heliport,"Ham heliport",51.07935333251953,5.109154224395752,98,EU,BE,BE-VLI,Ham,0,EBHA,,,,,,0,2009-03-21T16:49:39+00:00
+43740,EBHM,heliport,"Maasland heliport",50.90972137451172,5.348888874053955,164,EU,BE,BE-VLI,Hasselt,0,EBHM,,,,,,0,2009-03-21T16:49:47+00:00
+43730,EBHO,heliport,"Holsbeek heliport",50.919676,4.768925,82,EU,BE,BE-VBR,Holsbeek,0,EBHO,,,,,,0,2016-08-30T07:13:09+00:00
+43737,EBHT,heliport,"Houthalen heliport",51.01499938964844,5.362500190734863,164,EU,BE,BE-VLI,Houthalen,0,EBHT,,,,,,0,2009-03-21T16:49:41+00:00
+324055,EBKR,heliport,"Kruishoutem / SONS Heliport",50.891528,3.500812,198,EU,BE,BE-VOV,Kruishoutem,0,EBKR,,,,,,0,2017-06-24T10:38:52+00:00
+323958,EBGA,heliport,"UZ Leuven Hospital Heliport",50.8773,4.672744,,EU,BE,BE-VBR,Leuven,0,EBGA,,,,,,0,2017-06-18T02:39:42+00:00
+43755,EBLC,heliport,"Citadelle heliport",50.65342712402344,5.577610969543457,531,EU,BE,BE-WLG,Liège,0,EBLC,,,,,,0,2009-03-21T16:50:18+00:00
+43759,EBLS,heliport,"Sart Tilman heliport",50.571388244628906,5.565278053283691,771,EU,BE,BE-WLG,Liège,0,EBLS,,,,,,0,2009-03-21T16:50:26+00:00
+43754,EBMS,heliport,"Bra heliport",50.321624755859375,5.731153964996338,1230,EU,BE,BE-WLG,Lierneu,0,EBMS,,,,,,0,2009-03-21T16:50:16+00:00
+324058,EPLX,heliport,"Lierneux / Centre Hospitalier Spécial l'Accueil Heliport",50.286812,5.788844,1411,EU,BE,BE-WLG,Lierneux,0,EBLX,,,,,,0,2017-06-24T12:36:23+00:00
+323969,BE-0010,heliport,"Lint Heliport",51.136214,4.47898,36,EU,BE,BE-VAN,Lint,0,EBLT,,,,,,0,2017-06-24T09:24:12+00:00
+323959,EBGE,heliport,"Grand Hôpital de Charleroi (GHDC Asbl) Heliport",50.37581,4.486308,,EU,BE,BE-WHT,Loverval,0,EBGE,,,,,,0,2017-06-18T03:31:43+00:00
+43729,EBMA,closed,"Westmalle heliport",51.287224,4.714167,88,EU,BE,BE-VAN,Malle,0,EBMA,,,,,,0,2016-09-20T07:44:07+00:00
+323971,EBMW,heliport,"Meise/Wolvertem Heliport",50.948076,4.296012,,EU,BE,BE-VBR,Meise,0,EBMW,,,,,,0,2019-02-02T02:42:20+00:00
+323968,EBLM,heliport,"Meulebeke Heliport",50.931667,3.293889,,EU,BE,BE-VWV,Meulebeke,0,EBLM,,,,,,0,2017-06-18T12:13:52+00:00
+323793,EBBM,heliport,"Brakel/Michelbeke Heliport",50.830885,3.774096,,EU,BE,BE-VOV,Michelbeke,0,EBBM,,,,,,0,2017-06-11T11:53:43+00:00
+300107,EBCH,closed,"Casteau / SHAPE Helipad",50.503056,3.982501,287,EU,BE,BE-WHT,Mons,0,EBCT,,,,,"Supreme Headquarters Allied Powers Europe, NATO",0,2017-06-24T12:11:40+00:00
+43751,EBMT,heliport,"Montigny-Le-Tilleul heliport",50.358604431152344,4.368843078613281,656,EU,BE,BE-WHT,Montigny-Le-Tilleul,0,EBMT,,,,,,0,2009-03-21T16:50:10+00:00
+43741,EBNE,small_airport,"Neerpelt ULM",51.211945,5.478611,148,EU,BE,BE-VLI,Neerpelt,0,EBNE,,,,,,0,2016-08-22T05:46:24+00:00
+323973,BE-0011,heliport,"Neerpelt/Tilburgs Heliport",51.240015,5.417956,,EU,BE,BE-VLI,Neerpelt,0,EBNP,,,,,,0,2017-06-18T12:54:11+00:00
+324063,EBNL,heliport,"Nijlen Heliport",51.173888,4.665832,21,EU,BE,BE-VAN,Nijlen,0,EBNL,,,,,,0,2017-06-24T17:43:50+00:00
+323972,EBNK,heliport,"Nokere/Suys Heliport",50.879358,3.520104,,EU,BE,BE-VOV,Nokere,0,EBNK,,,,,,0,2017-06-18T12:48:41+00:00
+43746,EBNH,heliport,"Oostende heliport",51.19444274902344,2.854722023010254,13,EU,BE,BE-VWV,Oostende,0,EBNH,,,,,,0,2009-03-21T16:49:59+00:00
+323974,EBOB,heliport,"Oud-Heverlee/Blanden Heliport",50.822638,4.709018,,EU,BE,BE-VBR,Oud-Heverlee,0,EBOB,,,,,,0,2017-06-18T12:58:01+00:00
+43721,EBEN,heliport,"Engels heliport",51.211666107177734,4.5808329582214355,33,EU,BE,BE-VAN,Ranst,0,EBEN,,,,,,0,2009-03-21T16:49:07+00:00
+43728,EBRO,heliport,"Van Den Bosch heliport",51.209720611572266,4.587500095367432,33,EU,BE,BE-VAN,Ranst,0,EBRO,,,,,,0,2009-03-21T16:49:22+00:00
+323970,EBLY,heliport,"Ranst/Lymar Heliport",51.210662,4.576811,,EU,BE,BE-VAN,Ranst,0,EBLY,,,,,,0,2017-06-18T12:31:47+00:00
+43742,EBRR,heliport,"Rumbeke heliport",50.91,3.148056,79,EU,BE,BE-VWV,Roeselare,0,EBRR,,,,,,0,2016-08-25T06:29:39+00:00
+43745,EBRB,closed,"Beveren heliport",50.981667,3.125833,84,EU,BE,BE-VWV,Roeselare,0,EBRB,,,,,,0,2016-11-13T05:58:03+00:00
+43732,EBVU,heliport,"Rotselaar heliport",50.93916702270508,4.730556011199951,30,EU,BE,BE-VBR,Rotselaar,0,EBVU,,,,,,0,2009-03-21T16:49:31+00:00
+43726,EBAS,heliport,"'s Gravenwezel heliport",51.246944427490234,4.542778015136719,20,EU,BE,BE-VAN,Schilde,0,EBAS,,,,,,0,2009-03-21T16:49:18+00:00
+43733,EBSW,heliport,"Sint-Pieters-Leeuw heliport",50.76403045654297,4.219226837158203,197,EU,BE,BE-VBR,Sint-Pieters-Leeuw,0,EBSW,,,,,,0,2009-03-21T16:49:33+00:00
+43744,EBTE,closed,"Temse heliport",51.141666,4.197222,30,EU,BE,BE-VOV,Temse,0,EBTE,,,,,,0,2016-11-13T05:56:14+00:00
+43722,EBTK,heliport,"Kasterlee heliport",51.283866,4.912238,80,EU,BE,BE-VAN,Tielen,0,EBTK,,,,,,0,2016-09-14T10:01:25+00:00
+43752,EBTR,closed,"Trazegnies heliport",50.476665,4.355556,574,EU,BE,BE-WHT,Trazegnies,0,EBTR,,,,,,0,2016-11-15T05:16:45+00:00
+324064,EBVN,heliport,"Vlimmeren Heliport",51.306523,4.806653,76,EU,BE,BE-VAN,Vlimmeren,0,EBVN,,,,,https://www.belgocontrol.be/opersite/eaip/eAIP_Next/html/eAIP/EB-AD-3.EBVN-en-GB.html#EBVN-AD-3.1,0,2017-06-24T20:47:42+00:00
+323975,EBWA,heliport,"Waasmunster Heliport",51.122683,4.127796,,EU,BE,BE-VOV,Waasmunster,0,EBWA,,,,,,0,2017-06-18T13:03:33+00:00
+323977,EBWI,heliport,"Wingene Heliport",51.064444,3.259167,,EU,BE,BE-VWV,Wingene,0,EBWI,,,,,,0,2017-06-18T15:39:20+00:00
+323978,EBWZ,heliport,"Wingene/Zwevezele Heliport",51.052033,3.238951,,EU,BE,BE-VWV,Wingene,0,EBWZ,,,,,,0,2017-06-18T15:42:46+00:00
+323979,EBYP,heliport,"Regionaal Ziekenhuis Jan Yperman VZW Hospital Heliport",50.863486,2.896702,,EU,BE,BE-VWV,Ypres,0,EBYP,,,,,,0,2017-06-18T15:47:23+00:00
+43747,EBZO,heliport,"Zandvoorde heliport",50.817279808799995,2.9745644331000003,102,EU,BE,BE-VWV,Zonnebeke,0,EBZO,,,,,,0,2012-10-21T18:35:45+00:00

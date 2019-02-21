@@ -1,0 +1,40 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3,AGGH,medium_airport,"Honiara International Airport",-9.4280004501343,160.05499267578,28,OC,SB,SB-CT,Honiara,1,AGGH,HIR,,,http://en.wikipedia.org/wiki/Honiara_International_Airport,"Henderson Field",875,2015-07-19T22:21:22+00:00
+4,AGGM,medium_airport,"Munda Airport",-8.327969551086426,157.26300048828125,10,OC,SB,SB-WE,,1,AGGM,MUA,,,http://en.wikipedia.org/wiki/Munda_Airport,,800,2008-12-30T14:07:23+00:00
+35172,AGAT,small_airport,"Uru Harbour Airport",-8.87333,161.011002,,OC,SB,SB-ML,Atoifi,1,AGAT,ATD,,,https://en.wikipedia.org/wiki/Uru_Harbour_Airport,,450,2016-06-02T05:14:54+00:00
+30634,AGGA,small_airport,"Gwaunaru'u Airport",-8.70257,160.682007,5,OC,SB,SB-ML,Auki,1,AGGA,AKS,,,http://en.wikipedia.org/wiki/Auki_Airport,,450,2018-05-19T19:25:08+00:00
+30678,AGGE,small_airport,"Ballalae Airport",-6.990745,155.886656,5,OC,SB,SB-WE,Ballalae,1,AGGE,BAS,,,http://en.wikipedia.org/wiki/Balalae_Airport,,450,2011-10-06T10:37:29+00:00
+35167,AGGF,small_airport,"Fera/Maringe Airport",-8.1075,159.576996,,OC,SB,SB-IS,"Fera Island",1,AGGF,FRE,,,https://en.wikipedia.org/wiki/Fera_Airport,"Santa Isabel Islands",450,2016-06-02T05:46:41+00:00
+35168,SO-GTA,small_airport,"Gatokae Airport",-8.739167,158.203056,70,OC,SB,SB-WE,Gatokae,1,AGOK,GTA,,,http://en.wikipedia.org/wiki/Gatokae_Aerodrome,,450,2013-04-04T00:10:39+00:00
+31563,AGGN,small_airport,"Nusatupe Airport",-8.09778022766,156.863998413,13,OC,SB,SB-WE,Gizo,1,AGGN,GZO,,,http://en.wikipedia.org/wiki/Nusatupe_Airport,,450,2011-11-11T16:05:15+00:00
+35169,AGKG,small_airport,"Kaghau Airport",-7.3305,157.585,30,OC,SB,SB-CH,"Kagau Island",1,AGKG,KGE,,,http://en.wikipedia.org/wiki/Kaghau_Airport,"Kagau Island",450,2014-12-04T20:08:21+00:00
+31686,AGGK,small_airport,"Ngorangora Airport",-10.449700355500001,161.897994995,54,OC,SB,SB-MK,Kirakira,1,AGGK,IRA,,,http://en.wikipedia.org/wiki/Kirakira_Airport,,450,2014-12-23T02:02:24+00:00
+32238,AGGU,small_airport,"Marau Airport",-9.861669540409999,160.824996948,,OC,SB,SB-GU,Marau,1,AGGU,RUS,,,http://en.wikipedia.org/wiki/Marau_Airport,,450,2011-10-05T00:42:54+00:00
+31885,AGGI,small_airport,"Babanakira Airport",-9.7475004196167,159.83900451660156,,OC,SB,SB-GU,Mbambanakira,1,AGGI,MBU,,,,"Mbambanakira Airport",450,2008-12-31T16:10:00+00:00
+35170,AGRM,small_airport,"Ramata Airport",-8.168060302734375,157.64300537109375,,OC,SB,SB-WE,Ramata,1,AGRM,RBV,,,http://en.wikipedia.org/wiki/Ramata_Airport,,450,2008-12-30T14:12:40+00:00
+35171,AGGR,small_airport,"Rennell/Tingoa Airport",-11.533900260925293,160.06300354003906,,OC,SB,SB-RB,"Rennell Island",1,AGGR,RNL,,,,,450,2008-12-30T14:10:15+00:00
+32275,AGGL,small_airport,"Santa Cruz/Graciosa Bay/Luova Airport",-10.72029972076416,165.7949981689453,18,OC,SB,SB-TE,"Santa Cruz/Graciosa Bay/Luova",1,AGGL,SCZ,,,,,450,2008-12-30T14:07:23+00:00
+31932,AGGO,small_airport,"Mono Airport",-7.416940212249756,155.56500244140625,,OC,SB,SB-WE,"Stirling Island",1,AGGO,MNY,,,http://en.wikipedia.org/wiki/Mono_Airport,,450,2009-03-03T14:51:32+00:00
+32564,AGGV,small_airport,"Suavanao Airport",-7.585559844970703,158.7310028076172,,OC,SB,SB-IS,Suavanao,1,AGGV,VAO,,,,,450,2008-12-30T14:07:23+00:00
+32570,AGBA,small_airport,"Barakoma Airport",-7.912779808044434,156.70599365234375,,OC,SB,SB-WE,Barakoma,0,AGBA,VEV,,,,,50,2008-12-30T14:07:23+00:00
+31524,AGEV,small_airport,"Geva Airport",-7.575829982757568,156.5970001220703,,OC,SB,SB-WE,Liangia,0,AGEV,GEF,,,,,50,2008-12-30T14:07:23+00:00
+32174,AGGP,small_airport,"Parasi Airport",-9.641670227050781,161.4250030517578,,OC,SB,SB-ML,Parasi,0,AGGP,PRS,,,,,50,2008-12-30T14:07:23+00:00
+32211,AGRC,small_airport,"Ringi Cove Airport",-8.12639045715332,157.14300537109375,,OC,SB,SB-WE,"Ringi Cove",0,AGRC,RIN,,,,,50,2008-12-30T14:07:23+00:00
+30989,AGGS,small_airport,"Sege Airport",-8.578889846801758,157.87600708007812,,OC,SB,SB-WE,Sege,0,AGGS,EGM,,,,,50,2008-12-30T14:07:23+00:00
+32578,SB-VIU,small_airport,"Viru Harbour Airstrip",-8.5085,157.69,130,OC,SB,SB-WE,Viru,0,AGVH,VIU,,,,,50,2013-11-20T14:49:44+00:00
+302291,AGGC,small_airport,"Choiseul Bay Airport",-6.711944,156.396111,,OC,SB,SB-CH,,1,AGGC,CHY,,,http://en.wikipedia.org/wiki/Choiseul_Bay_Airport,,0,2016-06-01T07:50:37+00:00
+301837,AGGJ,small_airport,"Avu Avu Airport",-9.86833333333,160.410555556,25,OC,SB,SB-GU,,0,AGGJ,AVU,,,,,0,2012-06-24T17:08:37+00:00
+301759,ANH,closed,"Anuha Island Resort Airport",-9.00138888889,160.225,22,OC,SB,SB-CE,"Anhua Island",0,,ANH,,,,,0,2012-06-17T16:39:10+00:00
+302047,AGGB,small_airport,"Bellona/Anua Airport",-11.302222222200001,159.798333333,60,OC,SB,SB-RB,Anua,1,AGGB,BNY,,,http://en.wikipedia.org/wiki/Bellona/Anua_Airport,,0,2012-07-15T15:56:38+00:00
+302290,AGAR,small_airport,"Ulawa Airport",-9.86054358262,161.979546547,40,OC,SB,SB-MK,Arona,0,AGAR,RNA,,,http://en.wikipedia.org/wiki/Ulawa_Airport,,0,2012-09-15T16:42:41+00:00
+302402,BPF,small_airport,"Batuna Aerodrome",-8.56202777778,158.119305556,24,OC,SB,SB-WE,"Batuna Mission Station",0,AGBT,BPF,,,,,0,2013-04-03T23:21:58+00:00
+301649,AGAF,small_airport,"Afutara Aerodrome",-9.19138888889,160.948611111,23,OC,SB,SB-ML,Bila,1,AGAF,AFT,,,http://en.wikipedia.org/wiki/Afutara_Airport,,0,2012-06-10T14:13:33+00:00
+310179,AGKU,small_airport,"Kukudu Airport",-8.0262,156.94783,32,OC,SB,SB-WE,"Kolombangara Island",0,AGKU,KUE,,,,Kukundu,0,2013-12-15T02:40:27+00:00
+308424,AGKW,small_airport,"Kwailabesi Airport",-8.360508,160.775127,52,OC,SB,SB-ML,Kwailabesi,0,AGKW,KWS,,,,,0,2013-12-15T02:55:36+00:00
+299315,AGGQ,closed,"Ontong Java Atoll Airstrip",-5.515,159.527777778,10,OC,SB,SB-ML,"Ontong Java Atoll",0,AGGQ,OTV,,,,"Luangiua, Lord Howe Atoll",0,2011-09-03T01:33:28+00:00
+308425,AGGT,small_airport,"Santa Ana Airport",-10.847994,162.454108,3,OC,SB,SB-MK,"Santa Ana Island",1,AGGT,NNB,,,http://en.wikipedia.org/wiki/Santa_Ana_Airport_(Solomon_Islands),,0,2013-04-04T01:58:48+00:00
+310002,AGNA,small_airport,"Nana Airport",-10.6758,162.2049,60,OC,SB,SB-MK,"Star Harbor",0,AGNA,NAZ,,,,,0,2013-11-20T15:36:52+00:00
+316417,TAA,closed,"Tarapaina Airport",-9.414,161.358,80,OC,SB,SB-ML,Tarapaina,0,,TAA,,,,,0,2015-11-22T11:22:29+00:00
+306999,AGTI,heliport,"Tulaghi Heliport",-9.108,160.149166667,3,OC,SB,SB-CE,"Tulaghi Island",0,AGTI,TLG,,,,Tulagi,0,2012-09-02T18:19:38+00:00
+302292,AGGY,small_airport,"Yandina Airport",-9.092816,159.21841,60,OC,SB,SB-CE,Yandina,1,AGGY,XYA,,,http://en.wikipedia.org/wiki/Yandina_Airport,,0,2016-06-02T09:38:19+00:00

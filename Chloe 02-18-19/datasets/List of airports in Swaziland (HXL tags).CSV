@@ -1,0 +1,18 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2872,FDMS,medium_airport,"Matsapha Airport",-26.52899932861328,31.3075008392334,2075,AF,SZ,SZ-MA,Manzini,1,FDMS,MTS,,,http://en.wikipedia.org/wiki/Matsapha_Airport,,875,2008-08-13T13:34:43+00:00
+29704,FDBS,small_airport,"Big Bend Sugar E Airport",-26.799999237060547,31.899999618530273,541,AF,SZ,SZ-LU,"Big Bend",0,FDBS,,,,,,50,2008-08-13T13:36:05+00:00
+31105,FDBM,small_airport,"Matata Airport",-26.867000579833984,31.933000564575195,500,AF,SZ,SZ-LU,"Big Bend",0,FDBM,,,,,,50,2008-08-13T13:34:35+00:00
+31106,FDBT,small_airport,"Tambuti Airport",-26.735200881958008,31.77589988708496,595,AF,SZ,SZ-LU,"Big Bend",0,FDBT,,,,,,50,2008-08-13T13:34:37+00:00
+41312,FDUB,small_airport,"Ubombo Ranches Airport",-26.77079963684082,31.936399459838867,,AF,SZ,SZ-LU,"Big Bend",0,FDUB,,,,,,50,2008-08-13T13:34:57+00:00
+41311,FDKB,small_airport,"Kubuta Airport",-26.881528,31.488889,1555,AF,SZ,SZ-SH,"Kubuta B",0,FDKB,,,,,,50,2017-06-24T10:53:53+00:00
+41310,FDGL,small_airport,"Lavumisa Airport",-27.320100784301758,31.889799118041992,563,AF,SZ,SZ-SH,Lavumisa,0,FDGL,,,,,,50,2008-08-13T13:34:38+00:00
+30135,FDMH,small_airport,"Mhlume Airport",-26.024200439453125,31.809999465942383,926,AF,SZ,SZ-LU,Mhlume,0,FDMH,,,,,,50,2008-08-13T13:34:41+00:00
+30259,FDNG,small_airport,"Piggs Peak Airport",-25.766666412353516,31.366666793823242,1410,AF,SZ,SZ-HH,Ngonini,0,FDNG,,,,,,50,2008-08-13T13:34:45+00:00
+30185,FDNH,small_airport,"Nhlangano Airport",-27.119494,31.212118,3522,AF,SZ,SZ-SH,Nhlangano,0,FDNH,,,,,,50,2017-05-08T10:22:45+00:00
+31108,FDNS,small_airport,"Nsoko Airport",-27.033300399780273,31.933332443237305,614,AF,SZ,SZ-LU,Nsoko,0,FDNS,,,,,,50,2008-08-13T13:34:49+00:00
+30416,FDSM,small_airport,"Simunye Airport",-26.200000762939453,31.933332443237305,673,AF,SZ,SZ-LU,Simunye,0,FDSM,,,,,,50,2008-08-13T13:34:51+00:00
+31109,FDST,small_airport,"Siteki Airport",-26.450000762939453,31.950000762939453,2220,AF,SZ,SZ-LU,Siteki,0,FDST,,,,,,50,2008-08-13T13:34:52+00:00
+30466,FDTM,small_airport,"Tambankulu Airport",-26.100000381469727,31.9666805267334,811,AF,SZ,SZ-LU,Tambankulu,0,FDTM,,,,,,50,2008-08-13T13:34:54+00:00
+30495,FDTS,small_airport,"Tshaneni Airport",-25.983333587646484,31.200000762939453,1020,AF,SZ,SZ-LU,Tshaneni,0,FDTS,,,,,,50,2008-08-13T13:34:56+00:00
+308033,FDSK,medium_airport,"King Mswati III International Airport",-26.358611,31.716944,1092,AF,SZ,SZ-LU,Manzini,1,FDSK,SHO,,http://www.swacaa.co.sz/airports/sikhuphe/,http://en.wikipedia.org/wiki/Sikhuphe_International_Airport,"Sikhuphe International Airport",0,2017-05-07T11:15:55+00:00

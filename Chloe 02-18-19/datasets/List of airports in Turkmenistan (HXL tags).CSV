@@ -1,0 +1,23 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+26380,UTAA,large_airport,"Ashgabat International Airport",37.986801,58.361,692,AS,TM,TM-A,Ashgabat,1,UTAA,ASB,,,https://en.wikipedia.org/wiki/Ashgabat_International_Airport,"Saparmurat Turkmenbashy International Airport",1050,2019-01-13T12:10:01+00:00
+26382,UTAM,medium_airport,"Mary Airport",37.6194,61.896702,728,AS,TM,TM-M,Mary,1,UTAM,MYP,,,https://en.wikipedia.org/wiki/Mary_International_Airport,,275,2016-06-23T03:47:45+00:00
+26381,UTAK,medium_airport,"Turkmenbashi Airport",40.063301,53.007198,279,AS,TM,TM-B,Krasnovodsk,1,UTAK,KRW,,,https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport,,875,2016-06-23T03:48:05+00:00
+26384,UTAV,medium_airport,"Turkmenabat Airport",39.08330154418945,63.61330032348633,630,AS,TM,TM-L,Türkmenabat,1,UTAV,CRZ,,,http://en.wikipedia.org/wiki/Turkmenabat_Airport,"Turkmenabad Airport, Chardzhou Airport, Аэропорт Туркменабат, Аэропорт Туркменабад , Аэропорт Чарджоу, چهارجوی",875,2009-04-24T12:32:21+00:00
+26383,UTAT,medium_airport,"Daşoguz Airport",41.761101,59.826698,272,AS,TM,TM-D,Daşoguz,1,UTAT,TAZ,,,https://en.wikipedia.org/wiki/Da%C5%9Foguz_Airport,"Tashauz Airport, Dashkhovuz, Dashhowuz, Dashoguz, Dasoguz, Дашогуз",275,2016-06-23T03:46:50+00:00
+6397,TM-UT52,medium_airport,"Mary North Airport",37.66429901123047,61.82699966430664,728,AS,TM,TM-M,Mary,0,,,,,,UT52,250,2009-01-12T11:03:07+00:00
+6391,UT1F,small_airport,"Yangadzha Airport",40.03810119628906,53.3286018371582,-20,AS,TM,TM-B,,0,,,,,,UT1F,50,2009-01-12T11:04:03+00:00
+6390,UT1E,small_airport,"Pitnyak Airport",41.1244010925293,61.41529846191406,358,AS,TM,TM-L,Amudar'ya,0,,,,,,UT1E,50,2009-01-12T11:03:27+00:00
+6392,UT1G,small_airport,"Ashgabat Bezmein Airport",38.012001037597656,58.19499969482422,920,AS,TM,TM-A,Ashgabat,0,,,,,,"Aktepe, Ak-Tepe, Ashkhabad Northwest, Актепе, Ак-Тепе, Безмеин, Ашхабад Северозападный, UT1G",50,2009-04-22T04:23:23+00:00
+6393,UT1H,small_airport,"Balkanabat Airport",39.480598,54.366001,5,AS,TM,TM-B,Balkanabat,1,,BKN,,,https://en.wikipedia.org/wiki/Balkanabat_Airport,"Nebit Dag, Балканабат, UT1H",50,2016-06-23T03:46:12+00:00
+6394,UT1J,small_airport,"Cheleken East Airport",39.410499572753906,53.19820022583008,-43,AS,TM,TM-B,Cheleken,0,,,,,,"Аэропорт Челекен, UT1J",50,2009-04-24T12:43:28+00:00
+6399,TM-UT56,small_airport,"Gaurdak Airport",37.80590057373047,65.96549987792969,1085,AS,TM,TM-L,Gaurdak,0,,,,,,UT56,50,2009-01-12T10:49:40+00:00
+6396,TM-UT51,small_airport,"Kerki Airport",37.808998107910156,65.2125015258789,770,AS,TM,TM-L,Kerki,0,,,,,http://en.wikipedia.org/wiki/Kerki_Airport,"UT51, Kerkiçi",50,2009-01-12T10:39:57+00:00
+6398,TM-UT55,small_airport,"Kizyl-Arvat Airport",38.98419952392578,56.356998443603516,338,AS,TM,TM-B,Kizyl-Arvat,0,,,,,,UT55,50,2009-01-12T11:02:52+00:00
+6395,TM-UT50,small_airport,"Saraghs Southeast Airport",36.49190139770508,61.26649856567383,902,AS,TM,TM-M,Saraghs,0,,,,,,"Serakhs, Sarakhs, UT50",50,2009-01-12T11:03:48+00:00
+6400,TM-UT58,small_airport,"Kala-I-Mor Airport",35.662899017333984,62.5547981262207,1329,AS,TM,TM-M,Turkmenkarakul,0,,,,,,"Kalai Mor Airport, UT58",50,2009-08-11T18:49:25+00:00
+44980,TM-0004,small_airport,"Kizyl Atrek Northwest Airport",37.7489497946,54.679877758,,AS,TM,TM-B,,0,,,,,,,0,2009-09-04T07:55:55+00:00
+44983,TM-0005,small_airport,"Kizyl Atrek West Airport",37.6529245108,54.7513103485,,AS,TM,TM-B,,0,,,,,,,0,2009-09-04T08:05:42+00:00
+44342,TM-0001,small_airport,"Bekdash Airport",41.547000885009766,52.612998962402344,,AS,TM,TM-B,Bekdash,0,,,,,,"Аэропорт Бекдаш",0,2009-04-22T15:02:36+00:00
+44383,TM-0002,closed,"Dzhebel Air Base",39.68000030517578,54.20000076293945,,AS,TM,TM-B,Dzhebel,0,,,,,,"Аэродром Джебел",0,2009-04-24T12:58:18+00:00
+44420,TM-0003,small_airport,"Gyaurs Airfield",37.85499954223633,58.790000915527344,,AS,TM,TM-A,Gyaurs,0,,,,,,"Аэродром Гяурс",0,2009-05-02T18:02:43+00:00

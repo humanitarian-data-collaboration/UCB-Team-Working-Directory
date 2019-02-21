@@ -1,0 +1,9 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3170,HBBA,medium_airport,"Bujumbura International Airport",-3.3240199089050293,29.318500518798828,2582,AF,BI,BI-BJ,Bujumbura,1,HBBA,BJM,,,http://en.wikipedia.org/wiki/Bujumbura_International_Airport,,1050,2008-06-13T14:30:04+00:00
+307094,HBBO,small_airport,"Kirundo Airport",-2.544772,30.094575,4511,AF,BI,BI-U-A,Kirundo,1,HBBO,KRE,,,http://en.wikipedia.org/wiki/Kirundo_Airport,,0,2012-09-11T09:34:32+00:00
+31529,HBBE,small_airport,"Gitega Airport",-3.417209,29.911308,5741,AF,BI,BI-GI,Gitega,0,HBBE,GID,,,https://en.wikipedia.org/wiki/Gitega_Airport,Kitega,50,2016-06-22T03:35:23+00:00
+310972,HBBK,small_airport,"Gihohi Airport",-4.0342,30.1318,4065,AF,BI,BI-RT,Gihohi,0,HBBK,,,,,,0,2014-02-10T22:23:08+00:00
+318986,BI-0002,small_airport,"Mwumba Airport",-2.879447,29.832178,,AF,BI,BI-NG,Ngozi,0,,,,,,,0,2016-06-22T03:40:50+00:00
+318984,HBBL,closed,"Nyanza-Lac Airport",-4.339434,29.598245,2559,AF,BI,BI-MA,Nyanza-Lac,0,HBBL,,,,https://en.wikipedia.org/wiki/Nyanza-Lac_Airport,,0,2016-06-22T03:34:25+00:00
+318985,BI-0001,small_airport,"Ruyigi Airport",-3.471335,30.231303,,AF,BI,BI-RY,Ruyigi,0,,,,,,,0,2016-06-22T03:38:45+00:00

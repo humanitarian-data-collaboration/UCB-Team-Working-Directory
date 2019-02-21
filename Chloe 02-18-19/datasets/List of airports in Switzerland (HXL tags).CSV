@@ -1,0 +1,92 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4505,LSZH,large_airport,"Zürich Airport",47.464699,8.54917,1416,EU,CH,CH-ZH,Zurich,1,LSZH,ZRH,,http://www.zurich-airport.com/,https://en.wikipedia.org/wiki/Zurich_Airport,,1025475,2018-09-21T03:05:35+00:00
+4490,LSGG,large_airport,"Geneva Cointrin International Airport",46.23809814453125,6.108950138092041,1411,EU,CH,CH-GE,Geneva,1,LSGG,GVA,,http://www.gva.ch/,http://en.wikipedia.org/wiki/Geneva_Cointrin_International_Airport,,51275,2009-01-30T17:54:37+00:00
+4503,LSZB,medium_airport,"Bern Belp Airport",46.914100647,7.497149944309999,1674,EU,CH,CH-BE,Bern,1,LSZB,BRN,,http://www.flughafenbern.ch/,http://en.wikipedia.org/wiki/Berne_Airport,,975,2010-09-02T14:50:18+00:00
+4492,LSGS,medium_airport,"Sion Airport",46.219600677500004,7.326759815220001,1585,EU,CH,CH-VS,Sion,0,LSGS,SIR,,http://www.sionairport.ch,http://en.wikipedia.org/wiki/Sion_Airport,LSMS,300,2010-12-28T14:37:28+00:00
+4506,LSZR,medium_airport,"St Gallen Altenrhein Airport",47.4850006104,9.560770034789998,1306,EU,CH,CH-SG,Altenrhein,1,LSZR,ACH,,,http://en.wikipedia.org/wiki/St._Gallen-Altenrhein_Airport,,975,2010-09-01T11:45:40+00:00
+4507,LSZS,medium_airport,"Samedan Airport",46.53409957885742,9.884110450744629,5600,EU,CH,CH-GR,,0,LSZS,SMV,,,,,250,2008-06-13T14:30:04+00:00
+4502,LSZA,medium_airport,"Lugano Airport",46.00429916379999,8.9105796814,915,EU,CH,CH-TI,Lugano,1,LSZA,LUG,,,http://en.wikipedia.org/wiki/Lugano_Airport,,975,2010-09-01T13:21:53+00:00
+4504,LSZG,medium_airport,"Grenchen Airport",47.181599,7.41719,1411,EU,CH,CH-SO,Grenchen,0,LSZG,ZHI,,http://www.airport-grenchen.ch/,https://en.wikipedia.org/wiki/Grenchen_Airport,,250,2017-08-16T15:09:28+00:00
+29523,LSZL,small_airport,"Locarno Airport",46.160800933800004,8.87860965729,650,EU,CH,CH-TI,Locarno,0,LSZL,ZJI,,,http://en.wikipedia.org/wiki/Locarno_Airport,,50,2013-04-10T01:02:31+00:00
+29496,LSGL,small_airport,"Lausanne-Blécherette Airport",46.54529953,6.61667013168,2041,EU,CH,CH-VD,Lausanne,0,LSGL,QLS,,http://www.lausanne-airport.ch,http://en.wikipedia.org/wiki/Lausanne_Airport,,50,2014-10-08T14:57:42+00:00
+4489,LSGC,medium_airport,"Les Eplatures Airport",47.083900451699996,6.792840003970001,3368,EU,CH,CH-NE,"La Chaux-de-Fonds",0,LSGC,,,http://www.leseplaturesairport.ch,http://en.wikipedia.org/wiki/Les_Eplatures_Airport,,300,2010-12-28T14:34:09+00:00
+29519,LSZF,small_airport,"Birrfeld Airport",47.4436,8.23361,1300,EU,CH,CH-AG,,0,LSZF,,,http://www.birrfeld.ch/,,,50,2017-03-17T16:07:54+00:00
+29495,LSGE,small_airport,"Ecuvillens Airport",46.755001068115234,7.076109886169434,2293,EU,CH,CH-FR,,0,LSGE,,,,,,50,2008-06-13T14:30:04+00:00
+4491,LSGK,small_airport,"Saanen Airport",46.4874992371,7.25083017349,3307,EU,CH,CH-BE,Saanen,0,LSGK,,,http://www.air-sarina.ch,,,50,2010-12-28T14:34:55+00:00
+46492,LSZC,small_airport,"Buochs Airport",46.974444,8.396944,1475,EU,CH,CH-NW,Buochs,0,LSZC,BXO,,http://www.airportbuochs.ch/,https://en.wikipedia.org/wiki/Buochs_Airport,LSMU,0,2016-06-08T02:35:18+00:00
+29497,LSGN,small_airport,"Neuchatel Airport",46.9575004578,6.86471986771,1427,EU,CH,CH-NE,,0,LSGN,QNC,,http://www.neuchatel-airport.ch,,,50,2009-09-25T14:51:55+00:00
+29494,LSGB,small_airport,"Bex Airport",46.25830078125,6.986390113830566,1312,EU,CH,CH-VD,Bex,0,LSGB,,,,,,50,2008-06-13T14:30:04+00:00
+29510,LSPL,small_airport,"Langenthal Airport",47.18280029296875,7.741390228271484,1575,EU,CH,CH-BE,,0,LSPL,,,,,,50,2008-06-13T14:30:04+00:00
+30327,LSGR,small_airport,"Reichenbach Air Base",46.61360168457031,7.6777801513671875,2385,EU,CH,CH-BE,,0,LSGR,,,,,,50,2008-06-13T14:30:04+00:00
+29499,LSGT,small_airport,"Gruyeres Airport",46.594200134277344,7.09443998336792,2257,EU,CH,CH-FR,,0,LSGT,,,,,,50,2008-06-13T14:30:04+00:00
+29513,LSPV,small_airport,"Wangen-Lachen Airport",47.2047,8.8675,1335,EU,CH,CH-SZ,,0,LSPV,,,http://www.flugplatzwangen.ch/,,,50,2017-03-17T16:05:29+00:00
+29498,LSGP,small_airport,"La Côte Airport",46.40639877319336,6.258059978485107,1352,EU,CH,CH-VD,"La Côte",0,LSGP,,,,,,50,2008-06-13T14:30:04+00:00
+4500,LSPM,small_airport,"Ambri Airport",46.512501,8.68978,3241,EU,CH,CH-TI,Quinto,0,LSPM,,,http://www.ambri-airport.ch,https://en.wikipedia.org/wiki/Ambri_Airport,,50,2016-09-29T16:23:05+00:00
+31852,LSTA,small_airport,"Raron Airport",46.3036003112793,7.823329925537109,2029,EU,CH,CH-VS,Raron,0,LSTA,,,,,LSMN,50,2009-01-08T08:28:56+00:00
+29500,LSGY,small_airport,"Yverdon-les-Bains Airport",46.7619018555,6.61332988739,1421,EU,CH,CH-VD,Yverdon-les-Bains,0,LSGY,,,http://www.lsgy.ch,,,50,2009-09-25T14:52:59+00:00
+29526,LSZP,small_airport,"Biel-Kappelen Airport",47.08919906616211,7.289999961853027,1437,EU,CH,CH-BE,,0,LSZP,,,,,,50,2008-06-13T14:30:04+00:00
+29507,LSPG,small_airport,"Kagiswil Airport",46.9082984924,8.254170417789998,1525,EU,CH,CH-OW,,0,LSPG,,,http://www.airportlspg.ch/,,,50,2015-03-26T12:14:43+00:00
+29518,LSZE,small_airport,"Bad Ragaz Airport",47.01499938964844,9.481940269470215,1617,EU,CH,CH-SG,,0,LSZE,,,,,,50,2008-06-13T14:30:04+00:00
+29522,LSZK,small_airport,"Speck-Fehraltorf Airport",47.376399993896484,8.757499694824219,1748,EU,CH,CH-ZH,,0,LSZK,,,,,,50,2008-06-13T14:30:04+00:00
+29524,LSZN,small_airport,"Hausen am Albis Airport",47.23860168457031,8.515560150146484,1928,EU,CH,CH-ZH,,0,LSZN,,,,,,50,2008-06-13T14:30:04+00:00
+29530,LSZW,small_airport,"Thun Airport",46.756401062,7.60056018829,1837,EU,CH,CH-BE,Thun,0,LSZW,,,http://www.thun-airfield.ch,,"Thun airport, Flugplatz Thun, FVT",50,2011-04-14T16:49:15+00:00
+29528,LSZU,small_airport,"Buttwil Airport",47.26470184326172,8.302499771118164,2372,EU,CH,CH-AG,,0,LSZU,,,,,,50,2008-06-13T14:30:04+00:00
+4501,LSTS,small_airport,"St Stephan Airport",46.497398376464844,7.412569999694824,3304,EU,CH,CH-BE,,0,LSTS,,,,,,50,2008-06-13T14:30:04+00:00
+30588,LSTZ,small_airport,"Zweisimmen Airport",46.5525016784668,7.380559921264648,3068,EU,CH,CH-BE,,0,LSTZ,,,,,,50,2008-06-13T14:30:04+00:00
+29515,LSTO,small_airport,"Motiers Airport",46.91669845581055,6.614999771118164,2402,EU,CH,CH-NE,,0,LSTO,,,,,,50,2008-06-13T14:30:04+00:00
+4494,LSMD,medium_airport,"Dübendorf Air Base",47.398601532,8.648229599,1470,EU,CH,CH-ZH,Zurich,0,LSMD,,,,,,250,2014-07-10T12:46:42+00:00
+29511,LSPN,small_airport,"Triengen Airport",47.22669982910156,8.078060150146484,1594,EU,CH,CH-LU,,0,LSPN,,,http://www.flyingranch.ch,http://de.wikipedia.org/wiki/Triengen,"Lucerne, Trisa",50,2008-12-11T08:36:21+00:00
+30169,LSPU,small_airport,"Muenster Aero Airport",46.48030090332031,8.263330459594727,4380,EU,CH,CH-VS,,0,LSPU,,,,,,50,2008-06-13T14:30:04+00:00
+29525,LSZO,small_airport,"Luzern-Beromunster Airport",47.189998626708984,8.204719543457031,2146,EU,CH,CH-LU,Lucerne,0,LSZO,,,,,,50,2008-06-13T14:30:04+00:00
+29520,LSZI,small_airport,"Flugplatz Fricktal-Schupfart",47.5089,7.95,1788,EU,CH,CH-AG,Schupfart,0,LSZI,,,,,,50,2017-06-12T04:48:21+00:00
+300136,LSZQ,small_airport,"Bressaucourt Airport",47.392677,7.028648,1866,EU,CH,CH-JU,Bressaucourt,0,LSZQ,,,http://www.aerojura.ch/default.asp,,,0,2011-12-12T12:20:38+00:00
+4498,LSMP,medium_airport,"Payerne Air Base",46.8432,6.91506004333,1465,EU,CH,CH-FR,,0,LSMP,,,,http://en.wikipedia.org/wiki/Payerne_Airport,,250,2015-11-03T14:10:41+00:00
+4496,LSMF,medium_airport,"Mollis Airport",47.07889938354492,9.06482982635498,1485,EU,CH,CH-GL,,0,LSMF,,,http://www.flugplatz-mollis.ch/,http://de.wikipedia.org/wiki/Mollis#Milit.C3.A4rflugplatz,,250,2008-11-28T08:10:17+00:00
+4497,LSMM,small_airport,"Meiringen Airport",46.74330139160156,8.109999656677246,1895,EU,CH,CH-BE,,0,LSMM,,,,,,50,2008-06-13T14:30:04+00:00
+29501,LSMI,closed,"Interlaken Air Base",46.6766014,7.8790798,,EU,CH,CH-BE,,0,LSMI,ZIN,,,,,50,2015-07-06T14:57:50+00:00
+29521,LSZJ,small_airport,"Courtelary Airport",47.18360137939453,7.090829849243164,2247,EU,CH,CH-BE,,0,LSZJ,,,,,,50,2008-06-13T14:30:04+00:00
+30614,LSZD,closed,"Ascona Airport",46.157798767100005,8.78194046021,655,EU,CH,CH-TI,Ascona,0,LSZD,ACO,,,,,50,2010-08-24T07:12:57+00:00
+29503,LSML,small_airport,"Lodrino Air Base",46.2958984375,8.992130279541016,,EU,CH,CH-TI,Lodrino,0,LSML,,,,,,50,2008-07-14T08:45:10+00:00
+29527,LSZT,small_airport,"Lommis Airfield",47.524399,9.00306,1539,EU,CH,CH-TG,Lommis,0,LSZT,,,https://www.mfgt.ch/flugplatz/,,,50,2017-03-17T16:15:14+00:00
+29532,LSZY,closed,"Porrentruy Airport",47.4105987549,7.0516700744600005,1427,EU,CH,CH-JU,Porrentruy,0,LSZY,,,,,,50,2011-12-29T09:22:52+00:00
+4495,LSME,medium_airport,"Emmen Air Base",47.092444,8.305184,1400,EU,CH,CH-LU,,0,LSME,EML,,https://saf.hermannkeist.ch/emmen.html,https://en.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Emmen,,250,2016-05-15T09:43:56+00:00
+4493,LSMA,medium_airport,"Alpnach Air Base",46.943901,8.28417,1460,EU,CH,CH-OW,Alpnach,0,LSMA,,,,https://en.wikipedia.org/wiki/Alpnach_Air_Base,,250,2016-06-08T02:33:34+00:00
+29505,LSPD,small_airport,"Dittingen Airport",47.4385986328125,7.491390228271484,1758,EU,CH,CH-BL,,0,LSPD,,,,,,50,2008-06-13T14:30:04+00:00
+30389,LSXV,closed,"San Vittore Airport",46.2342,9.09417,869,EU,CH,CH-GR,,0,LSXV,,,,,,50,2016-05-27T11:59:30+00:00
+29531,LSZX,small_airport,"Schanis Airport",47.17169952392578,9.039440155029297,1365,EU,CH,CH-SG,,0,LSZX,,,,,,50,2008-06-13T14:30:04+00:00
+29506,LSPF,small_airport,"Schaffhausen Airport",47.69060134887695,8.52694034576416,1519,EU,CH,CH-SH,,0,LSPF,,,,,,50,2008-06-13T14:30:04+00:00
+29502,LSMJ,closed,"Turtman Air Base",46.30260086,7.713950157,,EU,CH,CH-VS,Turtman,0,LSMJ,,,,,,50,2015-07-06T15:07:02+00:00
+320391,CH-0004,small_airport,"Altiport du Glacier de Tsanfleuron",46.3206526,7.2328797,,EU,CH,CH-U-A,,0,,,,,,"Tsanfleuron,Diablerets",0,2016-09-20T03:08:11+00:00
+316432,CH-0002,small_airport,"Altiport de Croix de Coeur",46.12338,7.23425,,EU,CH,CH-VS,,0,,,,,,,0,2015-11-28T06:13:28+00:00
+319833,CH-0003,small_airport,"Altisurface du Glacier de Prasfleuri",46.064289,7.354317,,EU,CH,CH-VS,,0,,,,,,Prasfleuri,0,2017-09-23T14:24:18+00:00
+324197,LSXU,heliport,"Untervaz Heliport",46.912621,9.55081,,EU,CH,CH-GR,Untervaz,0,LSXU,,,,,,0,2017-07-02T02:14:32+00:00
+43112,LSER,heliport,"Raron Heliport",46.30159378051758,7.833206653594971,,EU,CH,CH-VS,Raron,1,LSER,,,,,,300,2009-01-19T12:09:58+00:00
+29692,LSTB,small_airport,"Bellechasse Airport",46.979400634765625,7.1322197914123535,1421,EU,CH,CH-FR,,0,LSTB,,,,,,50,2008-06-13T14:30:04+00:00
+29512,LSPO,small_airport,"Olten Airport",47.344398498535156,7.889440059661865,,EU,CH,CH-SO,,0,LSPO,,,,,,50,2008-07-14T08:45:10+00:00
+29529,LSZV,small_airport,"Sitterdorf Airport",47.5088996887207,9.26278018951416,1660,EU,CH,CH-TG,,0,LSZV,,,,,,50,2008-06-13T14:30:04+00:00
+29660,LSPA,small_airport,"Amlikon Glider Airport",47.57419967651367,9.047499656677246,1371,EU,CH,CH-TG,,0,LSPA,,,,,,50,2008-06-13T14:30:04+00:00
+29516,LSTR,small_airport,"Montricher Airport",46.590301513671875,6.400559902191162,2178,EU,CH,CH-VD,,0,LSTR,,,,,,50,2008-06-13T14:30:04+00:00
+29509,LSPK,closed,"Flugplatz Hasenstrick",47.279999,8.88194,,EU,CH,CH-ZH,,0,LSPK,,,http://www.hasenstrick.ch/,,,50,2016-11-20T11:17:01+00:00
+29508,LSPH,small_airport,"Winterthur Airport",47.5149993896,8.77194023132,1506,EU,CH,CH-ZH,Winterthur,0,LSPH,,,,,,50,2012-11-24T18:50:27+00:00
+324883,LSHI,heliport,"Inselspital Hospital Heliport",46.948295,7.424303,1880,EU,CH,CH-BE,Berne,0,LSHI,,,,,,0,2017-09-04T23:34:22+00:00
+324129,LSHC,heliport,"Collombey-Muraz Heliport",46.268501,6.959773,,EU,CH,CH-VS,Collombey-Muraz,0,LSHC,,,,,,0,2017-06-28T12:50:20+00:00
+43110,LSHG,heliport,"Gampel Heliport",46.30929946899414,7.72681999206543,,EU,CH,CH-VS,Gampel,0,LSHG,,,,,,0,2009-01-17T23:44:52+00:00
+329912,GVA,large_airport,Airport,0,0,,EU,CH,CH-GE,Geneva,0,,GVA,,,,,0,2019-01-02T16:27:03+00:00
+324130,LSXG,heliport,"Gsteigwiler Heliport",46.647697,7.878219,,EU,CH,CH-BE,Gsteigwiler,0,LSXG,,,,,,0,2017-06-28T13:12:59+00:00
+43114,LSXH,heliport,"Holziken Heliport",47.31432342529297,8.026514053344727,,EU,CH,CH-AG,Holziken,0,LSXH,,,,,,0,2009-01-19T12:13:49+00:00
+324185,LSXL,heliport,"Lauterbrunnen Heliport",46.585497,7.913509,,EU,CH,CH-BE,Lauterbrunnen,0,LSXL,,,,,,0,2017-07-01T15:22:55+00:00
+43092,LSXY,heliport,"Leysin  Heliport",46.341800689697266,7.020400047302246,,EU,CH,CH-VD,Leysin,0,LSXY,,,,,,0,2009-01-17T17:57:05+00:00
+43116,LSXR,heliport,"Lodrino Heliport",46.2901725769043,8.992927551269531,,EU,CH,CH-TI,Lodrino,0,LSXR,,,,,,0,2009-01-19T12:20:21+00:00
+324872,CH-0007,closed,"Ulrichen Air Base",46.50193,8.299415,,EU,CH,CH-VS,Obergoms,0,LSMC,,,,,,0,2017-09-03T19:28:21+00:00
+43113,LSXP,heliport,"Pfaffnau Heliport",47.235130310058594,7.910009860992432,,EU,CH,CH-LU,Pfaffnau,0,LSXP,,,,,,0,2009-01-19T12:12:04+00:00
+43117,CH-0001,heliport,"San Vittore Heliport",46.231624603271484,9.089531898498535,,EU,CH,CH-GR,"San Vittore",0,LSXV,,,,,,0,2009-01-19T12:21:55+00:00
+43197,LSXS,heliport,"Schindellegi Heliport",47.169883728027344,8.715649604797363,,EU,CH,CH-SZ,Schindellegi,0,LSXS,,,,,,0,2009-01-26T20:10:47+00:00
+323492,CH-0012,small_airport,"[Duplicate] Fricktal-Schupfart Airfield",47.508889,7.95,1788,EU,CH,CH-AG,Schupfart,0,LSZI,,,,,,0,2017-06-12T04:47:28+00:00
+324871,CH-0006,heliport,"Helipad Station Corvatsch",46.417793,9.820909,10837,EU,CH,CH-GR,Silvaplana,0,,,,,,,0,2017-09-03T19:20:13+00:00
+324870,CH-0005,heliport,"Helipad Klinik Gut (St. Moritz)",46.4965,9.83847,,EU,CH,CH-GR,"St Moritz",0,,,,,,,0,2017-09-03T19:08:36+00:00
+324892,LSXM,heliport,"St Moritz-Bad Heliport",46.47895,9.82422,,EU,CH,CH-GR,"St Moritz",0,LSXM,,,,,,0,2017-09-06T17:50:50+00:00
+43118,LSXO,heliport,"St. Gallen-Winkeln Heliport",47.40549850463867,9.290300369262695,,EU,CH,CH-SG,"St. Gallen",0,LSXO,,,http://www.tsis.ch/heli/heliport/stgallen-winkeln.php,,,0,2009-06-20T10:51:34+00:00
+43115,LSXW,heliport,"Würenlingen Heliport",47.535614013671875,8.246105194091797,,EU,CH,CH-AG,Würenlingen,0,LSXW,,,,,,0,2009-01-19T12:15:52+00:00
+43111,LSEZ,heliport,"Zermatt  Heliport",46.029319763183594,7.753366470336914,,EU,CH,CH-VS,Zermatt,0,LSEZ,,,,,,0,2009-01-19T12:08:13+00:00
+329913,ZRH,large_airport,Airport,0,0,,EU,CH,CH-ZH,Zurich,0,,ZRH,,,,,0,2019-01-02T16:30:53+00:00

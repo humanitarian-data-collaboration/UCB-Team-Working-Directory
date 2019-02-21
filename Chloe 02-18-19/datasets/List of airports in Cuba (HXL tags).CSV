@@ -1,0 +1,136 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4839,MUHA,large_airport,"José Martí International Airport",22.989200592041016,-82.40910339355469,210,NA,CU,CU-03,Havana,1,MUHA,HAV,,,http://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD_International_Airport,Habana,1200,2008-06-13T14:30:04+00:00
+4859,MUVR,large_airport,"Juan Gualberto Gomez International Airport",23.034400939941406,-81.435302734375,210,NA,CU,CU-04,Varadero,1,MUVR,VRA,,,http://en.wikipedia.org/wiki/Juan_Gualberto_G%C3%B3mez_Airport,,1200,2008-06-13T14:30:04+00:00
+4840,MUHG,medium_airport,"Frank Pais International Airport",20.785600662231445,-76.31510162353516,361,NA,CU,CU-11,Holguin,1,MUHG,HOG,,,http://en.wikipedia.org/wiki/Frank_Pa%C3%ADs_Airport,,1050,2008-10-17T19:57:18+00:00
+4854,MUSC,medium_airport,"Abel Santamaria Airport",22.49220085144043,-79.943603515625,338,NA,CU,CU-05,"Santa Clara",0,MUSC,SNU,,,http://en.wikipedia.org/wiki/Abel_Santa_Mar%C3%ADa_Airport,,250,2008-10-17T19:57:31+00:00
+4835,MUCU,medium_airport,"Antonio Maceo International Airport",19.96980094909668,-75.83540344238281,249,NA,CU,CU-13,Santiago,1,MUCU,SCU,,,http://en.wikipedia.org/wiki/Antonio_Maceo_Airport,,1050,2008-10-17T19:57:16+00:00
+4850,MUOC,closed,"Cayo Coco Airport",22.513200759900002,-78.51100158690001,6,NA,CU,CU-08,"Cayo Coco",0,MUOC,,,,http://en.wikipedia.org/wiki/Cayo_Coco_Airport,CCC,800,2011-08-13T17:20:11+00:00
+4834,MUCM,medium_airport,"Ignacio Agramonte International Airport",21.420299530029297,-77.84750366210938,413,NA,CU,CU-09,Camaguey,1,MUCM,CMW,,,http://en.wikipedia.org/wiki/Ignacio_Agramonte_International_Airport,,875,2008-10-17T19:57:22+00:00
+4837,MUGM,medium_airport,"Leeward Point Field",19.906499862671,-75.207099914551,56,NA,CU,CU-14,"Guantanamo Bay Naval Station",0,MUGM,NBW,,,https://en.wikipedia.org/wiki/Leeward_Point_Field,"Gitmo, Leeward Point Fld",275,2015-09-06T10:16:47+00:00
+4829,MUCA,medium_airport,"Maximo Gomez Airport",22.027099609375,-78.78959655761719,335,NA,CU,CU-08,"Ciego de Avila",1,MUCA,AVI,,,http://en.wikipedia.org/wiki/M%C3%A1ximo_G%C3%B3mez_Airport,,875,2008-10-17T19:57:27+00:00
+4831,MUCC,medium_airport,"Jardines Del Rey Airport",22.461000442499998,-78.32839965820001,13,NA,CU,CU-08,"Cayo Coco",1,MUCC,CCC,,,http://en.wikipedia.org/wiki/Jardines_del_Rey_Airport,"Cayo Coco",400,2011-08-13T17:22:04+00:00
+4827,MUBR,small_airport,"Las Brujas Airport",22.621299743699996,-79.1472015381,13,NA,CU,CU-07,"Cayo Santa Maria",0,MUBR,BWW,,,http://en.wikipedia.org/wiki/Las_Brujas_Airport_(Cuba),,50,2011-05-30T16:38:00+00:00
+4833,MUCL,medium_airport,"Vilo Acuña International Airport",21.6165008545,-81.5459976196,10,NA,CU,CU-99,"Cayo Largo del Sur",1,MUCL,CYO,,,http://en.wikipedia.org/wiki/Vilo_Acu%C3%B1a_Airport,,875,2014-08-16T01:27:49+00:00
+4832,MUCF,medium_airport,"Jaime Gonzalez Airport",22.149999618530273,-80.41419982910156,102,NA,CU,CU-06,Cienfuegos,1,MUCF,CFG,,,http://en.wikipedia.org/wiki/Jaime_Gonz%C3%A1lez_Airport,"Las Villas Airport",875,2008-10-17T19:57:27+00:00
+4838,MUGT,medium_airport,"Mariana Grajales Airport",20.08530044555664,-75.1583023071289,56,NA,CU,CU-14,Guantánamo,1,MUGT,GAO,,,http://en.wikipedia.org/wiki/Mariana_Grajales_Airport,"Aerodromo los Caños",875,2008-12-22T17:07:04+00:00
+4849,MUNG,medium_airport,"Rafael Cabrera Airport",21.834699630737305,-82.78379821777344,79,NA,CU,CU-99,"Nueva Gerona",1,MUNG,GER,,,http://en.wikipedia.org/wiki/Rafael_P%C3%A9rez_Airport,,875,2008-10-17T19:57:27+00:00
+4856,MUSN,medium_airport,"Siguanea Airport",21.642499923706055,-82.9551010131836,39,NA,CU,CU-99,"Isla de la Juventud",0,MUSN,SZJ,,,,,250,2008-10-17T19:57:25+00:00
+4841,MUKW,medium_airport,"Kawama Airport",23.1240005493,-81.3015975952,16,NA,CU,CU-04,Matanzas,0,MUKW,VRO,,,http://en.wikipedia.org/wiki/Kawama_Airport,,250,2012-04-29T15:50:47+00:00
+4846,MUMO,medium_airport,"Orestes Acosta Airport",20.653900146484375,-74.92220306396484,16,NA,CU,CU-11,Moa,0,MUMO,MOA,,,http://en.wikipedia.org/wiki/Orestes_Acosta_Airport,,250,2008-10-17T19:57:17+00:00
+32336,MUSJ,medium_airport,"San Julian Air Base",22.095300674438477,-84.1520004272461,98,NA,CU,CU-01,"Pinar Del Rio",0,MUSJ,SNJ,,,,,250,2008-06-13T14:30:04+00:00
+4830,MUCB,small_airport,"Caibarién Airport",22.506399154663086,-79.46980285644531,50,NA,CU,CU-05,Caibarién,0,MUCB,,,,,,50,2008-06-13T14:30:04+00:00
+42287,MUCD,small_airport,"Ciego De Avila Sur Airport",21.821199417114258,-78.75669860839844,131,NA,CU,CU-08,"Ciego de Avila",0,MUCD,,,,,,50,2008-10-17T19:57:27+00:00
+42288,MUCV,small_airport,"Las Clavellinas Airport",22.228700637817383,-84.37200164794922,19,NA,CU,CU-01,"Las Clavellinas",0,MUCV,,,,,,50,2008-10-17T19:57:28+00:00
+42301,MUMT,small_airport,"Matanzas Airport",23.010000228881836,-81.51000213623047,9,NA,CU,CU-04,Matanzas,0,MUMT,,,,,,50,2008-10-17T19:57:41+00:00
+46436,CU-0068,small_airport,"Mieles Airport",22.971156367299997,-81.12980604170001,33,NA,CU,CU-04,,0,,,,,,,0,2010-04-29T05:51:09+00:00
+46431,CU-0063,small_airport,"Jutiera Airport",22.6163878048,-79.72889900210001,66,NA,CU,CU-05,,0,,,,,,,0,2010-04-28T18:11:03+00:00
+42749,CU-0015,closed,"McCalla Field",19.911500930786,-75.164199829102,,NA,CU,CU-14,"Guantanamo Bay Naval Station",0,,,,,https://en.wikipedia.org/wiki/McCalla_Field,,0,2015-09-06T10:19:27+00:00
+4826,MUBA,medium_airport,"Gustavo Rizo Airport",20.365299224853516,-74.5062026977539,26,NA,CU,CU-14,Baracoa,1,MUBA,BCA,,,http://en.wikipedia.org/wiki/Gustavo_Rizo_Airport,,875,2008-06-13T14:30:04+00:00
+4828,MUBY,medium_airport,"Carlos Manuel de Cespedes Airport",20.396400451660156,-76.62139892578125,203,NA,CU,CU-12,Bayamo,1,MUBY,BYM,,,http://en.wikipedia.org/wiki/Carlos_Manuel_C%C3%A9spedes_Airport,,800,2008-06-13T14:30:04+00:00
+4860,MUVT,medium_airport,"Hermanos Ameijeiras Airport",20.987600326538086,-76.93579864501953,328,NA,CU,CU-10,"Las Tunas",1,MUVT,VTU,,,http://en.wikipedia.org/wiki/Hermanos_Ameijeiras_Airport,,800,2008-10-17T19:57:19+00:00
+4847,MUMZ,medium_airport,"Sierra Maestra Airport",20.28809928894043,-77.08920288085938,112,NA,CU,CU-12,Manzanillo,1,MUMZ,MZO,,,http://en.wikipedia.org/wiki/Sierra_Maestra_Airport,,800,2008-10-17T19:57:17+00:00
+4858,MUTD,medium_airport,"Alberto Delgado Airport",21.788299560546875,-79.99720001220703,125,NA,CU,CU-07,Trinidad,1,MUTD,TND,,,,,800,2008-10-17T19:57:26+00:00
+4843,MULM,medium_airport,"La Coloma Airport",22.33609962463379,-83.64189910888672,131,NA,CU,CU-01,"Pinar del Rio",0,MULM,LCL,,,,,250,2008-10-17T19:57:29+00:00
+4852,MUPR,medium_airport,"Pinar Del Rio Airport",22.42140007019043,-83.67839813232422,131,NA,CU,CU-01,"Pinar del Rio",0,MUPR,QPD,,,,,250,2008-10-17T19:57:31+00:00
+4848,MUNB,medium_airport,"San Nicolas De Bari Airport",22.756099700927734,-81.9208984375,49,NA,CU,CU-02,"San Nicolás",0,MUNB,QSN,,,,,250,2008-10-17T19:57:36+00:00
+42279,MUAT,small_airport,"Antilla Airport",20.83880043029785,-75.73280334472656,6,NA,CU,CU-11,Antilla,0,MUAT,,,,,,50,2008-10-17T19:57:19+00:00
+42296,CU-0012,small_airport,"Artemisa Airport",22.751699447631836,-82.73619842529297,141,NA,CU,CU-02,Artemisa,0,,,,,,,50,2008-10-17T19:57:36+00:00
+31965,MUBO,small_airport,"Batabanó Airport",22.718599319458008,-82.26860046386719,,NA,CU,CU-02,Batabanó,0,MUBO,,,,,,50,2008-07-14T08:45:11+00:00
+42298,MUCY,small_airport,"Cayajabo Airport",22.864444732666016,-82.8558349609375,259,NA,CU,CU-02,Cayajabo,0,MUCY,,,,,,50,2008-10-17T19:57:38+00:00
+31966,MUCO,small_airport,"Colón Airport",22.7110996246,-80.92279815670001,,NA,CU,CU-04,Colón,0,MUCO,QCO,,,,,50,2010-01-23T09:38:11+00:00
+42276,CU-0001,small_airport,"Corral de Rio Airport",19.93779945373535,-76.78939819335938,1,NA,CU,CU-13,"Corral de Rio",0,,,,,,,50,2008-10-17T19:57:16+00:00
+42282,CU-0005,small_airport,"El Caney Airport",21.316999435424805,-78.45149993896484,9,NA,CU,CU-09,"El Caney",0,,,,,,,50,2008-10-17T19:57:22+00:00
+42290,MUBE,small_airport,"El Caribe Airport",22.351200103759766,-83.39900207519531,29,NA,CU,CU-01,"El Caribe",0,MUBE,,,,,,50,2008-10-17T19:57:30+00:00
+42294,CU-0010,small_airport,"El Frances Airport",22.617900848388672,-82.9281997680664,16,NA,CU,CU-01,"El Frances",0,,,,,,,50,2008-10-17T19:57:34+00:00
+4836,MUFL,small_airport,"Florida Airport",21.49970054626465,-78.20279693603516,197,NA,CU,CU-09,Florida,0,MUFL,,,,,,50,2008-10-17T19:57:23+00:00
+42284,MUGA,small_airport,"Central Agramonte Airport",21.549999237060547,-78.23332977294922,196,NA,CU,CU-09,Florida,0,MUGA,,,,,,50,2008-10-17T19:57:24+00:00
+4851,MUPB,medium_airport,"Playa Baracoa Airport",23.032800674399997,-82.5793991089,102,NA,CU,CU-02,Havana,1,MUPB,UPB,,,http://en.wikipedia.org/wiki/Playa_Baracoa_Airport,,50,2011-04-16T08:13:23+00:00
+4842,MULB,small_airport,"Ciudad Libertad Airport",23.093900680541992,-82.43810272216797,98,NA,CU,CU-03,Havana,0,MULB,,,,,,50,2008-10-17T19:57:41+00:00
+42299,CU-0013,small_airport,"SanPedro Highway Airstrip",22.97760009765625,-82.47229766845703,200,NA,CU,CU-03,Havana,0,,,,,,,50,2008-10-17T19:57:39+00:00
+42295,CU-0011,small_airport,"Juan de la Cruz Airport",22.69219970703125,-82.0386962890625,19,NA,CU,CU-02,"Juan de la Cruz",0,,,,,,,50,2008-10-17T19:57:35+00:00
+42292,CU-0009,small_airport,"La Asunción Airport",22.583200454711914,-83.23049926757812,122,NA,CU,CU-01,"La Asunción",0,,,,,,,50,2008-10-17T19:57:32+00:00
+42283,CU-0006,small_airport,"La Olivia Airport",21.469999313354492,-78.46080017089844,22,NA,CU,CU-09,"La Olivia",0,,,,,,,50,2008-10-17T19:57:23+00:00
+42277,MUMA,small_airport,"Punta de Maisi Airport",20.250600814800002,-74.1504974365,3,NA,CU,CU-14,Maisi,0,MUMA,UMA,,,,"ALFREDO NOA DIAZ",50,2011-05-30T16:35:13+00:00
+4844,MUMG,small_airport,"Managua Airport",22.969900131225586,-82.2748031616211,377,NA,CU,CU-03,Managua,0,MUMG,,,,,,50,2008-10-17T19:57:38+00:00
+42281,MUTI,small_airport,"Manati Airport",21.310699462890625,-76.92019653320312,6,NA,CU,CU-10,Manati,0,MUTI,,,,,,50,2008-10-17T19:57:21+00:00
+42289,CU-0008,small_airport,"Mantua Airport",22.256399154663086,-84.31220245361328,78,NA,CU,CU-01,Mantua,0,,,,,,,50,2008-10-17T19:57:29+00:00
+4845,MUML,closed,"Mariel Airport",23.007400512695312,-82.7676010131836,32,NA,CU,CU-02,Mariel,0,MUML,,,,,,50,2009-03-15T14:44:47+00:00
+42293,MUMH,small_airport,"Matahambre Airport",22.587499618530273,-83.94499969482422,396,NA,CU,CU-01,Matahambre,0,MUMH,,,,,,50,2008-10-17T19:57:33+00:00
+31914,MUMJ,small_airport,"Mayajigua Airport",22.23080062866211,-79.06220245361328,173,NA,CU,CU-07,Mayajigua,0,MUMJ,MJG,,,,,50,2008-06-13T14:30:04+00:00
+31664,MUNC,small_airport,"Nicaro Airport",20.688600540161133,-75.53150177001953,26,NA,CU,CU-11,Nicaro,0,MUNC,ICR,,,,,50,2008-06-13T14:30:04+00:00
+42285,MUIV,small_airport,"Nuevitas Airport",21.553800582885742,-77.25859832763672,3,NA,CU,CU-09,Nuevitas,0,MUIV,,,,,,50,2008-10-17T19:57:25+00:00
+42275,MUPL,closed,"Pilon Airport",19.863800048799998,-77.3492965698,51,NA,CU,CU-12,Pilon,0,MUPL,,,,,,50,2011-08-13T17:16:00+00:00
+4855,MUSL,small_airport,"Joaquín de Agüero Airport",21.509455906699998,-77.02059745790001,13,NA,CU,CU-09,"Playa Santa Lucía",0,MUSL,,,,http://en.wikipedia.org/wiki/Joaqu%C3%ADn_de_Ag%C3%BCero_Airport,"Joaquin de Aguero Airport",50,2011-04-16T08:22:48+00:00
+42278,CU-0003,small_airport,"Preston Airport",20.735000610351562,-75.6583023071289,13,NA,CU,CU-11,Preston,0,,PST,,,,,50,2008-10-17T19:57:18+00:00
+42291,MUPA,small_airport,"Punta Alegre Airport",22.3799991607666,-78.81749725341797,82,NA,CU,CU-01,"Punta Alegre",0,MUPA,,,,,,50,2008-10-17T19:57:31+00:00
+42297,MUSG,small_airport,"Sagua La Grande Airport",22.801599502563477,-80.05480194091797,36,NA,CU,CU-05,"Sagua la Grande",0,MUSG,,,,,,50,2008-10-17T19:57:37+00:00
+4853,MUSA,small_airport,"San Antonio De Los Banos Airport",22.87150001525879,-82.5093002319336,164,NA,CU,CU-02,"San Antonio de los Banos",0,MUSA,,,,,,50,2008-10-17T19:57:38+00:00
+42300,CU-0014,small_airport,"San Jose de las Lajas Hgway Airstrip",22.97760009765625,-82.1355972290039,393,NA,CU,CU-02,"San Jose de las Lajas",0,,,,,,,50,2008-10-17T19:57:40+00:00
+42286,CU-0007,small_airport,"San Pedro Airport",21.73740005493164,-79.78050231933594,95,NA,CU,CU-07,"San Pedro",0,,,,,,,50,2008-10-17T19:57:26+00:00
+4857,MUSS,small_airport,"Sancti Spiritus Airport",21.9704,-79.442703,295,NA,CU,CU-07,"Sancti Spiritus",0,MUSS,USS,,,https://en.wikipedia.org/wiki/Sancti_Sp%C3%ADritus_Airport,,50,2016-09-29T16:29:30+00:00
+42280,CU-0004,small_airport,"Guardalavaca Airport",21.111600875900002,-75.8198013306,318,NA,CU,CU-11,Yaguajay,0,MUGV,,,,,,50,2011-05-30T11:51:20+00:00
+43668,CU-0016,small_airport,"La Francia Airfield",22.5331993103,-83.2134017944,66,NA,CU,CU-01,,0,,,,,,,0,2010-04-29T07:13:09+00:00
+46443,CU-0075,small_airport,"Branas Airport",22.603254750599998,-83.0974316597,66,NA,CU,CU-01,,0,,,,,,,0,2010-04-29T07:05:01+00:00
+46444,CU-0076,small_airport,"Alturas Airport",22.934503818099998,-83.2780408859,33,NA,CU,CU-01,,0,,,,,,,0,2010-04-29T07:08:21+00:00
+46445,CU-0077,small_airport,"La Cubana Airport",22.4485848608,-83.18611621859999,37,NA,CU,CU-01,,0,,,,,,,0,2010-04-29T07:18:24+00:00
+46446,CU-0078,small_airport,"Los Zagales Airport",22.423088913,-83.27868461610001,43,NA,CU,CU-01,,0,,,,,,,0,2010-04-29T07:21:50+00:00
+46447,CU-0079,small_airport,"Caserio la Jocuma North Airport",22.4608898627,-83.3620047569,85,NA,CU,CU-01,,0,,,,,,,0,2010-04-29T07:25:57+00:00
+46448,CU-0080,small_airport,"Las Cruces Airport",22.2720603092,-83.4409046173,39,NA,CU,CU-01,,0,,,,,,,0,2010-04-29T07:30:54+00:00
+46440,CU-0072,small_airport,"Aguacate Airport",22.9873554062,-81.8919181824,318,NA,CU,CU-02,,0,,,,,,,0,2010-04-29T06:20:52+00:00
+46442,CU-0074,small_airport,"Guira de Melena Airport",22.783798322,-82.5476861,43,NA,CU,CU-02,,0,,,,,,,0,2010-04-29T06:45:18+00:00
+46441,CU-0073,small_airport,"Santa Fe Airport",23.072506653399998,-82.51148700710002,15,NA,CU,CU-03,,0,,,,,,,0,2010-04-29T06:39:14+00:00
+46434,CU-0066,small_airport,"Marti East Airport",22.9508850794,-80.8931064606,49,NA,CU,CU-04,,0,,,,,,,0,2010-04-28T18:24:14+00:00
+46435,CU-0067,small_airport,"Los Arabos Airport",22.732628893199998,-80.7358646393,243,NA,CU,CU-04,,0,,,,,,,0,2010-04-28T18:28:43+00:00
+46437,CU-0069,small_airport,"Jaguey Grande North Airport",22.5891447298,-81.11180305479999,30,NA,CU,CU-04,,0,,,,,,,0,2010-04-29T05:55:06+00:00
+46438,CU-0070,small_airport,"Giron Airport",22.075300274599996,-81.03833198550001,16,NA,CU,CU-04,,0,,,,,,,0,2010-04-29T05:58:37+00:00
+46439,CU-0071,small_airport,"Union de Reyes Airport",22.803718738399997,-81.498041153,230,NA,CU,CU-04,,0,,,,,,,0,2010-04-29T06:14:32+00:00
+46430,CU-0062,small_airport,"Viejo Airport",22.363074148299997,-79.530544281,656,NA,CU,CU-05,,0,,,,,,,0,2010-04-28T18:07:06+00:00
+46432,CU-0064,small_airport,"Purio Airport",22.683162743399997,-79.8882865906,66,NA,CU,CU-05,,0,,,,,,,0,2010-04-28T18:14:06+00:00
+46433,CU-0065,small_airport,"Las Nuevas Airport",22.9923925162,-80.66475391390001,95,NA,CU,CU-05,,0,,,,,,,0,2010-04-28T18:19:25+00:00
+46462,CU-0081,small_airport,"Las Glorias Airport",22.3923011022,-80.49974441530001,98,NA,CU,CU-06,,0,,,,,,,0,2010-05-12T08:41:07+00:00
+46421,CU-0053,small_airport,"Jatibonico South Airport",21.9045077447,-79.18295145030001,308,NA,CU,CU-07,,0,,,,,,,0,2010-05-10T15:40:50+00:00
+46423,CU-0055,small_airport,"Las Crisis Airport",21.653160351199997,-79.14323329930001,13,NA,CU,CU-07,,0,,,,,,,0,2010-04-28T17:44:16+00:00
+46424,CU-0056,small_airport,"Maria Rayes Airport",21.6649464791,-79.2126488686,46,NA,CU,CU-07,,0,,,,,,,0,2010-04-28T17:47:13+00:00
+46425,CU-0057,small_airport,"Las Obas Airport",21.658066369100002,-79.3397641182,16,NA,CU,CU-07,,0,,,,,,,0,2010-04-28T17:49:52+00:00
+46426,CU-0058,small_airport,"Los Galleguitos East Airport",21.6087592928,-79.25605773930002,39,NA,CU,CU-07,,0,,,,,,,0,2010-04-28T17:52:24+00:00
+46427,CU-0059,small_airport,"El Jibaro Airport",21.722028751699998,-79.2279052734,98,NA,CU,CU-07,,0,,,,,,,0,2010-04-28T17:54:56+00:00
+46428,CU-0060,small_airport,"Los Tamarindos Airport",21.7130183149,-79.29785728450001,66,NA,CU,CU-07,,0,,,,,,,0,2010-04-28T17:57:12+00:00
+46429,CU-0061,small_airport,"Las Guasimas Airport",21.6997009726,-79.39785003659999,33,NA,CU,CU-07,,0,,,,,,,0,2010-04-28T18:00:00+00:00
+46416,CU-0048,small_airport,"Cupeyes Airport",21.872809767599996,-78.5405731201,99,NA,CU,CU-08,,0,,,,,,,0,2010-04-28T17:09:12+00:00
+46417,CU-0049,small_airport,"Moron Airport",22.079277143799995,-78.61979484560001,50,NA,CU,CU-08,,0,,,,,,,0,2010-04-28T17:15:38+00:00
+46418,CU-0050,small_airport,"Pina Airport",22.0153155231,-78.69043350220001,131,NA,CU,CU-08,,0,,,,,,,0,2010-04-28T17:18:29+00:00
+46419,CU-0051,small_airport,"El Asiento Airport",22.2512885393,-78.89616966250001,66,NA,CU,CU-08,,0,,,,,,,0,2010-04-28T17:23:21+00:00
+46420,CU-0052,small_airport,"Adelaide Airport",22.179536722699996,-78.80965232850001,100,NA,CU,CU-08,,0,,,,,,,0,2010-04-28T17:25:34+00:00
+46422,CU-0054,small_airport,"Ramblazon de Reyes Airport",21.679164333099997,-79.0742254257,13,NA,CU,CU-08,,0,,,,,,,0,2010-04-28T17:41:12+00:00
+46400,CU-0032,small_airport,"Jobabo Northwest Airport",20.9102146597,-77.3017787933,131,NA,CU,CU-09,,0,,,,,,,0,2010-05-10T15:36:54+00:00
+46404,CU-0036,small_airport,"Hatuey Airport",21.1791296593,-77.5661373138,361,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T12:02:55+00:00
+46405,CU-0037,small_airport,"Guaicanamar Airport",20.8973856385,-77.9015636444,164,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T12:10:13+00:00
+46406,CU-0038,small_airport,"Fundo de Buena Ventura Airport",20.939316431299996,-78.2203817368,33,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T16:34:51+00:00
+46407,CU-0039,small_airport,"Los Ingleses Airport",20.8250214705,-78.06914806370001,15,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T16:38:53+00:00
+46408,CU-0040,small_airport,"San Carlos Airport",21.057108695599997,-78.1214618683,152,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T16:42:53+00:00
+46409,CU-0041,small_airport,"Las Cruces Airport",21.058470374900004,-78.31767082210001,16,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T16:45:35+00:00
+46410,CU-0042,small_airport,"Vertientes Southwest Airport",21.1318024076,-78.3201813698,65,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T16:48:10+00:00
+46411,CU-0043,small_airport,"Vertientes Airport",21.2392024389,-78.1157541275,243,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T16:51:13+00:00
+46412,CU-0044,small_airport,"Cabera Airport",21.1757682227,-78.36848258970001,33,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T16:53:35+00:00
+46413,CU-0045,small_airport,"El Cenizo Airport",21.200336961,-78.42066764830001,22,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T16:56:45+00:00
+46414,CU-0046,small_airport,"Amansa Guapos Airport",21.2619009001,-78.2346940041,110,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T17:01:17+00:00
+46415,CU-0047,small_airport,"Esmeralda Airport",21.8329782097,-78.13957214359999,130,NA,CU,CU-09,,0,,,,,,,0,2010-04-28T17:05:50+00:00
+46396,CU-0029,small_airport,"El Dormitorio Airport",20.771763774900002,-77.07040071490002,66,NA,CU,CU-10,,0,,,,,,,0,2010-04-26T20:02:02+00:00
+46398,CU-0031,small_airport,"El Congo Airport",21.113327669900002,-76.7704868317,207,NA,CU,CU-10,,0,,,,,,,0,2010-04-26T20:23:06+00:00
+46402,CU-0034,small_airport,"San Jose Northwest Airport",20.869719330099997,-77.4443650246,179,NA,CU,CU-10,,0,,,,,,,0,2010-04-28T11:59:09+00:00
+46403,CU-0035,small_airport,"Francisco Airport",20.798886427499998,-77.598323822,98,NA,CU,CU-10,,0,,,,,,,0,2010-04-28T11:59:35+00:00
+46387,CU-0020,small_airport,"Lora Airport",21.1697254482,-76.4159417152,,NA,CU,CU-11,,0,,,,,,,0,2010-04-26T18:55:13+00:00
+46388,CU-0021,small_airport,"Delicias South Airport",20.6812127177,-76.378455162,,NA,CU,CU-11,,0,,,,,,,0,2010-04-26T19:02:40+00:00
+46389,CU-0022,small_airport,"Caio Voisan Airport",20.4110459473,-76.7945194244,,NA,CU,CU-12,,0,,,,,,,0,2010-04-26T19:16:09+00:00
+46390,CU-0023,small_airport,"Bayamo Northwest Airport",20.4719685352,-76.79989457130002,,NA,CU,CU-12,,0,,,,,,,0,2010-04-26T19:18:42+00:00
+46391,CU-0024,small_airport,"Mateo Roman Airport",20.215972179,-76.9997406006,105,NA,CU,CU-12,,0,,,,,,,0,2010-04-26T19:45:31+00:00
+46392,CU-0025,small_airport,"La Escondida Airport",20.442415047599997,-76.96935653690001,10,NA,CU,CU-12,,0,,,,,,,0,2010-04-26T19:50:28+00:00
+46393,CU-0026,small_airport,"Cayama Nueva Airport",20.496571996100002,-76.9062709808,20,NA,CU,CU-12,,0,,,,,,,0,2010-04-26T19:53:37+00:00
+46394,CU-0027,small_airport,"Guamo Airport",20.655454388599995,-76.9633698463,16,NA,CU,CU-12,,0,,,,,,,0,2010-04-26T19:56:10+00:00
+46395,CU-0028,small_airport,"Puente Guillen Airport",20.7204140038,-77.0022296906,39,NA,CU,CU-12,,0,,,,,,,0,2010-04-26T19:59:23+00:00
+46401,CU-0033,small_airport,"Campechuela Airport",20.2187911667,-77.2972297668,165,NA,CU,CU-12,,0,,,,,,,0,2010-04-28T11:58:33+00:00
+46385,CU-0018,small_airport,"Los Mangos de Baragua Airport",20.4471600722,-75.989921093,,NA,CU,CU-13,,0,,,,,,,0,2010-04-26T18:27:41+00:00
+46386,CU-0019,small_airport,"Altagracia Airport",20.3808370938,-76.1633419991,,NA,CU,CU-13,,0,,,,,,,0,2010-04-26T18:47:50+00:00
+46384,CU-0017,small_airport,"Imias Airport",20.0806814239,-74.62540626530001,,NA,CU,CU-14,Imias,0,,,,,,,0,2010-04-26T18:01:41+00:00
+46397,CU-0030,small_airport,"San German Airport",20.582452108,-76.12431049350002,279,NA,CU,CU-11,"San German",0,,,,,,,0,2010-04-26T20:08:44+00:00

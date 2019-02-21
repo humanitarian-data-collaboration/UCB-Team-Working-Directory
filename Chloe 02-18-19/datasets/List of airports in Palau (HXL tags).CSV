@@ -1,0 +1,5 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5501,PTRO,medium_airport,"Babelthuap Airport",7.36731,134.544236,176,OC,PW,PW-004,"Babelthuap Island",1,PTRO,ROR,ROR,,http://en.wikipedia.org/wiki/Palau_International_Airport,,275,2018-01-02T10:42:41+00:00
+5504,ANG,small_airport,"Angaur Airstrip",6.9068293571499995,134.145385742,20,OC,PW,PW-010,"Angaur Island",0,ANG,,ANG,,http://en.wikipedia.org/wiki/Angaur_Airstrip,,50,2012-11-10T13:16:00+00:00
+5505,C23,small_airport,"Peleliu Airport",7,134.23300170898438,9,OC,PW,PW-350,"Babelthuap Island",0,C23,,C23,,,,50,2008-12-30T09:29:08+00:00

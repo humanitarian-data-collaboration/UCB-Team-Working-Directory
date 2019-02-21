@@ -1,0 +1,214 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5023,NZAA,large_airport,"Auckland International Airport",-37.008098602299995,174.792007446,23,OC,NZ,NZ-AUK,Auckland,1,NZAA,AKL,,http://www.auckland-airport.co.nz/,http://en.wikipedia.org/wiki/Auckland_International_Airport,,51475,2014-01-05T02:58:00+00:00
+5026,NZCH,large_airport,"Christchurch International Airport",-43.48939895629883,172.53199768066406,123,OC,NZ,NZ-CAN,Christchurch,1,NZCH,CHC,,http://www.christchurchairport.co.nz/,http://en.wikipedia.org/wiki/Christchurch_International_Airport,,1275,2008-06-13T14:30:04+00:00
+5063,NZWN,large_airport,"Wellington International Airport",-41.3272018433,174.804992676,41,OC,NZ,NZ-WGN,Wellington,1,NZWN,WLG,,http://www.wellingtonairport.co.nz/,http://en.wikipedia.org/wiki/Wellington_International_Airport,,1275,2010-02-12T14:03:11+00:00
+5051,NZQN,medium_airport,"Queenstown International Airport",-45.0210990906,168.738998413,1171,OC,NZ,NZ-OTA,Queenstown,1,NZQN,ZQN,,,http://en.wikipedia.org/wiki/Queenstown_International_Airport,,800,2010-08-29T23:18:06+00:00
+5028,NZDN,medium_airport,"Dunedin Airport",-45.9281005859375,170.197998046875,4,OC,NZ,NZ-OTA,Dunedin,1,NZDN,DUD,,http://www.dnairport.co.nz/,http://en.wikipedia.org/wiki/Dunedin_International_Airport,,1050,2008-06-13T14:30:04+00:00
+5044,NZNS,medium_airport,"Nelson Airport",-41.298301696777344,173.2209930419922,17,OC,NZ,NZ-NSN,Nelson,1,NZNS,NSN,,http://www.nelsonairport.co.nz/,http://en.wikipedia.org/wiki/Nelson_Airport_(New_Zealand),,800,2009-08-23T20:54:48+00:00
+5060,NZWF,medium_airport,"Wanaka Airport",-44.722198486328,169.24600219727,1142,OC,NZ,NZ-OTA,,1,NZWF,WKA,,,http://en.wikipedia.org/wiki/Wanaka_Airport,"Luggate Airport",800,2015-07-17T12:07:26+00:00
+30001,NZKI,small_airport,"Kaikoura Airport",-42.42499923706055,173.60499572753906,20,OC,NZ,NZ-CAN,,0,NZKI,KBZ,,,,,50,2008-07-18T10:52:57+00:00
+5049,NZPM,medium_airport,"Palmerston North Airport",-40.32059860229492,175.61700439453125,151,OC,NZ,NZ-MWT,,1,NZPM,PMR,,http://www.pnairport.co.nz/index.php,http://en.wikipedia.org/wiki/Palmerston_North_International_Airport,,800,2008-06-13T14:30:04+00:00
+5033,NZHN,medium_airport,"Hamilton International Airport",-37.8666992188,175.332000732,172,OC,NZ,NZ-WKO,Hamilton,1,NZHN,HLZ,,http://www.hamiltonairport.co.nz/,http://en.wikipedia.org/wiki/Hamilton_International_Airport,,800,2010-09-06T15:45:53+00:00
+5045,NZNV,medium_airport,"Invercargill Airport",-46.41239929199219,168.31300354003906,5,OC,NZ,NZ-STL,Invercargill,1,NZNV,IVC,,http://www.invercargillairport.co.nz/index.htm,http://en.wikipedia.org/wiki/Invercargill_Airport,,800,2008-06-13T14:30:04+00:00
+5043,NZNR,medium_airport,"Hawke's Bay Airport",-39.465801,176.869995,6,OC,NZ,NZ-HKB,Napier,1,NZNR,NPE,,http://www.hawkesbay-airport.co.nz/,http://en.wikipedia.org/wiki/Napier_Airport,,800,2016-09-19T03:35:56+00:00
+5052,NZRO,medium_airport,"Rotorua Regional Airport",-38.10919952392578,176.31700134277344,935,OC,NZ,NZ-BOP,Rotorua,1,NZRO,ROT,,,http://en.wikipedia.org/wiki/Rotorua_Regional_Airport,,800,2009-08-23T20:50:01+00:00
+30138,NZMF,small_airport,"Milford Sound Airport",-44.673301696777344,167.92300415039062,10,OC,NZ,NZ-STL,,0,NZMF,MFN,,,,,50,2008-07-18T10:40:34+00:00
+5050,NZPP,medium_airport,"Paraparaumu Airport",-40.904701232910156,174.98899841308594,22,OC,NZ,NZ-WGN,,0,NZPP,PPQ,,,http://en.wikipedia.org/wiki/Paraparaumu_Airport,,250,2008-06-13T14:30:04+00:00
+5031,NZGT,medium_airport,"Glentanner Airport",-43.906700134277344,170.1280059814453,1824,OC,NZ,NZ-CAN,"Glentanner Station",0,NZGT,GTN,,,http://en.wikipedia.org/wiki/Glentanner_Aerodrome,"Lake Pukaki",250,2008-06-13T14:30:04+00:00
+5032,NZHK,medium_airport,"Hokitika Airfield",-42.713600158691406,170.98500061035156,146,OC,NZ,NZ-WTC,,1,NZHK,HKK,,,http://en.wikipedia.org/wiki/Hokitika_Airport,,800,2008-07-18T08:17:54+00:00
+5042,NZNP,medium_airport,"New Plymouth Airport",-39.00859832763672,174.1790008544922,97,OC,NZ,NZ-TKI,"New Plymouth",1,NZNP,NPL,,,http://en.wikipedia.org/wiki/New_Plymouth_Airport,,800,2009-08-23T20:04:23+00:00
+5058,NZWB,medium_airport,"Woodbourne Airport",-41.5182991027832,173.8699951171875,109,OC,NZ,NZ-MBH,Blenheim,1,NZWB,BHE,,,http://en.wikipedia.org/wiki/Woodbourne_Airport,,650,2008-07-18T11:49:40+00:00
+5025,NZAR,medium_airport,"Ardmore Airport",-37.029701232910156,174.97300720214844,111,OC,NZ,NZ-AUK,Manurewa,0,NZAR,AMZ,,http://www.nzar.co.nz/,http://en.wikipedia.org/wiki/Ardmore_Airport,,250,2009-08-10T09:17:52+00:00
+5056,NZTU,medium_airport,"Timaru Airport",-44.302799224853516,171.22500610351562,89,OC,NZ,NZ-CAN,,1,NZTU,TIU,,,http://en.wikipedia.org/wiki/Richard_Pearse_Airport,,800,2008-06-13T14:30:04+00:00
+5066,NZWR,medium_airport,"Whangarei Airport",-35.7682991027832,174.36500549316406,133,OC,NZ,NZ-NTL,,1,NZWR,WRE,,,http://en.wikipedia.org/wiki/Whangarei_Airport,,800,2008-06-13T14:30:04+00:00
+5047,NZOU,medium_airport,"Oamaru Airport",-44.970001220703125,171.08200073242188,99,OC,NZ,NZ-OTA,,1,NZOU,OAM,,,http://en.wikipedia.org/wiki/Oamaru_Aerodrome,,800,2008-06-13T14:30:04+00:00
+5030,NZGS,medium_airport,"Gisborne Airport",-38.663299560546875,177.97799682617188,15,OC,NZ,NZ-GIS,Gisborne,1,NZGS,GIS,,,http://en.wikipedia.org/wiki/Gisborne_Airport,,800,2009-08-23T20:19:35+00:00
+5024,NZAP,medium_airport,"Taupo Airport",-38.73970031738281,176.08399963378906,1335,OC,NZ,NZ-WKO,Taupo,1,NZAP,TUO,,,http://en.wikipedia.org/wiki/Taupo_Airport,,800,2009-08-23T21:09:02+00:00
+5055,NZTG,medium_airport,"Tauranga Airport",-37.67190170288086,176.1959991455078,13,OC,NZ,NZ-BOP,Tauranga,1,NZTG,TRG,,,http://en.wikipedia.org/wiki/Tauranga_Airport,,800,2009-08-23T21:06:23+00:00
+5039,NZMC,medium_airport,"Mount Cook Airport",-43.76499938964844,170.13299560546875,2153,OC,NZ,NZ-CAN,,0,NZMC,MON,,,,,250,2008-06-13T14:30:04+00:00
+5041,NZMS,medium_airport,"Hood Airport",-40.97330093383789,175.63400268554688,364,OC,NZ,NZ-WGN,Masterton,0,NZMS,MRO,,http://www.svas.org.nz/pages/hood_aerodrome_location.htm,http://en.wikipedia.org/wiki/Hood_Aerodrome,,250,2008-06-13T14:30:04+00:00
+5057,NZUK,medium_airport,"Pukaki Airport",-44.2350006104,170.117996216,1575,OC,NZ,NZ-CAN,Twitzel,0,NZUK,TWZ,,,https://en.wikipedia.org/wiki/Pukaki_Airport,,250,2015-08-12T09:04:11+00:00
+30465,NZTL,small_airport,"Tekapo Aerodrome",-44.0052986145,170.444000244,2496,OC,NZ,NZ-CAN,,0,NZTL,,,http://www.airsafaris.co.nz/flights/Tekapo/,,,50,2012-06-06T14:51:36+00:00
+30214,NZOM,small_airport,"Omaka Blenheim Airport",-41.540000915527344,173.9219970703125,102,OC,NZ,NZ-MBH,Blenheim,0,NZOM,,,,,,50,2009-08-23T20:55:24+00:00
+5067,NZWS,medium_airport,"Westport Airport",-41.73809814453125,171.58099365234375,13,OC,NZ,NZ-WTC,,1,NZWS,WSZ,,,http://en.wikipedia.org/wiki/Westport_Airport_(New_Zealand),,800,2008-06-13T14:30:04+00:00
+5046,NZOH,medium_airport,"RNZAF Base Ohakea",-40.20600128173828,175.38800048828125,164,OC,NZ,NZ-MWT,,0,NZOH,OHA,,http://www.airforce.mil.nz/about/hqbases/boh.htm,http://en.wikipedia.org/wiki/RNZAF_Base_Ohakea,,575,2008-07-18T11:42:11+00:00
+29672,NZAS,small_airport,"Ashburton Aerodrome",-43.90330123901367,171.7969970703125,302,OC,NZ,NZ-CAN,,0,NZAS,ASG,,,http://en.wikipedia.org/wiki/Ashburton_Aerodrome,,50,2008-07-18T11:51:49+00:00
+29936,NZHR,small_airport,"Hanmer Springs Airport",-42.55080032348633,172.82699584960938,1109,OC,NZ,NZ-CAN,,0,NZHR,,,http://anzfc.inet.net.nz/hanmer.htm,,,50,2008-12-09T06:09:07+00:00
+30557,NZWL,small_airport,"West Melton Aerodrome",-43.47669982910156,172.39700317382812,312,OC,NZ,NZ-CAN,,0,NZWL,,,,,,50,2008-07-18T10:56:01+00:00
+29877,NZFJ,small_airport,"Franz Josef Aerodrome",-43.36309814453125,170.13400268554688,240,OC,NZ,NZ-WTC,,0,NZFJ,WHO,,,,,50,2008-07-18T10:59:09+00:00
+29917,NZGM,small_airport,"Greymouth Airport",-42.461700439453125,171.19000244140625,10,OC,NZ,NZ-WTC,,0,NZGM,GMN,,,,,50,2008-07-18T11:00:04+00:00
+5034,NZHS,small_airport,"Hastings Aerodrome",-39.646702,176.766998,72,OC,NZ,NZ-HKB,"Bridge Pa",0,NZHS,,,http://www.hbecac.co.nz/,https://en.wikipedia.org/wiki/Hastings_Aerodrome,,50,2016-09-19T03:48:06+00:00
+5061,NZWG,closed,"Wigram Airport",-43.5511016846,172.552993774,74,OC,NZ,NZ-CAN,Christchurch,0,NZWG,,,,http://en.wikipedia.org/wiki/Wigram_Aerodrome,,50,2010-06-25T10:48:28+00:00
+30192,NZNE,small_airport,"North Shore Aerodrome",-36.656700134277344,174.65499877929688,210,OC,NZ,NZ-AUK,"Dairy Flat",0,NZNE,,,,http://en.wikipedia.org/wiki/North_Shore_Aerodrome,"Dairy Flat Airfield",50,2009-08-10T07:52:47+00:00
+42727,NZ-0013,small_airport,Culverden,-42.76765060424805,172.8919677734375,597,OC,NZ,NZ-CAN,"Hurunui District Council",0,,,,http://anzfc.inet.net.nz/culverden.htm,,,50,2008-12-09T19:41:19+00:00
+30358,NZRC,small_airport,"Ryan's Creek Aerodrome",-46.8997,168.100998,62,OC,NZ,NZ-STL,Oban,0,NZRC,SZS,,,https://en.wikipedia.org/wiki/Ryan%27s_Creek_Aerodrome,"stewart island,rakiura",50,2018-05-18T04:28:35+00:00
+30320,NZRT,small_airport,"Rangiora Airfield",-43.290000915527344,172.54200744628906,180,OC,NZ,NZ-CAN,Rangiora,0,NZRT,,,http://www.rangiora.com/pages/rangiora-airport-and-airfield.php,,,50,2009-05-06T08:40:07+00:00
+5036,NZKK,medium_airport,"Kerikeri Airport",-35.26279830932617,173.91200256347656,492,OC,NZ,NZ-NTL,Kerikeri,1,NZKK,KKE,,http://www.kerikeri-airport.co.nz/,http://en.wikipedia.org/wiki/Kerikeri_Airport,,800,2008-06-13T14:30:04+00:00
+5027,NZCI,medium_airport,"Chatham Islands-Tuuta Airport",-43.810001373291016,-176.45700073242188,43,OC,NZ,NZ-WGN,Waitangi,1,NZCI,CHT,,,http://en.wikipedia.org/wiki/Chatham_Islands_/_Tuuta_Airport,Karewa,800,2009-08-10T08:19:51+00:00
+5068,NZWU,medium_airport,"Wanganui Airport",-39.96220016479492,175.02499389648438,27,OC,NZ,NZ-MWT,Wanganui,1,NZWU,WAG,,,http://en.wikipedia.org/wiki/Wanganui_Airport,,800,2009-08-23T21:07:09+00:00
+5065,NZWP,medium_airport,"RNZAF Base Auckland-Whenuapai",-36.78779983520508,174.6300048828125,100,OC,NZ,NZ-AUK,,0,NZWP,,,http://www.airforce.mil.nz/about-us/hq-and-bases/auckland.htm,http://en.wikipedia.org/wiki/RNZAF_Base_Auckland,,500,2008-07-18T11:41:31+00:00
+29873,NZFF,small_airport,"Forest Field Aerodrome",-43.385799407958984,172.36099243164062,381,OC,NZ,NZ-CAN,,0,NZFF,,,,http://en.wikipedia.org/wiki/Forest_Field_Aerodrome,,50,2008-07-18T11:56:05+00:00
+30300,NZPH,small_airport,"Pudding Hill Aerodrome",-43.594200134277344,171.531005859375,1558,OC,NZ,NZ-CAN,,0,NZPH,,,,,,50,2008-07-18T10:56:33+00:00
+29816,NZDV,small_airport,"Dannevirke Aerodrome",-40.22829818725586,176.07899475097656,640,OC,NZ,NZ-MWT,,0,NZDV,,,,http://en.wikipedia.org/wiki/Dannevirke_Aerodrome,,50,2008-07-18T11:54:46+00:00
+29896,NZGY,small_airport,"Glenorchy Airport",-44.871700286865234,168.3979949951172,1260,OC,NZ,NZ-OTA,,0,NZGY,,,,,,50,2008-07-18T10:44:58+00:00
+30475,NZTZ,closed,"Te Anau Airport",-45.4627990723,167.701004028,791,OC,NZ,NZ-STL,,0,NZTZ,,,,,,50,2014-12-10T08:46:03+00:00
+30166,NZMK,small_airport,"Motueka Airport",-41.12329864501953,172.98899841308594,39,OC,NZ,NZ-TAS,,0,NZMK,MZP,,,,,50,2008-09-15T10:11:13+00:00
+30124,NZMA,small_airport,"Matamata Glider Airport",-37.73440170288086,175.74200439453125,180,OC,NZ,NZ-WKO,,0,NZMA,MTA,,,,,50,2008-07-18T11:20:30+00:00
+5029,NZFI,small_airport,"Feilding Airport",-40.25579833984375,175.60499572753906,214,OC,NZ,NZ-MWT,Feilding,0,NZFI,,,,http://en.wikipedia.org/wiki/Feilding_Aerodrome,,50,2008-06-13T14:30:04+00:00
+30267,NZPN,small_airport,"Picton Aerodrome",-41.346099853516,173.95599365234,161,OC,NZ,NZ-MBH,Koromiko,1,NZPN,PCN,,,https://en.wikipedia.org/wiki/Picton_Aerodrome,,50,2015-10-07T01:05:12+00:00
+44829,NZRL,seaplane_base,"Rotorua Lakes Water Aerodrome",-38.08330154418945,176.26699829101562,,OC,NZ,NZ-BOP,"Lake Rotorua",0,NZRL,,,,,,0,2009-08-23T20:50:25+00:00
+5062,NZWK,medium_airport,"Whakatane Airport",-37.92060089111328,176.91400146484375,20,OC,NZ,NZ-BOP,,1,NZWK,WHK,,,http://en.wikipedia.org/wiki/Whakatane_Airport,,800,2008-06-13T14:30:04+00:00
+5037,NZKT,medium_airport,"Kaitaia Airport",-35.06999969482422,173.28500366210938,270,OC,NZ,NZ-NTL,Kaitaia,1,NZKT,KAT,,,http://en.wikipedia.org/wiki/Kaitaia_Airport,,800,2009-08-12T12:23:57+00:00
+5040,NZMO,medium_airport,"Manapouri Airport",-45.53310012817383,167.64999389648438,687,OC,NZ,NZ-STL,,0,NZMO,TEU,,,,,250,2008-06-13T14:30:04+00:00
+5038,NZLX,medium_airport,"Alexandra Airport",-45.211700439453125,169.3730010986328,752,OC,NZ,NZ-OTA,Alexandra,0,NZLX,ALR,,,http://en.wikipedia.org/wiki/Alexandra_Aerodrome,,250,2009-08-10T09:16:43+00:00
+5064,NZWO,medium_airport,"Wairoa Airport",-39.006900787353516,177.40699768066406,42,OC,NZ,NZ-HKB,Wairoa,0,NZWO,WIR,,,,,250,2009-08-23T19:40:49+00:00
+30321,NZRK,small_airport,"Rangitaiki Airfield",-38.88639831542969,176.36399841308594,2323,OC,NZ,NZ-BOP,,0,NZRK,,,,,,50,2008-07-18T10:49:30+00:00
+30215,NZOA,small_airport,"Omarama Glider Airport",-44.486698150634766,169.98599243164062,1381,OC,NZ,NZ-CAN,,0,NZOA,,,,,,50,2008-07-18T10:53:59+00:00
+42261,NZ-0001,small_airport,"Mesopotamia Station Airstrip",-43.641170501708984,170.90237426757812,,OC,NZ,NZ-CAN,,0,,,,http://www.mesopotamia.co.nz/transport.html,,,50,2008-10-12T00:50:46+00:00
+42498,NZ-0002,small_airport,"Arrowsmith Station",-43.46634292602539,171.162353515625,,OC,NZ,NZ-CAN,,0,,,,,,,50,2008-11-23T05:24:06+00:00
+42500,NZ-0004,small_airport,"Hakatere Airstrip",-43.57743835449219,171.17091369628906,2000,OC,NZ,NZ-CAN,,0,,,,,,,50,2008-11-23T05:43:48+00:00
+42502,NZ-0006,closed,"Arkwrights Airstrip/Dunsandel (Private)",-43.6785507202,172.117477417,285,OC,NZ,NZ-CAN,,0,,,,http://anzfc.inet.net.nz/arkwrights.htm,,,50,2013-05-22T10:37:43+00:00
+42503,NZ-0007,small_airport,Dunsandel,-43.68368911743164,172.1490020751953,,OC,NZ,NZ-CAN,,0,,,,,,,50,2008-11-23T19:34:44+00:00
+42504,NZ-0008,small_airport,"Cattle Creek Airstrip",-44.51150131225586,170.6699981689453,,OC,NZ,NZ-CAN,,0,,,,,,,50,2008-11-23T20:20:43+00:00
+42725,NZ-0011,small_airport,"Worthy Lodge airstrip (Ladbrooks)",-43.63935089111328,172.52540588378906,20,OC,NZ,NZ-CAN,,0,,,,,,"Christchurch, Lincoln",50,2008-12-09T05:53:20+00:00
+42726,NZ-0012,small_airport,"Kings (Ladbrooks)",-43.63925552368164,172.53067016601562,20,OC,NZ,NZ-CAN,,0,,,,,,,50,2008-12-09T05:56:12+00:00
+30043,NZKY,small_airport,"Kowhai Aerodrome",-39.846099853515625,176.42300415039062,840,OC,NZ,NZ-HKB,,0,NZKY,,,,,,50,2008-07-18T11:11:19+00:00
+30549,NZYP,small_airport,"Waipukurau Airport",-39.996700286865234,176.53700256347656,430,OC,NZ,NZ-HKB,,0,NZYP,,,,,,50,2008-07-18T11:12:16+00:00
+30351,NZRX,small_airport,"Roxburgh Aerodrome",-45.51169967651367,169.31700134277344,463,OC,NZ,NZ-OTA,,0,NZRX,,,,,,50,2008-07-18T10:42:17+00:00
+30463,NZTI,small_airport,"Taieri Airport",-45.86000061035156,170.35800170898438,92,OC,NZ,NZ-OTA,,0,NZTI,,,,,,50,2008-07-18T10:44:08+00:00
+42506,NZ-0010,small_airport,"Dingleburn Station Airstrip",-44.4380989074707,169.39100646972656,1000,OC,NZ,NZ-OTA,,0,,,,http://www.dingleburnstation.com/,,,50,2008-12-30T09:27:22+00:00
+29901,NZGC,small_airport,"Gore3 Airport",-46.156700134277344,168.8979949951172,200,OC,NZ,NZ-STL,,0,NZGC,,,,,,50,2008-07-18T10:39:08+00:00
+30107,NZVL,small_airport,"Mandeville Aerodrome",-45.990299224853516,168.81199645996094,351,OC,NZ,NZ-STL,,0,NZVL,,,,,,50,2008-07-18T10:38:12+00:00
+30115,NZMJ,small_airport,"Martins Bay Aerodrome",-44.36579895019531,168.01800537109375,348,OC,NZ,NZ-STL,,0,NZMJ,,,,,,50,2008-07-18T10:40:12+00:00
+30250,NZUN,small_airport,"Pauanui Beach Glider Airport",-37.02170181274414,175.86399841308594,20,OC,NZ,NZ-WKO,,0,NZUN,,,,,,50,2008-07-18T11:26:58+00:00
+30315,NZRA,small_airport,"Raglan Airfield",-37.8046989440918,174.86000061035156,10,OC,NZ,NZ-WKO,,0,NZRA,RAG,,,,,50,2008-07-18T11:19:07+00:00
+30477,NZTE,small_airport,"Te Kowhai Airfield",-37.74420166015625,175.16099548339844,49,OC,NZ,NZ-WKO,,0,NZTE,,,,,,50,2008-07-18T08:12:07+00:00
+29931,NZHT,small_airport,"Haast Aerodrome",-43.865299224853516,169.04100036621094,13,OC,NZ,NZ-WTC,,0,NZHT,,,,,,50,2008-07-18T10:59:38+00:00
+42501,NZ-0005,small_airport,"Lake Haupiri/Gloriavale Christian Community Airport",-42.6012001038,171.699005127,600,OC,NZ,NZ-WTC,,0,NZHP,,,,,,50,2013-01-15T01:59:24+00:00
+29682,NZBA,small_airport,"Balclutha Aerodrome",-46.24330139160156,169.75,22,OC,NZ,NZ-OTA,Balclutha,0,NZBA,,,,http://en.wikipedia.org/wiki/Balclutha_Aerodrome,,50,2009-08-10T09:08:28+00:00
+42728,NZ-0014,small_airport,"Big Bay Beach strip",-44.2949829102,168.114944458,1,OC,NZ,NZ-WTC,"Big Bay",0,,,,,,,50,2010-09-15T10:14:36+00:00
+29941,NZHA,small_airport,"Hawera Airport",-39.55329895019531,174.26699829101562,371,OC,NZ,NZ-TKI,Hawera,0,NZHA,,,,,,50,2009-08-23T20:06:12+00:00
+32071,NZLT,seaplane_base,"Lake Taupo Water Airport",-38.7317008972168,176.03500366210938,,OC,NZ,NZ-WKO,"Lake Taupo",0,NZLT,,,,,,50,2008-07-18T11:50:20+00:00
+32077,NZRI,small_airport,"Rangitata Island Airport",-44.084999084472656,171.41600036621094,288,OC,NZ,NZ-CAN,"Rangitata Island",0,NZRI,,,http://www.mothmanor.co.nz/,http://en.wikipedia.org/wiki/Rangitata_Island,,50,2008-11-23T18:48:48+00:00
+30442,NZSD,small_airport,"Stratford Airport",-39.31890106201172,174.30999755859375,951,OC,NZ,NZ-TKI,Stratford,0,NZSD,,,,,,50,2009-08-23T20:05:09+00:00
+32078,NZVR,small_airport,"Taihape Airport",-39.685001373291016,175.78900146484375,1550,OC,NZ,NZ-MWT,Taihape,0,NZVR,,,,,,50,2008-07-18T11:09:30+00:00
+30478,NZTT,small_airport,"Te Kuiti Airfield",-38.30329895019531,175.14700317382812,161,OC,NZ,NZ-WKO,"Te Kuiti",0,NZTT,,,,,,50,2009-08-23T21:09:59+00:00
+46372,NZ-0003,small_airport,"Hawea Downs",-44.660900092300004,169.239664078,,OC,NZ,NZ-OTA,,0,,,,,,,0,2010-04-03T05:23:56+00:00
+44818,NZMB,heliport,"Mechanics Bay Heliport",-36.846525628100004,174.787872434,5,OC,NZ,NZ-AUK,"Auckland City",0,NZMB,MHB,,,,,0,2013-01-17T00:56:55+00:00
+319531,NZGH,heliport,"Glacier Country Heliport",-43.38722,170.18,457,OC,NZ,NZ-WTC,"Franz Josef Glacier",0,NZGH,,,,,,0,2016-07-16T18:31:38+00:00
+308785,NZJH,heliport,"Hastings Hospital Heliport",-39.629236,176.82404,36,OC,NZ,NZ-HKB,Hastings,0,NZJH,,,,,,0,2013-05-30T11:56:02+00:00
+44822,NZJN,heliport,"North Shore Hospital Heliport",-36.781700134277344,174.75900268554688,70,OC,NZ,NZ-AUK,"North Shore City",0,NZJN,,,,,,0,2009-08-23T21:07:52+00:00
+44828,NZLF,heliport,"Rotorua Lakefront Heliport",-38.129398345947266,176.2530059814453,935,OC,NZ,NZ-BOP,Rotorua,0,NZLF,,,,,,0,2009-08-23T21:08:24+00:00
+321157,NZ-0024,heliport,"Wairakei Helipad",-38.643244,176.088245,,OC,NZ,NZ-WKO,Taupo,0,,,,http://www.helicoptertours.co.nz/,,,0,2016-11-12T14:53:12+00:00
+29674,NZHB,closed,"Auckland Hobsonville Airport",-36.791698455811,174.66400146484,59,OC,NZ,NZ-AUK,,0,NZHB,,,,,,50,2015-09-06T17:07:10+00:00
+30002,NZKF,small_airport,"Kaipara Flats Airport",-36.40639877319336,174.58700561523438,112,OC,NZ,NZ-AUK,,0,NZKF,,,,,,50,2008-07-18T11:34:53+00:00
+30208,NZOX,small_airport,"Okiwi Station Airport",-36.146400451660156,175.41900634765625,10,OC,NZ,NZ-AUK,,0,NZOX,,,,,,50,2008-07-18T11:39:44+00:00
+30242,NZPI,small_airport,"Parakai Aerodrome",-36.65190124511719,174.43600463867188,49,OC,NZ,NZ-AUK,,0,NZPI,,,,,,50,2008-07-18T11:35:17+00:00
+30433,NZSL,small_airport,"Springhill Airport",-36.32360076904297,174.55599975585938,102,OC,NZ,NZ-AUK,,0,NZSL,,,,,,50,2008-07-18T11:34:33+00:00
+30547,NZKE,small_airport,"Waiheke Reeve Airport",-36.80889892578125,175.08599853515625,226,OC,NZ,NZ-AUK,,0,NZKE,WIK,,,,,50,2008-07-18T11:37:09+00:00
+30556,NZWJ,small_airport,"Wellsford Airport",-36.29690170288086,174.5229949951172,194,OC,NZ,NZ-AUK,,0,NZWJ,,,,,,50,2008-07-18T11:34:13+00:00
+29886,NZGA,small_airport,"Galatea Airfield",-38.403900146484375,176.74400329589844,594,OC,NZ,NZ-BOP,,0,NZGA,,,,,,50,2008-07-18T10:50:02+00:00
+30217,NZOP,small_airport,"Opotiki Airport",-38.022499084472656,177.3070068359375,30,OC,NZ,NZ-BOP,,0,NZOP,,,,,,50,2008-07-18T10:47:51+00:00
+30546,NZWV,small_airport,"Waihi Beach Airport",-37.43000030517578,175.95199584960938,3,OC,NZ,NZ-BOP,,0,NZWV,,,,,,50,2008-07-18T10:51:46+00:00
+30548,NZWM,small_airport,"Waimate Airport",-44.790000915527344,171.0919952392578,79,OC,NZ,NZ-CAN,,0,NZWM,,,,,,50,2008-07-18T10:53:29+00:00
+42505,NZ-0009,small_airport,"Manuka Point Lodge Airstrip",-43.274559020996094,171.21755981445312,1800,OC,NZ,NZ-CAN,,0,,,,http://www.manukapoint.com,,,50,2008-11-23T19:48:11+00:00
+30280,NZPO,small_airport,"Porangahau Aerodrome",-40.280799865722656,176.65199279785156,200,OC,NZ,NZ-HKB,,0,NZPO,,,,,,50,2008-07-18T11:12:40+00:00
+43198,NZ-0016,small_airport,"Cape Campbell airstrip",-41.74589920043945,174.27200317382812,,OC,NZ,NZ-MBH,,0,,,,,http://en.wikipedia.org/wiki/Cape_Campbell,,50,2009-01-29T06:36:03+00:00
+5053,NZRU,small_airport,"Waiouru Airport",-39.4463996887207,175.6580047607422,2686,OC,NZ,NZ-MWT,,0,NZRU,,,,http://en.wikipedia.org/wiki/Waiouru_Army_Camp,,50,2008-06-13T14:30:04+00:00
+29876,NZFP,small_airport,"Foxpine Aerodrome",-40.45669937133789,175.27000427246094,39,OC,NZ,NZ-MWT,,0,NZFP,,,,,,50,2008-07-18T11:09:09+00:00
+30473,NZTM,small_airport,"Taumarunui Airport",-38.83940124511719,175.26199340820312,902,OC,NZ,NZ-MWT,,0,NZTM,,,,,,50,2008-07-18T11:28:35+00:00
+29817,NZDA,small_airport,"Dargaville Aerodrome",-35.939701080322266,173.8939971923828,10,OC,NZ,NZ-NTL,,0,NZDA,DGR,,,http://en.wikipedia.org/wiki/Dargaville_Aerodrome,,50,2008-07-18T11:55:20+00:00
+30000,NZKO,small_airport,"Kaikohe Airport",-35.45109939575195,173.81700134277344,571,OC,NZ,NZ-NTL,,0,NZKO,KKO,,,,,50,2008-07-18T11:29:36+00:00
+30108,NZMG,heliport,"Mangonui Heliport",-34.995601654052734,173.46400451660156,3,OC,NZ,NZ-NTL,,0,NZMG,,,,,,50,2008-07-18T11:29:15+00:00
+30232,NZPA,small_airport,"Paihia Private Airport",-35.28219985961914,174.09100341796875,20,OC,NZ,NZ-NTL,,0,NZPA,,,,,,50,2008-07-18T11:29:58+00:00
+30352,NZRW,small_airport,"Ruawai Aerodrome",-36.097198486328125,173.9770050048828,62,OC,NZ,NZ-NTL,,0,NZRW,,,,,,50,2008-07-18T11:33:21+00:00
+29810,NZCS,small_airport,"Cromwell Racecourse Aerodrome",-45.04859924316406,169.17100524902344,856,OC,NZ,NZ-OTA,,0,NZCS,,,,http://en.wikipedia.org/wiki/Cromwell_Racecourse_Aerodrome,,50,2008-07-18T11:54:08+00:00
+30102,NZMW,small_airport,"Makarora Airstrip",-44.2317008972168,169.22999572753906,1142,OC,NZ,NZ-OTA,,0,NZMW,,,,,,50,2008-07-18T10:45:38+00:00
+30060,NZLE,small_airport,"Lake Station Airport",-41.75920104980469,172.74600219726562,1709,OC,NZ,NZ-TAS,,0,NZLE,,,,,,50,2008-09-15T10:18:31+00:00
+30464,NZTK,small_airport,"Takaka Airport",-40.81330108642578,172.77499389648438,102,OC,NZ,NZ-TAS,,0,NZTK,KTF,,,,,50,2008-09-15T10:18:10+00:00
+29870,NZFT,small_airport,"Flat Point Aerodrome",-41.24330139160156,175.9600067138672,46,OC,NZ,NZ-WGN,,0,NZFT,,,,,,50,2008-07-18T11:07:51+00:00
+29804,NZCX,small_airport,"Coromandel Aerodrome",-36.79169845581055,175.50900268554688,10,OC,NZ,NZ-WKO,,0,NZCX,CMV,,,http://en.wikipedia.org/wiki/Coromandel_Aerodrome,,50,2008-07-18T11:53:31+00:00
+29918,NZGR,small_airport,"Great Mercury Airport",-36.59749984741211,175.76699829101562,180,OC,NZ,NZ-WKO,,0,NZGR,,,,,,50,2008-07-18T11:27:16+00:00
+30021,NZKC,small_airport,"Kelly Field",-37.256099700927734,175.07200622558594,52,OC,NZ,NZ-WKO,,0,NZKC,,,,,,50,2008-07-18T11:17:19+00:00
+30123,NZAG,small_airport,"Matarangi Airport",-36.7317008972168,175.64999389648438,10,OC,NZ,NZ-WKO,,0,NZAG,,,,,,50,2008-07-18T11:25:38+00:00
+30132,NZME,small_airport,"Mercer1 PDZ Airport",-37.25749969482422,175.11500549316406,30,OC,NZ,NZ-WKO,,0,NZME,,,,,,50,2008-07-18T11:22:12+00:00
+30476,NZTA,small_airport,"Te Aroha Airfield",-37.474700927734375,175.6179962158203,30,OC,NZ,NZ-WKO,,0,NZTA,,,,,,50,2008-07-18T11:21:01+00:00
+30483,NZTH,small_airport,"Thames Aerodrome",-37.156700134277344,175.5500030517578,10,OC,NZ,NZ-WKO,,0,NZTH,TMZ,,,,,50,2008-07-18T11:26:07+00:00
+30498,NZTN,small_airport,"Turangi Airport",-38.968299865722656,175.81399536132812,1220,OC,NZ,NZ-WKO,,0,NZTN,,,,,,50,2008-07-18T11:15:08+00:00
+30559,NZES,small_airport,"Wharepapa South Airport",-38.14830017089844,175.5500030517578,443,OC,NZ,NZ-WKO,,0,NZES,,,,,,50,2008-07-18T11:19:30+00:00
+30560,NZWT,small_airport,"Whitianga Airport",-36.83169937133789,175.6790008544922,10,OC,NZ,NZ-WKO,,0,NZWT,WTZ,,,,,50,2008-07-18T11:28:01+00:00
+30010,NZKM,small_airport,"Karamea Airport",-41.236698150634766,172.10499572753906,30,OC,NZ,NZ-WTC,,0,NZKM,,,,,,50,2008-07-18T11:00:51+00:00
+32068,NZAN,small_airport,"Alfredton Airport",-40.69810104370117,175.8560028076172,500,OC,NZ,NZ-MWT,Alfredton,0,NZAN,,,,,,50,2008-07-18T11:10:04+00:00
+29767,NZCB,small_airport,"Centre Bush Aerodrome",-46.040000915527344,168.31199645996094,255,OC,NZ,NZ-STL,"Centre Bush",0,NZCB,,,,,,50,2009-08-10T14:10:23+00:00
+29913,NZGB,small_airport,"Great Barrier Aerodrome",-36.24140167236328,175.4720001220703,20,OC,NZ,NZ-AUK,Claris,0,NZGB,GBZ,,,http://en.wikipedia.org/wiki/Great_Barrier_Aerodrome,,50,2008-07-18T11:39:25+00:00
+32070,NZLD,small_airport,"Limestone Downs Airport",-37.47999954223633,174.7449951171875,596,OC,NZ,NZ-WKO,"Limestone Downs",0,NZLD,,,,,,50,2008-07-18T11:18:42+00:00
+32073,NZMT,small_airport,"Martinborough Airport",-41.21419906616211,175.48599243164062,,OC,NZ,NZ-WGN,Martinborough,0,NZMT,,,,,,50,2008-07-18T11:08:12+00:00
+32074,NZMZ,small_airport,"Matakana Island Airport",-37.599998474121094,176.08299255371094,95,OC,NZ,NZ-BOP,"Matakana Island",0,NZMZ,,,,,,50,2008-07-18T10:52:12+00:00
+32072,NZML,small_airport,"Molesworth Airport",-42.08300018310547,173.2830047607422,2813,OC,NZ,NZ-MBH,Molesworth,0,NZML,,,,,,50,2008-07-18T11:05:25+00:00
+32075,NZOI,small_airport,"Motiti Island Airport",-37.632999420166016,176.41700744628906,135,OC,NZ,NZ-BOP,"Motiti Island",0,NZOI,,,,,,50,2008-07-18T10:51:02+00:00
+32067,NZAE,small_airport,"Mount Tarawera Airport",-38.233001708984375,176.51699829101562,3100,OC,NZ,NZ-BOP,"Mount Tarawera",0,NZAE,,,,,,50,2008-07-18T10:50:28+00:00
+30173,NZMR,small_airport,"Murchison Airport",-41.79669952392578,172.31500244140625,531,OC,NZ,NZ-TAS,Murchison,0,NZMR,,,,,,50,2009-08-23T20:52:30+00:00
+30204,NZMQ,heliport,"Oaonui Heliport",-39.39984130859375,173.8098602294922,112,OC,NZ,NZ-TKI,Oaonui,0,NZMQ,,,,,,50,2009-08-23T20:08:11+00:00
+32076,NZPK,closed,"Pikes Point Airport",-36.9282989502,174.81199646,,OC,NZ,NZ-AUK,"Pikes Point",0,NZPK,,,,,,50,2013-08-06T15:26:16+00:00
+30462,NZTS,small_airport,"Taharoa Aerodrome",-38.18109893798828,174.70799255371094,69,OC,NZ,NZ-WKO,Taharoa,0,NZTS,THH,,,,,50,2009-08-23T21:12:45+00:00
+43024,NZ-0015,small_airport,"Taitapu Ag strip",-43.67060089111328,172.58999633789062,,OC,NZ,NZ-CAN,Taitapu,0,,,,,,,50,2009-01-12T09:47:43+00:00
+30489,NZTO,small_airport,"Tokoroa Airfield",-38.236698150634766,175.89199829101562,1220,OC,NZ,NZ-WKO,Tokoroa,0,NZTO,TKZ,,,,,50,2009-08-23T19:49:45+00:00
+314997,NZ-0021,small_airport,"Glenshe Airstrip",-45.0419,170.2403,1637,OC,NZ,NZ-OTA,,0,,,,,,,0,2015-07-17T03:02:09+00:00
+43201,NZ-0017,small_airport,"Neils Beach",-43.9976921081543,168.66038513183594,,OC,NZ,NZ-WTC,,0,,,,,,,0,2009-02-03T21:22:21+00:00
+44670,NZBC,heliport,"ASB Bank Centre Heliport",-36.84989929199219,174.76199340820312,468,OC,NZ,NZ-AUK,Aukland,0,NZBC,,,,,,0,2009-08-10T08:55:45+00:00
+44671,NZJL,heliport,"Aukland Hospital Helipad",-36.85919952392578,174.7689971923828,204,OC,NZ,NZ-AUK,Aukland,0,NZJL,,,,,,0,2009-08-10T08:56:35+00:00
+315020,NZ-0023,heliport,"Middlemore Hospital Helipad",-36.9632,174.8452,10,OC,NZ,NZ-AUK,Aukland,0,,,,,,,0,2015-07-19T12:00:43+00:00
+44841,NZJB,heliport,"Wairau Hospital Heliport",-41.53689956665039,173.94400024414062,100,OC,NZ,NZ-MBH,Blenheim,0,NZJB,,,,,,0,2009-08-23T20:55:39+00:00
+44678,NZBW,heliport,"Burwood Hospital Heliport",-43.479698181152344,172.68699645996094,16,OC,NZ,NZ-CAN,Christchurch,0,NZBW,,,,,,0,2009-08-10T14:02:42+00:00
+44802,NZJC,heliport,"Christchurch Hospital Heliport",-43.53670120239258,172.6219940185547,55,OC,NZ,NZ-CAN,Christchurch,0,NZJC,,,,,,0,2009-08-23T20:44:11+00:00
+44808,NZGI,heliport,"Garden City Heliport",-43.49330139160156,172.54800415039062,89,OC,NZ,NZ-CAN,Christchurch,0,NZGI,,,,,,0,2009-08-23T20:46:59+00:00
+315006,NZ-0022,small_airport,"Cromwell/Louburn Airport",-44.9791,169.2176,1010,OC,NZ,NZ-OTA,Cromwell,0,,,,,,,0,2015-07-17T11:42:12+00:00
+44803,NZJE,heliport,"Dargaville Hospital Heliport",-35.92890167236328,173.87600708007812,102,OC,NZ,NZ-NTL,Dargaville,0,NZJE,,,,,,0,2009-08-23T20:42:16+00:00
+44804,NZDC,heliport,"Dunedin City Heliport",-45.88330078125,170.50799560546875,5,OC,NZ,NZ-OTA,Dunedin,0,NZDC,,,,,,0,2009-08-23T20:44:39+00:00
+44805,NZDH,heliport,"Dunedin Hospital Heliport",-45.86859893798828,170.51100158691406,159,OC,NZ,NZ-OTA,Dunedin,0,NZDH,,,,,,0,2009-08-23T20:45:03+00:00
+44807,NZFH,heliport,"Fox Heliport",-43.4631004333,170,,OC,NZ,NZ-WTC,Fox,0,NZFH,FGL,,,,,0,2012-02-09T10:48:16+00:00
+319530,NZFR,heliport,"Franz Josef Heliport",-43.37657,170.19396,434,OC,NZ,NZ-WTC,"Franz Josef Glacier",0,NZFR,,,,,,0,2016-07-16T18:12:56+00:00
+44809,NZJG,heliport,"Gisborne Hospital Heliport",-38.6411018371582,178.00399780273438,51,OC,NZ,NZ-GIS,Gisborne,0,NZJG,,,,,,0,2009-08-23T20:47:18+00:00
+46489,NZ-0018,small_airport,"Gorge River Airstrip",-44.18457364339999,168.192443848,,OC,NZ,NZ-WTC,"Gorge River",0,,,,,,,0,2010-09-15T10:05:17+00:00
+308629,NZ-0019,heliport,"Jennian Hangar, Waikato Hospital Heliport",-37.806281,175.280897,,OC,NZ,NZ-WKO,Hamilton,0,NZHH,,,,,,0,2014-10-06T10:29:20+00:00
+44830,NZJS,heliport,"Southland - Kew Hospital Heliport",-46.437198638916016,168.35899353027344,29,OC,NZ,NZ-STL,Invercargill,0,NZJS,,,,,,0,2009-08-23T20:51:12+00:00
+322873,NZ-0025,small_airport,"Gorge River Airstrip",-44.1845736,168.1924438,0,OC,NZ,NZ-U-A,"Jackson Bay",0,,,NZ0018,,,,0,2017-04-28T17:58:41+00:00
+44819,NZKD,small_airport,"Motu Kaikoura Island Aerodrome",-36.1781005859375,175.32400512695312,400,OC,NZ,NZ-AUK,"Kaikoura Island",0,NZKD,,,,,,0,2009-08-23T20:36:51+00:00
+44810,NZJK,heliport,"Kaitaia Hospital Heliport",-35.11830139160156,173.26100158691406,100,OC,NZ,NZ-NTL,Kaitaia,0,NZJK,,,,,,0,2009-08-23T20:38:15+00:00
+44673,NZJI,heliport,"Bay of Islands Hospital Heliport",-35.385833740234375,174.07028198242188,200,OC,NZ,NZ-NTL,Kawakawa,0,NZJI,,,,,,0,2009-08-10T09:13:01+00:00
+326632,NZ-0027,small_airport,"Raoul Island Airstrip",-29.243523,-177.938679,,OC,NZ,NZ-U-A,"Kermadec Islands",0,,,,,,,0,2018-03-11T10:42:36+00:00
+44813,NZKU,heliport,"Kupe Helipad",-39.79999923706055,174.11700439453125,100,OC,NZ,NZ-TKI,"Kupe Platform",0,NZKU,,,,,,0,2009-08-23T21:15:14+00:00
+44814,NZMX,heliport,"Maari Heliport",-39.974998474121094,173.29200744628906,60,OC,NZ,NZ-TKI,"Maari Platform",0,NZMX,,,,,,0,2009-08-23T21:02:43+00:00
+44815,NZSO,seaplane_base,"Marlborough Sounds Water Aerodrome",-41.0088996887207,174.08900451660156,,OC,NZ,NZ-MBH,"Malborough Sounds",0,NZSO,,,,,,0,2009-08-23T20:53:58+00:00
+44840,NZMH,heliport,"Wairarapa Hospital Heliport",-40.9474983215332,175.6750030517578,367,OC,NZ,NZ-WGN,Masterton,0,NZMH,,,,,,0,2009-08-23T21:05:36+00:00
+44816,NZUA,heliport,"Maui A Heliport",-39.55830001831055,173.4499969482422,157,OC,NZ,NZ-TKI,"Maui A Platform",0,NZUA,,,,,,0,2009-08-23T20:57:33+00:00
+44817,NZUB,heliport,"Maui B Heliport",-39.650001525878906,173.30799865722656,114,OC,NZ,NZ-TKI,"Maui B Platform",0,NZUB,,,,,,0,2009-08-23T20:57:17+00:00
+44820,NZUR,heliport,"Murchison Hospital Heliport",-41.806400299072266,172.32899475097656,573,OC,NZ,NZ-TAS,Murchison,0,NZUR,,,,,,0,2009-08-23T20:52:47+00:00
+44821,NZNH,heliport,"Nelson Hospital Heliport",-41.288299560546875,173.27200317382812,180,OC,NZ,NZ-NSN,Nelson,0,NZNH,,,,,,0,2009-08-23T20:54:33+00:00
+44832,NZJQ,heliport,"Taranaki Base Hospital Heliport",-39.073299407958984,174.05499267578125,104,OC,NZ,NZ-TKI,"New Plymouth",0,NZJQ,,,,,,0,2009-08-23T21:05:02+00:00
+44806,NZFG,heliport,"Fern Gully Heliport",-46.8949825431,168.11103344,70,OC,NZ,NZ-STL,Oban,0,NZFG,,,,,,0,2010-01-24T08:02:44+00:00
+44823,NZOB,heliport,"Ocean Beach Heliport",-46.589698791503906,168.30599975585938,20,OC,NZ,NZ-STL,"Ocean Beach",0,NZOB,,,,,,0,2009-08-23T20:51:26+00:00
+329325,NZOT,small_airport,"Otaki Airport",-40.785582,175.1513,114,OC,NZ,NZ-WGN,Otaki,1,NZOT,,,,,,0,2018-09-23T02:14:31+00:00
+44824,NZJM,heliport,"Palmerston North Hospital Heliport",-40.337799072265625,175.61900329589844,128,OC,NZ,NZ-MWT,"Palmerston North",0,NZJM,,,,,,0,2009-08-23T21:01:01+00:00
+326631,NZ-0026,small_airport,"Pitt Island Airstrip",-44.293668,-176.203505,,OC,NZ,NZ-U-A,"Pitt Island",1,,,,,https://en.wikipedia.org/wiki/Pitt_Island,,0,2018-03-11T10:37:00+00:00
+44811,NZWE,heliport,"Kauaroa Bay Heliport",-36.8297004699707,175.0659942626953,15,OC,NZ,NZ-AUK,"Poukaraka Flats",0,NZWE,,,,,,0,2009-08-23T20:47:45+00:00
+314996,NZ-0020,small_airport,"Center Island Airstrip",-46.4549,167.8495,30,OC,NZ,NZ-STL,"Raratoka Island",0,,,,,,,0,2015-07-16T23:49:33+00:00
+44826,NZJW,heliport,"Rawene Hospital Heliport",-35.40829849243164,173.51666259765625,149,OC,NZ,NZ-NTL,Rawene,0,NZJW,,,,,,0,2009-08-23T20:41:02+00:00
+44827,NZJO,heliport,"Rotorua Hospital Heliport",-38.131900787353516,176.2469940185547,979,OC,NZ,NZ-BOP,Rotorua,0,NZJO,,,,,,0,2009-08-23T21:01:31+00:00
+44831,NZAH,heliport,"Taharoa Iron Sands Heliport",-38.165000915527344,174.7050018310547,,OC,NZ,NZ-WKO,Taharoa,0,NZAH,,,,,,0,2009-08-23T21:13:00+00:00
+44833,NZJT,heliport,"Taumarunui Hospital Heliport",-38.88970184326172,175.25100708007812,675,OC,NZ,NZ-MWT,Taumarunui,0,NZJT,,,,,,0,2009-08-23T21:04:21+00:00
+44834,NZJZ,heliport,"Taupo Hospital Heliport",-38.69860076904297,176.0989990234375,1349,OC,NZ,NZ-WKO,Taupo,0,NZJZ,,,,,,0,2009-08-23T21:09:26+00:00
+44835,NZJA,heliport,"Tauranga Hospital Heliport",-37.7057991027832,176.1490020751953,17,OC,NZ,NZ-BOP,Tauranga,0,NZJA,,,,,,0,2009-08-23T21:06:07+00:00
+44836,NZTQ,heliport,"Te Kuiti Hospital Heliport",-38.333900451660156,175.15199279785156,250,OC,NZ,NZ-WKO,"Te Kuiti",0,NZTQ,,,,,,0,2009-08-23T21:10:15+00:00
+44837,NZJP,heliport,"Te Puia Springs Hospital Heliport",-38.05481607579999,178.304291368,760,OC,NZ,NZ-GIS,"Te Puia Springs",0,NZJP,,,,,,0,2010-02-12T11:14:33+00:00
+44838,NZJX,heliport,"Tokoroa Hospital Heliport",-38.23189926147461,175.86099243164062,1200,OC,NZ,NZ-WKO,Tokoroa,0,NZJX,,,,,,0,2009-08-23T21:11:33+00:00
+44839,NZUI,heliport,"Tui Helipad",-39.43190002441406,173.23300170898438,60,OC,NZ,NZ-TKI,"Tui Platform",0,NZUI,,,,,,0,2009-08-23T21:16:27+00:00
+44842,NZJY,heliport,"Wairoa Hospital Heliport",-39.04249954223633,177.41400146484375,59,OC,NZ,NZ-HKB,Wairoa,0,NZJY,,,,,,0,2009-08-23T21:12:06+00:00
+44843,NZJV,heliport,"Waitakere Hospital Heliport",-36.870601654052734,174.63099670410156,70,OC,NZ,NZ-AUK,Waitakere,0,NZJV,,,,,,0,2009-08-23T20:58:47+00:00
+44844,NZJU,heliport,"Wanganui Hospital Heliport",-39.94329833984375,175.03900146484375,42,OC,NZ,NZ-MWT,Wanganui,0,NZJU,,,,,,0,2009-08-23T21:06:52+00:00
+44672,NZAL,heliport,"Avalon Heliport",-41.18669891357422,174.94400024414062,93,OC,NZ,NZ-WGN,Wellington,0,NZAL,,,,,,0,2009-08-10T09:04:03+00:00
+44812,NZKH,heliport,"Kenepuru Hospital Heliport",-41.14500045776367,174.8350067138672,89,OC,NZ,NZ-WGN,Wellington,0,NZKH,,,,,,0,2009-08-23T20:48:09+00:00
+44825,NZQW,heliport,"Queens Wharf Heliport",-41.28580093383789,174.77999877929688,10,OC,NZ,NZ-WGN,Wellington,0,NZQW,,,,,,0,2009-08-23T21:00:11+00:00
+44845,NZWH,heliport,"Wellington Hospital Heliport",-41.30830001831055,174.7790069580078,290,OC,NZ,NZ-WGN,Wellington,0,NZWH,,,,,,0,2009-08-23T20:59:43+00:00
+44846,NZJR,heliport,"Whangarei Hospital Heliport",-35.73469924926758,174.30299377441406,154,OC,NZ,NZ-NTL,Whangarei,0,NZJR,,,,,,0,2009-08-23T20:35:47+00:00

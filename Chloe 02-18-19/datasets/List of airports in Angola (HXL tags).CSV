@@ -1,0 +1,106 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2942,FNLU,large_airport,"Quatro de Fevereiro Airport",-8.85837,13.2312,243,AF,AO,AO-LUA,Luanda,1,FNLU,LAD,,,http://en.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport,"4 de Fevereiro",875,2019-01-13T13:15:30+00:00
+2936,FNCA,medium_airport,"Cabinda Airport",-5.59699010848999,12.188400268554688,66,AF,AO,AO-CAB,Cabinda,1,FNCA,CAB,,,http://en.wikipedia.org/wiki/Cabinda_Airport,,800,2009-03-10T17:17:26+00:00
+2939,FNHU,medium_airport,"Nova Lisboa Airport",-12.808899879455566,15.760499954223633,5587,AF,AO,AO-HUA,Huambo,1,FNHU,NOV,,,http://en.wikipedia.org/wiki/Nova_Lisboa_Airport,"Nova Lisbo Airport",800,2009-08-28T21:32:02+00:00
+2952,FNUB,medium_airport,"Lubango Airport",-14.924699783325195,13.574999809265137,5778,AF,AO,AO-HUI,Lubango,1,FNUB,SDD,,,http://en.wikipedia.org/wiki/Lubango_Airport,,800,2009-03-10T17:17:27+00:00
+2946,FNMO,medium_airport,"Namibe Airport",-15.261199951171875,12.14680004119873,210,AF,AO,AO-NAM,Namibe,1,FNMO,MSZ,,,http://en.wikipedia.org/wiki/Namibe_Airport,,800,2009-03-10T17:17:26+00:00
+2935,FNBG,medium_airport,"Benguela Airport",-12.609000206,13.4036998749,118,AF,AO,AO-BGU,Benguela,0,FNBG,BUG,,,http://en.wikipedia.org/wiki/Benguela_Airport,"Aeroporto 17 de Setembro, Gen. V. Deslandes Airport",250,2012-02-21T23:45:25+00:00
+2944,FNMA,medium_airport,"Malanje Airport",-9.525090217590332,16.312400817871094,3868,AF,AO,AO-MAL,Malanje,1,FNMA,MEG,,,http://en.wikipedia.org/wiki/Malanje_Airport,,800,2009-03-10T17:17:26+00:00
+2937,FNDU,medium_airport,"Dundo Airport",-7.400889873504639,20.818500518798828,2451,AF,AO,AO-LNO,Chitato,1,FNDU,DUE,,,http://en.wikipedia.org/wiki/Dundo_Airport,,450,2009-06-05T19:34:56+00:00
+30821,FNCF,small_airport,"Cafunfo Airport",-8.783610343933105,17.989700317382812,,AF,AO,AO-LNO,Cafunfo,0,FNCF,CFF,,,,,50,2008-08-03T11:31:38+00:00
+32157,FNCH,small_airport,"Chitato Airport",-7.358890056610107,20.80470085144043,2500,AF,AO,AO-LNO,Chitato,0,FNCH,PGI,,,,,50,2008-08-03T11:31:40+00:00
+2941,FNLB,small_airport,"Lobito Airport",-12.371199607849121,13.536600112915039,10,AF,AO,AO-BGU,Lobito,0,FNLB,,,,,,50,2009-03-10T17:17:26+00:00
+43971,AO-0005,small_airport,"Andulo Airport",-11.472299575800001,16.710899353,,AF,AO,AO-BIE,,0,,ANL,,,,,0,2012-06-17T16:49:46+00:00
+43321,FNLK,small_airport,"Lucapa Airport",-8.445727348330001,20.7320861816,3029,AF,AO,AO-LNO,Lucapa,0,FNLK,LBZ,,,http://en.wikipedia.org/wiki/Lucapa_Airport,,0,2013-06-27T12:38:48+00:00
+318480,AO-0016,small_airport,"Mavinga Airport",-15.789222,20.368971,,AF,AO,AO-CCU,Mavinga,0,,,,,,,0,2016-06-10T05:57:28+00:00
+2934,FNBC,medium_airport,"Mbanza Congo Airport",-6.269899845123291,14.246999740600586,1860,AF,AO,AO-ZAI,"Mbanza Congo",1,FNBC,SSY,,,http://en.wikipedia.org/wiki/Mbanza_Congo_Airport,,800,2009-03-10T17:17:25+00:00
+2945,FNME,medium_airport,"Menongue Airport",-14.657600402832031,17.71980094909668,4469,AF,AO,AO-CCU,Menongue,1,FNME,SPP,,,http://en.wikipedia.org/wiki/Menongue_Airport,,800,2009-03-10T17:17:26+00:00
+2947,FNNG,medium_airport,"Negage Airport",-7.754509925842285,15.287699699401855,4105,AF,AO,AO-UIG,Negage,1,FNNG,GXG,,,http://en.wikipedia.org/wiki/Negage_Airport,,800,2009-03-10T17:17:26+00:00
+2938,FNGI,medium_airport,"Ngjiva Pereira Airport",-17.0435009003,15.683799743700002,3566,AF,AO,AO-CNN,Ngiva,1,FNGI,VPE,,,http://en.wikipedia.org/wiki/Ondjiva_Pereira_Airport,"Ngiva Airport, NGV, Ondjiva, 11 de Novembro",800,2014-08-14T14:29:52+00:00
+2950,FNSO,medium_airport,"Soyo Airport",-6.141089916229248,12.371800422668457,15,AF,AO,AO-ZAI,Soyo,1,FNSO,SZA,,,http://en.wikipedia.org/wiki/Soyo_Airport,,800,2009-03-10T17:17:27+00:00
+30813,FNCT,medium_airport,"Catumbela Airport",-12.4792,13.4869,23,AF,AO,AO-BGU,Catumbela,1,FNCT,CBT,,,http://en.wikipedia.org/wiki/Catumbela_Airport,,450,2016-06-01T06:37:23+00:00
+2940,FNKU,medium_airport,"Kuito Airport",-12.404600143433,16.947399139404,5618,AF,AO,AO-BIE,Kuito,0,FNKU,SVP,,,https://en.wikipedia.org/wiki/Kuito_Airport,,250,2015-07-20T00:43:39+00:00
+2953,FNUE,medium_airport,"Luena Airport",-11.768099784851074,19.8976993560791,4360,AF,AO,AO-MOX,Luena,0,FNUE,LUO,,,,,250,2009-03-10T17:17:27+00:00
+2948,FNPA,medium_airport,"Porto Amboim Airport",-10.722000122070312,13.76550006866455,16,AF,AO,AO-CUS,"Port Amboim",0,FNPA,PBN,,,,,250,2009-03-10T17:17:26+00:00
+2949,FNSA,medium_airport,"Saurimo Airport",-9.689069747924805,20.431900024414062,3584,AF,AO,AO-LSU,Saurimo,0,FNSA,VHC,,,,,250,2009-03-10T17:17:27+00:00
+2951,FNSU,medium_airport,"Sumbe Airport",-11.167900085449219,13.84749984741211,36,AF,AO,AO-CUS,Sumbe,0,FNSU,NDD,,,,,250,2009-03-10T17:17:27+00:00
+2954,FNUG,medium_airport,"Uige Airport",-7.60306978225708,15.027799606323242,2720,AF,AO,AO-UIG,Uige,0,FNUG,UGO,,,,,250,2009-03-10T17:17:27+00:00
+2955,FNXA,medium_airport,"Xangongo Airport",-16.755399703979492,14.965299606323242,3635,AF,AO,AO-CNN,Xangongo,0,FNXA,XGN,,,http://en.wikipedia.org/wiki/Xangongo_Airport,,250,2009-03-10T17:17:27+00:00
+30674,FNAM,small_airport,"Ambriz Airport",-7.86221981048584,13.116100311279297,144,AF,AO,AO-BGO,Ambriz,0,FNAM,AZZ,,,,,50,2008-08-03T11:31:32+00:00
+10,FN19,small_airport,"Cabo Ledo Airport",-9.653050422668457,13.260600090026855,360,AF,AO,AO-BGO,"Cabo Ledo",0,FN19,,FN19,,,,50,2009-03-10T17:17:25+00:00
+31190,FNCC,small_airport,"Cacolo Airport",-10.110278,19.287304,4400,AF,AO,AO-LNO,Cacolo,0,FNCC,,,,https://en.wikipedia.org/wiki/Cacolo_Airport,,50,2016-06-17T08:46:22+00:00
+35324,FN17,small_airport,"Cahama Airport",-16.238399505615234,14.326000213623047,3970,AF,AO,AO-CNN,Cahama,0,FN17,,,,,,50,2008-06-13T14:30:04+00:00
+31191,FNCM,small_airport,"Camabatela Airport",-8.217000007629395,15.366999626159668,410,AF,AO,AO-CNO,Camabatela,0,FNCM,,,,,,50,2008-08-03T11:31:42+00:00
+30864,FNCX,small_airport,"Camaxilo Airport",-8.37360954284668,18.923599243164062,3957,AF,AO,AO-LNO,Camaxilo,0,FNCX,CXM,,,,,50,2008-08-03T11:31:48+00:00
+31189,FNCB,small_airport,"Camembe Airport",-8.133000373840332,14.5,2264,AF,AO,AO-BGO,Camembe,0,FNCB,,,,,,50,2008-08-03T11:31:34+00:00
+30840,AO-CNZ,small_airport,"Cangamba Airport",-13.7106,19.861099,3894,AF,AO,AO-MOX,Cangamba,0,,CNZ,,,http://en.wikipedia.org/wiki/Cangamba_Airport,,50,2016-06-02T08:05:49+00:00
+30811,FNCZ,small_airport,"Cazombo Airport",-11.893099784851074,22.916400909423828,3700,AF,AO,AO-MOX,Cazombo,0,FNCZ,CAV,,,,,50,2008-08-03T11:31:49+00:00
+30857,FNCV,small_airport,"Cuito Cuanavale Airport",-15.160300254821777,19.156099319458008,,AF,AO,AO-CCU,"Cuito Cuanavale",0,FNCV,CTI,,,,,50,2008-08-03T11:31:46+00:00
+31192,FNDB,small_airport,"Damba Airport",-6.900000095367432,15.133000373840332,3648,AF,AO,AO-UIG,Damba,0,FNDB,,,,,,50,2008-08-03T11:31:51+00:00
+32498,FNUA,small_airport,"Luau Airport",-10.715800285339355,22.23110008239746,3609,AF,AO,AO-MOX,Luau,0,FNUA,UAL,,,,,50,2008-08-03T11:32:01+00:00
+2943,FNLZ,small_airport,"Luzamba Airport",-9.11596012115,18.049299240099998,2904,AF,AO,AO-LNO,Luzamba,0,FNLZ,LZM,,,http://en.wikipedia.org/wiki/Cuango-Luzamba_Airport,Cuango,50,2014-07-31T12:11:37+00:00
+31196,FNMQ,small_airport,"Maquela do Zombo Airport",-6.030280113220215,15.136899948120117,3051,AF,AO,AO-UIG,"Maquela do Zombo",0,FNMQ,,,,,,50,2008-08-03T11:31:55+00:00
+9,FN18,small_airport,"Matala Airport",-14.727499961853027,15.013999938964844,4120,AF,AO,AO-HUI,Matala,0,FN18,,FN18,,,,50,2009-03-10T17:17:25+00:00
+30653,FNZE,small_airport,"N'zeto Airport",-7.259439945220947,12.863100051879883,69,AF,AO,AO-ZAI,N'zeto,0,FNZE,ARZ,,,,,50,2008-08-03T11:32:04+00:00
+2956,FNZG,small_airport,"Nzagi Airport",-7.716939926149999,21.358200073200003,2431,AF,AO,AO-LNO,Nzagi,0,FNZG,NZA,,,http://en.wikipedia.org/wiki/Nzagi_Airport,,50,2014-07-31T12:59:47+00:00
+31197,FNPB,small_airport,"Sanza Pombo Airport",-7.300000190734863,15.932999610900879,3251,AF,AO,AO-UIG,"Sanza Pombo",0,FNPB,,,,,,50,2008-08-03T11:31:57+00:00
+35325,AO-0001,small_airport,"Saurimo North Airport",-9.433429718017578,20.311800003051758,3498,AF,AO,AO-LSU,Saurimo,0,,,,,,,50,2008-06-13T14:30:04+00:00
+31198,FNTO,small_airport,"Toto Airport",-7.146389961242676,14.248600006103516,1775,AF,AO,AO-UIG,Toto,0,FNTO,,,,,,50,2008-08-03T11:31:59+00:00
+30820,FNWK,small_airport,"Waco Kungo Airport",-11.426400184631348,15.101400375366211,4324,AF,AO,AO-CUS,"Waco Kungo",0,FNWK,CEO,,,,,50,2008-08-03T11:32:02+00:00
+43970,AO-0004,small_airport,"Coemba Airport",-12.143704414367676,18.085363388061523,,AF,AO,AO-BIE,,0,,,,,,,0,2009-04-01T06:27:45+00:00
+43968,AO-0002,small_airport,"Nankova Airport",-16.39636993408203,18.978763580322266,,AF,AO,AO-CCU,,0,,,,,,"Vila Nova da Armada",0,2009-04-01T06:03:14+00:00
+43969,AO-0003,small_airport,"Rito Airport",-16.68939208984375,19.08376693725586,,AF,AO,AO-CCU,,0,,,,,,,0,2009-04-01T06:12:30+00:00
+319263,AO-0048,small_airport,"Cuito Cuanavale South Airport",-15.711983,18.651003,,AF,AO,AO-CCU,,0,,,,,,,0,2016-06-30T01:23:08+00:00
+325465,AO-0051,small_airport,"Cubango River Airport",-13.333366,16.414531,5073,AF,AO,AO-HUA,,0,,,,,,,0,2017-11-14T10:12:25+00:00
+312663,AO-0006,small_airport,Caluquembe,-13.775546,14.694916,,AF,AO,AO-HUI,,0,,,,,,,0,2014-08-14T03:10:45+00:00
+318486,AO-0021,small_airport,"Calunda Airport",-12.126335,23.478615,,AF,AO,AO-MOX,,0,,,,,,,0,2016-06-10T06:14:22+00:00
+318867,AO-0043,small_airport,"Balombo Airport",-12.357134,14.77923,,AF,AO,AO-BGU,Balombo,0,,,,,,,0,2016-06-17T09:19:18+00:00
+318533,AO-0037,small_airport,"Calai Airport",-17.878868,19.782762,,AF,AO,AO-CCU,Calai,0,,,,,,,0,2016-06-13T04:02:19+00:00
+318522,AO-0027,small_airport,"Camacupa Airport",-12.021878,17.453693,,AF,AO,AO-BIE,Camacupa,0,,,,,,,0,2016-06-13T02:36:00+00:00
+43322,AO-KNP,small_airport,"Capanda Airport",-9.76937007904,15.4553194046,3366,AF,AO,AO-MAL,Capanda,0,FNCP,KNP,,,http://en.wikipedia.org/wiki/Kapanda_Airport,Kapanda,0,2014-08-14T13:48:58+00:00
+319260,AO-0046,small_airport,"Capelongo Airport",-14.457297,16.296202,,AF,AO,AO-HUA,Capelongo,0,,,,,,,0,2016-06-29T09:14:06+00:00
+318865,AO-0041,small_airport,"Capenda Camulemba Airport",-9.415833,18.434794,,AF,AO,AO-LNO,"Capenda Camulemba",0,,,,,,,0,2016-06-17T08:42:10+00:00
+318485,AO-0020,small_airport,"Cassamba Airport",-13.139351,20.300824,,AF,AO,AO-MOX,Cassamba,0,,,,,,,0,2016-06-10T06:12:06+00:00
+318526,AO-0031,closed,"Cazaje Airport",-11.063437,20.695914,,AF,AO,AO-LSU,Cazaje,0,,,,,,,0,2016-06-13T03:03:22+00:00
+325466,AO-0052,small_airport,"Chinhama Airport",-13.105437,16.42432,5565,AF,AO,AO-HUA,Chinhama,0,,,,,,,0,2017-11-14T10:14:45+00:00
+318536,AO-0038,small_airport,"Chitado Airport",-17.320733,13.923845,,AF,AO,AO-CNN,Chitado,0,,,,,,,0,2016-06-13T05:19:20+00:00
+319262,AO-0047,small_airport,"Chitembo Airport",-13.509385,16.74928,5393,AF,AO,AO-BIE,Chitembo,0,,,,,,,0,2017-11-14T10:01:41+00:00
+318478,AO-0014,closed,"Coutada Airport",-17.017654,21.301774,,AF,AO,AO-CCU,Coutada,0,,,,,,,0,2016-06-10T05:53:38+00:00
+318398,AO-0008,small_airport,"Cuangar Airport",-17.597122,18.63437,,AF,AO,AO-CCU,Cuangar,0,,,,,,,0,2016-06-09T03:17:09+00:00
+318399,AO-0009,closed,"Cuangar Old Airport",-17.599985,18.623552,,AF,AO,AO-CCU,Cuangar,0,,,,,,,0,2016-06-09T03:17:50+00:00
+319259,AO-0045,small_airport,"Cubati Airport",-15.333917,16.851872,,AF,AO,AO-CNN,Cubati,0,,,,,,,0,2016-06-29T09:12:40+00:00
+318528,AO-0033,small_airport,"Cuchi Airport",-14.64987,16.885391,,AF,AO,AO-CCU,Cuchi,0,,,,,,,0,2016-06-13T03:40:34+00:00
+318868,AO-0044,small_airport,"Cuima Airport",-13.458467,15.833762,,AF,AO,AO-HUI,Cuima,0,,,,,,,0,2016-06-17T09:29:07+00:00
+318389,AO-0007,small_airport,"Cuvelai Airport",-15.668575,15.805654,,AF,AO,AO-CNN,Cuvelai,0,,,,,,,0,2016-06-08T10:04:48+00:00
+318525,AO-0030,small_airport,"Dala Airport",-11.040653,20.208268,,AF,AO,AO-LSU,Dala,0,,,,,,,0,2016-06-13T02:52:57+00:00
+43323,AO-DRC,small_airport,"Dirico Airport",-17.981924057006836,20.7680606842041,3504,AF,AO,AO-CCU,Dirico,0,,DRC,,,,,0,2009-03-10T17:17:34+00:00
+318863,AO-0039,small_airport,"Alto Dondo Airport",-9.675516,14.464999,,AF,AO,AO-CNO,Dondo,0,,,,,,,0,2016-06-17T08:36:52+00:00
+318476,AO-0012,small_airport,"Jamba Airport",-17.454765,22.607245,,AF,AO,AO-CCU,Jamba,0,,,,,,,0,2016-06-10T05:33:09+00:00
+43324,AO-JMB,small_airport,"Jamba Airport",-14.698192596435547,16.070148468017578,4912,AF,AO,AO-HUA,Jamba,0,,JMB,,,,,0,2009-03-10T17:17:36+00:00
+318527,AO-0032,small_airport,"Longa Airport",-14.610741,18.487945,,AF,AO,AO-CCU,Longa,0,,,,,,,0,2016-06-13T03:39:00+00:00
+318487,AO-0022,small_airport,"Lóvua Airport",-11.556065,23.553667,,AF,AO,AO-MOX,Lóvua,0,,,,,,,0,2016-06-10T06:15:50+00:00
+318488,AO-0023,small_airport,"Luacano Airport",-11.209962,21.648705,,AF,AO,AO-MOX,Luacano,0,,,,,,,0,2016-06-10T06:22:21+00:00
+312665,LAD,closed,"Angola International Airport (Under Construction)",-9.0484,13.5026,550,AF,AO,AO-LUA,Luanda,0,,,,,http://en.wikipedia.org/wiki/Angola_International_Airport,,0,2014-08-14T15:15:14+00:00
+318523,AO-0028,small_airport,"Luando Airport",-11.62444,18.46969,,AF,AO,AO-BIE,Luando,0,,,,,,,0,2016-06-13T02:37:12+00:00
+318490,AO-0025,small_airport,"Chipato Airport",-10.701382,22.160291,,AF,AO,AO-LSU,Luao,0,,,,,,,0,2016-06-10T06:27:23+00:00
+318484,AO-0019,small_airport,"Lucusse Airport",-12.521974,20.805726,,AF,AO,AO-MOX,Lucusse,0,,,,,,,0,2016-06-10T06:10:54+00:00
+318483,AO-0018,closed,"Luena Airport",-12.740271,20.736829,,AF,AO,AO-MOX,Luena,0,,,,,,,0,2016-06-10T06:09:19+00:00
+318477,AO-0013,closed,"Luiana Airport",-17.380791,23.002339,,AF,AO,AO-CCU,Luiana,0,,,,,,,0,2016-06-10T05:33:57+00:00
+43325,AO-GGC,small_airport,"Lumbala Airport",-12.6398773193,22.5868206024,3510,AF,AO,AO-MOX,Lumbala,0,,GGC,,,http://en.wikipedia.org/wiki/Lumbala_Airport,,0,2013-07-20T14:06:07+00:00
+318482,FNBL,small_airport,"Lumbala Airport",-14.105106,21.45083,3700,AF,AO,AO-MOX,"Lumbala N'guimbo",0,FNBL,GGC,,,https://en.wikipedia.org/wiki/Lumbala_Airport,,0,2016-06-10T06:06:06+00:00
+318489,AO-0024,small_airport,"Lumeje Airport",-11.564598,20.785903,,AF,AO,AO-MOX,Lumeje,0,,,,,,,0,2016-06-10T06:24:14+00:00
+318530,AO-0035,small_airport,"Miguel Airport",-15.704318,17.452439,,AF,AO,AO-CCU,Miguel,0,,,,,,,0,2016-06-13T03:51:05+00:00
+318403,AO-0011,small_airport,"Mucusso Airport",-18.020826,21.437053,,AF,AO,AO-CCU,Mucusso,0,,,,,,,0,2016-06-09T03:38:26+00:00
+325464,AO-0050,small_airport,"Mumbué Airport",-13.900039,17.300036,4995,AF,AO,AO-BIE,Mumbué,0,,,,,,,0,2017-11-14T09:59:10+00:00
+318864,AO-0040,small_airport,"Mussende Airport",-10.520306,15.99677,,AF,AO,AO-CUS,Mussende,0,,,,,,,0,2016-06-17T08:39:21+00:00
+324541,AO-0049,small_airport,"Mussuma Airport",-14.204202,21.909971,3477,AF,AO,AO-MOX,Mussuma,0,,,,,,,0,2017-07-25T05:53:33+00:00
+318529,AO-0034,small_airport,"Mutumbo Airport",-13.179982,17.394938,4773,AF,AO,AO-BIE,Mutumbo,0,,,,,,,0,2017-11-14T10:03:15+00:00
+318531,AO-0036,closed,"Namacunde Airport",-17.302638,15.850786,,AF,AO,AO-CNN,Namacunde,0,,,,,,,0,2016-06-13T03:54:20+00:00
+43326,AO-NDF,small_airport,"Ndalatandos Airport",-9.275188446044922,14.977242469787598,2684,AF,AO,AO-CNO,Ndalatandos,0,,NDF,,,,,0,2009-03-10T17:17:40+00:00
+318481,AO-0017,small_airport,"Ninda Airport",-14.80893,21.376961,,AF,AO,AO-MOX,Ninda,0,,,,,,,0,2016-06-10T06:04:02+00:00
+318491,AO-0026,closed,"Nova Chaves Airport",-10.598408,21.315093,,AF,AO,AO-CUS,"Nova Chaves",0,,,,,,,0,2016-06-10T06:29:08+00:00
+318524,AO-0029,small_airport,"Quirima Airport",-10.902645,18.060368,,AF,AO,AO-MAL,Quirima,0,,,,,,,0,2016-06-13T02:38:51+00:00
+318479,AO-0015,closed,"Rivungo Airport",-15.793551,21.380704,,AF,AO,AO-CCU,Rivungo,0,,,,,,,0,2016-06-10T05:56:24+00:00
+318400,AO-0010,closed,"Savate Airport",-16.880647,18.002593,,AF,AO,AO-CCU,Savate,0,,,,,,,0,2016-06-09T03:20:22+00:00
+318866,AO-0042,small_airport,"Xassengue Airport",-10.461305,18.535527,,AF,AO,AO-LSU,Xassengue,0,,,,,,,0,2016-06-17T08:49:26+00:00

@@ -1,0 +1,19 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5212,OJAI,large_airport,"Queen Alia International Airport",31.7226009369,35.9931983948,2395,AS,JO,JO-AM,Amman,1,OJAI,AMM,,,http://en.wikipedia.org/wiki/Queen_Alia_International_Airport,,1475,2010-09-02T22:02:57+00:00
+5213,OJAM,medium_airport,"Amman-Marka International Airport",31.972700119018555,35.991600036621094,2555,AS,JO,JO-AM,Amman,1,OJAM,ADJ,,,http://en.wikipedia.org/wiki/Marka_Airport,"King Abdullah Air Base",1050,2008-12-19T20:10:40+00:00
+5214,OJAQ,medium_airport,"Aqaba King Hussein International Airport",29.611600875854492,35.01810073852539,175,AS,JO,JO-AQ,Aqaba,1,OJAQ,AQJ,,,http://en.wikipedia.org/wiki/Aqaba_Airport,,1050,2008-12-19T20:10:42+00:00
+3354,OJ40,medium_airport,"Muwaffaq Salti Air Base",31.8255996704,36.782001495399996,1706,AS,JO,JO-AZ,"Al Azraq",0,OJ40,,OJ40,,http://en.wikipedia.org/wiki/Muwaffaq_Salti_Air_Base,"Shaheed Mwaffaq, Al Shaheed Muwaffaq Salti Air Base",250,2015-01-23T10:11:56+00:00
+5215,OJHF,small_airport,"Prince Hassan Air Base",32.160702,37.149399,2220,AS,JO,JO-MA,,0,OJHF,,,http://www.rjaf.mil.jo/index.php/en/en/.html,https://en.wikipedia.org/wiki/Prince_Hassan_Air_Base,H5,50,2016-06-07T08:25:53+00:00
+30599,JO-0002,small_airport,"King Feisal bin Abdul Aziz / Al Jafr Air Base",30.3435001373291,36.147701263427734,,AS,JO,JO-MN,,0,,,,,,,50,2008-12-19T20:07:58+00:00
+30600,JO-0003,small_airport,"Al Jafr 2 Air Base",30.01919937133789,36.12590026855469,,AS,JO,JO-MN,,0,,,,,,,50,2008-12-19T20:08:00+00:00
+5218,OJMF,small_airport,"King Hussein Air College",32.3564,36.259201,2240,AS,JO,JO-MA,Mafraq,0,OJMF,OMF,,,https://en.wikipedia.org/wiki/King_Hussein_Air_Base,,50,2016-06-07T08:24:56+00:00
+3353,OJ38,small_airport,"Zarqa Airport",32.025299072265625,36.144798278808594,2400,AS,JO,JO-AZ,Zarqa,0,OJ38,,OJ38,,,,50,2008-12-19T20:08:02+00:00
+30598,JO-0001,heliport,"King Abdullah II Air Base",31.99799919128418,36.21950149536133,,AS,JO,JO-AZ,,0,,,,,,,25,2008-12-19T20:07:56+00:00
+5216,OJHR,small_airport,"H4 Air Base",32.5392,38.195,2250,AS,JO,JO-MA,,0,OJHR,,,,https://en.wikipedia.org/wiki/H-4_Air_Base,,1,2016-06-07T08:23:47+00:00
+45010,JO-0009,small_airport,"Highway H Highway Strip",31.7856760596,36.2213230133,,AS,JO,JO-AM,,0,,,,,,,0,2009-09-08T02:16:53+00:00
+45008,JO-0008,small_airport,"Al Quwayrah Highway Strip",29.823993490499998,35.3279650211,,AS,JO,JO-AQ,,0,,,,,,,0,2009-09-08T01:48:51+00:00
+44987,JO-0004,small_airport,"Azraq Highway Strip",32.0267062933,36.4086914062,,AS,JO,JO-AZ,,0,,,,,,,0,2009-09-04T10:14:39+00:00
+44989,JO-0006,small_airport,"Al Ghadaf Highway Strip",31.5965854628,36.923235654799996,,AS,JO,JO-AZ,,0,,,,,,,0,2009-09-04T10:25:17+00:00
+44988,JO-0005,small_airport,"Wadi El Murbah Highway Strip",32.730667612,38.9783120155,,AS,JO,JO-MA,,0,,,,,,,0,2009-09-04T10:19:45+00:00
+45007,JO-0007,small_airport,"Al Qatranah Highway Strip",31.251992,36.223211,2790,AS,JO,JO-MN,,0,,,Z17G,,http://ms.wikipedia.org/wiki/Lapangan_Terbang_Al_Qatranah_Highway_Strip,,0,2016-06-02T08:32:01+00:00

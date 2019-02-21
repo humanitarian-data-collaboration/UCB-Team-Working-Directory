@@ -1,0 +1,74 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2758,EVRA,large_airport,"Riga International Airport",56.92359924316406,23.971099853515625,36,EU,LV,LV-RIX,Riga,1,EVRA,RIX,,http://www.riga-airport.com/,http://en.wikipedia.org/wiki/Riga_International_Airport,,1275,2009-04-07T13:06:39+00:00
+2757,EVLA,medium_airport,"Liepāja International Airport",56.51750183105469,21.096900939941406,16,EU,LV,LV-LE,Liepāja,1,EVLA,LPX,,http://www.liepaja-airport.lv/,http://en.wikipedia.org/wiki/Liep%C4%81ja_International_Airport,,875,2009-02-18T09:27:36+00:00
+31030,EVRS,small_airport,"Spilve Aerodrome",56.991100311299995,24.0750007629,3,EU,LV,LV-RIX,Riga,0,EVRS,,,http://www.spilve.org/,http://en.wikipedia.org/wiki/Spilve_Airport,,50,2011-11-02T11:28:30+00:00
+2759,EVVA,medium_airport,"Ventspils International Airport",57.35779953,21.5442008972,19,EU,LV,LV-VEN,Ventspils,1,EVVA,VNT,,http://www.airport.ventspils.lv/,http://en.wikipedia.org/wiki/Ventspils_International_Airport,,800,2012-04-29T09:11:01+00:00
+31029,EVKA,medium_airport,"Jēkabpils Air Base",56.534698,25.8925,289,EU,LV,LV-JK,Jēkabpils,0,EVKA,,,,http://en.wikipedia.org/wiki/J%C4%93kabpils_(air_base),"Yekabpils, Krustpils",250,2016-11-02T09:49:20+00:00
+31031,EVTA,medium_airport,"Jūrmala Airport",56.9422,23.2239,220,EU,LV,LV-TU,Tukums,0,EVJA,,,,https://en.wikipedia.org/wiki/J%C5%ABrmala_Airport,,250,2016-11-02T09:57:03+00:00
+35093,LV-8037,closed,"Penkule Airfield",56.474862,23.190107,151,EU,LV,LV-JL,,0,,,,,http://en.wikipedia.org/wiki/T%C4%93rvete,,50,2019-01-08T11:51:25+00:00
+29971,EVPA,small_airport,"Ikshkile Airport",56.814998626708984,24.527799606323242,64,EU,LV,LV-OG,Ikshkile,0,EVPA,,,,,,50,2009-04-07T13:06:37+00:00
+31026,EVEA,small_airport,"Jelgava Airfield",56.672798,23.679199,20,EU,LV,LV-JEL,Jelgava,0,EVEA,,,,,,50,2016-11-02T09:24:02+00:00
+31028,EVGA,small_airport,"Lielvarde Air Base",56.778301,24.853901,200,EU,LV,LV-OG,Lielvarde,0,EVGA,,,,http://en.wikipedia.org/wiki/Lielv%C4%81rde_Air_Base,,50,2016-05-09T10:41:59+00:00
+35065,LV-1288,small_airport,"Rumbula Air Base",56.8833007812,24.2266998291,26,EU,LV,LV-RIX,Riga,0,EVRC,,,,http://en.wikipedia.org/wiki/Rumbula_Air_Base,,50,2012-08-04T20:23:37+00:00
+31027,EVFA,closed,"Vaiņode Air Base",56.405602,21.8869,518,EU,LV,LV-LE,Vaiņode,0,EVFA,,,,http://en.wikipedia.org/wiki/Vai%C5%86ode_Air_Base,,50,2018-09-23T06:37:38+00:00
+35021,LV-7721,closed,"Liepas Air Base",57.3867,25.508301,256,EU,LV,LV-CE,Valmiera,0,,,,,http://en.wikipedia.org/wiki/Liepas,,50,2019-01-04T13:06:19+00:00
+316393,LV-0005,closed,Kazruņģis,57.5580332,25.8375718,,EU,LV,LV-CE,,0,,,,,,,0,2015-11-21T04:05:00+00:00
+329356,LV-0046,closed,"Ezere abandoned airfield",56.4045457,22.3372077,,EU,LV,LV-LE,,0,,,,,,,0,2018-09-29T05:02:44+00:00
+315678,LV-0004,small_airport,"Praulienas lidlauks",56.8516882,26.3126111,,EU,LV,LV-MA,,0,,,,,,,0,2015-10-07T08:30:07+00:00
+46347,LV-0003,small_airport,"Saldus Airfield",56.692217755499996,22.4695301056,,EU,LV,LV-SA,,0,,,,,,"Druva Airfield",0,2010-03-24T22:02:07+00:00
+329011,LV-0045,closed,"Garlene Airstrip",57.2668037,22.8155028,,EU,LV,LV-TA,,0,,,,,,,0,2018-08-15T09:07:07+00:00
+321196,LV-0009,small_airport,"Valmiera Airfield",57.5585521,25.4442962,,EU,LV,LV-U-A,,0,,,,,,,0,2016-11-15T05:27:15+00:00
+325780,LV-0014,small_airport,"Grotūža lidlauks",57.4407418,25.8756575,,EU,LV,LV-U-A,,0,,,,,,,0,2017-12-10T12:17:12+00:00
+325783,LV-0016,small_airport,"Matīšu lidlauks",57.6880509,25.1666283,,EU,LV,LV-U-A,,0,,,,,,,0,2017-12-10T12:29:19+00:00
+325786,LV-0018,small_airport,"Strēlnieku lidlauks",56.5082022,24.076641,,EU,LV,LV-U-A,,0,,,,,,,0,2017-12-10T13:38:23+00:00
+325868,LV-0028,small_airport,"Jaunkalsnavas lidlauks",56.7061312,25.9119556,,EU,LV,LV-U-A,,0,,,,,,,0,2017-12-17T09:37:09+00:00
+325984,LV-0031,small_airport,"Vitrupes lidlauks",57.6475998,24.3923977,,EU,LV,LV-U-A,,0,,,,,,,0,2018-01-01T01:29:22+00:00
+326005,LV-0032,small_airport,"Grecuntāles lidlauks",56.316524,24.332679,,EU,LV,LV-U-A,,0,,,,,,,0,2018-01-02T01:51:49+00:00
+326169,LV-0036,closed,"Rožupes lidlauks",56.351531,26.334265,,EU,LV,LV-U-A,,0,,,,,,,0,2018-01-18T06:52:37+00:00
+327190,LV-0041,small_airport,"Slampes lidlauks",56.8465975,23.2670048,,EU,LV,LV-U-A,,0,,,,,,,0,2018-04-18T13:01:18+00:00
+325857,LV-0024,small_airport,"Adamovas lidlauks",56.5663854,27.3478822,,EU,LV,LV-U-A,Adamova,0,,,,,,,0,2017-12-16T23:34:28+00:00
+44007,EVAD,small_airport,"Adazi Airfield",57.098598,24.2658,8,EU,LV,LV-RI,Adazi,0,EVAD,,,http://airfield-adazi.lv,,"Carnicava Airfield",0,2017-07-21T15:49:04+00:00
+324014,LV-0013,closed,"Aizpute Airfield",56.696944,21.628889,,EU,LV,LV-LE,Aizpute,0,,,,,,,0,2017-06-21T17:40:08+00:00
+325834,LV-0019,small_airport,"Alojas Lidlauks",57.774561,24.887069,,EU,LV,LV-U-A,Aloja,0,,,,,,,0,2017-12-15T12:12:00+00:00
+324016,EVMA,closed,"Augstkalne Airfield",56.41318,23.319409,,EU,LV,LV-DO,Augstkalne,0,EVMA,,,,,,0,2017-06-21T18:25:33+00:00
+325842,LV-0023,small_airport,"Barkavas lidlauks",56.7498863,26.5976995,,EU,LV,LV-U-A,Barkava,0,,,,,,,0,2017-12-16T00:52:59+00:00
+326119,LV-0035,small_airport,"Bērzes lidlauks",56.6813459,23.4640273,,EU,LV,LV-U-A,Bērze,0,,,,,,,0,2018-01-11T12:59:29+00:00
+44005,EVCA,small_airport,"Cesis Airport",57.32444381713867,25.323610305786133,367,EU,LV,LV-CE,Cesis,0,EVCA,,,,,,0,2009-04-07T13:06:35+00:00
+308827,EVIA,closed,"Cīrava Airport",56.738062,21.359786,75,EU,LV,LV-LE,Cīrava,0,EVIA,,,,,,0,2016-11-02T09:47:09+00:00
+44006,EVDA,medium_airport,"Daugavpils Intrenational Airport",55.944721221900004,26.6650009155,398,EU,LV,LV-DA,Daugavpils,0,EVDA,DGP,,,http://en.wikipedia.org/wiki/Daugavpils_International_Airport,,0,2012-07-19T19:55:31+00:00
+44651,LV-0002,small_airport,"Griva Airfield",55.883999,26.471001,,EU,LV,LV-DGV,Daugavpils,0,EVBA,,,,,,0,2017-06-21T18:00:02+00:00
+325860,LV-0027,small_airport,"Dobeles lidlauks",56.675963,23.312442,,EU,LV,LV-U-A,Dobele,0,,,,,,,0,2017-12-17T00:45:36+00:00
+326311,LV-0039,small_airport,"Dricānu lidlauks",56.6633949,27.1764635,,EU,LV,LV-U-A,Dricāni,0,,,,,,,0,2018-02-01T15:25:10+00:00
+326224,LV-0038,small_airport,"Dundagas lidlauks",57.499354,22.402131,,EU,LV,LV-U-A,Dundaga,0,,,,,,,0,2018-01-25T15:58:56+00:00
+326098,LV-0034,small_airport,"Elejas lidlauks",56.47609,23.699509,,EU,LV,LV-U-A,Eleja,0,,,,,,,0,2018-01-09T13:46:46+00:00
+44605,LV-0001,small_airport,"Gančauski Airfield",56.042999,26.368999,,EU,LV,LV-DA,Gančauski,0,,,,,,"Gancauski Airfield, Ķirupe Airport",0,2016-07-23T10:28:07+00:00
+327276,LV-0044,small_airport,"Gudenieku lidlauks",56.903657,21.639275,,EU,LV,LV-KU,Gudenieki,0,,,,,,,0,2018-04-22T05:50:39+00:00
+308833,EVAP,heliport,"AMO Plant Heliport",56.6656,23.7792,7,EU,LV,LV-JEL,Jelgava,0,EVAP,,,,,,0,2013-06-09T12:58:53+00:00
+325858,LV-0025,small_airport,"Karķu lidlauks",57.7866855,25.6034554,,EU,LV,LV-U-A,Karķi,0,,,,,,,0,2017-12-16T23:36:45+00:00
+317835,EVSM,heliport,"M-Sola Heliport",56.665556,24.903056,141,EU,LV,LV-OG,Lielvārde,0,EVSM,,,,,"GM Helicopters,Lielvārde",0,2016-05-09T10:50:54+00:00
+308832,EVAH,small_airport,"Langaci-Limbaži Airport",57.4849,24.672126,211,EU,LV,LV-LM,Limbaži,0,EVLI,,,http://langaci.wordpress.com/,,,0,2016-11-02T09:42:25+00:00
+325841,LV-0022,small_airport,"Lubes lidlauks",57.440644,22.58316,,EU,LV,LV-U-A,Lube,0,,,,,,,0,2017-12-16T00:46:09+00:00
+318286,EVLU,heliport,"Ludza Helipad",56.521111,27.694167,,EU,LV,LV-LU,Ludza,0,EVLU,,,,,,0,2016-06-05T02:04:47+00:00
+325782,LV-0015,small_airport,"Madlienas lidlauks",56.791602,25.1237505,,EU,LV,LV-U-A,Madliena,0,,,,,,,0,2017-12-10T12:25:15+00:00
+320143,LV-0006,small_airport,"Mālpils lidlauks",57.045315,24.945034,371,EU,LV,LV-U-A,Mālpils,0,EVMP,,,,https://lv.wikipedia.org/wiki/M%C4%81lpils_lidlauks,,0,2017-01-29T06:07:43+00:00
+327208,LV-0042,closed,"Matkules lidlauks",56.9725105,22.6337392,,EU,LV,LV-TU,Matkule,0,,,,,,,0,2018-04-20T00:46:25+00:00
+325784,LV-0017,small_airport,"Mežāres lidlauks",56.515676,26.257966,,EU,LV,LV-U-A,Mežāre,0,,,,,,,0,2017-12-10T12:36:39+00:00
+308829,EVJC,heliport,"Nākotne Centra Jaunzemji Heliport",56.606284,23.452138,46,EU,LV,LV-JL,Nākotne,0,EVJC,,,,,,0,2013-06-08T15:12:20+00:00
+324015,EVHB,heliport,"Baltijas Helikopters heliport",56.607936,23.458431,,EU,LV,LV-JL,Nākotne,0,EVHB,,,,,,0,2017-06-21T18:15:47+00:00
+327151,LV-0040,small_airport,"Priekuļu lidlauks",56.4297479,21.5796735,,EU,LV,LV-LE,Priekule,0,,,,,,,0,2018-04-15T11:35:31+00:00
+321195,LV-0008,small_airport,"Ragana Airstrip",57.20293,24.75348,,EU,LV,LV-RI,Ragana,0,,,,,,,0,2016-11-15T05:25:33+00:00
+324017,EVNA,closed,"Rēzekne Airfield",56.556389,27.212778,,EU,LV,LV-RE,Rēzekne,0,EVNA,,,,,,0,2017-06-21T18:35:01+00:00
+322004,LV-0012,small_airport,"Zabulnieki Airstrip",56.4228938,26.7287,,EU,LV,LV-U-A,Riebiņi,0,,,,,,,0,2017-01-29T04:22:22+00:00
+321031,LV-0007,small_airport,"Skrunda Airfield",56.6833786,21.9982734,,EU,LV,LV-U-A,Skrunda,0,,,,,,,0,2016-11-04T05:08:16+00:00
+325869,LV-0029,small_airport,"Stalbes lidlauks",57.380083,25.011103,,EU,LV,LV-U-A,Stalbe,0,,,,,,,0,2017-12-17T10:17:43+00:00
+326174,LV-0037,closed,"Staru lidlauks",57.103284,26.733248,,EU,LV,LV-U-A,Stari,0,,,,,,,0,2018-01-19T03:34:18+00:00
+46346,EVTE,small_airport,"Talsi Airfield",57.254398449099995,22.5662183762,,EU,LV,LV-TA,Talsi,0,EVTE,,,,,,0,2010-03-24T21:55:16+00:00
+321664,LV-0011,small_airport,"Taurenes lidlauks",57.1694262,25.6768565,,EU,LV,LV-U-A,Taurene,0,,,,,,,0,2016-12-31T05:45:05+00:00
+321530,LV-0010,small_airport,"Valgundes lidlauks",56.7713125,23.6550662,,EU,LV,LV-JEL,Valgunde,0,,,,,,,0,2016-12-16T04:12:59+00:00
+327224,LV-0043,small_airport,"Vārmes lidlauks",56.854677,22.211771,,EU,LV,LV-KU,Vārme,0,,,,,,,0,2018-04-21T03:34:11+00:00
+326074,LV-0033,small_airport,"Viļānu lidlauks",56.592333,26.943647,,EU,LV,LV-U-A,Viļāni,0,,,,,,,0,2018-01-07T02:59:45+00:00
+325839,LV-0020,small_airport,"Višķu lidlauks",56.03673,26.792944,,EU,LV,LV-U-A,Višķi,0,,,,,,,0,2017-12-16T00:40:50+00:00
+325840,LV-0021,small_airport,"Zaļenieku lidlauks",56.5467182,23.534192,,EU,LV,LV-U-A,Zaļenieki,0,,,,,,,0,2017-12-16T00:42:25+00:00
+325983,LV-0030,small_airport,"Zasas lidlauks",56.273317,26.034956,,EU,LV,LV-U-A,Zasa,0,,,,,,,0,2018-01-01T01:25:32+00:00
+325859,LV-0026,small_airport,"Žocenes lidlauks",57.5324639,22.6993897,,EU,LV,LV-U-A,Žocene,0,,,,,,,0,2017-12-16T23:38:55+00:00

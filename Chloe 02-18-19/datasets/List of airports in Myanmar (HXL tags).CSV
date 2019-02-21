@@ -1,0 +1,77 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+26744,VYYY,large_airport,"Yangon International Airport",16.907300949099998,96.1332015991,109,AS,MM,MM-06,Yangon,1,VYYY,RGN,,http://www.yangonairportonline.com,http://en.wikipedia.org/wiki/Yangon_International_Airport,Rangoon,1000,2012-05-07T11:59:23+00:00
+26727,VYMD,large_airport,"Mandalay International Airport",21.702199935913086,95.97789764404297,300,AS,MM,MM-04,Mandalay,1,VYMD,MDL,,,http://en.wikipedia.org/wiki/Mandalay_International_Airport,,1050,2009-07-04T07:48:06+00:00
+26718,VYHH,medium_airport,"Heho Airport",20.746999740600586,96.79199981689453,3858,AS,MM,MM-17,Heho,1,VYHH,HEH,,,http://en.wikipedia.org/wiki/Heho_Airport,,800,2008-11-03T17:33:05+00:00
+26712,VYBG,small_airport,"Bagan Airport",21.178800582885742,94.9301986694336,312,AS,MM,MM-04,"Nyaung U",1,VYBG,NYU,,,http://en.wikipedia.org/wiki/Nyaung_U_Airport,,450,2008-11-03T17:32:52+00:00
+26741,VYTD,medium_airport,"Thandwe Airport",18.4606990814209,94.30010223388672,20,AS,MM,MM-16,Thandwe,1,VYTD,SNW,,,http://en.wikipedia.org/wiki/Thandwe_Airport,,800,2008-11-03T17:34:47+00:00
+26716,VYDW,medium_airport,"Dawei Airport",14.103899955749512,98.20359802246094,84,AS,MM,MM-05,Dawei,1,VYDW,TVY,,,http://en.wikipedia.org/wiki/Dawei_Airport,,800,2008-11-03T17:32:59+00:00
+26728,VYME,medium_airport,"Myeik Airport",12.439800262451172,98.62149810791016,75,AS,MM,MM-05,Mkeik,1,VYME,MGZ,,,http://en.wikipedia.org/wiki/Myeik_Airport,,800,2008-11-03T17:33:57+00:00
+26740,VYSW,medium_airport,"Sittwe Airport",20.132699966430664,92.87259674072266,27,AS,MM,MM-16,Sittwe,1,VYSW,AKY,,,http://en.wikipedia.org/wiki/Sittwe_Airport,,800,2008-11-03T17:34:37+00:00
+26711,VYAS,small_airport,"Anisakan Airport",21.955400466918945,96.40609741210938,3000,AS,MM,MM-04,Anisakan,0,VYAS,,,,,Maymo,50,2008-11-03T17:32:50+00:00
+32609,VYML,medium_airport,"Meiktila Air Base",20.88640022277832,95.89279174804688,699,AS,MM,MM-04,Meiktila,0,VYML,,,,,,50,2009-07-04T07:32:46+00:00
+26717,VYEL,medium_airport,"Naypyidaw Airport",19.623501,96.200996,302,AS,MM,MM-04,Pyinmana,1,VYNT,NYT,,,http://en.wikipedia.org/wiki/Naypyidaw_Airport,"VYEL, Ela, Nay Pyi Taw International",50,2017-06-07T22:30:55+00:00
+26723,VYKT,medium_airport,"Kawthoung Airport",10.049300193786621,98.53800201416016,180,AS,MM,MM-05,Kawthoung,1,VYKT,KAW,,,http://en.wikipedia.org/wiki/Kawthaung_Airport,,800,2008-11-03T17:33:15+00:00
+26720,VYKG,medium_airport,"Kengtung Airport",21.301599502563477,99.63600158691406,2798,AS,MM,MM-17,Kengtung,1,VYKG,KET,,,http://en.wikipedia.org/wiki/Kengtung_Airport,,800,2008-11-03T17:33:17+00:00
+26722,VYKP,medium_airport,"Kyaukpyu Airport",19.42639923095703,93.53479766845703,20,AS,MM,MM-16,Kyaukpyu,1,VYKP,KYP,,,http://en.wikipedia.org/wiki/Kyaukpyu_Airport,,800,2008-11-03T17:33:21+00:00
+26725,VYLS,medium_airport,"Lashio Airport",22.9778995513916,97.752197265625,2450,AS,MM,MM-17,Lashio,1,VYLS,LSH,,,http://en.wikipedia.org/wiki/Lashio_Airport,,800,2008-11-03T17:33:28+00:00
+26724,VYLK,medium_airport,"Loikaw Airport",19.691499710083008,97.21479797363281,2940,AS,MM,MM-12,Loikaw,1,VYLK,LIW,,,http://en.wikipedia.org/wiki/Loikaw_Airport,,800,2008-11-03T17:33:30+00:00
+26732,VYMS,medium_airport,"Mong Hsat Airport",20.516799926757812,99.25679779052734,1875,AS,MM,MM-17,"Mong Hsat",1,VYMS,MOG,,,http://en.wikipedia.org/wiki/Monghsat_Airport,"Monghsat Airport",800,2009-07-04T07:22:36+00:00
+26729,VYMK,medium_airport,"Myitkyina Airport",25.38360023498535,97.35189819335938,475,AS,MM,MM-11,Myitkyina,1,VYMK,MYT,,,http://en.wikipedia.org/wiki/Mtwara_Airport,,800,2008-11-03T17:33:59+00:00
+26737,VYPT,medium_airport,"Putao Airport",27.32990074157715,97.42630004882812,1500,AS,MM,MM-11,Putao,1,VYPT,PBU,,,http://en.wikipedia.org/wiki/Putao_Airport,,800,2008-11-03T17:34:26+00:00
+26742,VYTL,medium_airport,"Tachileik Airport",20.483800888061523,99.9354019165039,1280,AS,MM,MM-17,Tachileik,1,VYTL,THL,,,http://en.wikipedia.org/wiki/Tachilek_Airport,,800,2008-11-03T17:34:39+00:00
+26713,VYBM,small_airport,"Banmaw Airport",24.268999099731445,97.24620056152344,370,AS,MM,MM-11,Banmaw,1,VYBM,BMO,,,http://en.wikipedia.org/wiki/Banmaw_Airport,Banmaws,450,2008-11-03T17:32:55+00:00
+31749,VYKI,small_airport,"Kanti Airport",25.988300323486328,95.67440032958984,6000,AS,MM,MM-01,Kanti,1,VYKI,KHM,,,,,450,2008-11-03T17:33:15+00:00
+30101,VYMW,small_airport,"Magway Airport",20.1656,94.941399,279,AS,MM,MM-03,Magway,1,VYMW,MWQ,,,https://en.wikipedia.org/wiki/Magway_Airport,,450,2018-09-16T03:29:44+00:00
+26730,VYMM,small_airport,"Mawlamyine Airport",16.444700241088867,97.66069793701172,52,AS,MM,MM-15,Mawlamyine,1,VYMM,MNU,,,http://en.wikipedia.org/wiki/Mawlamyaing_Airport,,450,2008-11-03T17:33:38+00:00
+30234,VYPU,small_airport,"Pakhokku Airport",21.4043,95.11125,151,AS,MM,MM-03,Pakhokku,1,VYPU,PKK,,,http://en.wikipedia.org/wiki/Pakokku_Airport,,450,2011-12-06T20:59:14+00:00
+26736,VYPN,small_airport,"Pathein Airport",16.815201,94.7799,20,AS,MM,MM-07,Pathein,1,VYPN,BSX,,,http://en.wikipedia.org/wiki/Pathein_Airport,Bassein,450,2018-06-05T23:16:31+00:00
+26731,VYMO,medium_airport,"Momeik Airport",23.092500686645508,96.64530181884766,600,AS,MM,MM-17,,0,VYMO,MOE,,,,,250,2008-11-03T17:33:42+00:00
+26734,VYNS,medium_airport,"Namsang Airport",20.890499114990234,97.73590087890625,3100,AS,MM,MM-17,Namsang,0,VYNS,NMS,,,,,250,2008-11-03T17:34:04+00:00
+26710,VYAN,small_airport,"Ann Airport",19.769199,94.0261,74,AS,MM,MM-16,Aeng,0,VYAN,VBA,,,https://en.wikipedia.org/wiki/Ann_Airport,,50,2018-05-03T08:43:52+00:00
+32605,VYBP,small_airport,"Bokpyinn Airport",11.1494,98.735901,100,AS,MM,MM-05,Bokpyinn,0,VYBP,VBP,,,,"VY03, Toungkomei Airport, Taungkamet, Bokpyin, Bokopyin",50,2016-02-06T15:43:29+00:00
+26714,VYCI,small_airport,"Coco Island Airport",14.141500473022461,93.36849975585938,20,AS,MM,MM-06,"Coco Island",0,VYCI,,,,,,50,2008-11-03T17:32:59+00:00
+31516,VYGG,small_airport,"Gangaw Airport",22.174699783325195,94.1343994140625,200,AS,MM,MM-03,Gangaw,0,VYGG,GAW,,,,,50,2008-11-03T17:33:01+00:00
+29930,VYGW,small_airport,"Gwa Airport",17.600000381469727,94.58329772949219,10,AS,MM,MM-16,Gwa,0,VYGW,GWA,,,,,50,2008-11-03T17:33:03+00:00
+42457,MM-0002,small_airport,"Hinthada Airport",17.633329391500002,95.4666976929,32,AS,MM,MM-07,Hinthada,0,VYHT,HEB,,,,"Henzada Airport",50,2014-10-04T14:57:14+00:00
+29949,VYHB,small_airport,"Hmawbi Air Base",17.11669921875,96.06670379638672,69,AS,MM,MM-06,Hmawbi,0,VYHB,,,,,Hmawby,50,2009-07-04T07:31:42+00:00
+26719,VYHL,small_airport,"Hommalinn Airport",24.899599075317383,94.91400146484375,534,AS,MM,MM-01,Hommalinn,0,VYHL,HOX,,,,,50,2008-11-03T17:33:09+00:00
+26735,VYPA,small_airport,"Hpa-N Airport",16.893699645996094,97.67459869384766,150,AS,MM,MM-13,Hpa-N,0,VYPA,PAA,,,,,50,2008-11-03T17:33:11+00:00
+26721,VYKL,small_airport,"Kalay Airport",23.188800811767578,94.05110168457031,499,AS,MM,MM-01,Kalemyo,0,VYKL,KMV,,,,,50,2008-11-03T17:33:13+00:00
+32625,VYXG,small_airport,"Kyaukhtu South Airport",21.406700134277344,94.13030242919922,1345,AS,MM,MM-03,"Kyaukhtu South",0,VYXG,,,,,"New Kyauktu",50,2008-11-03T17:33:19+00:00
+30051,VYKU,small_airport,"Kyauktu Airport",21.399999618530273,94.13330078125,1250,AS,MM,MM-03,Kyauktu,0,VYKU,KYT,,,,,50,2008-11-03T17:33:23+00:00
+42458,MM-0003,small_airport,"Langkho Airport",20.350000381469727,98.01667022705078,1014,AS,MM,MM-17,Langhko,0,,,,,,,50,2008-11-03T17:33:24+00:00
+26726,VYLY,small_airport,"Lanywa Airport",20.940399169921875,94.82260131835938,175,AS,MM,MM-03,Lanywa,0,VYLY,,,,,,50,2008-11-03T17:33:26+00:00
+32606,VYLN,small_airport,"Lonekin Airport",25.649999618530273,96.36699676513672,1010,AS,MM,MM-11,Lonekin,0,VYLN,,,,,,50,2008-11-03T17:33:32+00:00
+4686,VY02,small_airport,"New Magway Airport",20.153600692749023,94.96869659423828,279,AS,MM,MM-03,Magway,0,VY02,,VY02,,,,50,2008-11-03T17:34:10+00:00
+31901,VYMN,small_airport,"Manaung Airport",18.845800399780273,93.68890380859375,102,AS,MM,MM-16,Manaung,0,VYMN,MGU,,,,,50,2008-11-03T17:33:36+00:00
+26715,VYCZ,small_airport,"Chanmyathazi Airport",21.940500259399414,96.089599609375,252,AS,MM,MM-04,Mandalay,0,VYCZ,,,,http://en.wikipedia.org/wiki/Mandalay_Chanmyathazi_Airport,Mandalay,50,2008-11-03T17:32:57+00:00
+26739,VYST,medium_airport,"Shante Air Base",20.941699981689453,95.91449737548828,630,AS,MM,MM-04,Meiktila,0,VYST,,,,,,50,2009-07-04T07:34:22+00:00
+32607,VYMH,small_airport,"Mong Hpayak Airport",20.83300018310547,99.94999694824219,1700,AS,MM,MM-17,"Mong Hpayak",0,VYMH,,,,,,50,2008-11-03T17:33:44+00:00
+31897,VYMT,small_airport,"Mong Tong Airport",20.29669952392578,98.8989028930664,1840,AS,MM,MM-17,"Mong Tong",0,VYMT,MGK,,,,,50,2008-11-03T17:33:46+00:00
+32610,VYMP,small_airport,"Mongpyin Airport",21.350000381469727,99.03299713134766,1516,AS,MM,MM-17,Mongpyin,0,VYMP,,,,,,50,2008-11-03T17:33:50+00:00
+32608,VYMI,small_airport,"Mongyai Airport",22.482999801635742,98.03299713134766,2900,AS,MM,MM-17,Mongyai,0,VYMI,,,,,,50,2008-11-03T17:33:52+00:00
+32612,VYMY,small_airport,"Monywar Airport",22.221638,95.093479,298,AS,MM,MM-01,Monywar,0,VYMY,NYW,,,,,50,2018-05-02T15:48:25+00:00
+32611,VYMU,small_airport,"Myauk U Airport",20.566999435424805,93.19999694824219,60,AS,MM,MM-16,"Myauk U",0,VYMU,,,,,,50,2008-11-03T17:33:57+00:00
+26733,VYNP,medium_airport,"Nampong Air Base",25.354400634799998,97.2951965332,459,AS,MM,MM-11,Myitkyina,0,VYNP,,,,http://en.wikipedia.org/wiki/Nampong_Air_Force_Base,,50,2011-10-16T12:08:09+00:00
+42459,MM-0004,small_airport,"Myoungmya Airport",16.570999145507812,94.93229675292969,85,AS,MM,MM-07,Myoungmya,0,,,,,,,50,2008-11-03T17:34:00+00:00
+32039,VYNT,small_airport,"Namtu Airport",23.083,97.383003,2000,AS,MM,MM-17,Namtu,0,VYNU,NMT,,,,,50,2017-06-07T14:57:11+00:00
+32613,VYNM,small_airport,"Naungmom Airport",27.5,97.81700134277344,2200,AS,MM,MM-11,Naungmom,0,VYNM,,,,,,50,2008-11-03T17:34:08+00:00
+32618,VYPP,small_airport,"Hpapun Airport",18.0666999817,97.449798584,300,AS,MM,MM-13,"Pa Pun",0,VYPP,PPU,,,,,50,2011-11-02T00:43:06+00:00
+32619,VYPW,small_airport,"Palaw Airport",12.949999809265137,98.6500015258789,150,AS,MM,MM-05,Palaw,0,VYPW,,,,,,50,2008-11-03T17:34:14+00:00
+32615,VYPE,small_airport,"Paletwa Airport",21.299999237060547,92.91699981689453,60,AS,MM,MM-14,Paletwa,0,VYPE,,,,,,50,2008-11-03T17:34:16+00:00
+30251,VYPK,small_airport,"Pauk Airport",21.449199676513672,94.48690032958984,249,AS,MM,MM-03,Pauk,0,VYPK,PAU,,,,,50,2008-11-03T17:34:18+00:00
+32616,VYPI,small_airport,"Pearl Island Airport",11.282999992370605,98.19999694824219,5,AS,MM,MM-05,"Pearl Island",0,VYPI,,,,,,50,2008-11-03T17:34:20+00:00
+42456,MM-0001,small_airport,"Bago Airport",17.29960060119629,96.43379974365234,105,AS,MM,MM-02,Pegu,0,,,,,,,50,2008-11-03T17:32:53+00:00
+32614,VYPB,small_airport,"Phonngbyin Airport",24.25,94.78299713134766,300,AS,MM,MM-01,Phonngbyin,0,VYPB,,,,,,50,2008-11-03T17:34:22+00:00
+32617,VYPL,small_airport,"Pinlebu Airport",24.08300018310547,95.36699676513672,830,AS,MM,MM-01,Pinlebu,0,VYPL,,,,,,50,2008-11-03T17:34:24+00:00
+26738,VYPY,small_airport,"Pyay Airport",18.824499130249023,95.26599884033203,120,AS,MM,MM-02,Pye,0,VYPY,PRU,,,,,50,2008-11-03T17:34:28+00:00
+32621,VYSL,small_airport,"Salingyi Airport",22.100000381469727,95.01699829101562,264,AS,MM,MM-01,Salingyi,0,VYSL,,,,,,50,2008-11-03T17:34:30+00:00
+32620,VYSA,small_airport,"Saw Airport",21.16699981689453,94.16699981689453,1100,AS,MM,MM-03,Saw,0,VYSA,,,,,,50,2008-11-03T17:34:32+00:00
+32622,VYSO,closed,"Sedoktayar Airport",20.450001,94.233002,500,AS,MM,MM-03,Sedoktayar,0,VYSO,,,,,,50,2017-02-27T20:49:03+00:00
+42460,MM-0005,small_airport,"Shinbweyang Airport",26.68600082397461,96.21040344238281,1680,AS,MM,MM-11,Shinbweyang,0,,,,,,,50,2008-11-03T17:34:35+00:00
+32623,VYTN,small_airport,"Tanai Airport",26.367000579833984,96.73300170898438,690,AS,MM,MM-11,Tanai,0,VYTN,,,,,,50,2008-11-03T17:34:41+00:00
+32624,VYTY,small_airport,"Tanyang Airport",22.482999801635742,98.4000015258789,250,AS,MM,MM-17,Tanyang,0,VYTY,,,,,,50,2008-11-03T17:34:43+00:00
+26743,VYTO,small_airport,"Taungoo Airport",19.031299591064453,96.40119934082031,160,AS,MM,MM-02,Taungoo,0,VYTO,,,,,,50,2008-11-03T17:34:45+00:00
+32450,VYHN,small_airport,"Tilin Airport",21.700000762939453,94.0999984741211,1385,AS,MM,MM-03,Tilin,0,VYHN,TIO,,,,,50,2008-11-03T17:34:49+00:00
+32714,VYYE,small_airport,"Ye Airport",15.300000190734863,97.86699676513672,30,AS,MM,MM-15,Ye,0,VYYE,XYE,,,,,50,2008-11-03T17:34:53+00:00

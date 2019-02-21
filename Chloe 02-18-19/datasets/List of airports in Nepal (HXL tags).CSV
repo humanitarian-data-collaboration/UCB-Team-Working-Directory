@@ -1,0 +1,50 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+26596,VNKT,large_airport,"Tribhuvan International Airport",27.6966,85.3591,4390,AS,NP,NP-BA,Kathmandu,1,VNKT,KTM,,http://www.tiairport.com.np/index.php,http://en.wikipedia.org/wiki/Tribhuvan_International_Airport,gaucharan,875,2019-01-13T11:56:38+00:00
+28150,VNLK,small_airport,"Lukla Airport",27.686899185180664,86.72969818115234,9380,AS,NP,NP-SA,Lukla,1,VNLK,LUA,,,,"Mount Everest, Tenzing Norgay, Sir Edmund Hillary",450,2008-12-30T09:27:04+00:00
+26598,VNPK,medium_airport,"Pokhara Airport",28.200899124145508,83.98210144042969,2712,AS,NP,NP-GA,Pokhara,1,VNPK,PKR,,,http://en.wikipedia.org/wiki/Pokhara_Airport,,800,2008-12-30T09:26:17+00:00
+30707,VNBP,small_airport,"Bharatpur Airport",27.678101,84.429398,600,AS,NP,NP-NA,Bharatpur,1,VNBP,BHR,,,https://en.wikipedia.org/wiki/Bharatpur_Airport,,450,2018-05-11T02:50:41+00:00
+26597,VNNG,medium_airport,"Nepalgunj Airport",28.103599548339844,81.66699981689453,540,AS,NP,NP-BH,Nepalgunj,1,VNNG,KEP,,,http://en.wikipedia.org/wiki/Nepalgunj_Airport,,800,2008-12-30T09:26:05+00:00
+30936,VNDP,small_airport,"Dolpa Airport",28.985700607299805,82.81909942626953,8200,AS,NP,NP-KA,Dolpa,1,VNDP,DOP,,,,,450,2008-12-30T09:26:25+00:00
+31712,VNJL,small_airport,"Jumla Airport",29.2742,82.193298,7700,AS,NP,NP-KA,Jumla,1,VNJL,JUM,,,https://en.wikipedia.org/wiki/Jumla_Airport,,450,2018-09-16T04:31:52+00:00
+32172,VNPL,small_airport,"Phaplu Airport",27.517787,86.584454,7918,AS,NP,NP-SA,Phaplu,1,VNPL,PPL,,,https://en.wikipedia.org/wiki/Phaplu_Airport,,450,2018-09-16T04:31:21+00:00
+26599,VNSI,small_airport,"Simara Airport",27.159500122070312,84.9801025390625,450,AS,NP,NP-NA,Simara,1,VNSI,SIF,,,http://en.wikipedia.org/wiki/Simara_Airport,,450,2008-12-30T09:26:53+00:00
+26595,VNJP,medium_airport,"Janakpur Airport",26.708799362199997,85.9224014282,256,AS,NP,NP-JA,Janakpur,1,VNJP,JKR,,,http://en.wikipedia.org/wiki/Janakpur_Airport,,250,2014-12-04T21:03:11+00:00
+30931,VNDG,small_airport,"Tulsipur Airport",28.111099243164062,82.29419708251953,2100,AS,NP,NP-RA,Dang,0,VNDG,DNP,,,,,50,2008-12-30T09:26:55+00:00
+308298,VNJS,small_airport,"Jomsom Airport",28.780426,83.723,8976,AS,NP,NP-DH,Jomsom,1,VNJS,JMO,,,http://en.wikipedia.org/wiki/Jomsom_Airport,Jomosom,0,2019-01-11T11:45:34+00:00
+315129,NP-0002,small_airport,"Thalchi Airport",29.5211,82.1468,8970,AS,NP,NP-KA,"Rara National Park",0,,,VNT1,,https://en.wikipedia.org/wiki/Talcha_Airport,,0,2015-08-07T10:17:19+00:00
+26593,VNBW,medium_airport,"Gautam Buddha Airport",27.505685,83.416293,358,AS,NP,NP-LU,Bhairawa,1,VNBW,BWA,,,http://en.wikipedia.org/wiki/Gautam_Buddha_Airport,"Bhairahawa Airport",800,2016-05-20T10:44:58+00:00
+26600,VNVT,medium_airport,"Biratnagar Airport",26.48150062561035,87.26399993896484,236,AS,NP,NP-KO,Biratnagar,1,VNVT,BIR,,,http://en.wikipedia.org/wiki/Biratnagar_Airport,,800,2008-12-30T09:26:35+00:00
+26594,VNCG,small_airport,"Bhadrapur Airport",26.5708007812,88.07959747310001,300,AS,NP,NP-ME,Bhadrapur,1,VNCG,BDP,,,http://en.wikipedia.org/wiki/Bhadrapur_Airport,"Chandragadhi Airport",450,2010-09-01T18:41:00+00:00
+31892,VNMG,small_airport,"Meghauli Airport",27.5774,84.22875,600,AS,NP,NP-NA,Meghauli,1,VNMG,MEY,,,https://en.wikipedia.org/wiki/Meghauli_Airport,,450,2018-09-15T16:08:17+00:00
+35199,NP-MWP,small_airport,"Mountain Airport",28,85.33300018310547,,AS,NP,NP-BA,Mountain,1,,MWP,,,,,450,2008-12-30T09:25:57+00:00
+30106,VNMA,small_airport,"Manang Airport",28.641399,84.089203,11001,AS,NP,NP-GA,Ngawal,0,VNMA,NGX,,,https://en.wikipedia.org/wiki/Manang_Airport,,450,2019-01-11T11:50:04+00:00
+32236,VNRK,small_airport,"Rukum Chaurjahari Airport",28.627001,82.195,2500,AS,NP,NP-RA,Rukumkot,1,VNRK,RUK,,,http://en.wikipedia.org/wiki/Rukumkot_Airport,"Rukumkot Airport",450,2019-01-11T11:43:58+00:00
+32237,VNRT,small_airport,"Rumjatar Airport",27.303499221801758,86.55039978027344,4500,AS,NP,NP-SA,Rumjatar,1,VNRT,RUM,,,,,450,2008-12-30T09:27:10+00:00
+31675,VNST,small_airport,"Simikot Airport",29.971099853515625,81.81890106201172,9246,AS,NP,NP-KA,Simikot,1,VNST,IMK,,,,,450,2008-12-30T09:26:29+00:00
+32311,VNSK,small_airport,"Surkhet Airport",28.586,81.636002,2400,AS,NP,NP-BH,Surkhet,1,VNSK,SKH,,,https://en.wikipedia.org/wiki/Surkhet_Airport,,450,2018-09-15T16:07:29+00:00
+32463,VNTR,small_airport,"Tumling Tar Airport",27.315001,87.193298,1700,AS,NP,NP-KO,"Tumling Tar",1,VNTR,TMI,,,https://en.wikipedia.org/wiki/Tumlingtar_Airport,,450,2018-09-15T16:06:18+00:00
+30701,VNBL,small_airport,"Baglung Airport",28.212799072265625,83.66629791259766,3320,AS,NP,NP-DH,Baglung,0,VNBL,BGL,,,,,50,2008-12-30T09:26:09+00:00
+30753,VNBT,small_airport,"Baitadi Airport",29.465299606323242,80.54920196533203,4200,AS,NP,NP-MA,Baitadi,0,VNBT,BIT,,,,,50,2008-12-30T09:26:39+00:00
+30760,VNBG,small_airport,"Bajhang Airport",29.538999557495117,81.1854019165039,4100,AS,NP,NP-SE,Bajhang,0,VNBG,BJH,,,,,50,2008-12-30T09:27:12+00:00
+30761,VNBR,small_airport,"Bajura Airport",29.50200080871582,81.66899871826172,4300,AS,NP,NP-SE,Bajura,0,VNBR,BJU,,,,,50,2008-12-30T09:27:14+00:00
+30706,VNBJ,small_airport,"Bhojpur Airport",27.14739990234375,87.05079650878906,4000,AS,NP,NP-KO,Bhojpur,0,VNBJ,BHP,,,,,50,2008-12-30T09:26:31+00:00
+30875,VNDL,small_airport,"Darchula Airport",29.669200897216797,80.54840087890625,2132,AS,NP,NP-MA,Darchula,0,VNDL,DAP,,,,,50,2008-12-30T09:26:41+00:00
+30913,VNDH,small_airport,"Dhangarhi Airport",28.753299713134766,80.58190155029297,690,AS,NP,NP-BH,Dhangarhi,0,VNDH,DHI,,,,,50,2008-12-30T09:26:03+00:00
+32586,VNDR,small_airport,"Dhorpatan Airport",28.492115,83.050644,8950,AS,NP,NP-DH,Dhorpatan,0,VNDR,,,,,,50,2017-08-19T09:10:13+00:00
+31532,VNGK,small_airport,"Palungtar Airport",28.0385,84.4664,1500,AS,NP,NP-GA,Gorkha,0,VNGK,GKH,,,,"Gorkha Airport",50,2016-05-20T10:35:22+00:00
+31703,VNJI,small_airport,"Jiri Airport",27.626313,86.230581,6000,AS,NP,NP-JA,Jiri,0,VNJI,JIR,,,,,50,2017-08-19T09:11:15+00:00
+31802,VNLD,small_airport,"Lamidanda Airport",27.25309944152832,86.66999816894531,4100,AS,NP,NP-SA,Lamidanda,0,VNLD,LDN,,,,,50,2008-12-30T09:27:01+00:00
+31856,VNLT,small_airport,"Langtang Airport",28.200000762939453,85.58300018310547,12000,AS,NP,NP-BA,Langtang,0,VNLT,LTG,,,,,50,2008-12-30T09:26:01+00:00
+32706,VNMN,small_airport,"Mahendranagar Airport",28.963199615478516,80.14790344238281,650,AS,NP,NP-MA,Mahendranagar,0,VNMN,XMG,,,,,50,2008-12-30T09:26:43+00:00
+32213,VNRB,small_airport,"Rajbiraj Airport",26.510066,86.733902,250,AS,NP,NP-SA,Rajbiraj,0,VNRB,RJB,,,,,50,2017-08-19T09:12:30+00:00
+32209,VNRC,small_airport,"Ramechhap Airport",27.393999099731445,86.0614013671875,1555,AS,NP,NP-JA,Ramechhap,0,VNRC,RHP,,,,,50,2008-12-30T09:26:23+00:00
+32587,VNRP,small_airport,"Rolpa Airport",28.267292,82.756496,4100,AS,NP,NP-RA,Rolpa,0,VNRP,RPA,,,,,50,2017-08-19T09:13:26+00:00
+31110,VNSR,small_airport,"Sanfebagar Airport",29.236629,81.215317,2280,AS,NP,NP-SE,Sanfebagar,0,VNSR,FEB,,,http://en.wikipedia.org/wiki/Sanfebagar_Airport,,50,2017-08-19T09:18:22+00:00
+32301,VNDT,small_airport,"Silgadi Doti Airport",29.263099670410156,80.93599700927734,2100,AS,NP,NP-SE,"Silgadi Doti",0,VNDT,SIH,,,,,50,2008-12-30T09:27:16+00:00
+32588,VNTP,small_airport,"Tikapur Airport",28.5219,81.123,522,AS,NP,NP-SE,Tikapur,0,VNTP,TPU,,,https://en.wikipedia.org/wiki/Tikapur_Airport,,50,2015-12-04T00:08:55+00:00
+308291,VNKL,small_airport,"Kangel Danda Airport",27.4106333137,86.6465950012,,AS,NP,NP-SA,,0,VNKL,,,,,,0,2013-03-01T10:51:15+00:00
+308292,NP-0001,small_airport,"Kamal Bazar Airport",29.0531,81.34256,6440,AS,NP,NP-SE,"Kamal Bazar",0,,,,,,,0,2013-03-02T11:30:55+00:00
+308294,VNTH,small_airport,"Thamkharka Airport",27.04787,86.858022,5240,AS,NP,NP-SA,"Khotang Bazar",0,VNTH,,,,,,0,2013-03-02T14:59:21+00:00
+315124,VNSB,small_airport,"Syangboche Airport",27.8112,86.7124,12400,AS,NP,NP-SA,"Namche Bazaar",0,VNSB,SYH,,,https://en.wikipedia.org/wiki/Syangboche_Airport,Syanboche,0,2015-08-06T18:51:17+00:00
+308293,VNTJ,medium_airport,"Taplejung Airport",27.3509,87.69525,7990,AS,NP,NP-ME,Taplejung,1,VNTJ,TPJ,,,http://en.wikipedia.org/wiki/Taplejung_Airport,"Suketar Airport",0,2015-09-06T17:04:30+00:00

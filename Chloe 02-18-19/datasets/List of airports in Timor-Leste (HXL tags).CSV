@@ -1,0 +1,16 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+26881,WPDL,medium_airport,"Presidente Nicolau Lobato International Airport",-8.54640007019,125.526000977,154,AS,TL,TL-DI,Dili,1,WPDL,DIL,,,http://en.wikipedia.org/wiki/Presidente_Nicolau_Lobato_International_Airport,"Komoro Airport",150,2011-11-01T08:45:08+00:00
+26880,WPDB,medium_airport,"Suai Airport",-9.30331039428711,125.28700256347656,96,AS,TL,TL-CO,Suai,0,WPDB,UAI,,,http://en.wikipedia.org/wiki/Suai_Airport,"Covalima Airport",250,2008-06-13T14:30:04+00:00
+26882,WPEC,medium_airport,"Cakung Airport",-8.489029884339999,126.401000977,1771,AS,TL,TL-BA,Baucau,0,WPEC,BCH,,,http://en.wikipedia.org/wiki/Cakung_Airport,"English Madeira airport",150,2011-11-01T08:44:40+00:00
+35136,WPAT,small_airport,"Atauro Airport",-8.243133,125.606378,29,AS,TL,TL-DI,Atauro,0,WPAT,AUT,,,https://en.wikipedia.org/wiki/Atauro_Island#Geography,Atauro,50,2017-08-13T15:32:41+00:00
+35139,WPFL,small_airport,"Fuiloro Airfield",-8.447964,126.987362,1366,AS,TL,TL-LA,Fuiloro,0,WPFL,,,,http://en.wikipedia.org/wiki/Fuiloro,"Vila-De-Avis Airfield, Fuiloro, Abisu",50,2017-08-16T02:50:20+00:00
+41375,ID-KCI,small_airport,"Kon Airport",-8.349193,127.050793,150,AS,TL,TL-LA,Kon,0,,KCI,,,,"Kon, Kun",50,2017-08-12T16:57:20+00:00
+35137,WPMN,small_airport,"Maliana Airport",-8.97224,125.214996,,AS,TL,TL-BO,Maliana,0,WPMN,MPT,,,https://en.wikipedia.org/wiki/Maliana_Airport,Maliana,50,2017-08-13T02:31:30+00:00
+35138,WPOC,small_airport,"Oecussi Airport",-9.198060035705566,124.34300231933594,,AS,TL,TL-OE,Oecussi-Ambeno,0,WPOC,OEC,,,http://en.wikipedia.org/wiki/Oecussi_Airport,"Oe-Kusi Ambenu, Ocussi, Oekussi, Oekusi, Okusi, Oé-Cusse",50,2008-07-14T08:45:11+00:00
+32577,WPVQ,small_airport,"Viqueque Airport",-8.88379955291748,126.37300109863281,500,AS,TL,TL-VI,Viqueque,0,WPVQ,VIQ,,,http://en.wikipedia.org/wiki/Viqueque_Airport,Vikeke,50,2009-04-15T10:36:25+00:00
+35140,WPDH,heliport,"Dili City Heliport",-8.55900001526,125.537002563,,AS,TL,TL-DI,Dili,0,WPDH,,,,,,25,2013-02-02T15:15:38+00:00
+41498,ID-0009,heliport,"Dili Heliport",-8.54854011536,125.519996643,154,AS,TL,TL-DI,Dili,0,,,,,,DIC,0,2011-11-01T08:42:54+00:00
+324720,TL-0002,closed,"Ahi Ru Airfield",-8.670092,127.022542,,AS,TL,TL-LA,Lori,0,,,,,,"Ahi Ru, Lori",0,2017-08-13T22:15:28+00:00
+324707,TL-0001,small_airport,"Lospalos Airfield",-8.455563,126.975861,,AS,TL,TL-LA,Lospalos,0,,,,,,Lospalos,0,2017-08-12T16:25:27+00:00
+324740,TL-0003,small_airport,"Sabu/Tardamu Airfield",-9.216533,124.322731,,AS,TL,TL-OE,Sabu,0,,,WW85,,,"Sabu, Tardamu",0,2017-08-21T04:09:21+00:00

@@ -1,0 +1,230 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2578,ENGM,large_airport,"Oslo Gardermoen Airport",60.193901062012,11.100399971008,681,EU,NO,NO-02,Oslo,1,ENGM,OSL,,https://avinor.no/en/airport/oslo-airport,"https://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen",,1015675,2015-08-14T11:43:32+00:00
+2570,ENBR,large_airport,"Bergen Airport Flesland",60.29339981,5.218140125,170,EU,NO,NO-12,Bergen,1,ENBR,BGO,,http://www.avinor.no/en/airport/bergen,http://en.wikipedia.org/wiki/Bergen_Airport%2C_Flesland,,1275,2015-11-28T21:23:48+00:00
+2602,ENZV,large_airport,"Stavanger Airport Sola",58.876701354,5.6377801895,29,EU,NO,NO-11,Stavanger,1,ENZV,SVG,,http://www.avinor.no/en/airport/stavanger/,"http://en.wikipedia.org/wiki/Stavanger_Airport,_Sola","Sola Air Station, Stavanger lufthavn, Sola",1475,2016-01-14T12:30:46+00:00
+2601,ENVA,large_airport,"Trondheim Airport Værnes",63.4578018,10.9239998,56,EU,NO,NO-17,Trondheim,1,ENVA,TRD,,https://avinor.no/en/airport/trondheim-airport/,http://en.wikipedia.org/wiki/Trondheim_Airport%2C_V%C3%A6rnes,,1275,2015-12-13T14:30:13+00:00
+2600,ENTO,medium_airport,"Sandefjord Airport, Torp",59.1866989136,10.258600235,286,EU,NO,NO-07,Torp,1,ENTO,TRF,,,http://en.wikipedia.org/wiki/Sandefjord_Airport%2C_Torp,,975,2010-06-13T08:08:28+00:00
+2599,ENTC,large_airport,"Tromsø Airport",69.68329620361328,18.918899536132812,31,EU,NO,NO-19,Tromsø,1,ENTC,TOS,,http://www.avinor.no/en/airport/tromso,http://en.wikipedia.org/wiki/Troms%C3%B8_Airport,"Langnes, Tromsøya, Tromso",1050,2009-08-28T19:51:59+00:00
+2592,ENRY,medium_airport,"Moss Airport, Rygge",59.378817,10.785439,174,EU,NO,NO-01,Oslo,0,ENRY,RYG,,http://www.en.ryg.no/,http://en.wikipedia.org/wiki/Moss_Airport%2C_Rygge,"Moss lufthavn Rygge, Rygge Air Station",300,2018-09-01T06:22:11+00:00
+2572,ENCN,medium_airport,"Kristiansand Airport",58.204201,8.08537,57,EU,NO,NO-10,Kjevik,1,ENCN,KRS,,http://www.avinor.no/en/airport/kristiansand,http://en.wikipedia.org/wiki/Kristiansand_Airport%2C_Kjevik,,1050,2017-10-29T08:43:22+00:00
+2564,ENAL,medium_airport,"Ålesund Airport",62.5625,6.119699954986572,69,EU,NO,NO-15,Ålesund,1,ENAL,AES,,http://www.avinor.no/lufthavn/alesund,http://en.wikipedia.org/wiki/%C3%85lesund_Airport%2C_Vigra,Vigra,975,2009-08-29T22:21:45+00:00
+2569,ENBO,large_airport,"Bodø Airport",67.26920318603516,14.365300178527832,42,EU,NO,NO-18,Bodø,1,ENBO,BOO,,http://www.avinor.no/en/airport/bodo/frontpage,http://en.wikipedia.org/wiki/Bod%C3%B8_Airport,"Bodø Air Force Base, Bodø Main Air Station",1275,2009-02-23T19:26:56+00:00
+2585,ENML,medium_airport,"Molde Airport",62.744701385498,7.2624998092651,10,EU,NO,NO-15,Årø,1,ENML,MOL,,https://avinor.no/en/airport/molde-airport/,http://en.wikipedia.org/wiki/Molde_Airport%2C_%C3%85r%C3%B8,Aro,1050,2015-08-21T18:10:38+00:00
+2575,ENEV,medium_airport,"Harstad/Narvik Airport, Evenes",68.491302490234,16.678100585938,84,EU,NO,NO-18,Evenes,1,ENEV,EVE,,https://avinor.no/en/airport/harstadnarvik-airport/,http://en.wikipedia.org/wiki/Harstad/Narvik_Airport%2C_Evenes,"Harstad/Narvik lufthavn, Evenes",975,2015-08-19T18:15:30+00:00
+28117,ENFB,closed,"Oslo, Fornebu Airport",59.89580154418945,10.617199897766113,,EU,NO,NO-03,Oslo,0,ENFB,FBU,,,http://en.wikipedia.org/wiki/Oslo_Airport%2C_Fornebu,,1,2008-07-14T10:24:37+00:00
+2579,ENHD,medium_airport,"Haugesund Airport",59.34529876709,5.2083601951599,86,EU,NO,NO-11,Karmøy,1,ENHD,HAU,,https://avinor.no/en/airport/haugesund-airport/,http://en.wikipedia.org/wiki/Haugesund_Airport%2C_Karm%C3%B8y,Karmoy,975,2015-08-19T18:18:34+00:00
+2581,ENKB,medium_airport,"Kristiansund Airport (Kvernberget)",63.111801147461,7.824520111084,204,EU,NO,NO-15,Kvernberget,1,ENKB,KSU,,https://avinor.no/en/airport/kristiansund-airport/,http://en.wikipedia.org/wiki/Kristiansund_Airport%2C_Kvernberget,"Kristiansund lufthavn, Kvernberget",975,2015-11-28T20:47:23+00:00
+2583,ENKR,medium_airport,"Kirkenes Airport (Høybuktmoen)",69.725799560547,29.891300201416,283,EU,NO,NO-20,Kirkenes,1,ENKR,KKN,,https://avinor.no/en/airport/kirkenes-airport/,http://en.wikipedia.org/wiki/Kirkenes_Airport%2C_H%C3%B8ybuktmoen,,975,2015-11-28T20:48:00+00:00
+2591,ENRO,medium_airport,"Røros Airport",62.578399658203,11.342300415039,2054,EU,NO,NO-16,Røros,1,ENRO,RRS,,https://avinor.no/en/airport/roros-airport/,http://en.wikipedia.org/wiki/R%C3%B8ros_Airport,Roros,975,2015-08-21T18:20:40+00:00
+2574,ENDU,medium_airport,"Bardufoss Airport",69.055801391602,18.540399551392,252,EU,NO,NO-19,Målselv,1,ENDU,BDU,,https://avinor.no/en/airport/bardufoss-airport/,http://en.wikipedia.org/wiki/Bardufoss_Airport,,1050,2015-08-15T20:58:38+00:00
+28116,ENSG,small_airport,"Sogndal Airport",61.156101,7.13778,1633,EU,NO,NO-14,Sogndal,1,ENSG,SOG,,https://avinor.no/en/airport/sogndal-airport/,"https://en.wikipedia.org/wiki/Sogndal_Airport,_Hauk%C3%A5sen",Haukåsen,450,2016-06-02T08:17:43+00:00
+2566,ENAT,medium_airport,"Alta Airport",69.976097106934,23.371700286865,9,EU,NO,NO-20,Alta,1,ENAT,ALF,,https://avinor.no/en/airport/alta-airport/,http://en.wikipedia.org/wiki/Alta_Airport,,975,2015-08-14T18:22:48+00:00
+29264,ENLK,medium_airport,"Leknes Airport",68.152496337891,13.609399795532,78,EU,NO,NO-18,Leknes,1,ENLK,LKN,,https://avinor.no/en/airport/leknes-airport/,http://en.wikipedia.org/wiki/Leknes_Airport,"Leknes lufthavn",450,2015-08-21T17:59:24+00:00
+2594,ENSN,medium_airport,"Skien Airport",59.185001373291016,9.566940307617188,463,EU,NO,NO-08,Geiteryggen,0,ENSN,SKE,,,http://en.wikipedia.org/wiki/Skien_Airport%2C_Geiteryggen,,275,2008-09-03T19:33:17+00:00
+2588,ENNO,medium_airport,"Notodden Airport",59.565701,9.21222,63,EU,NO,NO-08,Notodden,1,ENNO,NTB,,http://www.notodden-flyplass.no/,http://en.wikipedia.org/wiki/Notodden_Airport%2C_Tuven,,250,2016-05-31T10:15:31+00:00
+29260,ENHA,small_airport,"Stafsberg Airport",60.81809997558594,11.067999839782715,713,EU,NO,NO-04,Hamar,0,ENHA,HMR,,,http://en.wikipedia.org/wiki/Hamar_Airport%2C_Stafsberg,,50,2008-06-13T14:30:04+00:00
+29850,ENHN,small_airport,"Elverum Starmoen Airport",60.880001,11.6731,659,EU,NO,NO-04,,0,ENSM,,,,"https://no.wikipedia.org/wiki/Starmoen_flyplass,_Elverum",,50,2016-10-28T07:02:04+00:00
+2593,ENSB,medium_airport,"Svalbard Airport, Longyear",78.246101379395,15.465600013733,88,EU,NO,NO-21,Longyearbyen,1,ENSB,LYR,,https://avinor.no/en/airport/svalbard-airport/,http://en.wikipedia.org/wiki/Svalbard_Airport%2C_Longyear,,1050,2015-08-21T18:38:42+00:00
+2576,ENFG,medium_airport,"Leirin Airport",61.015598297119,9.2880601882935,2697,EU,NO,NO-05,,1,ENFG,VDB,,https://avinor.no/en/airport/fagernes-airport/,http://en.wikipedia.org/wiki/Fagernes_Airport%2C_Leirin,,875,2015-08-19T18:06:34+00:00
+30317,ENRK,small_airport,"Rakkestad Astorp Airport",59.397499,11.3469,400,EU,NO,NO-01,Rakkestad,0,ENRK,,,http://enrk.net/,,,50,2016-11-08T15:09:33+00:00
+28114,ENOV,medium_airport,"Ørsta-Volda Airport, Hovden",62.180000305176,6.0741000175476,243,EU,NO,NO-15,Ørsta,1,ENOV,HOV,,https://avinor.no/en/airport/orsta-volda-airport/,http://en.wikipedia.org/wiki/%C3%98rsta-Volda_Airport%2C_Hovden,,450,2015-08-21T18:52:49+00:00
+2586,ENMS,medium_airport,"Mosjøen Airport (Kjærstad)",65.783996582031,13.214900016785,237,EU,NO,NO-18,,1,ENMS,MJF,,https://avinor.no/en/airport/mosjoen-airport/,http://en.wikipedia.org/wiki/Mosj%C3%B8en_Airport%2C_Kj%C3%A6rstad,,875,2015-11-28T20:48:35+00:00
+2577,ENFL,medium_airport,"Florø Airport",61.583599090576,5.0247201919556,37,EU,NO,NO-14,Florø,1,ENFL,FRO,,https://avinor.no/en/airport/floro-airport/,http://en.wikipedia.org/wiki/Flor%C3%B8_Airport,Floro,875,2015-08-19T18:09:44+00:00
+29280,ENSD,small_airport,"Sandane Airport (Anda)",61.830001831055,6.1058301925659,196,EU,NO,NO-14,Sandane,1,ENSD,SDN,,https://avinor.no/en/airport/sandane-airport/,http://en.wikipedia.org/wiki/Sandane_Airport%2C_Anda,,450,2015-11-28T21:18:50+00:00
+2582,ENKJ,small_airport,"Kjeller Airport",59.9692993164,11.036100387600001,354,EU,NO,NO-02,Kjeller,0,ENKJ,,,http://www.kjellerflyplass.no/,http://en.wikipedia.org/wiki/Kjeller_Airport,Lillestrøm,50,2011-10-20T18:16:32+00:00
+29281,ENSH,medium_airport,"Svolvær Helle Airport",68.243301391602,14.669199943542,27,EU,NO,NO-18,Svolvær,1,ENSH,SVJ,,https://avinor.no/en/airport/svolvar-airport/,http://en.wikipedia.org/wiki/Svolv%C3%A6r_Airport%2C_Helle,"Svolvær lufthavn, Helle",800,2015-08-21T18:39:58+00:00
+29254,ENBL,small_airport,"Førde Airport",61.391101837158,5.7569398880005,1046,EU,NO,NO-14,Førde,1,ENBL,FDE,,https://avinor.no/en/airport/forde-airport/,http://en.wikipedia.org/wiki/F%C3%B8rde_Airport%2C_Bringeland,bringeland,450,2015-08-19T18:12:36+00:00
+29282,ENSK,medium_airport,"Stokmarknes Skagen Airport",68.578826904297,15.033416748047,11,EU,NO,NO-18,Hadsel,1,ENSK,SKN,,https://avinor.no/en/airport/stokmarknes-airport/,http://en.wikipedia.org/wiki/Stokmarknes_Airport%2C_Skagen,"Stokmarknes lufthavn, Skagen",450,2015-08-21T18:35:50+00:00
+2587,ENNA,medium_airport,"Banak Airport",70.068801879883,24.973499298096,25,EU,NO,NO-20,Lakselv,1,ENNA,LKL,,https://avinor.no/en/airport/lakselv-airport/,http://en.wikipedia.org/wiki/Lakselv_Airport%2C_Banak,"North Cape Airport",1050,2015-08-19T18:41:37+00:00
+2565,ENAN,medium_airport,"Andøya Airport",69.292503356934,16.144199371338,43,EU,NO,NO-18,Andenes,1,ENAN,ANX,,https://avinor.no/en/airport/andoya-airport/,http://en.wikipedia.org/wiki/And%C3%B8ya_Airport%2C_Andenes,,975,2015-08-14T18:37:16+00:00
+28115,ENHF,medium_airport,"Hammerfest Airport",70.679702758789,23.668600082397,266,EU,NO,NO-20,Hammerfest,1,ENHF,HFT,,https://avinor.no/en/airport/hammerfest-airport/,http://en.wikipedia.org/wiki/Hammerfest_Airport,,450,2015-08-19T18:13:56+00:00
+29880,ENRI,small_airport,"Ringebu Airfield Frya",61.545440673,10.061588287,571,EU,NO,NO-05,Frya,0,ENRI,,,,,,50,2015-11-21T11:36:21+00:00
+2568,ENBN,medium_airport,"Brønnøysund Airport",65.461097717285,12.217499732971,25,EU,NO,NO-18,Brønnøy,1,ENBN,BNN,,https://avinor.no/en/airport/bronnoysund-airport/,http://en.wikipedia.org/wiki/Br%C3%B8nn%C3%B8ysund_Airport%2C_Br%C3%B8nn%C3%B8y,Bronnoy,875,2015-08-15T21:03:34+00:00
+29266,ENNK,medium_airport,"Narvik Framnes Airport",68.436897277832,17.386699676514,95,EU,NO,NO-18,Narvik,1,ENNK,NVK,,https://avinor.no/en/airport/narvik-airport/,http://en.wikipedia.org/wiki/Narvik_Airport%2C_Framnes,"Narvik lufthavn, Framnes",800,2015-08-21T18:18:17+00:00
+29277,ENRA,medium_airport,"Mo i Rana Airport, Røssvoll",66.363899230957,14.301400184631,229,EU,NO,NO-18,"Mo i Rana",1,ENRA,MQN,,https://avinor.no/en/airport/mo-i-rana-airport/,http://en.wikipedia.org/wiki/Mo_i_Rana_Airport%2C_R%C3%B8ssvoll,,450,2015-08-21T18:07:35+00:00
+41542,NO-0002,small_airport,Maarud,60.181304931640625,11.564483642578125,430,EU,NO,NO-04,,0,,,,,http://no.wikipedia.org/wiki/Maarud_flyplass,,50,2008-08-27T07:31:47+00:00
+29257,ENEG,small_airport,"Eggemoen Airport",60.21730041503906,10.32390022277832,656,EU,NO,NO-06,Hønefoss,0,ENEG,,,,,,50,2008-06-13T14:30:04+00:00
+2567,ENBM,small_airport,"Bømoen Airport",60.63890075683594,6.501500129699707,300,EU,NO,NO-12,Tjukkebygdi,0,ENBM,,,,,,50,2009-08-28T23:02:36+00:00
+2573,ENDI,small_airport,"Geilo Airport Dagali",60.417301177978516,8.518349647521973,2618,EU,NO,NO-06,Dagali,0,ENDI,DLD,,http://www.geilolufthavn.no/,http://en.wikipedia.org/wiki/Geilo_Airport%2C_Dagali,,1,2009-08-28T18:09:29+00:00
+2595,ENSO,medium_airport,"Stord Airport",59.791900634765625,5.340849876403809,160,EU,NO,NO-12,Leirvik,1,ENSO,SRP,,,http://en.wikipedia.org/wiki/Stord_Airport%2C_S%C3%B8rstokken,"Sorstokken, Sørstokken",800,2008-06-13T14:30:04+00:00
+29279,ENRS,small_airport,"Røst Airport",67.527801513672,12.103300094604,7,EU,NO,NO-18,,1,ENRS,RET,,https://avinor.no/en/airport/rost-airport/,http://en.wikipedia.org/wiki/R%C3%B8st_Airport,"Rost Airport",450,2015-08-21T18:24:48+00:00
+2584,ENLI,small_airport,"Lista Airport",58.0994987487793,6.626049995422363,29,EU,NO,NO-10,Farsund,0,ENLI,FAN,,http://www.listalufthavn.no/,"http://en.wikipedia.org/wiki/Farsund_Airport,_Lista","Farsund lufthavn, Lista",375,2009-08-29T22:53:58+00:00
+29927,ENGK,small_airport,"Gullknapp Flpl Airport",58.516701,8.7,390,EU,NO,NO-09,,0,ENGK,,,http://www.gullknapp.no/web.aspx?page=112377,,,50,2017-04-29T07:46:58+00:00
+28474,ENFY,small_airport,"Fyresdal Airfield",59.2000007629,8.086669921879999,986,EU,NO,NO-08,Fyresdal,0,ENFY,,,http://www.airparc.com/,http://en.wikipedia.org/wiki/Vest-Telemark_airport%2C_Fyresdal,"Airparc Fyresdal",50,2010-05-05T04:25:38+00:00
+30502,ENTY,small_airport,"Tynset Airport",62.256900787353516,10.669400215148926,1581,EU,NO,NO-04,Tynset,0,ENTY,,,,,,50,2008-06-13T14:30:04+00:00
+29988,ENJB,small_airport,"Jarlsberg Airfield",59.29999923706055,10.366700172424316,92,EU,NO,NO-07,Tønsberg,0,ENJB,,,,,,50,2009-08-30T10:20:43+00:00
+2589,ENOL,medium_airport,"Ørland Airport",63.69889831542969,9.604000091552734,28,EU,NO,NO-16,Ørland,1,ENOL,OLA,,,http://en.wikipedia.org/wiki/Brekstad_Airport%2C_%C3%98rland,Orland,1275,2009-08-29T17:44:21+00:00
+2598,ENST,medium_airport,"Sandnessjøen Airport (Stokka)",65.956802368164,12.468899726868,56,EU,NO,NO-18,Alstahaug,1,ENST,SSJ,,https://avinor.no/en/airport/sandnessjoen-airport/,http://en.wikipedia.org/wiki/Sandnessj%C3%B8en_Airport%2C_Stokka,,875,2015-11-28T21:18:07+00:00
+29267,ENNM,small_airport,"Namsos Høknesøra Airport",64.472198486328,11.57859992981,7,EU,NO,NO-17,Namsos,1,ENNM,OSY,,https://avinor.no/en/airport/namsos-airport/,http://en.wikipedia.org/wiki/Namsos_Airport%2C_H%C3%B8knes%C3%B8ra,"Namsos lufthavn, Høknesøra",450,2015-08-21T18:13:37+00:00
+29284,ENVD,medium_airport,"Vadsø Airport",70.065299987793,29.844699859619,127,EU,NO,NO-20,Vadsø,1,ENVD,VDS,,https://avinor.no/en/airport/vadso-airport/,https://en.wikipedia.org/wiki/Vads%C3%B8_Airport,,450,2015-08-21T18:46:56+00:00
+30493,ENTS,small_airport,"Trysil Sæteråsen Airport",61.229278564453125,12.266407012939453,1900,EU,NO,NO-04,,0,ENTS,,,,,,50,2009-08-29T09:52:46+00:00
+29955,ENHS,small_airport,"Hokksund Airfield",59.7668991089,9.911390304569998,30,EU,NO,NO-06,,0,ENHS,,,,,,50,2010-05-05T04:28:47+00:00
+2590,ENOP,small_airport,"Fagerhaug Airport",62.649898529052734,9.846739768981934,1830,EU,NO,NO-16,,0,ENOP,,,,,,50,2008-06-13T14:30:04+00:00
+2596,ENSR,medium_airport,"Sørkjosen Airport",69.786796569824,20.959400177002,16,EU,NO,NO-19,Sørkjosen,1,ENSR,SOJ,,https://avinor.no/en/airport/sorkjosen-airport/,http://en.wikipedia.org/wiki/S%C3%B8rkjosen_Airport,,875,2015-08-21T18:42:19+00:00
+29261,ENHV,medium_airport,"Valan Airport",71.009696960449,25.983600616455,44,EU,NO,NO-20,Honningsvåg,1,ENHV,HVG,,https://avinor.no/en/airport/honningsvag-airport/,http://en.wikipedia.org/wiki/Valan_Airport,,450,2015-08-19T18:21:52+00:00
+30032,ENKL,small_airport,"Gol Airport",60.791066,9.048672,2770,EU,NO,NO-06,"Klanten flyplass",0,ENKL,GLL,,http://hallingdalflyklubb.no/wordpress/,"http://en.wikipedia.org/wiki/Gol_Airport,_Klanten",,50,2016-09-26T04:27:57+00:00
+30330,ENRV,small_airport,"Reinsvoll Airfield",60.672199,10.5675,1381,EU,NO,NO-05,Reinsvoll,0,ENRV,,,,,,50,2016-10-28T07:14:15+00:00
+30225,ENUL,small_airport,"Os Vaksinen Ulven Airport",60.1922,5.4225,200,EU,NO,NO-12,Ulven,0,ENUL,,,http://www.osaeroklubb.no/?page_id=51,,,50,2016-04-28T14:31:24+00:00
+29278,ENRM,medium_airport,"Rørvik Airport, Ryum",64.838302612305,11.14610004425,14,EU,NO,NO-17,Rørvik,1,ENRM,RVK,,https://avinor.no/en/airport/rorvik-airport/,http://en.wikipedia.org/wiki/R%C3%B8rvik_Airport%2C_Ryum,,800,2015-08-21T18:22:32+00:00
+29255,ENBV,medium_airport,"Berlevåg Airport",70.871399,29.034201,42,EU,NO,NO-20,Berlevåg,1,ENBV,BVG,,https://avinor.no/en/airport/berlevag-airport/,https://en.wikipedia.org/wiki/Berlev%C3%A5g_Airport,,450,2018-09-14T04:21:40+00:00
+29265,ENMH,medium_airport,"Mehamn Airport",71.02970123291,27.826700210571,39,EU,NO,NO-20,Mehamn,1,ENMH,MEH,,https://avinor.no/en/airport/mehamn-airport/,https://en.wikipedia.org/wiki/Mehamn_Airport,,450,2015-08-21T18:03:58+00:00
+30520,ENVE,small_airport,"Valle Airfield Åraksøyne",59.031723,7.554903,771,EU,NO,NO-09,,0,ENVE,,,,"http://no.wikipedia.org/wiki/Valle_flyplass,_Åraksøyne",,50,2015-11-18T11:45:38+00:00
+29646,ENAE,small_airport,"Æra Airfield",61.257401,11.6689,1621,EU,NO,NO-04,Åmot,0,ENAE,,,,https://no.wikipedia.org/wiki/%C3%98stre_%C3%86ra_flyplass,,50,2016-10-28T06:59:52+00:00
+29827,ENDO,small_airport,"Dokka Thomlevold Airfield",60.833302,9.91667,512,EU,NO,NO-05,Dokka,0,ENDO,,,,"https://no.wikipedia.org/wiki/Dokka_flyplass,_Tomlevold",,50,2016-10-28T06:18:24+00:00
+30092,ENLU,small_airport,"Lunde Nome Airfield",59.298099517822266,9.132729530334473,190,EU,NO,NO-08,"Lunde Nome",0,ENLU,,,,,,50,2009-08-28T18:10:28+00:00
+44320,NO-0007,small_airport,Vermundsjøen,60.69620895385742,12.381420135498047,700,EU,NO,NO-04,,0,,,,,,"winter only, frozen lake",0,2009-04-21T17:31:39+00:00
+2580,ENHK,small_airport,"Hasvik Airport",70.486701965332,22.139699935913,21,EU,NO,NO-20,Hasvik,1,ENHK,HAA,,https://avinor.no/en/airport/hasvik-airport/,http://en.wikipedia.org/wiki/Hasvik_Airport,,875,2015-08-19T18:16:47+00:00
+2597,ENSS,medium_airport,"Vardø Airport, Svartnes",70.355400085449,31.044900894165,42,EU,NO,NO-20,Vardø,1,ENSS,VAW,,https://avinor.no/en/airport/vardo-airport/,http://en.wikipedia.org/wiki/Vard%C3%B8_Airport%2C_Svartnes,,800,2015-08-21T18:46:24+00:00
+29872,ENGN,small_airport,"Folldal Grimsmoe Airport",62.11750030517578,10.110799789428711,2260,EU,NO,NO-04,Folldal,0,ENGN,,,,,,50,2008-06-13T14:30:04+00:00
+30346,ENRG,small_airport,"Rognan Airport",67.09829711914062,15.411100387573242,20,EU,NO,NO-18,Saltdal,0,ENRG,,,,,,50,2008-06-13T14:30:04+00:00
+308241,NO-0032,small_airport,"Bøverbru Airfield",60.637222222199995,10.677222222200001,1348,EU,NO,NO-05,,1,,,,,http://no.wikipedia.org/wiki/Bøverbru_lufthavn,,0,2013-02-04T04:05:27+00:00
+44887,NO-0019,small_airport,"Bjorli Airfield",62.23500061035156,8.24666690826416,1915,EU,NO,NO-05,Lesja,0,,,,,,,0,2009-08-30T09:11:40+00:00
+44890,NO-0022,small_airport,"Sølenstua Airfield",61.836666107177734,11.726666450500488,1900,EU,NO,NO-04,Rendalen,0,,,,,,,0,2009-08-30T09:41:38+00:00
+44871,NO-0008,small_airport,"Salangen Airfield Elvenes",68.870697,17.978399,27,EU,NO,NO-19,Salangen,0,ENLV,,,,"https://en.wikipedia.org/wiki/Salangen_Airport,_Elvenes",,0,2016-06-24T22:49:49+00:00
+2571,ENBS,medium_airport,"Båtsfjord Airport",70.60050201416,29.691400527954,490,EU,NO,NO-20,Båtsfjord,1,ENBS,BJF,,https://avinor.no/en/airport/batsfjord-airport/,http://en.wikipedia.org/wiki/B%C3%A5tsfjord_Airport,,875,2015-08-15T21:05:30+00:00
+41541,NO-0001,small_airport,"Haga Airfield",60.020267486572266,11.37908935546875,489,EU,NO,NO-02,,0,,,,,http://no.wikipedia.org/wiki/Haga_flyplass,,50,2008-08-27T07:22:50+00:00
+29939,ENHT,small_airport,"Hattfjelldal Airport",65.5947036743164,13.9891996383667,689,EU,NO,NO-18,Hattfjelldal,0,ENHT,,,,,,50,2008-06-13T14:30:04+00:00
+30448,ENSU,small_airport,"Vinnu Airport",62.65829849243164,8.664999961853027,249,EU,NO,NO-15,Sunndalsøra,0,ENSU,,,,,,50,2009-08-29T21:55:05+00:00
+42222,ENSA,small_airport,"Svea Airport",77.8969444,16.725,32,EU,NO,NO-21,Svea,0,ENSA,,,,http://en.wikipedia.org/wiki/Svea_Airport,,50,2016-10-11T14:30:15+00:00
+29259,ENFR,closed,"Frigg QP Platform",59.8782997131,2.06500005722,,EU,NO,NO-12,,0,ENFR,,,,,,25,2015-02-04T14:22:04+00:00
+29302,ENXQ,closed,"Frigg DP2 Platform",59.8856010437,2.07083010674,,EU,NO,NO-U-A,,0,ENXQ,,,,,,25,2012-10-07T10:55:23+00:00
+41543,NO-0003,seaplane_base,"Kilen Seaplane Base",59.89238,10.59803,,EU,NO,NO-02,,0,,,,http://www.kilensjoflyklubb.no/,,,0,2016-10-15T00:30:58+00:00
+44882,NO-0018,small_airport,"Gossen Airfield",62.834999084472656,6.829999923706055,46,EU,NO,NO-15,Aukra,0,,,,,,,0,2009-08-29T22:08:11+00:00
+44895,NO-0027,small_airport,"Torsnes Airfield",59.195556640625,11.063888549804688,15,EU,NO,NO-01,Borge,0,,,,,,,0,2009-08-30T10:25:23+00:00
+44894,NO-0026,small_airport,"Evje Airfield",58.60472106933594,7.8125,602,EU,NO,NO-09,"Evje og Hornnes",0,,,,,,,0,2009-08-30T10:17:04+00:00
+301829,NO-0031,small_airport,"Feiring Airfield",60.5122939002,11.1881053448,,EU,NO,NO-02,Feiring,0,,,,,,,0,2012-06-23T16:27:01+00:00
+46461,NO-0029,small_airport,"Gjølstad Airfield",60.2666666667,12.020833333299999,495,EU,NO,NO-04,Kongsvinger,0,,,,,,,0,2010-05-10T06:51:50+00:00
+308253,NO-0033,closed,"Lillehammer Mjøsisen Ice Runway",61.095,10.44,400,EU,NO,NO-05,Lillehammer,0,,,,,,"Vingnesvika, Mjøsa, Mjøsisen",0,2019-01-07T15:32:16+00:00
+314041,NO-0034,closed,"Longyearbyen Airport",78.214,15.78,20,EU,NO,NO-21,Longyearbeyen,0,,,,,,"Old Svalbard Airport",0,2015-03-14T22:23:19+00:00
+44892,NO-0024,small_airport,"Mesnali Airfield",61.08611297607422,10.69777774810791,1831,EU,NO,NO-04,Ringsaker,0,,,,,,,0,2009-08-30T10:00:46+00:00
+44897,ENSI,small_airport,"Ski Airfield",59.706390380859375,10.88194465637207,350,EU,NO,NO-02,Ski,0,ENSI,,,,,,0,2009-08-30T10:48:38+00:00
+44893,NO-0025,small_airport,"Husodden Airfield",60.74833297729492,10.239999771118164,440,EU,NO,NO-05,"Søndre Land",0,,,,,,,0,2009-08-30T10:07:05+00:00
+35127,ENVR,heliport,"Værøy Heliport",67.654555,12.727257,12,EU,NO,NO-18,Værøy,1,ENVR,VRY,,https://avinor.no/en/airport/varoy-heliport/,http://en.wikipedia.org/wiki/V%C3%A6r%C3%B8y_Heliport,"Værøy STOLport",625,2016-06-28T03:45:48+00:00
+29262,ENKA,small_airport,"Kautokeino Air Base",69.04029846191406,23.034000396728516,1165,EU,NO,NO-20,,0,ENKA,QKX,,,,,50,2009-08-28T15:13:48+00:00
+29258,ENFA,small_airport,"Flatval Airport",63.700599670410156,8.76056957244873,152,EU,NO,NO-16,Frøya,0,ENFA,,,,,,50,2009-08-29T18:31:33+00:00
+31004,ENAS,small_airport,"Ny-Ålesund Airport (Hamnerabben)",78.9274978638,11.8743,50,EU,NO,NO-21,Ny-Ålesund,0,ENAS,,,,"http://en.wikipedia.org/wiki/Ny-%C3%85lesund_Airport,_Hamnerabben","Brøggerhalvøya Airport",50,2015-12-02T10:26:41+00:00
+29253,ENBE,heliport,"Balder A Platform",59.19060134887695,2.358059883117676,,EU,NO,NO-U-A,,0,ENBE,,,,,,25,2008-07-14T08:45:09+00:00
+29256,ENDP,heliport,"Draupner Platform",58.1880989074707,2.4711101055145264,,EU,NO,NO-U-A,,0,ENDP,,,,,,25,2008-07-14T08:45:09+00:00
+29263,ENLA,heliport,"Ula Platform",59.110801696777344,2.845829963684082,,EU,NO,NO-U-A,,0,ENLA,,,,,,25,2008-07-14T08:45:09+00:00
+29268,ENOA,heliport,"Oseberg A Platform",60.49140167236328,2.8255600929260254,,EU,NO,NO-U-A,,0,ENOA,,,,,,25,2008-07-14T08:45:09+00:00
+29269,ENOC,heliport,"Oseberg C Platform",60.6077995300293,2.774440050125122,,EU,NO,NO-U-A,,0,ENOC,,,,,,25,2008-07-14T08:45:09+00:00
+29270,ENQA,heliport,"Troll A Platform",60.64500045776367,3.724720001220703,,EU,NO,NO-U-A,,0,ENQA,,,,,,25,2008-07-14T08:45:09+00:00
+29271,ENQB,heliport,"Troll B Platform",60.77389907836914,3.501389980316162,,EU,NO,NO-U-A,,0,ENQB,,,,,,25,2008-07-14T08:45:09+00:00
+29272,ENQC,heliport,"Troll C Platform",60.885799407958984,3.60971999168396,,EU,NO,NO-U-A,,0,ENQC,,,,,,25,2008-07-14T08:45:09+00:00
+29273,ENQD,heliport,"Brage A Platform",60.541900634765625,3.045830011367798,,EU,NO,NO-U-A,,0,ENQD,,,,,,25,2008-07-14T08:45:09+00:00
+29274,ENQE,heliport,"Oseberg South Platform",60.38970184326172,2.795559883117676,,EU,NO,NO-U-A,,0,ENQE,,,,,,25,2008-07-14T08:45:09+00:00
+29275,ENQO,heliport,"Oseberg East Platform",60.70000076293945,2.933609962463379,,EU,NO,NO-U-A,,0,ENQO,,,,,,25,2008-07-14T08:45:09+00:00
+29276,ENQU,heliport,"Huldra Platform",60.8553009033,2.64861011505,,EU,NO,NO-U-A,,0,ENQU,,,,,,25,2012-10-07T10:12:04+00:00
+29283,ENSL,heliport,"Sleipner A Platform",58.36669921875,1.90693998336792,,EU,NO,NO-U-A,,0,ENSL,,,,,,25,2008-07-14T08:45:09+00:00
+29285,ENVF,heliport,"Veslefrikk B Platform",60.78219985961914,2.8961100578308105,,EU,NO,NO-U-A,,0,ENVF,,,,,,25,2008-07-14T08:45:09+00:00
+29286,ENVH,heliport,"Valhall A Platform",56.278099060058594,3.392780065536499,,EU,NO,NO-U-A,,0,ENVH,,,,,,25,2008-07-14T08:45:09+00:00
+29287,ENXA,heliport,"Ekofisk A Platform",56.520301818847656,3.2213900089263916,,EU,NO,NO-U-A,,0,ENXA,,,,,,25,2008-07-14T08:45:09+00:00
+29288,ENXB,heliport,"Eldfisk B Platform",56.41859817504883,3.216939926147461,,EU,NO,NO-U-A,,0,ENXB,,,,,,25,2008-07-14T08:45:09+00:00
+29289,ENXC,heliport,"Cod Platform",57.06890106201172,2.4333300590515137,,EU,NO,NO-U-A,,0,ENXC,,,,,,25,2008-07-14T08:45:09+00:00
+29290,ENXD,heliport,"Ekofisk D Platform",56.5625,3.08417010307312,,EU,NO,NO-U-A,,0,ENXD,,,,,,25,2008-07-14T08:45:09+00:00
+29291,ENXE,heliport,"Edda Platform",56.46419906616211,3.103060007095337,,EU,NO,NO-U-A,,0,ENXE,,,,,,25,2008-07-14T08:45:09+00:00
+29292,ENXF,heliport,"Albuskjell F Platform",56.619998931884766,3.052500009536743,,EU,NO,NO-U-A,,0,ENXF,,,,,,25,2008-07-14T08:45:09+00:00
+29293,ENXG,heliport,"Gyda Platform",56.90420150756836,3.0836100578308105,,EU,NO,NO-U-A,,0,ENXG,,,,,,25,2008-07-14T08:45:09+00:00
+29294,ENXH,heliport,"Hod Platform",56.17580032348633,3.4586100578308105,,EU,NO,NO-U-A,,0,ENXH,,,,,,25,2008-07-14T08:45:09+00:00
+29295,ENXJ,heliport,"Valhall Flank South Platform",56.226898193359375,3.4358301162719727,,EU,NO,NO-U-A,,0,ENXJ,,,,,,25,2008-07-14T08:45:09+00:00
+29296,ENXK,heliport,"Ekofisk K Platform",56.56529998779297,3.2047200202941895,,EU,NO,NO-U-A,,0,ENXK,,,,,,25,2008-07-14T08:45:09+00:00
+29297,ENXL,heliport,"Eldfisk A Platform",56.3760986328125,3.2644400596618652,,EU,NO,NO-U-A,,0,ENXL,,,,,,25,2008-07-14T08:45:09+00:00
+29298,ENXM,heliport,"Embla Platform",56.33250045776367,3.2469398975372314,,EU,NO,NO-U-A,,0,ENXM,,,,,,25,2008-07-14T08:45:09+00:00
+29299,ENXN,heliport,"Jotun A Platform",59.450599670410156,2.3652799129486084,,EU,NO,NO-U-A,,0,ENXN,,,,,,25,2008-07-14T08:45:09+00:00
+29300,ENXO,heliport,"Ringhorne Platform",59.266700744628906,2.450000047683716,,EU,NO,NO-U-A,,0,ENXO,,,,,,25,2008-07-14T08:45:09+00:00
+29301,ENXP,heliport,"Petrojarl Varg Platform",58.07830047607422,1.909999966621399,,EU,NO,NO-U-A,,0,ENXP,,,,,,25,2008-07-14T08:45:09+00:00
+29303,ENXR,heliport,"Tambar Platform",56.983299255371094,2.958329916000366,,EU,NO,NO-U-A,,0,ENXR,,,,,,25,2008-07-14T08:45:09+00:00
+29304,ENXS,heliport,"Albuskjell A Platform",56.6422004699707,2.938610076904297,,EU,NO,NO-U-A,,0,ENXS,,,,,,25,2008-07-14T08:45:09+00:00
+29305,ENXT,heliport,"Tor Platform",56.64139938354492,3.3255600929260254,,EU,NO,NO-U-A,,0,ENXT,,,,,,25,2008-07-14T08:45:09+00:00
+29306,ENXU,heliport,"Jotun B Platform",59.450599670410156,2.3652799129486084,,EU,NO,NO-U-A,,0,ENXU,,,,,,25,2008-07-14T08:45:09+00:00
+29307,ENXV,heliport,"Varg Platform",58.07720184326172,1.888890027999878,,EU,NO,NO-U-A,,0,ENXV,,,,,,25,2008-07-14T08:45:09+00:00
+29308,ENXX,closed,"ENOR FIR",57.6236000061,2.847219944,,EU,NO,NO-U-A,,0,ENXX,,,,,,25,2012-10-07T10:35:20+00:00
+29309,ENXZ,heliport,"Sleipner B Platform",58.41669845581055,1.716670036315918,,EU,NO,NO-U-A,,0,ENXZ,,,,,,25,2008-07-14T08:45:09+00:00
+30517,ENVY,closed,"Værøy STOLport",67.68920135498047,12.680000305175781,36,EU,NO,NO-18,Værøy,0,ENVY,,,,http://en.wikipedia.org/wiki/V%C3%A6r%C3%B8y_Heliport,,1,2008-06-13T14:30:04+00:00
+318218,NO-0045,heliport,"Kalnes Sykehus Heliport",59.318903,11.023619,,EU,NO,NO-01,,0,,,,,,,0,2016-06-02T09:11:39+00:00
+319357,NO-0061,small_airport,"Eidsberg Airstrip",59.535537,11.243937,,EU,NO,NO-01,,0,,,,,,,0,2016-07-05T18:52:26+00:00
+319358,NO-0062,small_airport,"Trøgstad Airfield",59.68386,11.295353,,EU,NO,NO-01,,0,,,,,,,0,2016-07-05T18:54:11+00:00
+325185,NO-0071,small_airport,"Hurdal Airstrip",60.3617476,11.0915079,,EU,NO,NO-02,,0,,,,,,,0,2017-10-14T00:53:30+00:00
+316410,NO-0036,small_airport,"Ljørdalen Flyplass",61.3561484,12.7570594,,EU,NO,NO-04,,0,,,,,,,0,2015-11-21T11:56:36+00:00
+46502,NO-0030,small_airport,"Ose Airfield",58.939851,7.693294,673,EU,NO,NO-09,,0,,,,,,,0,2016-06-06T07:02:12+00:00
+326611,NO-0074,medium_airport,"Mike Tom",0,0,,EU,NO,NO-15,,0,,,,,,,0,2018-03-09T21:28:34+00:00
+320943,NO-0064,small_airport,"Svenningdal Airstrip",65.442929,13.407617,,EU,NO,NO-18,,0,,,,,,,0,2017-03-29T07:53:46+00:00
+316639,NO-0038,small_airport,Masjok,70.2632144,28.1542476,,EU,NO,NO-20,,0,,,,,,,0,2016-01-05T13:09:10+00:00
+319105,ENHO,heliport,"Hopen Heliport",76.508067,25.014337,,EU,NO,NO-21,,0,ENHO,,,,,,0,2016-06-24T08:34:13+00:00
+301115,ENJA,small_airport,"Jan Mayensfield",70.9441166,-8.6520736,39,EU,NO,NO-22,,0,ENJA,,,http://www.jan-mayen.no/,http://en.wikipedia.org/wiki/Jan_Mayensfield,"Jan Mayen",0,2018-09-19T07:21:06+00:00
+44877,NO-0013,small_airport,"Agdenes Airfield Breivika",63.628887,9.72749996,260,EU,NO,NO-16,Agdenes,0,,,,,,,0,2015-12-13T14:29:03+00:00
+319096,ENAH,heliport,"Ål Heliport, Medical Center",60.629958,8.567017,,EU,NO,NO-06,Ål,0,ENAH,,,,"https://en.wikipedia.org/wiki/%C3%85l_Heliport,_Medical_Center",,0,2016-06-24T08:02:00+00:00
+319091,ENAX,heliport,"Ålesund Heliport, Hospital",62.462942,6.312435,,EU,NO,NO-15,Ålesund,0,ENAX,,,,"https://en.wikipedia.org/wiki/%C3%85lesund_Heliport,_Hospital",,0,2016-06-24T07:38:37+00:00
+44891,NO-0023,small_airport,"Rena Airfield Landsørkje",61.18611145,11.3725004,828,EU,NO,NO-04,Åmot,0,,,,,,,0,2015-11-28T08:34:01+00:00
+319092,ENAR,heliport,"Arendal Heliport, Hospital",58.467493,8.754001,,EU,NO,NO-09,Arendal,0,ENAR,,,,"https://en.wikipedia.org/wiki/Arendal_Heliport,_Hospital",,0,2016-06-24T07:41:39+00:00
+326391,NO-0073,small_airport,"Ballangen Flyplass",68.3348617,16.8265719,,EU,NO,NO-18,Ballangen,0,,,,,,,0,2018-02-12T04:27:26+00:00
+319093,ENBA,heliport,"Barentsburg Heliport, Heerodden",78.101318,14.195676,92,EU,NO,NO-21,Barentsburg,0,ENBA,,,,"https://en.wikipedia.org/wiki/Barentsburg_Heliport,_Heerodden",,0,2016-06-24T07:43:54+00:00
+315190,NO-0035,closed,"Old Båtsfjord Airport",70.5996,29.6581,130,EU,NO,NO-20,Båtsfjord,0,,,,,https://en.wikipedia.org/wiki/B%C3%A5tsfjord_Airport_(1973%E2%80%931999),,0,2015-08-16T00:30:55+00:00
+298358,ENBG,heliport,"Grønneviksøren (Haukeland Sykehus) Heliport",60.37988,5.346029,10,EU,NO,NO-12,Bergen,0,ENBG,,,,"https://en.wikipedia.org/wiki/Bergen_Heliport,_Gr%C3%B8nneviks%C3%B8ren",,0,2016-06-02T08:16:44+00:00
+318217,NO-0044,heliport,"Haukeland Universitetssykehus Heliport",60.373145,5.358187,,EU,NO,NO-12,Bergen,0,ENBX,,,,,,0,2018-09-03T05:43:03+00:00
+320989,NO-0065,heliport,"Haakonsvern Heliport",60.332448,5.232265,,EU,NO,NO-12,Bergen,0,,,,,,,0,2016-11-01T02:05:49+00:00
+322796,NO-0067,closed,"Herdla Airport",60.578382,4.960047,,EU,NO,NO-12,Bergen,0,,,,,https://en.wikipedia.org/wiki/Herdla_Airport,,0,2017-04-21T09:38:35+00:00
+322797,NO-0068,seaplane_base,"Bergen Seaplane Base, Sandviken",60.408154,5.319931,,EU,NO,NO-12,Bergen,0,,,,,"https://en.wikipedia.org/wiki/Bergen_Airport,_Sandviken",,0,2017-06-13T04:11:14+00:00
+322798,NO-0069,heliport,"Bergen Heliport, Sandviken",60.409302,5.317071,,EU,NO,NO-12,Bergen,0,,,,,"https://en.wikipedia.org/wiki/Bergen_Airport,_Sandviken",,0,2017-04-21T09:55:15+00:00
+319094,NO-0047,heliport,"Bykle Heliport, Hovden",59.52691,7.368471,,EU,NO,NO-09,Bykle,0,,,,,,,0,2016-06-24T07:54:40+00:00
+318070,NO-0042,small_airport,"Rompene Airport",60.928665,5.160522,138,EU,NO,NO-14,Dalsøyra,0,,,,http://www.hardangermikrofly.com/gulen.html,,,0,2016-05-27T06:17:33+00:00
+318071,NO-0043,closed,"Ripel Airstrip",59.937908,5.990483,157,EU,NO,NO-12,Dimmelsvik,0,,,,,,,0,2019-01-27T10:56:10+00:00
+319089,ENDB,heliport,"Dombås Heliport, Brunshaugen",62.068943,9.121084,,EU,NO,NO-05,Dombås,0,ENDB,,,,"https://en.wikipedia.org/wiki/Domb%C3%A5s_Heliport,_Brunshaugen",,0,2016-06-24T07:59:29+00:00
+319095,ENDH,heliport,"Drammen Heliport, Hospital",59.747818,10.197439,,EU,NO,NO-06,Drammen,0,ENDH,,,,,,0,2016-06-24T07:57:29+00:00
+319097,ENEL,heliport,"Elverum Heliport, Innlandet Hospital",60.876961,11.569628,,EU,NO,NO-04,Elverum,0,ENEL,,,,,,0,2016-06-24T08:03:26+00:00
+324008,ENEN,medium_airport,"Engeløy Airport",67.967222,14.9925,,EU,NO,NO-18,Engeløy,0,ENEN,,,,"https://en.wikipedia.org/wiki/Engel%C3%B8y_Airport,_Gr%C3%A5dussan",,0,2017-06-20T16:30:23+00:00
+319098,ENFJ,heliport,"Fedje Heliport, Høgden",60.765738,4.733014,,EU,NO,NO-12,Fedje,0,ENFJ,,,,"https://en.wikipedia.org/wiki/Fedje_Heliport,_H%C3%B8gden",,0,2016-06-24T08:04:40+00:00
+317759,NO-0039,small_airport,"Huseby Airstrip",59.266927,10.810549,125,EU,NO,NO-01,Fredrikstad,0,,,,,https://no.wikipedia.org/wiki/Huseby_flyplass,,0,2019-01-29T12:53:52+00:00
+317760,NO-0040,small_airport,"Veum Airstrip",59.259246,10.928714,75,EU,NO,NO-01,Fredrikstad,0,,,,,https://no.wikipedia.org/wiki/Veum_flyplass,,0,2019-01-29T12:57:38+00:00
+44876,NO-0012,small_airport,"Frosta Airfield",63.57415771484375,10.719437599182129,50,EU,NO,NO-17,Frosta,0,,,,,,,0,2009-08-29T18:26:08+00:00
+329176,ENFD,heliport,"Førde Central Hospital Heliport",61.456302,5.890432,19,EU,NO,NO-14,Førde,0,ENFD,,,,"https://en.wikipedia.org/wiki/F%C3%B8rde_Heliport,_Central_Hospital",,0,2018-09-03T08:31:03+00:00
+328685,NO-0075,closed,"Gamvik Airport",71.078925,28.225927,79,EU,NO,NO-20,Gamvik,0,,,,,https://en.wikipedia.org/wiki/Gamvik_Airport,Slettnes,0,2018-07-06T10:56:57+00:00
+44872,NO-0009,small_airport,"Grong Airfield Bjørgan",64.3953094,12.34107971,550,EU,NO,NO-17,Grong,0,,,,,,,0,2015-12-04T14:08:50+00:00
+319100,NO-0048,heliport,"Harstad Heliport, Stangnes South",68.779639,16.595484,,EU,NO,NO-19,Harstad,0,,,,,,,0,2016-06-24T08:26:37+00:00
+319102,NO-0049,heliport,"Harstad Heliport, Hospital",68.795754,16.525452,,EU,NO,NO-19,Harstad,0,,,,,,,0,2016-06-24T08:26:55+00:00
+319103,ENHX,heliport,"Haugesund Heliport, Haugesund Hospital",59.408763,5.279548,,EU,NO,NO-11,Haugesund,0,ENHX,,,,,,0,2016-06-24T08:29:45+00:00
+318215,ENBJ,heliport,"Bjørnøya Heliport",74.5038889,19,,EU,NO,NO-21,Herwighamna,0,ENBJ,,,,,Bjørnøya,0,2016-06-02T08:11:15+00:00
+319104,ENRX,heliport,"Hønefoss Heliport, Ringerike Hospital",60.149111,10.255219,,EU,NO,NO-06,Hønefoss,0,ENRX,,,,,,0,2016-06-24T08:32:11+00:00
+322518,NO-0066,heliport,"Kårstø Heliport",59.279738,5.527145,,EU,NO,NO-11,Kårstø,0,,,,,,,0,2017-03-29T09:20:36+00:00
+319106,NO-0050,heliport,"Kinsarvik Heliport, Husemoen",60.361583,6.740877,,EU,NO,NO-12,Kinsarvik,0,,,,,,,0,2016-06-24T08:40:01+00:00
+318219,NO-0046,closed,"Kjøllefjord Airport",70.940661,27.348868,,EU,NO,NO-20,Kjøllefjord,0,,,,,https://en.wikipedia.org/wiki/Kj%C3%B8llefjord_Airport,,0,2016-06-02T09:15:38+00:00
+319107,NO-0051,heliport,"Kristiansand Heliport, Hospital",58.164124,7.981816,,EU,NO,NO-10,Kristiansand,0,,,,,,,0,2016-06-24T08:44:16+00:00
+319108,NO-0052,heliport,"Kristiansund Heliport, Hospital",63.107631,7.723485,,EU,NO,NO-15,Kristiansund,0,,,,,,,0,2016-06-24T08:47:55+00:00
+319109,ENLH,heliport,"Lillehammer Heliport, Innlandet Hospital",61.11325,10.472165,,EU,NO,NO-05,Lillehammer,0,ENLH,,,,,,0,2016-06-27T05:03:36+00:00
+329238,NO-0072,heliport,"Airlift Ljosland",58.7899624,7.3558677,,EU,NO,NO-10,Ljosland,0,,,,,,,0,2018-09-11T07:16:25+00:00
+319110,ENLX,heliport,"Lørenskog Heliport, Ahus",59.932138,10.986877,,EU,NO,NO-02,Lørenskog,0,ENLX,,,,"https://en.wikipedia.org/wiki/L%C3%B8renskog_Heliport,_Ahus",,0,2016-06-24T08:50:18+00:00
+44879,NO-0015,small_airport,"Ler Airfield",63.197383880615234,10.290842056274414,150,EU,NO,NO-16,Melhus,0,,,,,,,0,2009-08-29T21:24:51+00:00
+44878,NO-0014,small_airport,"Meråker Airfield Øian",63.37083435,11.8125,1010,EU,NO,NO-16,Meråker,0,,,,,,,0,2015-11-22T07:42:38+00:00
+319111,NO-0053,heliport,"Molde Heliport, Hospital",62.737088,7.135475,,EU,NO,NO-15,Molde,0,,,,,,,0,2016-06-24T08:56:16+00:00
+319142,ENNH,heliport,"Namsos Heliport, Hospital",64.469981,11.504007,,EU,NO,NO-17,Namsos,0,ENNH,,,,,,0,2016-06-28T03:15:53+00:00
+329250,NO-0076,heliport,"Djupvik Heliport",68.451455,17.532497,,EU,NO,NO-18,Narvik,0,,,,,,,0,2018-09-14T08:49:44+00:00
+322981,NO-0070,small_airport,"Gulli Airstrip",60.133889,11.453333,500,EU,NO,NO-02,Nes,0,,,,,https://no.wikipedia.org/wiki/Gulli_flyplass,,0,2019-01-27T10:44:04+00:00
+43129,NO-0004,closed,"Gressholmen Seaplane Base",59.883888244628906,10.716667175292969,,EU,NO,NO-03,Oslo,0,,,,,http://en.wikipedia.org/wiki/Gressholmen_Airport,,0,2009-01-23T22:35:09+00:00
+43130,NO-0005,closed,"Lindøye Seaplane Base",59.890960693359375,10.718278884887695,,EU,NO,NO-03,Oslo,0,,,,,http://en.wikipedia.org/wiki/Lind%C3%B8ya,,0,2009-01-23T22:40:20+00:00
+319143,ENRH,heliport,"Oslo Heliport, Rikshospitalet",59.948467,10.716144,,EU,NO,NO-03,Oslo,0,ENRH,,,,,,0,2016-06-28T03:18:15+00:00
+319144,ENUH,heliport,"Oslo Heliport, Ullevaal",59.936215,10.736541,,EU,NO,NO-03,Oslo,0,ENUH,,,,,,0,2016-06-28T03:18:47+00:00
+319356,NO-0060,small_airport,"Overhalla Airstrip",64.528154,11.989258,,EU,NO,NO-17,Overhalla,0,,,,,,,0,2016-07-05T18:49:48+00:00
+319146,ENPY,heliport,"Pyramiden Heliport",78.652322,16.337208,6,EU,NO,NO-21,Pyramiden,0,ENPY,,,,,,0,2016-06-28T03:20:42+00:00
+316518,NO-0037,heliport,"Sandnessjøen Heliport, Hospital",66.01786,12.615999,,EU,NO,NO-18,Sandnessjøen,0,,,,,,,0,2016-06-28T03:22:29+00:00
+319355,NO-0059,small_airport,"Setermoen Airstrip",68.855913,18.351421,,EU,NO,NO-19,Setermoen,0,,,,,,,0,2016-07-05T18:45:23+00:00
+320232,NO-0063,small_airport,"Gjerstad Gård Airstrip",60.2574,11.7511,,EU,NO,NO-04,Skarnes,0,,,,http://www.xn--gjerstadgrd-58a.no/,,,0,2017-03-29T07:52:52+00:00
+329178,ENTE,heliport,"Skien Hospital Heliport",59.190744,9.593279,91,EU,NO,NO-08,Skien,0,ENTE,,,,,,0,2018-09-03T09:01:27+00:00
+44873,ENGS,small_airport,"Snåsa Airfield Grønøra",64.1835861,12.17147827,89,EU,NO,NO-17,Snåsa,0,ENGS,,,,,,0,2015-12-13T14:27:43+00:00
+44874,NO-0010,small_airport,Graundalen,64.0169448852539,12.682222366333008,1562,EU,NO,NO-17,Snåsa,0,,,,,,,0,2009-08-29T18:09:40+00:00
+317761,NO-0041,small_airport,"Spydeberg Airstrip",59.664273,11.120224,500,EU,NO,NO-01,Spydeberg,0,,,,,https://no.wikipedia.org/wiki/Spydeberg_flyplass,,0,2019-01-27T06:57:26+00:00
+43131,NO-0006,closed,"Stavanger Airport Forus",58.89440155,5.69944000244,,EU,NO,NO-11,Stavanger,0,,,,,"http://en.wikipedia.org/wiki/Stavanger_Airport,_Forus","Stavanger lufthavn, Forus",0,2016-01-14T12:31:25+00:00
+319147,ENSX,heliport,"Stavanger Heliport, University Hospital",58.9521,5.730924,,EU,NO,NO-11,Stavanger,0,ENSX,,,,"https://en.wikipedia.org/wiki/Stavanger_Heliport,_University_Hospital",,0,2016-06-28T03:34:52+00:00
+44875,NO-0011,small_airport,"Henning (Nedre Langli)",63.93138885498047,11.59000015258789,316,EU,NO,NO-17,Steinkjer,0,,,,,,,0,2009-08-29T18:18:59+00:00
+44889,NO-0021,small_airport,Atna,61.725799560546875,10.84220027923584,1170,EU,NO,NO-04,Stor-Elvdal,0,,,,,,,0,2009-08-30T09:36:58+00:00
+319133,NO-0054,small_airport,"Stryn Airstrip",61.910104,6.755442,,EU,NO,NO-14,Stryn,0,,,,,,,0,2016-06-27T08:19:06+00:00
+319149,NO-0056,heliport,"Stryn Heliport",61.898835,6.618564,,EU,NO,NO-14,Stryn,0,,,,,,,0,2016-06-28T03:38:55+00:00
+319148,NO-0055,heliport,"Suldal Heliport",59.483614,6.272332,,EU,NO,NO-11,Suldal,0,,,,,,,0,2016-06-28T03:38:31+00:00
+44880,NO-0016,small_airport,"Fiske Airfield",63.012447357177734,9.046683311462402,132,EU,NO,NO-15,Surnadal,0,,,,,,,0,2009-08-29T21:33:30+00:00
+44881,NO-0017,small_airport,"Gravvold Airfield",63.05472183227539,8.714166641235352,150,EU,NO,NO-15,Surnadal,0,,,,,,,0,2009-08-29T21:51:38+00:00
+44888,NO-0020,small_airport,Wadahl,61.49944305419922,9.798333168029785,3150,EU,NO,NO-05,Sør-Fron,0,,,,,,,0,2009-08-30T09:30:10+00:00
+319151,NO-0058,heliport,"Tromsø Heliport, University Hospital",69.683925,18.984699,,EU,NO,NO-19,Tromsø,0,,,,,"https://en.wikipedia.org/wiki/Troms%C3%B8_Heliport,_University_Hospital",,0,2016-06-28T03:42:10+00:00
+319088,ENTR,heliport,"St Olav's Hospital Helipad",63.419894,10.385954,93,EU,NO,NO-16,Trondheim,0,ENTR,,,,https://en.wikipedia.org/wiki/St._Olav%27s_University_Hospital,,0,2016-06-25T00:17:19+00:00
+319152,ENRT,heliport,"Trondheim Heliport, Rosten",63.368133,10.374015,,EU,NO,NO-16,Trondheim,0,ENRT,,,,"https://en.wikipedia.org/wiki/Trondheim_Heliport,_Rosten",,0,2016-06-28T03:43:27+00:00
+319150,NO-0057,heliport,"Tønsberg Heliport, Hospital",59.273235,10.41618,130,EU,NO,NO-07,Tønsberg,0,ENTH,,,,,,0,2018-09-03T09:15:51+00:00
+44896,NO-0028,closed,"Vestby Airfield",59.62055587768555,10.70111083984375,300,EU,NO,NO-02,Vestby,0,,,,,,,0,2009-08-30T10:30:20+00:00

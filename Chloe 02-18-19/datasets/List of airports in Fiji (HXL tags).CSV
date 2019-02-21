@@ -1,0 +1,36 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4959,NFFN,medium_airport,"Nadi International Airport",-17.755399703979492,177.4429931640625,59,OC,FJ,FJ-W,Nadi,1,NFFN,NAN,,,http://en.wikipedia.org/wiki/Nadi_International_Airport,,1050,2008-12-19T20:09:58+00:00
+4960,NFNA,medium_airport,"Nausori International Airport",-18.04330062866211,178.5590057373047,17,OC,FJ,FJ-C,Nausori,1,NFNA,SUV,,,http://en.wikipedia.org/wiki/Nausori_International_Airport,,800,2008-12-19T20:10:04+00:00
+32397,NFNS,small_airport,"Savusavu Airport",-16.8027992249,179.341003418,17,OC,FJ,FJ-N,Savusavu,1,NFNS,SVU,,,http://en.wikipedia.org/wiki/Savusavu_Airport,,450,2011-10-02T14:49:47+00:00
+4961,NFNL,medium_airport,"Labasa Airport",-16.466699600219727,179.33999633789062,44,OC,FJ,FJ-N,,1,NFNL,LBS,,,http://en.wikipedia.org/wiki/Lambasa_Airport,,800,2008-06-13T14:30:04+00:00
+31926,NFMA,small_airport,"Mana Island Airport",-17.6730995178,177.098007202,,OC,FJ,FJ-W,"Mana Island",1,NFMA,MNF,,,http://en.wikipedia.org/wiki/Mana_Island_Airport,,450,2011-10-02T14:22:12+00:00
+32485,NFNM,small_airport,"Matei Airport",-16.6905994415,-179.876998901,60,OC,FJ,FJ-N,Matei,1,NFNM,TVU,,,http://en.wikipedia.org/wiki/Mana_Island_Airport,,450,2011-10-02T14:24:58+00:00
+312330,NFCS,seaplane_base,"Castaway Island Seaplane Base",-17.7358,177.129,0,OC,FJ,FJ-W,"Castaway Island",0,NFCS,CST,,,,,0,2014-06-29T13:44:47+00:00
+312331,NFRS,seaplane_base,"Treasure Island Seaplane Base",-17.6554,177.2654,0,OC,FJ,FJ-W,"Treasure Island Resort",0,NFRS,,,,,,0,2014-06-29T15:10:51+00:00
+31810,NFNB,small_airport,"Levuka Airfield",-17.7110996246,178.759002686,11,OC,FJ,FJ-E,Bureta,1,NFNB,LEV,,,http://en.wikipedia.org/wiki/Levuka_Airfield,,450,2011-10-02T14:08:48+00:00
+31662,NFCI,small_airport,"Cicia Airport",-17.7432994843,-179.341995239,13,OC,FJ,FJ-E,Cicia,1,NFCI,ICI,,,http://en.wikipedia.org/wiki/Cicia_Airport,,450,2011-10-02T13:39:59+00:00
+31789,NFNO,small_airport,"Koro Island Airport",-17.3458003998,179.42199707,358,OC,FJ,FJ-E,"Koro Island",1,NFNO,KXF,,,http://en.wikipedia.org/wiki/Koro_Airport,,450,2011-10-02T13:47:15+00:00
+31829,NFNK,small_airport,"Lakeba Island Airport",-18.1991996765,-178.817001343,280,OC,FJ,FJ-E,"Lakeba Island",1,NFNK,LKB,,,http://en.wikipedia.org/wiki/Lakeba_Airport,,450,2011-10-02T13:54:33+00:00
+32176,NFFO,small_airport,"Malolo Lailai Island Airport",-17.7779006958,177.197006226,10,OC,FJ,FJ-W,"Malolo Lailai Island",1,NFFO,PTF,,,http://en.wikipedia.org/wiki/Malolo_Lailai_Airport,,450,2011-10-02T14:14:26+00:00
+31895,NFMO,small_airport,"Moala Airport",-18.566699981699998,179.951004028,13,OC,FJ,FJ-E,Moala,1,NFMO,MFJ,,,http://en.wikipedia.org/wiki/Moala_Airport,,450,2011-10-02T14:31:53+00:00
+32026,NFNG,small_airport,"Ngau Airport",-18.115600585899998,179.339996338,50,OC,FJ,FJ-E,Ngau,1,NFNG,NGI,,,http://en.wikipedia.org/wiki/Ngau_Airport,,450,2011-10-02T14:39:01+00:00
+32233,NFNR,small_airport,"Rotuma Airport",-12.482500076293945,177.0709991455078,22,OC,FJ,FJ-R,Rotuma,1,NFNR,RTA,,,http://en.wikipedia.org/wiki/Rotuma_Island_Airport,Elsee,450,2008-12-19T20:10:16+00:00
+35321,NFVB,small_airport,"Vanua Balavu Airport",-17.268999099731445,-178.9759979248047,76,OC,FJ,FJ-E,"Vanua Balavu",1,NFVB,VBV,,,http://en.wikipedia.org/wiki/Vanuabalavu_Airport,Vanuabalavu,450,2008-12-19T20:10:28+00:00
+31738,NFKD,small_airport,"Vunisea Airport",-19.058099746699998,178.156997681,6,OC,FJ,FJ-E,Vunisea,1,NFKD,KDV,,,http://en.wikipedia.org/wiki/List_of_airports_in_Fiji,"Kadavu Island",450,2011-10-02T14:53:22+00:00
+32023,NFKB,small_airport,"Kaibu Island Airport",-17.254199981689453,-179.48899841308594,,OC,FJ,FJ-N,"Kaibu Island",0,NFKB,,,,,,50,2008-08-03T11:47:15+00:00
+31860,NFNH,small_airport,"Laucala Island Airport",-16.74810028076172,-179.66700744628906,10,OC,FJ,FJ-N,"Laucala Island",0,NFNH,LUC,,,,,50,2008-08-03T11:47:19+00:00
+32113,NFOL,small_airport,"Ono-i-Lau Airport",-20.6589,-178.7411,110,OC,FJ,FJ-E,Ono-i-Lau,0,NFOL,ONU,,,,,50,2015-08-15T23:20:57+00:00
+32567,NFNV,small_airport,"Vatukoula Airport",-17.5,177.8419952392578,156,OC,FJ,FJ-W,Vatukoula,0,NFNV,VAU,,,,,50,2008-12-19T20:10:20+00:00
+32600,NFVL,small_airport,"Vatulele Airport",-18.512500762939453,177.63900756835938,36,OC,FJ,FJ-W,Vatulele,0,NFVL,VTF,,,,,50,2008-12-19T20:10:30+00:00
+31719,NFNW,small_airport,"Wakaya Island Airport",-17.617000579833984,179.01699829101562,130,OC,FJ,FJ-E,"Wakaya Island",0,NFNW,KAY,,,,,50,2008-12-19T20:10:22+00:00
+32717,NFSW,small_airport,"Yasawa Island Airport",-16.758899688720703,177.5449981689453,37,OC,FJ,FJ-W,"Yasawa Island",0,NFSW,YAS,,,,,50,2008-12-19T20:10:26+00:00
+330102,FJ-0002,medium_airport,"+91-9693488888 Love Marriage and Family Problems solutions baba ji ☄☚ ☛☄",0,0,,OC,FJ,FJ-C,,0,,,,,,,0,2019-01-16T04:30:25+00:00
+301882,NFFA,small_airport,"Ba Airport",-17.535056,177.680917,20,OC,FJ,FJ-W,,0,NFFA,,,,,BFJ,0,2018-06-02T09:26:42+00:00
+315553,NFNU,closed,"Bui-Dama Airport",-16.8598,178.6232,90,OC,FJ,FJ-N,Bua,0,NFNU,BVF,,,,Ndalomo,0,2015-09-26T16:05:50+00:00
+316560,NTA,closed,"Natadola Airport",-18.0677,177.315,12,OC,FJ,FJ-W,Mbatiri,0,,NTA,,,,,0,2015-12-22T05:33:33+00:00
+316625,FJ-0001,small_airport,"Taunovo Airstrip",-18.2553,178.0492,21,OC,FJ,FJ-C,"Nanuku Auberge Resort",0,,,,,,,0,2016-01-03T12:42:14+00:00
+302394,BXL,seaplane_base,"Blue Lagoon Seaplane Base",-16.943,177.368,0,OC,FJ,FJ-W,"Nanuya Lailai Island",0,,BXL,,,,,0,2015-08-15T18:58:46+00:00
+315187,NFUL,seaplane_base,"Turtle Island Seaplane Base",-16.966,177.368,0,OC,FJ,FJ-W,"Nanuya Levu Island",0,NFUL,TTL,,,,,0,2015-08-15T19:04:10+00:00
+313476,NFFR,small_airport,"Rabi Island Airport",-16.5337,179.9757,88,OC,FJ,FJ-N,"Rabi Island",0,NFFR,RBI,,,,,0,2014-12-27T04:38:59+00:00
+45040,NFBG,closed,"Biaugunu Airport",-16.4493799329,179.740104675,32,OC,FJ,FJ-N,"Saqani, Cakaudrove",0,NFBG,AQS,,,,"Saqani Airport",0,2014-07-05T03:54:32+00:00

@@ -1,0 +1,10 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3237,HRYR,large_airport,"Kigali International Airport",-1.96863,30.1395,4859,AF,RW,RW-01,Kigali,1,HRYR,KGL,,,http://en.wikipedia.org/wiki/Kigali_International_Airport,"Gregoire Kayibanda International Airport, Kanombe International Airport",1050,2019-01-13T13:33:27+00:00
+32208,HRYU,small_airport,"Ruhengeri Airport",-1.5,29.632999420166016,6102,AF,RW,RW-03,Ruhengeri,0,HRYU,RHG,,,,,50,2008-12-30T14:10:07+00:00
+3238,HRZA,medium_airport,"Kamembe Airport",-2.462239980697632,28.907899856567383,5192,AF,RW,RW-04,Kamembe,1,HRZA,KME,,,http://en.wikipedia.org/wiki/Kamembe_Airport,,800,2008-12-30T14:10:11+00:00
+3236,HRYG,medium_airport,"Gisenyi Airport",-1.6771999597549438,29.258899688720703,5082,AF,RW,RW-04,Gisenyi,0,HRYG,GYI,,,http://en.wikipedia.org/wiki/Grayson_County_Airport,,250,2008-12-30T14:10:09+00:00
+30801,HRYI,small_airport,"Butare Airport",-2.595829963684082,29.7367000579834,5801,AF,RW,RW-05,Butare,0,HRYI,BTQ,,,,,50,2008-12-30T14:10:13+00:00
+31613,HRYO,small_airport,"Gabiro Airport",-1.5499999523162842,30.382999420166016,4806,AF,RW,RW-02,Gabiro,0,HRYO,,,,,,50,2008-12-30T14:10:03+00:00
+31612,HRYN,small_airport,"Nemba Airport",-2.33299994469,30.2000007629,4905,AF,RW,RW-02,Nemba,0,HRYN,,,,http://en.wikipedia.org/wiki/Nemba_Airport,,50,2012-11-01T01:03:42+00:00
+318086,RW-0001,small_airport,"Gako Airport",-2.2308,30.1809,4770,AF,RW,RW-02,Gako,0,,,,,,,0,2016-05-27T11:38:29+00:00

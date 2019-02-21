@@ -1,0 +1,102 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2533,EIDW,large_airport,"Dublin Airport",53.421299,-6.27007,242,EU,IE,IE-D,Dublin,1,EIDW,DUB,,http://www.dublinairport.com/,http://en.wikipedia.org/wiki/Dublin_Airport,"Aerfort Bhaile Átha Cliath",1014475,2018-07-19T09:23:39+00:00
+2537,EINN,large_airport,"Shannon Airport",52.702,-8.92482,46,EU,IE,IE-CE,Shannon,1,EINN,SNN,,http://www.shannonairport.com/,http://en.wikipedia.org/wiki/Shannon_Airport,,1275,2019-01-15T07:31:08+00:00
+2530,EICK,large_airport,"Cork Airport",51.84130096435547,-8.491109848022461,502,EU,IE,IE-C,Cork,1,EICK,ORK,,http://www.corkairport.com/,http://en.wikipedia.org/wiki/Cork_Airport,"Aerfort Chorcaí",1050,2009-02-15T11:04:52+00:00
+2531,EICM,medium_airport,"Galway Airport",53.300201416015625,-8.941590309143066,81,EU,IE,IE-G,Galway,1,EICM,GWY,,http://www.galwayairport.com/,http://en.wikipedia.org/wiki/Galway_Airport,,925,2009-02-15T11:28:05+00:00
+2535,EIKY,medium_airport,"Kerry Airport",52.18090057373047,-9.52377986907959,112,EU,IE,IE-KY,Killarney,1,EIKY,KIR,,http://www.kerryairport.ie/,http://en.wikipedia.org/wiki/Kerry_Airport,,925,2009-02-15T11:41:16+00:00
+2539,EIWF,medium_airport,"Waterford Airport",52.187198638916016,-7.0869598388671875,119,EU,IE,IE-WD,Waterford,1,EIWF,WAT,,http://flywaterford.com/,http://en.wikipedia.org/wiki/Waterford_Airport,,925,2009-02-15T22:12:02+00:00
+2534,EIKN,medium_airport,"Ireland West Knock Airport",53.910301208496094,-8.818490028381348,665,EU,IE,IE-MO,Charleston,1,EIKN,NOC,,http://www.irelandwestairport.com/,http://en.wikipedia.org/wiki/Ireland_West_Airport_Knock,Connaught,975,2009-02-15T22:03:55+00:00
+29221,EIIM,small_airport,"Inishmore Aerodrome",53.1067008972168,-9.653610229492188,24,EU,IE,IE-G,"Inis Mór",1,EIIM,IOR,,,http://en.wikipedia.org/wiki/Inishmore_Aerodrome,"Aran Islands",350,2009-02-15T11:38:04+00:00
+27309,EICA,small_airport,"Connemara Regional Airport",53.23030090332031,-9.467780113220215,70,EU,IE,IE-G,Inverin,1,EICA,NNR,,http://www.aerarannislands.ie/,http://en.wikipedia.org/wiki/Aerfort_na_Minna,"Aerfort na Minna, Indreabhán",350,2009-04-07T13:05:55+00:00
+27310,EIWT,medium_airport,"Weston Airport",53.3521995544,-6.48611021042,150,EU,IE,IE-KE,Leixlip,0,EIWT,,,http://www.westonairport.com/,http://en.wikipedia.org/wiki/Weston_Airport,Dublin,150,2010-01-22T17:41:50+00:00
+29213,EIAB,small_airport,"Abbeyshrule Aerodrome",53.59170150756836,-7.645559787750244,195,EU,IE,IE-LD,Abbeyshrule,0,EIAB,,,,http://en.wikipedia.org/wiki/Abbeyshrule_Aerodrome,,50,2009-04-07T13:05:59+00:00
+29215,EIBR,small_airport,"Birr Aerodrome",53.07059860229492,-7.898330211639404,250,EU,IE,IE-OY,Birr,0,EIBR,,,http://www.ormandflyingclub.com/,http://en.wikipedia.org/wiki/Birr_Aerodrome,Biorra,50,2009-02-15T10:48:47+00:00
+2538,EISG,medium_airport,"Sligo Airport",54.280200958252,-8.5992097854614,11,EU,IE,IE-SO,Sligo,0,EISG,SXL,,http://www.sligoairport.com/,http://en.wikipedia.org/wiki/Sligo_Airport,,800,2015-08-04T01:22:25+00:00
+2536,EIME,medium_airport,"Casement Air Base",53.301700592,-6.451330184940001,319,EU,IE,IE-D,Baldonnel,0,EIME,,,,http://en.wikipedia.org/wiki/Casement_Aerodrome,"RAF Baldonnel",50,2012-11-16T13:40:01+00:00
+29218,EICL,small_airport,"Clonbullogue Aerodrome",53.249656677246094,-7.122745513916016,240,EU,IE,IE-OY,Clonbullogue,0,EICL,,,http://www.skydive.ie/about/location.html,http://en.wikipedia.org/wiki/Clonbullogue_Aerodrome,,50,2009-02-15T10:53:05+00:00
+43997,EIMH,small_airport,"Athboy Airport",53.637779235839844,-6.878611087799072,230,EU,IE,IE-MH,Athboy,0,EIMH,,,,,,0,2009-04-07T13:06:04+00:00
+317046,IE-0005,small_airport,"Eyne Airfield",53.082764,-7.277601,265,EU,IE,IE-LS,Eyne,0,,,,,,"Ridge Aviation",0,2016-02-20T14:26:40+00:00
+320593,IE-0011,small_airport,"Limetree Airfield",53.1155,-7.2443,210,EU,IE,IE-LS,Limetree,0,,,,,,,0,2016-10-01T00:44:39+00:00
+2532,EIDL,medium_airport,"Donegal Airport",55.0442008972168,-8.340999603271484,30,EU,IE,IE-DL,Donegal,1,EIDL,CFN,,http://www.donegalairport.ie/,http://en.wikipedia.org/wiki/Donegal_Airport,Gweedore,825,2009-02-15T11:09:37+00:00
+29226,EIMN,small_airport,"Inishmaan Aerodrome",53.09299850463867,-9.568059921264648,15,EU,IE,IE-G,"Inis Meáin",1,EIMN,IIA,,,,"Aran Islands",350,2009-02-15T11:39:32+00:00
+29222,EIIR,small_airport,"Inisheer Aerodrome",53.064701080322266,-9.510899543762207,40,EU,IE,IE-G,"Inis Oírr",1,EIIR,INQ,,,,"Aran Islands",350,2009-02-15T11:39:10+00:00
+29214,EIBN,small_airport,"Bantry Aerodrome",51.66859817504883,-9.484169960021973,7,EU,IE,IE-C,Bantry,0,EIBN,BYT,,,http://en.wikipedia.org/wiki/Bantry_Aerodrome,Beanntraí,50,2009-02-15T11:03:17+00:00
+29216,EIBT,small_airport,"Belmullet Aerodrome",54.2228012085,-10.0307998657,150,EU,IE,IE-MO,Belmullet,0,EIBT,BLY,,,http://en.wikipedia.org/wiki/Belmullet_Aerodrome,"Béal an Mhuirthead",50,2011-10-22T11:34:09+00:00
+30993,EIBB,closed,"Brittas Bay Airfield",52.858208,-6.06759,50,EU,IE,IE-WW,"Brittas Bay",0,EIBB,,,,,,50,2016-09-06T13:16:17+00:00
+29217,EICB,closed,"Castlebar Airport",53.8484,-9.28037,,EU,IE,IE-MO,Castlebar,0,EICB,CLB,,,,,50,2016-10-23T08:07:46+00:00
+30994,EICS,closed,"Castleforbes Airport",53.778301,-7.83528,150,EU,IE,IE-LD,Castleforbes,0,EICS,,,,,,50,2016-12-23T04:57:49+00:00
+30992,EIBA,small_airport,"Ballyboughal Aerodrome",53.5055556,-6.2377778,180,EU,IE,IE-D,Fingal,0,EIBB,,,http://www.eibb.ie,,,50,2016-12-23T04:47:16+00:00
+29902,EIGM,closed,"Gormanston Aerodrome",53.63479995727539,-6.227700233459473,69,EU,IE,IE-MH,Gormanston,0,EIGM,,,,http://en.wikipedia.org/wiki/Gormanston_Aerodrome,,50,2009-02-15T22:07:29+00:00
+29220,EIHN,small_airport,"Hacketstown Aerodrome",52.85499954223633,-6.547220230102539,610,EU,IE,IE-CW,Hacketstown,0,EIHN,,,,,"Baile Haicéid",50,2009-02-15T10:58:27+00:00
+29224,EIKK,small_airport,"Kilkenny Airport",52.65079879760742,-7.296110153198242,319,EU,IE,IE-KK,Kilkenny,0,EIKK,KKY,,http://www.kilkennyflying-glidingclub.com/,http://en.wikipedia.org/wiki/Kilkenny_Airport,EIKL,50,2009-02-15T22:00:05+00:00
+30997,EIKI,closed,"Killenaule Airport",52.6329994202,-7.632999897,680,EU,IE,IE-TA,Killenaule,0,EIKI,,,,,,50,2014-06-02T19:59:41+00:00
+29223,EIKH,small_airport,"Kildare Aerodrome",53.0635986328125,-6.855279922485352,260,EU,IE,IE-KE,Kilrush,0,EIKH,,,,,,50,2009-02-15T21:54:51+00:00
+29225,EILT,small_airport,"Letterkenny Airport",54.95130157470703,-7.672830104827881,20,EU,IE,IE-DL,Letterkenny,0,EILT,LTR,,,,,50,2008-06-13T14:30:04+00:00
+29219,EICN,small_airport,"Coonagh Aerodrome",52.666500091552734,-8.681830406188965,6,EU,IE,IE-LK,Limerick,0,EICN,,,,,,50,2009-04-07T13:06:00+00:00
+30998,EIMG,closed,"Moneygall Aerodrome",52.849998,-7.983,450,EU,IE,IE-OY,Moneygall,0,EIMG,,,,,"Muine Gall",50,2016-12-23T05:01:09+00:00
+29228,EINC,small_airport,"Newcastle Aerodrome",53.07109832763672,-6.0452799797058105,1,EU,IE,IE-WW,Newcastle,0,EINC,,,,,,50,2009-02-15T22:14:26+00:00
+30999,EIPT,small_airport,"Powerscourt Airfield",53.178301,-6.196495,470,EU,IE,IE-WW,Powerscourt,0,EIPT,,,,,,50,2010-08-01T13:38:11+00:00
+29229,EIRT,small_airport,"Rathcoole Aerodrome",52.10559844970703,-8.983329772949219,281,EU,IE,IE-C,Rathcoole,0,EIRT,,,,,,50,2009-02-15T11:07:39+00:00
+29230,EISP,small_airport,"Spanish Point Airfield",52.845839,-9.414876,,EU,IE,IE-CE,"Spanish Point",0,EISP,,,,,,50,2018-06-02T05:06:21+00:00
+29906,EIGN,small_airport,"Gowran Grange Aerodrome",53.1786003112793,-6.635280132293701,489,EU,IE,IE-KE,Swordlestown,0,EIGN,,,,,,50,2009-02-15T21:52:38+00:00
+29227,EIMY,small_airport,"Moyne Aerodrome",52.70309829711914,-7.70527982711792,400,EU,IE,IE-TA,Thurles,0,EIMY,,,,http://en.wikipedia.org/wiki/Moyne_Aerodrome,"Áth na nUrlainn",50,2009-02-15T21:58:49+00:00
+29231,EITM,small_airport,"Trim Aerodrome",53.5746994019,-6.7386097908,200,EU,IE,IE-MH,Trim,0,EITM,,,,http://en.wikipedia.org/wiki/Trim_Aerodrome,,50,2012-11-18T04:34:45+00:00
+321990,IE-0046,small_airport,"Clonakilty Airstrip",51.6258872,-8.916197,,EU,IE,IE-C,,0,,,,,,,0,2017-01-28T08:14:44+00:00
+321162,IE-0019,small_airport,"Ballyjamesduff Airstrip",53.863,-7.21383,,EU,IE,IE-CN,,0,,,,,,,0,2016-11-13T01:00:35+00:00
+321314,IE-0024,small_airport,"Killamaster Airstrip",52.8665464,-6.8102488,,EU,IE,IE-CW,,0,,,,,,,0,2016-11-26T02:29:36+00:00
+316745,IE-0004,small_airport,"Dolly's Grove",53.4225363,-6.5461492,,EU,IE,IE-D,,0,,,,,,,0,2016-01-20T10:29:01+00:00
+326207,IE-0053,closed,"+27717069166 ##$$$ ~ Great Powerful Magic Ring For Finance/Pastors / Business in UK Sweden Kenya Singapore,Malaysia,Philippines,",1.35,2.05,,EU,IE,IE-D,,0,,,,,,"powerful magic ring, pastor magic ring, business magic ring",0,2018-01-24T04:33:23+00:00
+321136,IE-0013,small_airport,"Russell's field",54.989617,-7.738113,,EU,IE,IE-DL,,0,,,,,,,0,2016-11-12T06:13:24+00:00
+321137,IE-0014,small_airport,"Finn Valley Airfield",54.8465286,-7.6585484,,EU,IE,IE-DL,,0,,,,http://www.finnvalleyflyingclub.com,,,0,2016-11-12T06:18:16+00:00
+321138,IE-0015,small_airport,"Ruskey Airstrip",54.8405299,-7.6547115,,EU,IE,IE-DL,,0,,,,http://www.RuskeyAirfield.com,,,0,2016-11-12T06:20:41+00:00
+321139,IE-0016,small_airport,"Drumavish Airstrip",54.78812,-7.724356,,EU,IE,IE-DL,,0,,,,,,,0,2016-11-12T06:22:11+00:00
+321140,IE-0017,small_airport,"Carnone Airstrip",54.82439,-7.62959,,EU,IE,IE-DL,,0,,,,,,,0,2016-11-12T06:31:12+00:00
+317525,IE-0006,closed,Clifden,53.54106,-10.08394,,EU,IE,IE-G,,0,EICD,,,,https://en.wikipedia.org/wiki/Clifden#Airport,,0,2016-04-12T23:23:24+00:00
+317526,IE-0007,closed,"Inishboffin Airfield",53.6196,-10.21085,,EU,IE,IE-G,,0,,,,,,,0,2016-04-12T23:38:05+00:00
+321724,IE-0043,small_airport,"Whites Airstrip",53.66317,-8.63488,,EU,IE,IE-G,,0,,,,,,,0,2017-01-04T20:24:13+00:00
+322072,IE-0048,small_airport,"Camus Airstrip",53.171468,-8.113414,,EU,IE,IE-G,,0,,,,,,,0,2017-02-06T02:25:33+00:00
+321343,IE-0027,small_airport,"Allenwood Airstrip",53.267785,-6.839772,,EU,IE,IE-KE,,0,,,,,,,0,2016-12-01T01:15:09+00:00
+321596,IE-0038,small_airport,"O'Loughlin Airstrip",53.17267,-7.01867,260,EU,IE,IE-KE,,0,,,,,,,0,2016-12-23T01:09:47+00:00
+321836,IE-0045,small_airport,"Maganey Airstrip",52.898174,-6.928672,,EU,IE,IE-KE,,0,,,,,,,0,2017-01-14T08:52:26+00:00
+322163,IE-0049,small_airport,"Millicent Airfield",53.27035,-6.68188,,EU,IE,IE-KE,,0,,,,,,,0,2017-02-15T01:29:21+00:00
+321350,IE-0029,small_airport,"Borris-in-Ossory Airstrip",52.92613,-7.65352,,EU,IE,IE-LS,,0,,,,,,,0,2016-12-01T06:40:39+00:00
+321482,IE-0033,small_airport,"Stradbelly Airstrip",53.0454067,-7.1649851,,EU,IE,IE-LS,,0,,,,,,,0,2016-12-12T00:56:55+00:00
+320225,IE-0009,small_airport,"Dowth Hall Airstrip",53.709054,-6.438029,,EU,IE,IE-MH,,0,,,,,,,0,2016-12-22T04:31:26+00:00
+321540,IE-0035,small_airport,"Taggarts Airstrip",53.449002,-7.04799,,EU,IE,IE-MH,,0,,,,,,,0,2016-12-17T04:50:46+00:00
+321723,IE-0042,small_airport,"Laytown Airstrip",53.691263,-6.269783,,EU,IE,IE-MH,,0,,,,,,,0,2017-01-04T20:18:42+00:00
+319345,IE-0008,small_airport,"Lough Conn Airstrip",54.0440589,-9.216109,,EU,IE,IE-MO,,0,,,,,,,0,2016-07-05T00:54:44+00:00
+321342,IE-0026,small_airport,"Ballina Airfield",54.089209,-9.160676,,EU,IE,IE-MO,,0,,,,,,,0,2016-12-01T01:05:28+00:00
+321598,IE-0039,small_airport,"Crossmolina Airstrip",54.13452,-9.36463,,EU,IE,IE-MO,,0,,,,,,,0,2016-12-23T01:15:17+00:00
+321832,IE-0044,small_airport,"Ballyvarry Airstrip",53.892707,-9.122479,,EU,IE,IE-MO,,0,,,,,,,0,2017-01-14T02:56:53+00:00
+321594,IE-0037,small_airport,"Gay Tracy Airstrip",52.991607,-7.892731,230,EU,IE,IE-OY,,0,,,,,,,0,2016-12-23T00:54:34+00:00
+321181,IE-0020,small_airport,"Tibohine Airfield",53.8847573,-8.4881759,,EU,IE,IE-RN,,0,,,,,,,0,2016-11-14T12:11:36+00:00
+316000,IE-0001,small_airport,"Britta's House Airstrip",52.6039078,-8.4175884,,EU,IE,IE-TA,,0,,,,,,,0,2015-10-24T07:50:55+00:00
+321320,IE-0025,small_airport,"The Forge Airstrip",52.81052,-8.13732,,EU,IE,IE-TA,,0,,,,,,,0,2016-11-27T04:25:47+00:00
+321344,IE-0028,small_airport,"Ballyboe Airstrip",52.383923,-7.618068,,EU,IE,IE-TA,,0,,,,,,,0,2016-12-01T01:23:00+00:00
+322258,IE-0051,small_airport,"""Parke"" Airstrip",55.161563,-7.710258,,EU,IE,IE-U-A,,0,,,,,,,0,2017-02-26T07:56:09+00:00
+320772,IE-0012,small_airport,"Ballinvally Farm Airstrip",52.5709,-6.31754,200,EU,IE,IE-WH,,0,,,,,,,0,2016-10-13T07:35:56+00:00
+321611,IE-0040,small_airport,"Dorans Airstrip",53.51968,-7.67858,,EU,IE,IE-WH,,0,,,,,,,0,2016-12-24T02:13:06+00:00
+322164,IE-0050,small_airport,"Milltownpass Airfield",53.452082,-7.237543,,EU,IE,IE-WH,,0,,,,,,,0,2017-02-15T01:35:01+00:00
+320368,IE-0010,small_airport,"ILAS Wexford",52.2981,-6.68194,125,EU,IE,IE-WX,,0,,,,,,,0,2016-09-19T06:46:18+00:00
+321483,IE-0034,small_airport,"Ballyvaloo Airstrip",52.4144389,-6.3630581,,EU,IE,IE-WX,,0,,,,,,,0,2016-12-12T00:59:05+00:00
+321685,IE-0041,small_airport,"Warrens Airstrip",52.6402118,-6.298816,,EU,IE,IE-WX,,0,,,,,,,0,2017-01-01T05:38:45+00:00
+321161,IE-0018,small_airport,"Abbeyfeale Airfield",52.396374,-9.338401,300,EU,IE,IE-KY,Abbeyfeale,0,,,,,https://en.wikipedia.org/wiki/Abbeyfeale_Aerodrome,EIRE,0,2016-12-26T12:13:47+00:00
+43996,EIIH,heliport,"Midland Heliport",52.8922233581543,-7.262777805328369,614,EU,IE,IE-LS,Abbeyleix,0,EIIH,,,,,,0,2009-04-07T13:06:02+00:00
+324511,IE-0052,small_airport,"Lough Sheelin Airstrip",53.7964,-7.28455,,EU,IE,IE-CN,Aghnaskeagh,0,,,,,,,0,2017-07-23T00:27:33+00:00
+321275,IE-0023,small_airport,"Ardfert Airstrip",52.34653,-9.76285,,EU,IE,IE-U-A,Ardfert,0,,,,,,,0,2016-11-22T02:53:35+00:00
+312096,EIFR,heliport,"Finner Camp Heliport",54.49273,-8.24091,107,EU,IE,IE-DL,Ballyshannon,0,EIFR,,,,,,0,2014-06-03T03:46:19+00:00
+321351,IE-0030,small_airport,"Bunnyconnellan Airstrip",54.094585,-9.034668,,EU,IE,IE-MO,Bunnyconnellan,0,,,,,,,0,2016-12-01T06:46:53+00:00
+43995,IE-0002,closed,"Reeroe Airport",51.933334,-10.233333,314,EU,IE,IE-KY,Caherciveen,0,,,,,,,0,2019-01-07T06:13:56+00:00
+43998,EITT,closed,"Trevet Airfield",53.543611,-6.531944,385,EU,IE,IE-MH,Dunshaughlin,0,EITT,,,http://www.trevetairfield.com/,,,0,2017-03-28T13:34:14+00:00
+321197,IE-0021,small_airport,"Eniskeane Airfield",51.737526,-8.863843,98,EU,IE,IE-U-A,Eniskeane,0,,,,,,,0,2017-11-29T08:23:24+00:00
+322003,IE-0047,small_airport,"Fethard Airstrip",52.471738,-7.734409,,EU,IE,IE-TA,Fethard,0,,,,,,,0,2017-01-29T03:51:36+00:00
+321415,IE-0032,small_airport,"Gowran Airstrip",52.64263,-7.12033,,EU,IE,IE-KK,Gowran,0,,,,,,,0,2016-12-06T04:58:46+00:00
+321414,IE-0031,small_airport,"Granard Airfield",53.74978,-7.53327,,EU,IE,IE-LD,Granard,0,,,,,,,0,2016-12-06T04:52:16+00:00
+308317,IE-0003,closed,"Mallow International Airport",52.131802,-8.68804,,EU,IE,IE-C,Mallow,0,,,,,,,0,2016-02-06T15:58:57+00:00
+321226,IE-0022,small_airport,"Morriscastle Airstrip",52.516998,-6.260812,,EU,IE,IE-U-A,Morriscastle,0,,,,,,,0,2016-11-17T02:12:32+00:00
+321626,EIMS,seaplane_base,"Mountshannon Seaplane Base",52.9305,-8.4245,103,EU,IE,IE-CE,Mountshannon,0,EIMS,,,http://www.harbourflights.com,,,0,2016-12-28T08:37:26+00:00
+315675,EIHH,small_airport,"Navan Airfield",53.695489,-6.654094,250,EU,IE,IE-MH,Navan,0,EIHH,,,http://www.navanairfield.com/,,,0,2016-12-26T18:24:09+00:00
+43999,EIER,small_airport,"Erinagh Airport",52.8125,-8.282221794128418,155,EU,IE,IE-TA,Nenagh,0,EIER,,,,,,0,2009-04-07T13:06:08+00:00
+321541,IE-0036,small_airport,"Spollens Airstrip",53.29345,-7.53085,,EU,IE,IE-OY,Tullamore,0,,,,,,,0,2016-12-17T04:54:04+00:00
+44000,EICD,closed,"Castlebridge Airport",52.369131,-6.451021,79,EU,IE,IE-WX,Wexford,0,,,,,,"WEX, EICD",0,2018-09-13T03:08:42+00:00

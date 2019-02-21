@@ -1,0 +1,14 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+6198,SOCA,medium_airport,"Cayenne-Rochambeau Airport",4.819809913639999,-52.360401153599994,26,SA,GF,GF-CY,"Cayenne / Rochambeau",1,SOCA,CAY,,,http://en.wikipedia.org/wiki/Cayenne-Rochambeau_Airport,Matoury,875,2011-10-30T23:09:12+00:00
+6199,SOOG,medium_airport,"Saint-Georges-de-l'Oyapock Airport",3.89759993553,-51.8041000366,46,SA,GF,GF-CY,"Saint-Georges-de-l'Oyapock Airport",0,SOOG,OYP,,,http://en.wikipedia.org/wiki/Saint-Georges-de-l%27Oyapock_Airport,,250,2016-01-24T17:03:22+00:00
+41524,GF-0001,small_airport,"Kourou airport",5.17372,-52.691502,47,SA,GF,GF-CY,Kourou,0,,,,,https://en.wikipedia.org/wiki/Kourou_Airport,,50,2016-06-07T03:06:32+00:00
+31941,SOOA,small_airport,"Maripasoula Airport",3.6575,-54.037201,406,SA,GF,GF-SL,Maripasoula,1,SOOA,MPY,,,http://en.wikipedia.org/wiki/Maripasoula_Airport,,50,2016-06-07T03:17:10+00:00
+41525,GF-0002,small_airport,"Ouanary Airport",4.210090160369873,-51.667701721191406,40,SA,GF,GF-CY,Ouanary,0,,,,,,,50,2008-08-23T17:39:03+00:00
+32203,SOOR,small_airport,"Regina Airport",4.31472015381,-52.1316986084,82,SA,GF,GF-CY,Regina,0,SOOR,REI,,,http://en.wikipedia.org/wiki/R%C3%A9gina_Airport,,50,2011-10-31T00:19:35+00:00
+31803,SOOM,small_airport,"Saint-Laurent-du-Maroni Airport",5.48306,-54.034401,16,SA,GF,GF-SL,Saint-Laurent-du-Maroni,1,SOOM,LDX,,,http://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni_Airport,,50,2016-06-07T03:17:37+00:00
+32692,SOOS,small_airport,"Saúl Airport",3.61361,-53.204201,656,SA,GF,GF-SL,Saúl,1,SOOS,XAU,,,http://en.wikipedia.org/wiki/Sa%C3%BCl_Airport,,50,2016-06-07T03:18:08+00:00
+35337,SOOY,small_airport,Sinnamary,5.37358,-52.945599,33,SA,GF,GF-CY,Sinnamary,0,SOOY,,,,https://en.wikipedia.org/wiki/Sinnamary_Airport,,50,2016-06-07T03:03:25+00:00
+318337,GF-0004,small_airport,"Vila Brasil Airport",3.172675,-52.33615,,SA,GF,GF-CY,Camopi,0,,,,,,,0,2016-06-07T03:25:16+00:00
+299825,SOGS,small_airport,"Grand-Santi Airport",4.285833,-54.373056,207,SA,GF,GF-SL,Grand-Santi,1,SOGS,GSI,,,http://en.wikipedia.org/wiki/Grand-Santi_Airport,,0,2016-06-07T03:15:42+00:00
+318335,GF-0003,small_airport,"Saint-Élie Airport",4.816117,-53.289505,,SA,GF,GF-CY,Saint-Élie,0,,,,,,,0,2016-06-07T03:20:48+00:00

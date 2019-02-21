@@ -1,0 +1,89 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2975,FQMA,large_airport,"Maputo Airport",-25.920799,32.572601,145,AF,MZ,MZ-MPM,Maputo,1,FQMA,MPM,,,http://en.wikipedia.org/wiki/Maputo_International_Airport,,1050,2019-01-13T13:37:44+00:00
+2970,FQBR,medium_airport,"Beira Airport",-19.79640007019043,34.90760040283203,33,AF,MZ,MZ-S,Beira,1,FQBR,BEW,,,http://en.wikipedia.org/wiki/Beira_Airport,,875,2009-07-08T16:39:30+00:00
+2981,FQPB,medium_airport,"Pemba Airport",-12.991762161254883,40.52401351928711,331,AF,MZ,MZ-P,"Pemba / Porto Amelia",1,FQPB,POL,,,http://en.wikipedia.org/wiki/Pemba_Airport,,875,2009-07-08T21:50:43+00:00
+2980,FQNP,medium_airport,"Nampula Airport",-15.105600357055664,39.28179931640625,1444,AF,MZ,MZ-N,Nampula,1,FQNP,APL,,,http://en.wikipedia.org/wiki/Nampula_Airport,,875,2009-07-08T21:46:53+00:00
+2986,FQVL,medium_airport,"Vilankulo Airport",-22.018400192260742,35.31330108642578,46,AF,MZ,MZ-I,Vilanculo,1,FQVL,VNX,,,http://en.wikipedia.org/wiki/Vilankulo_Airport,"Vilanculos Airport",875,2009-07-08T22:08:31+00:00
+2972,FQIN,medium_airport,"Inhambane Airport",-23.876399993896484,35.40850067138672,30,AF,MZ,MZ-I,Inhambabe,1,FQIN,INH,,,http://en.wikipedia.org/wiki/Inhambane_Airport,,875,2009-07-08T21:26:56+00:00
+2984,FQTT,medium_airport,"Chingozi Airport",-16.104799270629883,33.640201568603516,525,AF,MZ,MZ-T,Tete,1,FQTT,TET,,,http://en.wikipedia.org/wiki/Chingozi_Airport,,875,2009-07-08T22:04:14+00:00
+2971,FQCH,medium_airport,"Chimoio Airport",-19.15130043029785,33.42900085449219,2287,AF,MZ,MZ-B,Chimoio,1,FQCH,VPY,,,http://en.wikipedia.org/wiki/Chimoio_Airport,,875,2009-07-08T17:04:51+00:00
+27302,IBL,medium_airport,"Indigo Bay Lodge Airport",-21.708,35.452801,20,AF,MZ,MZ-I,"Bazaruto Island",0,,IBL,,,http://en.wikipedia.org/wiki/Indigo_Bay_Lodge_Airport,,50,2016-06-02T08:26:25+00:00
+2982,FQQL,medium_airport,"Quelimane Airport",-17.855499267578125,36.86909866333008,36,AF,MZ,MZ-Q,Quelimane,1,FQQL,UEL,,,http://en.wikipedia.org/wiki/Quelimane_Airport,,875,2009-07-08T22:00:58+00:00
+27301,BCW,medium_airport,"Benguera Island Airport",-21.853300094604492,35.43830108642578,,AF,MZ,MZ-I,"Benguera Island",1,,BCW,,,http://en.wikipedia.org/wiki/Benguera_Island_Airport,,50,2009-07-08T17:03:14+00:00
+29706,FQBI,small_airport,"Bilene Airport",-25.2659854888916,33.23859786987305,118,AF,MZ,MZ-G,Bilene,0,FQBI,,,,,,50,2009-07-08T16:22:39+00:00
+29974,FQIA,small_airport,"Inhaca Airport",-25.9971446991,32.929351806599996,10,AF,MZ,MZ-L,Inhaca,0,FQIA,IHC,,,http://en.wikipedia.org/wiki/Inhaca_Airport,,50,2012-03-18T12:07:32+00:00
+2978,FQMR,small_airport,"Marrupa Airport",-13.225099563598633,37.552101135253906,2480,AF,MZ,MZ-A,Marrupa,0,FQMR,,,,,,50,2009-07-08T21:37:56+00:00
+2973,FQLC,medium_airport,"Lichinga Airport",-13.274,35.2663,4505,AF,MZ,MZ-A,Lichinga,1,FQLC,VXC,,,http://en.wikipedia.org/wiki/Lichinga_Airport,,875,2018-02-16T11:19:24+00:00
+2977,FQMP,medium_airport,"Mocímboa da Praia Airport",-11.361800193786621,40.35490036010742,89,AF,MZ,MZ-P,"Mocímboa da Praia",0,FQMP,MZB,,,,,250,2009-07-08T21:39:23+00:00
+2976,FQMD,medium_airport,"Mueda Airport",-11.672900199890137,39.5630989074707,2789,AF,MZ,MZ-P,Mueda,0,FQMD,MUD,,,,,250,2009-07-08T21:45:01+00:00
+2979,FQNC,small_airport,"Nacala Airport",-14.488200187683105,40.71220016479492,410,AF,MZ,MZ-N,Nacala,0,FQNC,MNC,,,,,250,2009-07-08T21:45:54+00:00
+29661,FQAG,small_airport,"Angoche Airport",-16.181869506835938,39.94521713256836,121,AF,MZ,MZ-N,Angoche,0,FQAG,ANO,,,,,50,2009-07-08T16:35:14+00:00
+27300,BZB,medium_airport,"Bazaruto Island Airport",-21.5411,35.4729,,AF,MZ,MZ-I,"Bazaruto Island",0,,BZB,,,http://en.wikipedia.org/wiki/Bazaruto_Island_Airport,,50,2016-06-01T06:37:01+00:00
+29811,FQCB,small_airport,"Cuamba Airport",-14.815,36.529999,1919,AF,MZ,MZ-A,Cuamba,0,FQCB,FXO,,,https://en.wikipedia.org/wiki/Cuamba_Airport,,50,2016-06-08T09:03:22+00:00
+2974,FQLU,small_airport,"Lumbo Airport",-15.0331001282,40.671699523899996,33,AF,MZ,MZ-N,Lumbo,0,FQLU,LFB,,,,,50,2012-12-15T15:46:47+00:00
+27303,MZ-0004,closed,"Magaruque Airport",-21.9672451019,35.4247283936,20,AF,MZ,MZ-I,"Magaruque Island",0,,MFW,,,,,50,2012-03-31T13:42:13+00:00
+31963,MTU,small_airport,"Montepuez Airport",-13.121899604797363,39.052799224853516,,AF,MZ,MZ-P,Montepuez,0,,MTU,,,,,50,2009-07-08T21:41:08+00:00
+27304,MZ-0005,small_airport,"Paradise Island Airport",-21.614999771118,35.338001251221,30,AF,MZ,MZ-I,"Santa Carolina",0,,NTC,,,,"Santa Carolina Airport",50,2015-12-22T06:07:18+00:00
+2983,FQSG,small_airport,"Songo Airport",-15.602700233459473,32.77320098876953,2904,AF,MZ,MZ-T,Songo,0,FQSG,,,,,,50,2009-07-08T22:01:56+00:00
+2985,FQUG,small_airport,"Ulongwe Airport",-14.70460033416748,34.35240173339844,4265,AF,MZ,MZ-T,Ulongwe,0,FQUG,,,,,,50,2009-07-08T22:05:04+00:00
+301755,AME,small_airport,"Alto Molocue Airport",-15.6102777778,37.6813888889,1950,AF,MZ,MZ-Q,"Alto Molocue",0,,AME,,,,,0,2012-06-17T14:25:53+00:00
+311902,CMZ,small_airport,"Caia Airport",-17.8331,35.3341,156,AF,MZ,MZ-S,Caia,0,,CMZ,,,,,0,2014-05-09T22:04:26+00:00
+319257,MZ-0040,small_airport,"Catandica Airport",-18.136596,33.202238,,AF,MZ,MZ-B,Catandica,0,,,,,,,0,2016-06-29T08:35:48+00:00
+311991,INE,small_airport,"Chinde Airport",-18.59,36.4489,22,AF,MZ,MZ-Q,Chinde,0,,INE,,,,,0,2014-05-24T13:07:12+00:00
+318964,MZ-0033,small_airport,"Chiure Airport",-13.407165,39.803192,,AF,MZ,MZ-P,Chiure,0,,,,,,,0,2016-06-20T10:16:33+00:00
+318963,MZ-0032,small_airport,"Gile Airport",-16.163767,38.360793,,AF,MZ,MZ-Q,Gile,0,,,,,,,0,2016-06-20T10:11:58+00:00
+326991,MZ-0045,small_airport,"Inhassoro Airstrip",-21.547634,35.119673,112,AF,MZ,MZ-I,Inhassoro,0,,,,,,,0,2018-04-08T11:02:55+00:00
+318982,MZ-0034,small_airport,"Macomia Airport",-12.271035,40.110719,,AF,MZ,MZ-P,Macomia,0,,,,,,,0,2016-06-22T02:47:41+00:00
+314540,RRM,small_airport,"Marromeu Airport",-18.2929,35.9345,43,AF,MZ,MZ-S,Marromeu,0,,RRM,,,,,0,2015-05-14T17:54:37+00:00
+318848,MZ-0008,small_airport,"Massinga Airport",-23.345136,35.339172,,AF,MZ,MZ-I,Massinga,0,,,,,,,0,2016-06-17T06:29:38+00:00
+319011,MZ-0038,small_airport,"Mecanhelas Airport",-15.202762,35.870151,,AF,MZ,MZ-A,Mecanhelas,0,,,,,,,0,2016-06-22T06:04:17+00:00
+318983,MZ-0035,small_airport,"Meluco Airport",-12.525447,39.654529,,AF,MZ,MZ-P,Meluco,0,,,,,,,0,2016-06-22T02:49:20+00:00
+318962,MZ-0031,small_airport,"Milange Airport",-16.124602,35.734548,,AF,MZ,MZ-Q,Milange,0,,,,,,,0,2016-06-20T10:08:00+00:00
+32441,MZ-TGS,small_airport,"Chokwé Airport",-24.520599365234375,32.965301513671875,,AF,MZ,MZ-G,Chokwé,0,,TGS,,,,,50,2008-12-30T09:25:34+00:00
+31203,FQFU,small_airport,"Furancungo Airport",-14.918600082397461,33.628299713134766,,AF,MZ,MZ-T,Furancungo,0,FQFU,,,,,,50,2008-12-30T09:25:55+00:00
+30279,FQPO,small_airport,"Ponta do Ouro Airport",-26.828552246094,32.837707519531,92,AF,MZ,MZ-L,"Ponta do Ouro",0,FQPO,PDD,,,https://en.wikipedia.org/wiki/Ponta_do_Ouro_Airport,,50,2015-10-08T02:23:19+00:00
+4955,FQ49,small_airport,"Vila Franca do Save Airport",-21.164499282836914,34.560699462890625,98,AF,MZ,MZ-I,"Vila Franca do Save",0,FQ49,,FQ49,,,,50,2009-07-08T22:08:40+00:00
+32579,FQXA,small_airport,"Xai-Xai Airport",-25.037799835205078,33.62739944458008,,AF,MZ,MZ-G,Xai-Xai,0,FQXA,VJB,,,,,50,2009-07-08T22:10:40+00:00
+318382,MZ-0001,small_airport,"Mbatamila Airport",-12.169599,37.54545,,AF,MZ,MZ-A,,0,,,,,,,0,2016-06-08T09:08:32+00:00
+318951,MZ-0022,small_airport,"Tondo Lodge Airstrip",-21.425639,33.865274,,AF,MZ,MZ-I,,0,,,,,,,0,2016-06-20T09:23:25+00:00
+318947,MZ-0018,small_airport,"Buffalo Camp Airstrip",-20.913318,34.283153,,AF,MZ,MZ-S,,0,,,,,,,0,2016-06-20T08:57:49+00:00
+318948,MZ-0019,small_airport,"Québese Airport",-20.630937,34.066019,,AF,MZ,MZ-S,,0,,,,,,,0,2016-06-20T09:03:39+00:00
+318957,MZ-0027,small_airport,"Blanguete Airport",-15.684819,30.610828,,AF,MZ,MZ-T,,0,,,,,,,0,2016-06-20T09:54:05+00:00
+328330,MZ-0047,small_airport,"Vamizi Airstrip",-11.030273,40.612378,,AF,MZ,MZ-P,"Cabo Delgado",0,,,,,,,0,2018-06-11T13:00:55+00:00
+321447,MZ-0043,small_airport,"Chemba Airport",-17.167836,34.882624,,AF,MZ,MZ-S,Chemba,0,,,,,,,0,2016-12-09T13:57:49+00:00
+318952,MZ-0023,small_airport,"Espungabera Airport",-20.438769,32.774927,,AF,MZ,MZ-B,Espungabera,0,,,,,,,0,2016-06-20T09:28:50+00:00
+318961,MZ-0030,small_airport,"Fingoe Airport",-15.172786,31.906405,,AF,MZ,MZ-T,Fingoe,0,,,,,,,0,2016-06-20T10:02:39+00:00
+316948,VJQ,small_airport,"Gurue Airport",-15.5062,36.9904,2248,AF,MZ,MZ-Q,Gurue,0,,VJQ,,,,,0,2016-02-07T17:14:15+00:00
+318849,MZ-0009,small_airport,"Homoine Airport",-23.866113,35.136698,,AF,MZ,MZ-I,Homoine,0,,,,,,,0,2016-06-17T06:31:15+00:00
+318852,MZ-0012,small_airport,"Ibo Airport",-12.350174,40.602297,27,AF,MZ,MZ-P,Ibo,0,FQIB,IBO,,,,,0,2016-07-09T20:10:21+00:00
+311990,IMG,small_airport,"Inhaminga Airport",-18.41,35.0045,1072,AF,MZ,MZ-S,Inhaminga,0,,IMG,,,,,0,2014-05-24T12:18:25+00:00
+313853,LBM,small_airport,"Luabo Airport",-18.4139,36.1068,36,AF,MZ,MZ-Q,Luabo,0,,LBM,,,,,0,2015-02-15T00:20:48+00:00
+318850,MZ-0010,small_airport,"Mabote Airport",-22.044039,34.158814,,AF,MZ,MZ-I,Mabote,0,,,,,,,0,2016-06-17T06:33:55+00:00
+318383,MZ-0002,small_airport,"Macalonge Airport",-12.499796,35.428228,,AF,MZ,MZ-A,Macalonge,0,,,,,,,0,2016-06-08T09:11:24+00:00
+318949,MZ-0020,small_airport,"Machasi Airport",-20.823041,33.378488,,AF,MZ,MZ-B,Machasi,0,,,,,,,0,2016-06-20T09:06:53+00:00
+319010,MZ-0037,small_airport,"Macossa Airport",-17.86764,33.915103,,AF,MZ,MZ-B,Macossa,0,,,,,,,0,2016-06-22T06:00:41+00:00
+318955,MZ-0025,small_airport,"Mafambisse Airport",-19.575645,34.633552,,AF,MZ,MZ-S,Mafambisse,0,,,,,,,0,2016-06-20T09:34:24+00:00
+314043,MJS,small_airport,"Maganja da Costa Airport",-17.3087,37.5,215,AF,MZ,MZ-Q,Maganja,0,,MJS,,,,Olinga,0,2015-03-15T01:29:24+00:00
+318956,MZ-0026,small_airport,"Mague Airport",-15.810219,31.741015,,AF,MZ,MZ-T,Mague,0,,,,,,,0,2016-06-20T09:52:48+00:00
+318989,MZ-0036,small_airport,"Malvernia Airport",-22.088361,31.693199,,AF,MZ,MZ-G,Malvernia,0,,,,,,,0,2016-06-22T04:04:42+00:00
+318950,MZ-0021,small_airport,"Massangena Airport",-21.587678,32.929183,,AF,MZ,MZ-G,Massangena,0,,,,,,,0,2016-06-20T09:09:57+00:00
+323203,MZ-0044,small_airport,"Massingir Airport",-23.939579,32.153803,,AF,MZ,MZ-G,Massingir,0,,,,,,,0,2017-05-13T19:51:26+00:00
+318853,MZ-0013,small_airport,"Matemo Airport",-12.201529,40.569915,,AF,MZ,MZ-P,Matemo,0,,,,,,,0,2016-06-17T06:47:12+00:00
+318856,MZ-0016,small_airport,"Mbamba Airport",-12.140706,38.318613,,AF,MZ,MZ-A,Mbamba,0,,,,,,,0,2016-06-17T06:55:33+00:00
+318857,MZ-0017,small_airport,"Lugenda Wilderness Camp Airstrip",-12.288658,37.818062,976,AF,MZ,MZ-A,Mbamba,0,,,,,,,0,2018-12-11T14:53:39+00:00
+318854,MZ-0014,small_airport,"Medjumbe Airport",-11.81741,40.603343,,AF,MZ,MZ-P,Medjumbe,0,,,,,,,0,2016-06-17T06:48:34+00:00
+318384,MZ-0003,small_airport,"Metangula Airport",-12.701334,34.803468,1650,AF,MZ,MZ-A,Metangula,0,,,,,,,0,2016-06-08T09:13:45+00:00
+321446,MZ-0042,small_airport,"Mopeia Airport",-17.977031,35.705003,,AF,MZ,MZ-Q,Mopeia,0,,,,,,,0,2016-12-09T13:46:11+00:00
+319238,MZ-0039,small_airport,"Mucumbura Airport",-16.187755,31.686824,,AF,MZ,MZ-T,Mucumbura,0,,,,,,,0,2016-06-29T05:11:34+00:00
+318851,MZ-0011,small_airport,"Baixo Pinda Airport",-14.210912,40.696848,,AF,MZ,MZ-N,Nanatha,0,,,,,,,0,2016-06-17T06:39:39+00:00
+316556,NND,small_airport,"Nangade Airport",-11.073,39.68,825,AF,MZ,MZ-P,Nangade,0,,NND,,,,,0,2015-12-19T14:04:57+00:00
+308663,LMZ,small_airport,"Palma Airport",-10.7506,40.4702,177,AF,MZ,MZ-P,Palma,0,,LMZ,,,,,0,2013-05-15T01:35:11+00:00
+326992,MZ-0046,small_airport,"Quirimba Airstrip",-12.429533,40.614222,39,AF,MZ,MZ-P,"Quirimba Island",0,,,,,,,0,2018-04-08T11:38:18+00:00
+318847,MZ-0007,small_airport,"Quissico Airport",-24.70554,34.732691,,AF,MZ,MZ-I,Quissico,0,,,,,,,0,2016-06-17T06:27:42+00:00
+318954,MZ-0024,small_airport,"Sussundenga Airport",-19.408009,33.28094,,AF,MZ,MZ-B,Sussundenga,0,,,,,,,0,2016-06-20T09:32:24+00:00
+318855,MZ-0015,closed,"Tecomaji Airport",-10.776306,40.643912,,AF,MZ,MZ-P,Tecomaji,0,,,,,,,0,2016-06-17T06:50:38+00:00
+321445,MZ-0041,small_airport,"Vale Chassapa Airport",-18.394034,35.599975,,AF,MZ,MZ-S,"Vale Chassapa",0,,,,,,,0,2016-12-09T13:43:08+00:00
+318846,MZ-0006,small_airport,"Xinavane Airport",-25.031328,32.748115,,AF,MZ,MZ-L,Xinavane,0,,,,,,,0,2016-06-17T06:12:16+00:00
+318960,MZ-0029,small_airport,"Zambue Airport",-15.132704,30.802094,,AF,MZ,MZ-T,Zambue,0,,,,,,,0,2016-06-20T10:00:22+00:00
+318958,MZ-0028,small_airport,"Zumbo Airport",-15.613252,30.423202,,AF,MZ,MZ-T,Zumbo,0,,,,,,,0,2016-06-20T09:55:05+00:00

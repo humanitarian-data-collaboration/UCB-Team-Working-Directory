@@ -1,0 +1,57 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4979,NTAA,large_airport,"Faa'a International Airport",-17.553699,-149.606995,5,OC,PF,PF-U-A,Papeete,1,NTAA,PPT,,,http://en.wikipedia.org/wiki/Faa'a_International_Airport,,1050,2019-01-13T19:32:34+00:00
+5006,NTTM,medium_airport,"Moorea Airport",-17.49,-149.761993,9,OC,PF,PF-U-A,,1,NTTM,MOZ,,,https://en.wikipedia.org/wiki/Moorea_Airport,"Temae Airport, Moorea Temae Airport",800,2018-09-15T03:46:39+00:00
+5003,NTTB,medium_airport,"Bora Bora Airport",-16.444400787353516,-151.75100708007812,10,OC,PF,PF-U-A,"Motu Mute",1,NTTB,BOB,,,http://en.wikipedia.org/wiki/Bora_Bora_Airport,,800,2008-06-13T14:30:04+00:00
+5005,NTTH,medium_airport,"Huahine-Fare Airport",-16.68720054626465,-151.02200317382812,7,OC,PF,PF-U-A,Fare,1,NTTH,HUH,,,http://en.wikipedia.org/wiki/Huahine_-_Fare_Airport,,800,2008-06-13T14:30:04+00:00
+5009,NTTR,medium_airport,"Raiatea Airport",-16.7229,-151.466003,3,OC,PF,PF-U-A,Uturoa,1,NTTR,RFP,,,http://en.wikipedia.org/wiki/Raiatea_Airport,,800,2016-02-27T08:23:45+00:00
+5004,NTTG,medium_airport,"Rangiroa Airport",-14.954299926757812,-147.66099548339844,10,OC,PF,PF-U-A,,1,NTTG,RGI,,,http://en.wikipedia.org/wiki/Rangiroa_Airport,,800,2008-06-13T14:30:04+00:00
+4980,NTAR,medium_airport,"Rurutu Airport",-22.434099197387695,-151.36099243164062,18,OC,PF,PF-U-A,,1,NTAR,RUR,,,http://en.wikipedia.org/wiki/Rurutu_Airport,,800,2008-06-13T14:30:04+00:00
+4981,NTAT,medium_airport,"Tubuai Airport",-23.365400314331055,-149.5240020751953,7,OC,PF,PF-U-A,,1,NTAT,TUB,,,http://en.wikipedia.org/wiki/Tubuai_-_Mataura_Airport,,800,2008-06-13T14:30:04+00:00
+4983,NTGA,medium_airport,"Anaa Airport",-17.35260009765625,-145.50999450683594,10,OC,PF,PF-U-A,,1,NTGA,AAA,,,http://en.wikipedia.org/wiki/Anaa_Airport,,800,2008-06-13T14:30:04+00:00
+4985,NTGC,medium_airport,"Tikehau Airport",-15.119600296020508,-148.2310028076172,6,OC,PF,PF-U-A,,1,NTGC,TIH,,,http://en.wikipedia.org/wiki/Tikehau_Airport,,800,2008-06-13T14:30:04+00:00
+4987,NTGF,medium_airport,"Fakarava Airport",-16.054100036621094,-145.65699768066406,13,OC,PF,PF-U-A,,1,NTGF,FAV,,,http://en.wikipedia.org/wiki/Fakarava_Airport,,800,2008-06-13T14:30:04+00:00
+4988,NTGI,medium_airport,"Manihi Airport",-14.436800003051758,-146.07000732421875,14,OC,PF,PF-U-A,,1,NTGI,XMH,,,http://en.wikipedia.org/wiki/Manihi_Airport,,800,2008-06-13T14:30:04+00:00
+4989,NTGJ,medium_airport,"Totegegie Airport",-23.07990074157715,-134.88999938964844,7,OC,PF,PF-U-A,,1,NTGJ,GMR,,,http://en.wikipedia.org/wiki/Totegegie_Airport,,800,2008-06-13T14:30:04+00:00
+4990,NTGK,medium_airport,"Kaukura Airport",-15.663299560546875,-146.88499450683594,11,OC,PF,PF-U-A,,1,NTGK,KKR,,,http://en.wikipedia.org/wiki/Kaukura_Airport,,800,2008-06-13T14:30:04+00:00
+4991,NTGM,medium_airport,"Makemo Airport",-16.583900451660156,-143.6580047607422,3,OC,PF,PF-U-A,,1,NTGM,MKP,,,http://en.wikipedia.org/wiki/Makemo_Airport,,800,2008-06-13T14:30:04+00:00
+4993,NTGT,medium_airport,"Takapoto Airport",-14.709500312805176,-145.24600219726562,12,OC,PF,PF-U-A,,1,NTGT,TKP,,,http://en.wikipedia.org/wiki/Takapoto_Airport,,800,2008-06-13T14:30:04+00:00
+4994,NTGU,medium_airport,"Arutua Airport",-15.248299598693848,-146.61700439453125,9,OC,PF,PF-U-A,,1,NTGU,AXR,,,http://en.wikipedia.org/wiki/Arutua_Airport,,800,2008-06-13T14:30:04+00:00
+4995,NTGV,medium_airport,"Mataiva Airport",-14.8681001663208,-148.7169952392578,11,OC,PF,PF-U-A,,1,NTGV,MVT,,,http://en.wikipedia.org/wiki/Mataiva_Airport,,800,2008-06-13T14:30:04+00:00
+5000,NTKR,medium_airport,"Takaroa Airport",-14.45580005645752,-145.02499389648438,13,OC,PF,PF-U-A,,1,NTKR,TKX,,,http://en.wikipedia.org/wiki/Takaroa_Airport,,800,2008-06-13T14:30:04+00:00
+5001,NTMD,medium_airport,"Nuku Hiva Airport",-8.795599937438965,-140.22900390625,220,OC,PF,PF-U-A,,1,NTMD,NHV,,,http://en.wikipedia.org/wiki/Nuku_Hiva_Airport,,800,2008-06-13T14:30:04+00:00
+5007,NTTO,medium_airport,"Hao Airport",-18.074800491333008,-140.9459991455078,10,OC,PF,PF-U-A,,1,NTTO,HOI,,,http://en.wikipedia.org/wiki/Hao_Airport,,800,2008-06-13T14:30:04+00:00
+5008,NTTP,medium_airport,"Maupiti Airport",-16.42650032043457,-152.24400329589844,15,OC,PF,PF-U-A,,1,NTTP,MAU,,,http://en.wikipedia.org/wiki/Maupiti_Airport,,800,2008-06-13T14:30:04+00:00
+5002,NTMN,medium_airport,"Hiva Oa-Atuona Airport",-9.76879024506,-139.011001587,1481,OC,PF,PF-U-A,"Hiva Oa Island",1,NTMN,AUQ,,,http://en.wikipedia.org/wiki/Atuona_Airport,HIX,550,2014-11-13T19:14:41+00:00
+4997,NTHE,medium_airport,"Ahe Airport",-14.428099632263184,-146.2570037841797,11,OC,PF,PF-U-A,"Ahe Atoll",1,NTHE,AHE,,http://www.sia.aviation-civile.gouv.fr/aip/enligne/PDF_AIPparSSection/AIP%20PAC-P/AD/2/0703_AD%202.NTHE.pdf,http://en.wikipedia.org/wiki/Ahe_Airport,Tenukupara,450,2009-07-15T16:35:12+00:00
+30648,NTGD,small_airport,"Apataki Airport",-15.5736,-146.414993,8,OC,PF,PF-U-A,Apataki,1,NTGD,APK,,,https://en.wikipedia.org/wiki/Apataki_Airport,,450,2018-09-16T04:30:48+00:00
+32497,NTMU,small_airport,"Ua Huka Airport",-8.93611,-139.552002,160,OC,PF,PF-U-A,"Ua Huka",1,NTMU,UAH,,,https://en.wikipedia.org/wiki/Ua_Huka_Airport,,450,2018-09-15T16:26:38+00:00
+32499,NTMP,small_airport,"Ua Pou Airport",-9.35167,-140.078003,16,OC,PF,PF-U-A,"Ua Pou",1,NTMP,UAP,,,https://en.wikipedia.org/wiki/Ua_Pou_Airport,,450,2018-09-15T16:26:07+00:00
+4984,NTGB,medium_airport,"Fangatau Airport",-15.819899559020996,-140.88699340820312,9,OC,PF,PF-U-A,,0,NTGB,FGU,,,,,250,2008-06-13T14:30:04+00:00
+4986,NTGE,medium_airport,"Reao Airport",-18.465900421142578,-136.44000244140625,12,OC,PF,PF-U-A,,0,NTGE,REA,,,,,250,2008-06-13T14:30:04+00:00
+4992,NTGP,medium_airport,"Puka Puka Airport",-14.809499740600586,-138.81300354003906,5,OC,PF,PF-U-A,,0,NTGP,PKP,,,http://en.wikipedia.org/wiki/Puka-Puka_Airport,,250,2008-06-13T14:30:04+00:00
+4982,NTAV,small_airport,"Raivavae Airport",-23.885200500499998,-147.662002563,7,OC,PF,PF-U-A,,0,NTAV,RVV,,,,,50,2012-12-13T22:02:57+00:00
+4996,NTGY,small_airport,"Tureia Airport",-20.78969955444336,-138.57000732421875,12,OC,PF,PF-U-A,,0,NTGY,ZTA,,,,,50,2008-06-13T14:30:04+00:00
+4998,NTKF,small_airport,"Faaite Airport",-16.68670082092285,-145.32899475097656,7,OC,PF,PF-U-A,,0,NTKF,FAC,,,,,50,2008-06-13T14:30:04+00:00
+4999,NTKK,small_airport,"Aratika Nord Airport",-15.4853000641,-145.470001221,10,OC,PF,PF-U-A,,0,NTKK,RKA,,,,,50,2012-12-10T00:23:26+00:00
+32049,NTGR,small_airport,"Aratika-Perles Airport",-15.6332998276,-145.5,7,OC,PF,PF-U-A,"Aratika Atoll",0,NTGR,,,,,,50,2014-12-07T13:10:23+00:00
+31128,NTKH,small_airport,"Fakahina Airport",-15.992199897766113,-140.1649932861328,3,OC,PF,PF-U-A,Fakahina,0,NTKH,FHZ,,,,,50,2008-06-13T14:30:04+00:00
+31577,NTGH,small_airport,"Hikueru Atoll Airport",-17.544700622558594,-142.61399841308594,5,OC,PF,PF-U-A,"Hikueru Atoll",0,NTGH,HHZ,,,,,50,2008-06-13T14:30:04+00:00
+32051,NTKT,small_airport,"Katiu Airport",-16.3393993378,-144.402999878,7,OC,PF,PF-U-A,Katiu,0,NTKT,KXU,,,,Taungataki,50,2014-12-07T12:18:04+00:00
+31752,NTKA,small_airport,"Kauehi Airport",-15.780799865722656,-145.12399291992188,13,OC,PF,PF-U-A,Kauehi,0,NTKA,KHZ,,,,,50,2008-06-13T14:30:04+00:00
+32053,NTTX,small_airport,"Mururoa Atoll Airport",-21.8586,-138.8202,7,OC,PF,PF-U-A,"Mururoa Atoll",0,NTTX,UOA,,,,,50,2016-02-02T01:53:04+00:00
+32005,NTGN,small_airport,"Napuka Island Airport",-14.176799774169922,-141.26699829101562,7,OC,PF,PF-U-A,"Napuka Island",0,NTGN,NAU,,,,,50,2008-06-13T14:30:04+00:00
+32055,NTGW,small_airport,"Nukutavake Airport",-19.28499984741211,-138.77200317382812,17,OC,PF,PF-U-A,Nukutavake,0,NTGW,NUK,,,,,50,2008-06-13T14:30:04+00:00
+32177,NTGQ,small_airport,"Pukarua Airport",-18.29560089111328,-137.01699829101562,5,OC,PF,PF-U-A,Pukarua,0,NTGQ,PUK,,,,,50,2008-06-13T14:30:04+00:00
+32050,NTKM,small_airport,"Takume Airport",-15.854700088500001,-142.268005371,7,OC,PF,PF-U-A,Takume,0,NTKM,TJN,,,,Ohomo,50,2014-12-07T12:52:25+00:00
+32456,NTGO,small_airport,"Tatakoto Airport",-17.355300903320312,-138.44500732421875,12,OC,PF,PF-U-A,Tatakoto,0,NTGO,TKV,,,,,50,2008-06-13T14:30:04+00:00
+32480,NTTE,small_airport,"Tetiaroa Airport",-17.0132999420166,-149.58700561523438,7,OC,PF,PF-U-A,Tetiaroa,0,NTTE,TTI,,,,,50,2008-06-13T14:30:04+00:00
+32573,NTUV,small_airport,"Vahitahi Airport",-18.780000686645508,-138.85299682617188,9,OC,PF,PF-U-A,Vahitahi,0,NTUV,VHZ,,,,,50,2008-06-13T14:30:04+00:00
+302302,NTKO,small_airport,"Raroia Airport",-16.045,-142.476944,18,OC,PF,PF-U-A,,0,NTKO,RRR,,,http://en.wikipedia.org/wiki/Raroia_Airport,,0,2012-12-13T23:46:02+00:00
+316545,PF-0001,closed,"Anuanuaro Airstrip",-20.4546,-143.5297,30,OC,PF,PF-U-A,"Anuanuaro Atoll",0,,,,,,Anuanuraro,0,2015-12-13T15:29:00+00:00
+44636,NTGS,small_airport,"Marutea Airport",-21.482194900512695,-135.63705444335938,10,OC,PF,PF-U-A,Auorotini,0,NTGS,,,,http://en.wikipedia.org/wiki/Marutea_Sud,,0,2009-08-06T07:21:17+00:00
+313344,NTKN,small_airport,"Naiu Airport",-16.1191,-146.3683,50,OC,PF,PF-U-A,"Naiu Atoll",0,NTKN,NIU,,,,Tupana,0,2014-12-07T12:45:08+00:00
+313345,NTGG,small_airport,"Nengo-Nengo Airport",-18.7506,-141.7591,21,OC,PF,PF-U-A,"Nengonengo Atoll",0,NTGG,,,,,Negonego,0,2014-12-07T13:45:10+00:00
+313348,NTKU,small_airport,"Nukutepipi Airport",-20.7,-143.047,32,OC,PF,PF-U-A,Nukutepipi,0,NTKU,NKP,,,,Nukutipipi,0,2015-12-13T16:11:08+00:00
+309518,NTAM,small_airport,"Rimatara Airport",-22.63725,-152.8059,60,OC,PF,PF-U-A,"Rimatara Island",1,NTAM,RMT,,,http://en.wikipedia.org/wiki/Rimatara_Airport,,0,2013-09-06T17:55:57+00:00
+313347,NTTU,small_airport,"Tupai Airport",-16.2423,-151.8338,32,OC,PF,PF-U-A,"Tupai Atoll",0,NTTU,TPX,,,,"Motu Iti",0,2014-12-07T14:28:42+00:00

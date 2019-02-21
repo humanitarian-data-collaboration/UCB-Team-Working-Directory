@@ -1,0 +1,37 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2882,FKKD,medium_airport,"Douala International Airport",4.0060801506,9.719479560849999,33,AF,CM,CM-LT,Douala,1,FKKD,DLA,,,http://en.wikipedia.org/wiki/Douala_International_Airport,,975,2013-08-28T03:51:30+00:00
+2890,FKYS,medium_airport,"Yaoundé Nsimalen International Airport",3.722559928894043,11.553299903869629,2278,AF,CM,CM-CE,Yaoundé,1,FKYS,NSI,,,http://en.wikipedia.org/wiki/Yaound%C3%A9_Nsimalen_International_Airport,,875,2008-08-09T21:29:38+00:00
+2886,FKKR,medium_airport,"Garoua International Airport",9.33588981628418,13.370100021362305,794,AF,CM,CM-NO,Garoua,1,FKKR,GOU,,,http://en.wikipedia.org/wiki/Garoua_International_Airport,,875,2008-08-09T21:37:02+00:00
+2883,FKKL,medium_airport,"Salak Airport",10.451399803161621,14.257399559020996,1390,AF,CM,CM-EN,Maroua,1,FKKL,MVR,,,http://en.wikipedia.org/wiki/Salak_Airport,,800,2008-08-09T21:32:12+00:00
+2889,FKKY,medium_airport,"Yaoundé Airport",3.8360400199890137,11.523500442504883,2464,AF,CM,CM-CE,Yaoundé,1,FKKY,YAO,,,http://en.wikipedia.org/wiki/Yaound%C3%A9_Airport,"Yaoundé Ville Airport",800,2008-08-09T21:30:41+00:00
+2885,FKKN,medium_airport,"N'Gaoundéré Airport",7.3570098876953125,13.559200286865234,3655,AF,CM,CM-AD,N'Gaoundéré,1,FKKN,NGE,,,http://en.wikipedia.org/wiki/N'Gaound%C3%A9r%C3%A9_Airport,Ngaoundere,800,2008-08-09T21:37:42+00:00
+2887,FKKU,medium_airport,"Bafoussam Airport",5.536920070650001,10.354599952700001,4347,AF,CM,CM-OU,Bafoussam,0,FKKU,BFX,,,http://en.wikipedia.org/wiki/Bafoussam_Airport,,250,2011-10-23T14:59:21+00:00
+2888,FKKV,medium_airport,"Bamenda Airport",6.039239883422852,10.122599601745605,4065,AF,CM,CM-NW,Bamenda,0,FKKV,BPC,,,,,250,2008-08-09T21:36:34+00:00
+2884,FKKM,medium_airport,"Foumban Nkounja Airport",5.636919975280762,10.750800132751465,3963,AF,CM,CM-OU,Foumban,0,FKKM,FOM,,,,,250,2008-08-09T21:33:37+00:00
+2881,FKKC,medium_airport,"Tiko Airport",4.08919000626,9.360529899600001,151,AF,CM,CM-SW,Tiko,0,FKKC,TKC,,,http://en.wikipedia.org/wiki/Tiko_Airport,,250,2011-11-17T09:56:08+00:00
+31132,FKAG,small_airport,"Abong M'bang Airport",3.9670000076293945,13.199999809265137,2297,AF,CM,CM-ES,"Abong M'bang",0,FKAG,,,,,,50,2008-08-09T20:55:08+00:00
+31131,FKAF,small_airport,"Bafia Airport",4.767000198364258,11.217000007629395,1591,AF,CM,CM-CE,Bafia,0,FKAF,,,,,,50,2008-08-09T20:55:29+00:00
+31130,FKAB,small_airport,"Banyo Airport",6.774990081787109,11.807000160217285,3642,AF,CM,CM-AD,Banyo,0,FKAB,,,,,,50,2009-08-11T14:03:21+00:00
+32133,FKKI,small_airport,"Batouri Airport",4.474999904632568,14.362500190734863,2152,AF,CM,CM-ES,Batouri,0,FKKI,OUR,,,,,50,2008-08-09T21:21:21+00:00
+30797,FKKO,small_airport,"Bertoua Airport",4.548610210418701,13.726099967956543,2133,AF,CM,CM-ES,Bertoua,0,FKKO,BTA,,,,,50,2008-08-09T21:21:37+00:00
+31133,FKAO,small_airport,"Bétaré Oya Airport",5.504169940948486,14.098299980163574,3002,AF,CM,CM-ES,"Bétaré Oya",0,FKAO,,,,,,50,2008-08-09T21:35:49+00:00
+30947,FKKS,small_airport,"Dschang Airport",5.449999809265137,10.067000389099121,4593,AF,CM,CM-OU,Dschang,0,FKKS,DSC,,,,,50,2008-08-09T21:22:13+00:00
+30978,FKKW,small_airport,"Ebolowa Airport",2.875999927520752,11.1850004196167,1975,AF,CM,CM-SU,Ebolowa,0,FKKW,EBW,,,http://en.wikipedia.org/wiki/Ebolowa_Airport,,50,2009-02-25T17:13:00+00:00
+31134,FKKE,small_airport,"Eseka Airport",3.6500000953674316,10.782999992370605,738,AF,CM,CM-CE,Eseka,0,FKKE,,,,,,50,2008-08-09T21:22:53+00:00
+31757,FKKH,small_airport,"Kaélé Airport",10.092499732971191,14.445599555969238,1276,AF,CM,CM-EN,Kaélé,0,FKKH,KLE,,,,,50,2008-08-09T21:31:33+00:00
+31725,FKKB,small_airport,"Kribi Airport",2.8738899231,9.9777803421,148,AF,CM,CM-SU,Kribi,0,FKKB,KBI,,,http://en.wikipedia.org/wiki/Kribi_Airport,,50,2011-10-02T23:18:37+00:00
+31921,FKKF,small_airport,"Mamfe Airport",5.704170227050781,9.306389808654785,413,AF,CM,CM-SW,Mamfe,0,FKKF,MMF,,,,,50,2008-08-09T21:25:14+00:00
+32034,FKAN,small_airport,"Nkongsamba Airport",4.9499998092699995,9.932999610899998,2641,AF,CM,CM-LT,Nkongsamba,0,FKAN,NKS,,,http://en.wikipedia.org/wiki/Nkongsamba_Airport,,50,2012-10-17T15:52:23+00:00
+31135,FKKT,small_airport,"Tibati Airport",6.482999801635742,12.633000373840332,2854,AF,CM,CM-AD,Tibati,0,FKKT,,,,,,50,2008-08-09T21:26:14+00:00
+31561,FKKJ,small_airport,"Yagoua Airport",10.356100082397461,15.237199783325195,,AF,CM,CM-EN,Yagoua,0,FKKJ,GXX,,,,,50,2008-08-09T21:26:41+00:00
+302411,FKKG,small_airport,"Bali Airport",5.89527777778,10.0338888889,4465,AF,CM,CM-NW,Bali,0,FKKG,BLC,,,http://en.wikipedia.org/wiki/Bali_Airport,,0,2012-08-12T01:29:20+00:00
+318387,CM-0001,small_airport,"Campo Airport",2.341137,9.847089,,AF,CM,CM-SW,Campo,0,,,,,,,0,2016-06-08T09:40:41+00:00
+322282,CM-0003,small_airport,"Djoum Airport",2.666859,12.666755,,AF,CM,CM-SU,Djoum,0,,,,,,,0,2017-03-03T09:46:44+00:00
+322312,CM-0008,small_airport,"Gribi Airport",3.787821,14.984021,,AF,CM,CM-ES,Gribi,0,,,,,,,0,2017-03-05T09:31:18+00:00
+322285,CM-0005,small_airport,"Lokomo Airport",2.683971,15.460837,,AF,CM,CM-ES,Lokomo,0,,,,,,,0,2017-03-03T09:58:12+00:00
+322286,CM-0006,small_airport,"Masea Airport",3.118743,14.970657,,AF,CM,CM-ES,Masea,0,,,,,,,0,2017-03-03T10:02:23+00:00
+322313,CM-0009,small_airport,"Mindourou Airport",4.122123,14.541415,,AF,CM,CM-ES,Mindourou,0,,,,,,,0,2017-03-05T09:32:58+00:00
+322311,CM-0007,small_airport,"Ngola Airport",3.494501,15.332236,,AF,CM,CM-ES,Ngola,0,,,,,,,0,2017-03-05T09:29:30+00:00
+322283,CM-0004,small_airport,"Sangmélima Airport",2.946602,12.002311,,AF,CM,CM-SU,Sangmélima,0,,,,,,,0,2017-03-03T09:52:25+00:00
+319202,CM-0002,small_airport,"Touboro Airport",7.765747,15.317976,,AF,CM,CM-NO,Touboro,0,,,,,,,0,2016-06-28T09:48:23+00:00

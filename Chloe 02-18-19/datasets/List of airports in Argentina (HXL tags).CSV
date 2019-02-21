@@ -1,0 +1,850 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5781,SAEZ,large_airport,"Ministro Pistarini International Airport",-34.8222,-58.5358,67,SA,AR,AR-B,"Buenos Aires",1,SAEZ,EZE,EZE,http://www.aa2000.com.ar/index.php,http://en.wikipedia.org/wiki/Ministro_Pistarini_International_Airport,BUE,1275,2014-03-22T11:40:17+00:00
+5771,SABE,medium_airport,"Jorge Newbery Airpark",-34.5592,-58.4156,18,SA,AR,AR-C,"Buenos Aires",1,SABE,AEP,AER,,http://en.wikipedia.org/wiki/Aeroparque_Jorge_Newbery,,1050,2011-12-03T02:52:13+00:00
+5806,SARI,medium_airport,"Cataratas Del Iguazú International Airport",-25.737301,-54.4734,916,SA,AR,AR-N,"Puerto Iguazu",1,SARI,IGR,IGU,http://www.aa2000.com.ar/iguazu,https://en.wikipedia.org/wiki/Cataratas_del_Iguaz%C3%BA_International_Airport,Iguaçu,1050,2018-09-13T12:34:47+00:00
+5835,SAWH,medium_airport,"Malvinas Argentinas Airport",-54.8433,-68.2958,102,SA,AR,AR-V,Ushuahia,1,SAWH,USH,USU,,http://en.wikipedia.org/wiki/Ushuaia_International_Airport,,1050,2011-02-13T13:26:18+00:00
+5852,SAZS,medium_airport,"San Carlos De Bariloche Airport",-41.151199,-71.157501,2774,SA,AR,AR-R,"San Carlos de Bariloche",1,SAZS,BRC,BAR,http://www.aa2000.com.ar/bariloche,https://en.wikipedia.org/wiki/San_Carlos_de_Bariloche_Airport,,1050,2018-09-13T12:38:02+00:00
+5831,SAWC,medium_airport,"El Calafate Airport",-50.2803,-72.053101,669,SA,AR,AR-Z,"El Calafate",1,SAWC,FTE,ECA,http://www.aeropuertoelcalafate.com/en/,https://en.wikipedia.org/wiki/Comandante_Armando_Tola_International_Airport,,250,2017-06-03T00:04:01+00:00
+37,SA30,closed,"Colonia Catriel Airport",-37.9101982117,-67.8349990845,1026,SA,AR,AR-R,"Colonia Catriel",0,SA30,CCT,CLT,,http://en.wikipedia.org/wiki/Colonia_Catriel_Airport,"SA30, SA0U",50,2014-07-13T11:20:12+00:00
+5786,SAME,medium_airport,"El Plumerillo Airport",-32.8316993713,-68.7929000854,2310,SA,AR,AR-M,Mendoza,1,SAME,MDZ,DOZ,,http://en.wikipedia.org/wiki/Governor_Francisco_Gabrielli_International_Airport,,1050,2011-02-17T01:49:01+00:00
+5775,SADF,medium_airport,"San Fernando Airport",-34.4532,-58.5896,10,SA,AR,AR-B,"San Fernando",0,SADF,FDO,FDO,,,,250,2011-02-12T10:30:25+00:00
+5770,SAAV,medium_airport,"Sauce Viejo Airport",-31.7117,-60.8117,55,SA,AR,AR-S,"Santa Fe",1,SAAV,SFN,SVO,,,,975,2011-02-12T09:15:43+00:00
+5811,SASA,medium_airport,"Martin Miguel De Guemes International Airport",-24.856000900299996,-65.4861984253,4088,SA,AR,AR-A,Salta,1,SASA,SLA,SAL,,http://en.wikipedia.org/wiki/Mart%C3%ADn_Miguel_de_G%C3%BCemes_Airport,,1050,2011-07-03T00:07:47+00:00
+5836,SAWJ,medium_airport,"Capitan D Daniel Vazquez Airport",-49.3068,-67.8026,203,SA,AR,AR-Z,"San Julian",1,SAWJ,ULA,SJU,,,,800,2011-02-13T13:06:13+00:00
+5773,SACO,medium_airport,"Ingeniero Ambrosio Taravella Airport",-31.323601,-64.208,1604,SA,AR,AR-X,Cordoba,1,SACO,COR,CBA,,http://en.wikipedia.org/wiki/Ingeniero_Ambrosio_L.V._Taravella_International_Airport,,1050,2017-11-08T06:11:25+00:00
+5834,SAWG,medium_airport,"Piloto Civil N. Fernández Airport",-51.6089,-69.3126,61,SA,AR,AR-Z,"Rio Gallegos",1,SAWG,RGL,GAL,,http://en.wikipedia.org/wiki/Piloto_Civil_Norberto_Fern%C3%A1ndez_International_Airport,"Brigadier General D. A. Parodi",1050,2011-02-13T13:44:01+00:00
+5769,SAAR,medium_airport,"Islas Malvinas Airport",-32.9036,-60.785,85,SA,AR,AR-S,Rosario,1,SAAR,ROS,ROS,,http://en.wikipedia.org/wiki/Rosario_International_Airport,"Fisherton Airport",1050,2011-12-03T02:37:30+00:00
+5847,SAZM,medium_airport,"Ástor Piazzola International Airport",-37.9342,-57.5733,72,SA,AR,AR-B,"Mar del Plata",1,SAZM,MDQ,MDP,,http://en.wikipedia.org/wiki/%C3%81stor_Piazzola_International_Airport,"Brigadier General Bartolome De La Colina International Airport",1050,2011-02-13T00:27:06+00:00
+5833,SAWE,medium_airport,"Hermes Quijada International Airport",-53.7777,-67.7494,65,SA,AR,AR-V,"Rio Grande",0,SAWE,RGA,GRA,,http://en.wikipedia.org/wiki/Hermes_Quijada_Airport,,375,2011-02-13T13:52:30+00:00
+5780,SADP,medium_airport,"El Palomar Airport",-34.6099,-58.6126,59,SA,AR,AR-B,"El Palomar",0,SADP,EPA,PAL,,,,300,2011-02-13T23:56:13+00:00
+29733,SADD,closed,"Don Torcuato Airport",-34.4981002808,-58.604198455799995,20,SA,AR,AR-B,"Don Torcuato",0,SADD,,DOT,,,,50,2011-02-12T10:26:31+00:00
+5767,SAAN,small_airport,"Pergamino Airport",-33.919,-60.648,236,SA,AR,AR-B,Pergamino,0,SAAN,,PER,,https://en.wikipedia.org/wiki/Pergamino_Aeroclub,,50,2017-01-07T23:22:47+00:00
+39058,AR-0383,small_airport,"Zarate Airport",-34.12,-59.0836,85,SA,AR,AR-B,Zarate,0,,,ATE,,,,50,2009-10-20T11:12:32+00:00
+5822,SAVC,medium_airport,"General E. Mosconi Airport",-45.7853,-67.4655,189,SA,AR,AR-U,"Comodoro Rivadavia",1,SAVC,CRD,CRV,,,,1050,2011-07-03T01:19:56+00:00
+5848,SAZN,medium_airport,"Presidente Peron Airport",-38.949001,-68.155701,895,SA,AR,AR-Q,Neuquen,1,SAZN,NQN,NEU,,https://en.wikipedia.org/wiki/Presidente_Per%C3%B3n_International_Airport,,1050,2018-09-14T02:31:14+00:00
+5823,SAVE,medium_airport,"Brigadier Antonio Parodi Airport",-42.908000946,-71.139503479,2621,SA,AR,AR-U,Esquel,1,SAVE,EQS,ESQ,,http://es.wikipedia.org/wiki/Aeropuerto_Brigadier_General_Antonio_Parodi,,975,2013-01-03T09:23:24+00:00
+5851,SAZR,medium_airport,"Santa Rosa Airport",-36.588299,-64.275703,630,SA,AR,AR-L,"Santa Rosa",1,SAZR,RSA,OSA,,https://en.wikipedia.org/wiki/Santa_Rosa_Airport_(Argentina),,975,2016-09-29T16:21:13+00:00
+5829,SAVY,medium_airport,"El Tehuelche Airport",-42.7592,-65.1027,427,SA,AR,AR-U,"Puerto Madryn",1,SAVY,PMY,DRY,,,,825,2011-07-03T03:30:06+00:00
+5827,SAVT,medium_airport,"Almirante Marco Andres Zar Airport",-43.2105,-65.2703,141,SA,AR,AR-U,Rawson,1,SAVT,REL,TRE,,http://en.wikipedia.org/wiki/Almirante_Marco_Andr%C3%A9s_Zar_Airport,"Trelew Airport",825,2011-07-03T03:21:25+00:00
+5828,SAVV,medium_airport,"Gobernador Castello Airport",-40.8692,-63.0004,20,SA,AR,AR-R,"Viedma / Carmen de Patagones",1,SAVV,VDM,VIE,,,,800,2011-07-03T03:26:26+00:00
+5764,SAAC,medium_airport,"Comodoro Pierrestegui Airport",-31.2969,-57.9966,112,SA,AR,AR-E,Concordia,0,SAAC,COC,DIA,,https://en.wikipedia.org/wiki/Comodoro_Pierrestegui_Airport,,250,2016-06-07T07:24:26+00:00
+5778,SADM,small_airport,"Moron Airport",-34.6763,-58.6428,95,SA,AR,AR-B,Moron,0,SADM,,MOR,,,,250,2017-07-09T07:44:04+00:00
+38833,AR-0158,small_airport,"Ezpeleta Airport",-34.7464,-58.2033,9,SA,AR,AR-B,Ezpeleta,0,,,EZP,,,,50,2009-10-20T11:12:28+00:00
+5809,SARP,medium_airport,"Libertador Gral D Jose De San Martin Airport",-27.3858,-55.9707,430,SA,AR,AR-N,Posadas,1,SARP,PSS,POS,,https://en.wikipedia.org/wiki/Libertador_General_Jos%C3%A9_de_San_Mart%C3%ADn_Airport,,1050,2018-09-14T02:32:42+00:00
+5804,SARE,medium_airport,"Resistencia International Airport",-27.45,-59.0561,173,SA,AR,AR-H,Resistencia,1,SARE,RES,SIS,,https://en.wikipedia.org/wiki/Resistencia_International_Airport,,1050,2018-09-14T02:31:50+00:00
+5794,SANT,medium_airport,"Teniente Benjamin Matienzo Airport",-26.8409,-65.104897,1493,SA,AR,AR-T,"San Miguel de Tucumán",1,SANT,TUC,TUC,,http://en.wikipedia.org/wiki/Benjam%C3%ADn_Matienzo_International_Airport,,1050,2016-03-30T12:08:11+00:00
+5840,SAZB,medium_airport,"Comandante Espora Airport",-38.725,-62.1693,246,SA,AR,AR-B,"Bahia Blanca",1,SAZB,BHI,BCA,https://www.aeropuertobahiablanca.com/,https://en.wikipedia.org/wiki/Comandante_Espora_Airport,"Bahía Blanca Airport",975,2018-09-16T04:14:57+00:00
+5768,SAAP,medium_airport,"General Urquiza Airport",-31.7948,-60.4804,242,SA,AR,AR-E,Parana,1,SAAP,PRA,PAR,,http://en.wikipedia.org/wiki/General_Urquiza_Airport,,975,2011-02-12T08:56:34+00:00
+5838,SAWP,medium_airport,"Perito Moreno Airport",-46.537899,-70.978699,1410,SA,AR,AR-Z,"Perito Moreno",1,SAWP,PMQ,PTM,,https://en.wikipedia.org/wiki/Perito_Moreno_Airport,,800,2018-09-14T06:17:06+00:00
+5832,SAWD,medium_airport,"Puerto Deseado Airport",-47.7353,-65.9041,268,SA,AR,AR-Z,"Puerto Deseado",1,SAWD,PUD,ADO,,,,800,2011-02-13T13:56:20+00:00
+5839,SAWU,medium_airport,"Santa Cruz Airport",-50.0165,-68.5792,364,SA,AR,AR-Z,"Santa Cruz",1,SAWU,RZA,SCZ,,,,800,2011-02-13T12:25:26+00:00
+5846,SAZL,medium_airport,"Santa Teresita Airport",-36.5423,-56.7218,9,SA,AR,AR-B,"Santa Teresita",1,SAZL,SST,STR,,https://en.wikipedia.org/wiki/Santa_Teresita_Airport,,800,2018-09-14T06:27:10+00:00
+29898,SAWR,small_airport,"Gobernador Gregores Airport",-48.7831,-70.150002,356,SA,AR,AR-Z,"Gobernador Gregores",1,SAWR,GGS,GRE,,https://en.wikipedia.org/wiki/Gobernador_Gregores_Airport,,450,2018-09-16T03:46:15+00:00
+5800,SAOR,medium_airport,"Villa Reynolds Airport",-33.7299003601,-65.3873977661,1591,SA,AR,AR-D,"Villa Mercedes",0,SAOR,VME,RYD,,http://en.wikipedia.org/wiki/Villa_Reynolds_Airport,Pringles,375,2016-02-07T18:55:10+00:00
+5853,SAZT,medium_airport,"Héroes De Malvinas Airport",-37.2374000549,-59.2279014587,574,SA,AR,AR-B,Tandil,0,SAZT,TDL,DIL,,,,325,2011-02-12T23:44:42+00:00
+5855,SAZW,medium_airport,"Cutral-Co Airport",-38.939701080300004,-69.2646026611,2132,SA,AR,AR-Q,Cutral-Co,0,SAZW,CUT,CUT,,,,250,2013-02-05T06:05:23+00:00
+38737,AR-0062,small_airport,"Belén De Escobar Airport",-34.2986,-58.7989,13,SA,AR,AR-B,"Belén De Escobar",0,,,LEN,,,,50,2009-10-20T11:12:28+00:00
+29806,SACD,small_airport,"Coronel Olmedo Airport",-31.4874992371,-64.1414031982,1416,SA,AR,AR-X,Cordoba,0,SACD,,EDO,,,,50,2011-02-12T09:38:32+00:00
+38850,AR-0175,closed,"General Rodriguez Airport",-34.497234,-59.037457,98,SA,AR,AR-B,"General Rodriguez",0,,,GRZ,,,,50,2017-07-09T08:01:41+00:00
+5776,SADJ,small_airport,"Mariano Moreno Airport",-34.5606,-58.7896,105,SA,AR,AR-B,"General Sarmiento",0,SADJ,,ENO,,,,50,2011-02-12T10:37:12+00:00
+16,SA04,small_airport,"Isla Martin Garcia Airport",-34.1821,-58.2469,6,SA,AR,AR-B,"Isla Martin Garcia",0,SAAK,,MGI,,,SAAK,50,2017-07-16T13:07:53+00:00
+30122,SADZ,small_airport,"Matanza Airport",-34.7261,-58.5011,9,SA,AR,AR-B,"La Matanza",0,SADZ,,MAT,http://www.cua-argentina.com.ar/index.php,,"Aeroclub Universidad",50,2018-07-18T23:07:00+00:00
+38927,AR-0252,small_airport,"Luján Airport",-34.5514,-59.0783,82,SA,AR,AR-B,Lujan,0,,,LJN,,,,50,2009-10-20T11:12:32+00:00
+38946,AR-0271,small_airport,"Mercedes Airport",-34.6397,-59.4556,137,SA,AR,AR-B,Mercedes,0,,,MRD,,,,50,2009-10-20T11:12:38+00:00
+30260,SAZE,small_airport,"Pigüé Airport",-37.601699829100006,-62.378101348899996,997,SA,AR,AR-B,Pigüé,0,SAZE,,PIG,,,,50,2011-02-13T01:00:23+00:00
+30313,SADQ,small_airport,"Quilmes Airport",-34.7064,-58.2444,6,SA,AR,AR-B,Quilmes,0,SADQ,,ILM,,,,50,2011-02-14T00:01:21+00:00
+38706,AR-0031,small_airport,"San Andres De Giles Airport",-34.4703,-59.4247,167,SA,AR,AR-B,"San Andres de Giles",0,,,GIL,,,,50,2009-10-20T11:12:38+00:00
+29803,SACE,small_airport,"Escuela De Aviacion Militar Airport",-31.444999694800003,-64.2838973999,1646,SA,AR,AR-X,"Santa Isabel - Córdoba",0,SACE,,ESC,,,,50,2011-02-12T09:41:47+00:00
+5812,SASJ,medium_airport,"Gobernador Horacio Guzman International Airport",-24.392799,-65.097801,3019,SA,AR,AR-Y,"San Salvador de Jujuy",1,SASJ,JUJ,JUJ,,https://en.wikipedia.org/wiki/Gobernador_Horacio_Guzm%C3%A1n_International_Airport,,1050,2018-09-14T06:18:20+00:00
+5792,SANL,medium_airport,"Capitan V A Almonacid Airport",-29.3815994263,-66.7957992554,1437,SA,AR,AR-F,"La Rioja",1,SANL,IRJ,LAR,,,,975,2011-02-17T03:06:12+00:00
+5789,SANC,medium_airport,"Catamarca Airport",-28.5956001282,-65.751701355,1522,SA,AR,AR-K,Catamarca,1,SANC,CTC,CAT,,,,800,2011-02-17T02:44:50+00:00
+5856,SAZY,medium_airport,"Aviador C. Campos Airport",-40.075401,-71.137299,2569,SA,AR,AR-Q,"Chapelco/San Martin de los Andes",1,SAZY,CPC,CHP,,https://en.wikipedia.org/wiki/Aviador_Carlos_Campos_Airport,,800,2018-09-14T06:29:20+00:00
+5795,SANU,medium_airport,"Domingo Faustino Sarmiento Airport",-31.571501,-68.418198,1958,SA,AR,AR-J,"San Juan",1,SANU,UAQ,JUA,,https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento_Airport,,800,2016-09-29T16:29:58+00:00
+5824,SAVH,medium_airport,"Las Heras Airport",-46.53829956049999,-68.9653015137,1082,SA,AR,AR-Z,"Las Heras",1,SAVH,LHS,CLH,,,,550,2011-07-09T11:58:13+00:00
+5796,SAOC,medium_airport,"Area De Material Airport",-33.0850982666,-64.2612991333,1380,SA,AR,AR-X,"Rio Cuarto",0,SAOC,RCU,TRC,,,,375,2011-02-19T00:08:42+00:00
+5817,SATG,medium_airport,"Goya Airport",-29.1058,-59.2189,128,SA,AR,AR-W,Goya,0,SATG,OYA,GOY,,,,250,2011-07-03T00:39:59+00:00
+5765,SAAG,medium_airport,"Gualeguaychu Airport",-33.0103,-58.6131,75,SA,AR,AR-E,Gualeguaychu,0,SAAG,GHU,GUA,,,,250,2011-02-12T08:17:29+00:00
+5766,SAAJ,small_airport,"Junin Airport",-34.5459,-60.9306,262,SA,AR,AR-B,Junin,0,SAAJ,JNI,NIN,,,,250,2017-07-09T08:21:43+00:00
+5777,SADL,medium_airport,"La Plata Airport",-34.9722,-57.8947,72,SA,AR,AR-B,"La Plata",0,SADL,LPG,PTA,,,,250,2017-09-23T13:43:38+00:00
+5807,SARL,medium_airport,"Paso De Los Libres Airport",-29.6894,-57.1521,230,SA,AR,AR-W,"Paso de los Libres",0,SARL,AOL,LIB,,https://en.wikipedia.org/wiki/Paso_de_los_Libres_Airport,,250,2016-06-01T05:51:41+00:00
+5819,SATR,medium_airport,"Reconquista Airport",-29.2103,-59.68,160,SA,AR,AR-S,Reconquista,0,SATR,RCQ,RTA,,,,250,2011-02-19T02:00:46+00:00
+5854,SAZV,medium_airport,"Villa Gesell Airport",-37.2354,-57.0292,32,SA,AR,AR-B,"Villa Gesell",0,SAZV,VLG,GES,,,,250,2011-02-12T23:38:50+00:00
+38711,AR-0036,small_airport,"Alta Gracia Airport",-31.651399612400002,-64.39389801029999,1748,SA,AR,AR-X,"Alta Gracia",0,,,AGR,,,,50,2011-02-11T22:31:06+00:00
+38713,AR-0038,small_airport,"Alvear Aeroparque Airport",-33.0467,-60.5969,85,SA,AR,AR-S,Alvear,0,,,AVA,http://www.aeroclubrosario.com/,,"Aeroparque Rosario",50,2018-05-30T17:13:03+00:00
+38722,AR-0047,small_airport,"Arrecifes Aeroclub Airport",-34.0833,-60.0333,141,SA,AR,AR-B,Arrecifes,0,,,CIF,,,,50,2009-10-20T11:12:38+00:00
+29676,SAZA,small_airport,"Azul Airport",-36.8368988037,-59.8802986145,478,SA,AR,AR-B,Azul,0,SAZA,,ZUL,,,,50,2011-02-13T01:50:42+00:00
+38733,AR-0058,small_airport,"Baradero Airport",-33.8217,-59.4925,95,SA,AR,AR-B,Baradero,0,,,BDO,,,,50,2009-10-20T11:12:35+00:00
+17,SA05,small_airport,"Bell Ville Airport",-32.6599,-62.702,429,SA,AR,AR-X,"Bell Ville",0,SA05,,BEL,,,SA05,50,2009-10-20T11:12:52+00:00
+38739,AR-0064,closed,"Benavidez Airport",-34.388054,-58.663887,13,SA,AR,AR-B,Benavidez,0,,,DEZ,,,,50,2018-01-22T17:07:28+00:00
+5845,SAZI,small_airport,"Bolivar Airport",-36.1866,-61.0764,308,SA,AR,AR-B,Bolivar,0,SAZI,,BLR,,http://en.wikipedia.org/wiki/Bol%C3%ADvar_Airport,,50,2017-01-02T20:03:49+00:00
+35399,AR-0005,small_airport,"Bragado Airport",-35.144,-60.4803,196,SA,AR,AR-B,Bragado,0,,QRF,BRA,,,,50,2009-10-20T11:12:40+00:00
+5779,SADO,small_airport,"Campo De Mayo Airport MIL",-34.5344,-58.6717,78,SA,AR,AR-B,"Campo de Mayo",0,SADO,,CPO,,,,50,2017-07-09T08:23:59+00:00
+38754,AR-0079,small_airport,"Cañuelas Airport",-35.1119,-58.7261,98,SA,AR,AR-B,Cañuelas,0,,,CNA,,,,50,2009-10-20T11:12:36+00:00
+38761,AR-0086,small_airport,"Carmen De Areco Airport",-34.4175,-59.8719,160,SA,AR,AR-B,"Carmen de Areco",0,,,CNO,,,,50,2009-10-20T11:12:38+00:00
+38771,AR-0096,small_airport,"Chacabuco Airport",-34.6069,-60.4097,226,SA,AR,AR-B,Chacabuco,0,,,UCO,,,,50,2009-10-20T11:12:42+00:00
+38775,AR-0100,small_airport,"Chascomus Airport",-35.5428,-58.0519,32,SA,AR,AR-B,Chascomus,0,,,MUS,,,,50,2009-10-20T11:12:29+00:00
+38776,AR-0101,small_airport,"Chivilcoy Airport",-34.9639,-60.0333,173,SA,AR,AR-B,Chivilcoy,0,,,CHY,,,,50,2009-10-20T11:12:40+00:00
+29997,SAWS,small_airport,"Jose De San Martin Airport",-44.048599243199995,-70.4589004517,2407,SA,AR,AR-U,Chubut,0,SAWS,JSM,JSM,,,,50,2011-02-13T12:34:49+00:00
+38782,AR-0107,small_airport,"Colon Airport",-33.9231,-61.0461,295,SA,AR,AR-B,Colon,0,,,CON,,,,50,2009-10-20T11:12:46+00:00
+42831,AR-0409,closed,"Estancia El Chañar Airport",-31.2887,-62.4189,331,SA,AR,AR-X,"Colonia Marina",0,,,CLM,,,,50,2009-10-20T11:12:48+00:00
+29,SA21,small_airport,"Veinticinco De Mayo Airport",-37.8097991943,-67.6593017578,1138,SA,AR,AR-L,"Colonia Veinticinco de Mayo",0,SA21,,MAO,,,SA21,50,2011-07-10T05:39:04+00:00
+40,SA33,small_airport,"Comandante Luis Piedrabuena Airport",-49.9951,-68.9531,78,SA,AR,AR-Z,"Comandante Luis Piedrabuena",0,SA33,,LPB,,,SA33,50,2009-10-20T11:12:32+00:00
+42817,AR-0395,small_airport,"Coronel Brandsen Airport",-35.1828,-58.2839,52,SA,AR,AR-B,"Coronel Brandsen",0,,,SEN,,,,50,2009-10-20T11:12:30+00:00
+32248,SAZD,small_airport,"Dolores Airport",-36.3225,-57.7214,32,SA,AR,AR-B,Dolores,0,SAZD,,DOL,,,,50,2011-02-13T01:02:56+00:00
+29847,SAVD,small_airport,"El Maiten Airport",-42.0292015076,-71.17250061040001,2355,SA,AR,AR-U,"El Maiten",0,SAVD,EMX,EMA,,,,50,2011-07-03T01:26:51+00:00
+38812,AR-0137,small_airport,"El Pajaro Airport",-34.8237,-58.3169,52,SA,AR,AR-B,"Florencio Varela",0,,,FVA,https://www.facebook.com/pages/Aerodromo-El-Pajaro/487105338046291,,,50,2017-07-09T07:24:44+00:00
+38842,AR-0167,small_airport,"General Belgrano Airport",-35.7519,-58.4633,39,SA,AR,AR-B,"General Belgrano",0,,,GBE,,,,50,2009-10-20T11:12:30+00:00
+38845,AR-0170,small_airport,"General Las Heras",-34.9206,-58.9164,114,SA,AR,AR-B,"General Las Heras",0,,,GLH,,,,50,2018-01-21T19:43:52+00:00
+42821,AR-0399,small_airport,"EAA General Rodriguez",-34.6803,-59.0358,91,SA,AR,AR-B,"General Rodriguez",0,,,GEZ,,,,50,2018-01-21T19:36:28+00:00
+38851,AR-0176,small_airport,"Los Toldos Airport",-34.9744,-61.0206,236,SA,AR,AR-B,"General Viamonte",0,,,GNV,,,,50,2009-10-20T11:12:42+00:00
+38855,AR-0180,small_airport,"Gonzalez Chaves Airport",-38.0293998718,-60.136100769,636,SA,AR,AR-B,"Gonzalez Chaves",0,,,GVZ,,,,50,2011-02-12T00:47:17+00:00
+38858,AR-0183,small_airport,"Gualeguay Airport",-33.1036109924,-59.3747215271,39,SA,AR,AR-E,Gualeguay,0,,,UAY,,,,50,2011-02-12T00:53:11+00:00
+38888,AR-0213,small_airport,"Tres Lomas Airport",-36.4439,-62.8792,380,SA,AR,AR-B,"Jose Maria Blanco",0,,,JMB,,,,50,2009-10-20T11:12:50+00:00
+39029,AR-0354,small_airport,"Tolosa Airport",-34.8747,-57.9608,18,SA,AR,AR-B,"La Plata",0,,,PTL,,,,50,2009-10-20T11:12:28+00:00
+25,SA16,small_airport,"La Puntilla Airport",-32.962799,-68.873703,3091,SA,AR,AR-M,"La Puntilla",0,SA16,,DOP,http://www.aeroclubmendoza.com.ar/,https://es.wikipedia.org/wiki/Aeroclub_Mendoza,SA16,50,2017-07-24T18:27:03+00:00
+39065,SAEL,small_airport,"Las Flores Airport",-36.0672,-59.1042,111,SA,AR,AR-B,"Las Flores",0,SAEL,,FLO,,,,50,2009-10-20T11:12:36+00:00
+38932,AR-0257,small_airport,"Lobos Airport",-35.2108,-59.1367,95,SA,AR,AR-B,Lobos,0,,,BOS,,,,50,2009-10-20T11:12:35+00:00
+38894,AR-0219,small_airport,"La Caida Airport",-34.8625,-58.3447,91,SA,AR,AR-B,Longchamps,0,,,LLC,,,,50,2009-10-20T11:12:35+00:00
+38736,AR-0061,small_airport,"Batan Airport",-38.0117,-57.6775,203,SA,AR,AR-B,"Mar Del Plata",0,,,MDB,,,,50,2009-10-20T11:12:42+00:00
+38941,AR-0266,small_airport,"Marcos Paz",-34.7975,-58.8969,91,SA,AR,AR-B,"Marcos Paz",0,,,MSP,,,,50,2018-01-21T19:43:21+00:00
+5801,SAOS,small_airport,"Valle Del Conlara International Airport",-32.3847007751,-65.1865005493,2021,SA,AR,AR-D,Merlo,0,SAOS,RLO,SRC,,,,50,2011-02-19T00:33:21+00:00
+38956,AR-0281,small_airport,"Navarro Airport",-35.0236,-59.2858,98,SA,AR,AR-B,Navarro,0,,,NVR,,,,50,2009-10-20T11:12:36+00:00
+5842,SAZF,small_airport,"Olavarria Airport",-36.8899993896,-60.216598510699995,551,SA,AR,AR-B,Olavarria,0,SAZF,OVR,OLA,,,,50,2011-02-13T00:55:55+00:00
+38971,AR-0296,small_airport,"Pinamar Airport",-37.0911,-56.9783,9,SA,AR,AR-B,Pinamar,0,,,PNR,,,,50,2009-10-20T11:12:28+00:00
+30339,SAZQ,small_airport,"Rio Colorado Airport",-38.995,-64.1408,275,SA,AR,AR-R,"Rio Colorado",0,SAZQ,,COL,,,,50,2011-02-13T00:01:37+00:00
+26,SA17,small_airport,"Rio Cuarto Aeroclub Airport",-33.1605987549,-64.3382034302,1423,SA,AR,AR-X,"Rio Cuarto",0,SA17,,CUA,,,SA17,50,2011-07-10T01:55:56+00:00
+30341,SAWM,small_airport,"Rio Mayo Airport",-45.703899383499994,-70.2455978394,1784,SA,AR,AR-U,"Rio Mayo",0,SAWM,ROY,RMY,,,,50,2011-02-13T12:56:01+00:00
+29849,SAWT,small_airport,"28 de Noviembre Airport",-51.605,-72.2203,909,SA,AR,AR-Z,"Rio Turbio",1,SAWT,RYO,BIO,,https://en.wikipedia.org/wiki/Rio_Turbio_Airport,"El Turbio",50,2018-09-13T13:15:53+00:00
+38716,AR-0041,small_airport,"America Airport",-35.5017,-62.99,347,SA,AR,AR-B,Rivadavia,0,,,RVA,,,,50,2009-10-20T11:12:48+00:00
+43,SA36,small_airport,"Saladillo Airport",-35.6081,-59.8164,147,SA,AR,AR-B,Saladillo,0,SA36,,SDL,,,SA36,50,2009-10-20T11:12:38+00:00
+38999,AR-0324,small_airport,"Salto Airport",-34.3069,-60.2858,193,SA,AR,AR-B,Salto,0,,,SLT,,,,50,2009-10-20T11:12:40+00:00
+32243,SAAA,small_airport,"San Antonio De Areco Airport",-34.2214,-59.4422,98,SA,AR,AR-B,"San Antonio de Areco",0,SAAA,,SNT,,,,50,2011-02-12T08:09:09+00:00
+30377,SADS,small_airport,"Aeródromo San Justo - Aeroclub Argentino",-34.7311,-58.5975,62,SA,AR,AR-B,"San Justo",0,SADS,,JUS,,,,50,2017-07-09T07:35:21+00:00
+39009,AR-0334,small_airport,"Bahía Agradable Airport",-35.4594,-58.7636,78,SA,AR,AR-B,"San Miguel Del Monte",0,,,SMM,,,,50,2009-10-20T11:12:32+00:00
+38,SA31,small_airport,"San Nicolas De Los Arroyos Airport",-33.3907,-60.1957,98,SA,AR,AR-B,"San Nicolas",0,SA31,,SNY,,,SA31,50,2009-10-20T11:12:36+00:00
+35411,SAVO,small_airport,"San Pedro Airport",-33.698,-59.7267,88,SA,AR,AR-B,"San Pedro",0,,,PED,,,,50,2009-10-20T11:12:32+00:00
+38813,AR-0138,small_airport,"El Pampero Airport",-36.5928001404,-64.1866989136,583,SA,AR,AR-L,"Santa Rosa",0,,,ELP,,,,50,2011-02-12T00:03:46+00:00
+35329,SA15,small_airport,"Lago Fagnano North Airport",-54.499699,-67.173103,600,SA,AR,AR-V,Toluhin,0,SA15,,THN,,,"SA15, Kaiken",50,2016-06-05T16:43:10+00:00
+5837,SAWO,small_airport,"Estación Aeronaval Airport",-54.8227,-68.3043,19,SA,AR,AR-V,Ushuahia,0,SAWO,,EAU,,,,50,2011-02-13T12:51:21+00:00
+39,SA32,small_airport,"Venado Tuerto Airport",-33.6818,-61.9564,367,SA,AR,AR-S,"Venado Tuerto",0,SAFV,,VNO,,,SA32,50,2011-02-16T00:55:22+00:00
+38907,AR-0232,small_airport,"La Siesta Airport",-33.6939,-62.0625,367,SA,AR,AR-S,"Venado Tuerto",0,,,VTO,,,,50,2009-10-20T11:12:50+00:00
+42881,AR-0459,small_airport,"Savesa Airport",-33.7792,-61.9775,360,SA,AR,AR-S,"Venado Tuerto",0,,,VTS,,,,50,2009-10-20T11:12:48+00:00
+30303,SAAI,small_airport,"Punta Indio Base Aeronaval",-35.353298,-57.290001,49,SA,AR,AR-B,Veronica,0,SAAI,,PDI,,,,50,2018-01-22T17:03:37+00:00
+39054,AR-0379,small_airport,"Villa General Belgrano Airport",-31.9652996063,-64.5643997192,2755,SA,AR,AR-X,"Villa General Belgrano",0,,,VGB,,,,50,2011-07-14T02:52:56+00:00
+35413,AR-0018,small_airport,"Villa Mercedes Airport",-33.640858,-65.420074,1689,SA,AR,AR-D,"Villa Mercedes",0,,,CED,,,,50,2017-01-07T22:27:05+00:00
+321748,AR-0596,small_airport,"Daireaux Airport",-36.5828,-61.7842,380,SA,AR,AR-B,Daireaux,0,,,DRX,,,,0,2017-01-06T14:17:45+00:00
+318268,AR-0536,small_airport,"Fumigaciones Ortega Airport",-35.2757,-61.5564,295,SA,AR,AR-B,"Martinez de Hoz",0,,,DOF,,,,0,2016-06-04T10:03:56+00:00
+318273,AR-0540,small_airport,"Agro Aéreo La Noria",-33.85696,-60.70038,255,SA,AR,AR-B,Pergamino,0,,,PEN,,,,0,2018-01-22T16:28:45+00:00
+5803,SARC,medium_airport,"Corrientes Airport",-27.4455,-58.7619,202,SA,AR,AR-W,Corrientes,1,SARC,CNQ,CRR,,https://en.wikipedia.org/wiki/Doctor_Fernando_Piragine_Niveyro_International_Airport,,1050,2018-09-14T02:33:37+00:00
+5805,SARF,medium_airport,"Formosa Airport",-26.2127,-58.2281,193,SA,AR,AR-P,Formosa,1,SARF,FMA,FSA,,http://en.wikipedia.org/wiki/Formosa_International_Airport,,1050,2011-07-02T22:47:39+00:00
+5849,SAZO,medium_airport,"Necochea Airport",-38.4831,-58.8172,72,SA,AR,AR-B,Necochea,1,SAZO,NEC,NEC,,https://en.wikipedia.org/wiki/Necochea_Airport,,800,2018-09-16T04:56:32+00:00
+5802,SAOU,medium_airport,"Brigadier Mayor D Cesar Raul Ojeda Airport",-33.2732009888,-66.3563995361,2328,SA,AR,AR-D,"San Luis",1,SAOU,LUQ,UIS,,,,800,2011-02-19T00:37:18+00:00
+5788,SAMR,medium_airport,"Suboficial Ay Santiago Germano Airport",-34.588299,-68.4039,2470,SA,AR,AR-M,"San Rafael",1,SAMR,AFA,SRA,,https://en.wikipedia.org/wiki/San_Rafael_Airport_(Argentina),,800,2016-06-01T05:36:30+00:00
+5790,SANE,medium_airport,"Vicecomodoro Angel D. La Paz Aragonés Airport",-27.765556335399996,-64.3099975586,656,SA,AR,AR-G,"Santiago del Estero",1,SANE,SDE,SDE,,http://en.wikipedia.org/wiki/Santiago_del_Estero_Airport,,800,2011-02-17T02:48:42+00:00
+5815,SAST,medium_airport,"General Enrique Mosconi Airport",-22.619600296,-63.7937011719,1472,SA,AR,AR-A,Tartagal,1,SAST,TTG,TAR,,,,800,2011-07-03T00:31:27+00:00
+30057,SAWA,closed,"Lago Argentino Airport",-50.336102,-72.248596,732,SA,AR,AR-Z,"El Calafate",1,SAWA,ING,,,,,450,2016-08-31T09:57:51+00:00
+35398,AR-0004,small_airport,"Merlo Airport",-32.35820007324219,-65.01740264892578,796,SA,AR,AR-D,Merlo,1,,,RLO,,,,450,2009-01-04T20:26:41+00:00
+5826,SAVN,small_airport,"Antoine de Saint Exupéry Airport",-40.7512,-65.0343,85,SA,AR,AR-R,"San Antonio Oeste",1,SAVN,OES,SAN,,https://en.wikipedia.org/wiki/Antoine_de_Saint_Exupéry_Airport,,450,2018-09-16T03:19:30+00:00
+20,SA10,small_airport,"Estancia Don Panos Airport",-26.2959,-59.5353,262,SA,AR,AR-H,"Presidencia Roca",1,SA10,,PDP,,,SA10,350,2009-10-20T11:12:44+00:00
+5820,SATU,medium_airport,"Curuzu Cuatia Airport",-29.7706,-57.9789,229,SA,AR,AR-W,"Curuzu Cuatia",0,SATU,UZU,CCA,,,,250,2011-07-03T01:07:25+00:00
+5821,SAVB,medium_airport,"El Bolson Airport",-41.9431991577,-71.5323028564,1141,SA,AR,AR-R,"El Bolson",0,SAVB,EHL,BOL,,,,250,2011-07-03T01:14:04+00:00
+5843,SAZG,medium_airport,"General Pico Airport",-35.6962013245,-63.7583007812,459,SA,AR,AR-L,"General Pico",0,SAZG,GPO,GPI,,,,250,2011-02-13T00:48:35+00:00
+5787,SAMM,medium_airport,"Comodoro D.R. Salomón Airport",-35.493598938,-69.5743026733,4685,SA,AR,AR-M,Malargue,0,SAMM,LGS,MLG,,,,250,2011-02-17T02:20:22+00:00
+5808,SARM,medium_airport,"Monte Caseros Airport",-30.2719,-57.6402,170,SA,AR,AR-W,"Monte Caseros",0,SARM,MCS,MCS,,,,250,2011-07-02T23:56:05+00:00
+5813,SASO,medium_airport,"Orán Airport",-23.1527996063,-64.3292007446,1171,SA,AR,AR-A,Orán,0,SASO,ORA,ORA,,,,250,2011-07-03T00:18:24+00:00
+5850,SAZP,medium_airport,"Comodoro Pedro Zanni Airport",-35.8446,-61.8576,278,SA,AR,AR-B,Pehuajó,0,SAZP,PEH,PEH,,,,250,2011-02-13T00:09:15+00:00
+5784,SAHS,medium_airport,"Rincon De Los Sauces Airport",-37.3905982971,-68.9041976929,1968,SA,AR,AR-Q,"Rincon de los Sauces",0,SAHS,RDS,RIN,,,,250,2011-02-16T01:43:10+00:00
+5844,SAZH,medium_airport,"Tres Arroyos Airport",-38.3869,-60.3297,400,SA,AR,AR-B,"Tres Arroyos",0,SAZH,OYO,YOS,,,,250,2011-02-13T00:45:45+00:00
+5797,SAOD,medium_airport,"Villa Dolores Airport",-31.9451999664,-65.1463012695,1847,SA,AR,AR-X,"Villa Dolores",0,SAOD,VDR,LDR,,,,250,2011-02-19T00:11:53+00:00
+5785,SAHZ,medium_airport,"Zapala Airport",-38.975498,-70.113602,3330,SA,AR,AR-Q,Zapala,0,SAHZ,APZ,ZAP,,https://en.wikipedia.org/wiki/Zapala_Airport,,250,2016-06-01T05:54:24+00:00
+42841,AR-0419,small_airport,"Finca La Frontera Airport",-22.12351,-63.29055,160,SA,AR,AR-A,"Aguaray, San Martín",0,,,SMF,,,,50,2016-06-05T11:01:51+00:00
+38707,AR-0032,small_airport,"Alejandro Roca Airport",-33.3488998413,-63.7299995422,688,SA,AR,AR-X,"Alejandro Roca",0,,,ALR,,,,50,2011-02-11T22:23:29+00:00
+38710,AR-0035,small_airport,"Allen Airport",-38.958099365200006,-67.8035964966,951,SA,AR,AR-R,Allen,0,,,ALL,,,,50,2011-02-11T22:27:30+00:00
+42827,AR-0405,small_airport,"El Toto Airport",-31.650278,-64.368889,540,SA,AR,AR-X,"Alta Gracia",0,,,TOT,,,,50,2016-06-02T23:02:59+00:00
+29656,SAVR,small_airport,"D. Casimiro Szlapelis Airport",-45.013599,-70.812202,2286,SA,AR,AR-U,"Alto Rio Senguerr",0,SAVR,ARR,ARS,,https://en.wikipedia.org/wiki/Alto_R%C3%ADo_Senguer_Airport,,50,2016-06-01T06:10:33+00:00
+38823,AR-0148,small_airport,"Estancia La Laurita Airport",-44.7761116027832,-70.1963882446289,1834,SA,AR,AR-U,"Alto Rio Senguerr",0,,,,,,,50,2008-07-10T08:52:26+00:00
+38712,AR-0037,small_airport,"Alumine Airport",-38.9502983093,-71.0492019653,3819,SA,AR,AR-Q,Alumine,0,,,ALU,,,,50,2011-02-11T22:38:26+00:00
+38715,AR-0040,small_airport,"Ameghino Airport",-34.8458,-62.4817,360,SA,AR,AR-B,Ameghino,0,,,AMG,,,,50,2009-10-20T11:12:48+00:00
+42857,AR-0435,small_airport,"La Chacra Airport",-34.8119,-62.522501,357,SA,AR,AR-B,Ameghino,0,,,ALC,,,,50,2017-01-02T18:37:47+00:00
+42882,AR-0460,small_airport,"Sigfrido Rohr Aviagro S.R.L. Airport",-34.8306,-62.4678,360,SA,AR,AR-B,Ameghino,0,,,AME,,,,50,2017-01-02T18:42:02+00:00
+38717,AR-0042,small_airport,"Añatuya Airport",-28.4797000885,-62.8457984924,354,SA,AR,AR-G,Añatuya,0,,,UYA,,,,50,2011-02-11T22:43:07+00:00
+38718,AR-0043,small_airport,"Andacollo Airport",-37.20333480834961,-70.69666290283203,3524,SA,AR,AR-Q,Andacollo,0,,,,,,,50,2008-07-10T08:50:50+00:00
+42,SA35,small_airport,"Andalgalá Airport",-27.6317005157,-66.3507995605,2952,SA,AR,AR-K,Andalgalá,0,SA35,,AND,,,SA35,50,2011-07-10T02:53:06+00:00
+31,SA23,small_airport,"Apóstoles Airport",-27.903200149499998,-55.765499115,581,SA,AR,AR-N,Apóstoles,0,SA23,,APO,,,SA23,50,2011-07-10T05:22:03+00:00
+42908,AR-0486,small_airport,"La Cura Malal Airport",-34.0536,-60.1369,121,SA,AR,AR-B,Arrecifes,0,,,ACM,,,,50,2009-10-20T11:12:36+00:00
+38723,AR-0048,small_airport,"Arribeños Airport",-34.2228,-61.3858,268,SA,AR,AR-B,Arribeños,0,,,ARB,,,,50,2009-10-20T11:12:45+00:00
+38724,AR-0049,small_airport,"Arroyito/Arcor Airport",-31.4221992493,-63.0041999817,485,SA,AR,AR-X,Arroyito/Arcor,0,,,ARY,,,,50,2011-02-11T22:48:44+00:00
+39060,SACN,small_airport,"Ascochinga Airport",-30.967920303299998,-64.2777404785,677,SA,AR,AR-X,Ascochinga,0,SACN,,NGA,,,,50,2011-02-12T09:54:12+00:00
+38727,AR-0052,small_airport,"Presidente Avellaneda Airport",-29.1061,-59.6569,147,SA,AR,AR-S,Avellaneda,0,,,AVL,,,,50,2009-10-20T11:12:38+00:00
+38728,AR-0053,small_airport,"Ayacucho Airport",-37.1639,-58.4719,221,SA,AR,AR-B,Ayacucho,0,,,AYA,,,,50,2009-10-20T11:12:42+00:00
+38698,AR-0023,small_airport,"Bahia Blanca Aeroclub Airport",-38.6722,-62.3522,49,SA,AR,AR-B,"Bahia Blanca",0,,,BHB,,,,50,2009-10-20T11:12:30+00:00
+38709,AR-0034,small_airport,"Algarrobo/La Reforma Airport",-38.7306,-63.2869,219,SA,AR,AR-B,"Bahia Blanca",0,,,BRF,,,,50,2009-10-20T11:12:42+00:00
+38699,AR-0024,small_airport,"Balcarce Aeroclub Airport",-37.9156,-58.3442,393,SA,AR,AR-B,Balcarce,0,,,BAL,,,,50,2009-10-20T11:12:50+00:00
+38825,AR-0150,small_airport,"Estancia Los Cardos Airport",-37.7356,-58.0342,393,SA,AR,AR-B,Balcarce,0,,,BLC,,,,50,2009-10-20T11:12:50+00:00
+42803,AR-0201,small_airport,"Agroservicio Doña Teresa Airport",-28.8494,-62.2625,246,SA,AR,AR-G,Bandera,0,,,ADT,,,,50,2009-10-20T11:12:42+00:00
+38734,AR-0059,small_airport,"Barrancas Airport",-36.7756004333,-69.8593978882,3481,SA,AR,AR-M,Barrancas,0,,,,,,,50,2013-02-05T06:15:01+00:00
+38735,AR-0060,small_airport,"Basavilbaso Airport",-32.3611,-58.8808,196,SA,AR,AR-E,Basavilbaso,0,,,BAS,,,,50,2009-10-20T11:12:40+00:00
+42862,AR-0440,small_airport,"La Zulema Airport",-32.4897,-62.6714,423,SA,AR,AR-X,"Bell Ville",0,,,ZLM,,,,50,2009-10-20T11:12:52+00:00
+34,SA26,small_airport,"Bella Vista Airport",-28.5262,-59.0385,180,SA,AR,AR-W,"Bella Vista",0,SA26,,BTA,,,SA26,50,2009-10-20T11:12:40+00:00
+29998,SAZJ,small_airport,"Benito Juarez Airport",-37.7061004639,-59.791900634799994,682,SA,AR,AR-B,"Benito Juarez",0,SAZJ,,JRZ,,,,50,2011-02-13T00:39:56+00:00
+41559,SATI,small_airport,"Bernardo De Irigoyen Airport",-26.281388,-53.673332,2673,SA,AR,AR-N,"Bernardo de Irigoyen",0,SATI,,IRI,,,IRA,50,2017-01-02T19:47:14+00:00
+42820,AR-0398,small_airport,"Dinaluca S.A. Airport",-27.3828,-57.6442,219,SA,AR,AR-W,"Berón de Astrada",0,,,BAD,,,,50,2009-10-20T11:12:42+00:00
+38741,AR-0066,small_airport,"Gran Ancona Airport",-33.4383,-61.3017,318,SA,AR,AR-S,Bombal,0,,,BOM,,,,50,2009-10-20T11:12:48+00:00
+42852,AR-0430,closed,"Haras Trelliris Airport",-35.3314,-60.5792,196,SA,AR,AR-B,Bragado,0,,,BHT,,,,50,2009-10-20T11:12:40+00:00
+38743,AR-0068,small_airport,"Pablo Sierra Aeroaplicaciones Airport",-30.9294,-62.0506,328,SA,AR,AR-X,Brinkman,0,,,BPS,,,,50,2009-10-20T11:12:48+00:00
+19,SA07,small_airport,"El Porton Airport",-37.194999694799996,-69.6094970703,2853,SA,AR,AR-Q,"Buta Ranquil",0,SA07,,BRQ,,,SA07,50,2011-07-10T01:11:56+00:00
+38746,AR-0071,small_airport,"Cabildo Airport",-38.4986000061,-61.8843994141,521,SA,AR,AR-B,Cabildo,0,,,CBD,,,,50,2011-02-11T23:18:39+00:00
+13,SA01,small_airport,"Cachi Airport",-25.1049995422,-66.15720367429999,8232,SA,AR,AR-A,Cachi,0,SA01,,CCS,,,SA01,50,2011-07-10T01:05:22+00:00
+14,SA02,small_airport,"Cafayate Airport",-26.056100845299998,-65.9368972778,5375,SA,AR,AR-A,Cafayate,0,SA02,,CAF,,,SA02,50,2011-07-10T01:07:45+00:00
+35401,AR-0007,small_airport,"Caleta Olivia Airport",-46.4318008423,-67.5186004639,37,SA,AR,AR-Z,"Caleta Olivia",0,,CVI,CAO,,,,50,2011-02-11T21:54:49+00:00
+38749,AR-0074,small_airport,"Caleufu Airport",-40.39390182495117,-70.96330261230469,2323,SA,AR,AR-Q,Caleufu,0,,,,,,,50,2009-01-04T20:26:48+00:00
+32,SA24,small_airport,"Calilegua Airport",-23.7819004059,-64.74949646,1449,SA,AR,AR-Y,Calilegua,0,SA24,,CLI,,,SA24,50,2011-07-10T03:16:17+00:00
+21,SA11,small_airport,"Campo Arenal Airport",-27.0722999573,-66.5860977173,7622,SA,AR,AR-K,"Campo Arenal",0,SA11,,CAL,,,SA11,50,2011-07-10T01:19:49+00:00
+38752,AR-0077,small_airport,"Cañada De Gomez Airport",-32.8086,-61.365,268,SA,AR,AR-S,"Cañada de Gomez",0,,,GOM,,,,50,2009-10-20T11:12:45+00:00
+38731,AR-0056,small_airport,"B&B Servicios Agropecuarios Airport",-32.1147,-61.6328,239,SA,AR,AR-S,"Cañada Rosquin",0,,,CBB,,,,50,2009-10-20T11:12:42+00:00
+38753,AR-0078,small_airport,"Cañada Rosquin Airport",-32.0994,-61.5839,219,SA,AR,AR-S,"Cañada Rosquin",0,,,SQI,,,,50,2009-10-20T11:12:42+00:00
+33,SA25,small_airport,"Cañadon Seco Airport",-46.539,-67.5639,295,SA,AR,AR-Z,"Cañadon Seco",0,SA25,,CDS,,,SA25,50,2009-10-20T11:12:46+00:00
+38751,AR-0076,small_airport,"Canals Airport",-33.5622,-62.8692,387,SA,AR,AR-X,Canals,0,,,CNS,,,,50,2009-10-20T11:12:50+00:00
+38755,AR-0080,small_airport,"Capitan Sarmiento Airport",-34.1639,-59.7311,160,SA,AR,AR-B,"Capitan Sarmiento",0,,,CTS,,,,50,2009-10-20T11:12:38+00:00
+38900,AR-0225,small_airport,"Quebracho Herrado Airport",-34.1553,-59.8739,170,SA,AR,AR-B,"Capitán Sarmiento",0,,,CSQ,,,,50,2009-10-20T11:12:40+00:00
+42907,AR-0485,small_airport,"San Patricio Airport",-34.0403,-59.6944,147,SA,AR,AR-B,"Capitán Sarmiento",0,,,CSP,,,,50,2009-10-20T11:12:38+00:00
+42819,AR-0397,small_airport,"Di Giuseppe Airport",-32.8908,-61.1239,291,SA,AR,AR-S,Carcarañá,0,,,CDI,,,,50,2009-10-20T11:12:46+00:00
+38757,AR-0082,small_airport,"Carhue Airport",-37.1942,-62.7814,360,SA,AR,AR-B,Carhue,0,,,HUE,,,,50,2009-10-20T11:12:48+00:00
+38758,AR-0083,small_airport,"Carlos Casares Airport",-35.6328,-61.3842,275,SA,AR,AR-B,"Carlos Casares",0,,,CSR,,,,50,2009-10-20T11:12:46+00:00
+38759,AR-0084,small_airport,"Las Ensenadas Airport",-31.4552993774,-64.5263977051,2394,SA,AR,AR-X,"Carlos Paz",0,,,CPZ,,,,50,2011-02-11T23:21:38+00:00
+38760,AR-0085,small_airport,"Carlos Tejedor Airport",-35.4256,-62.4697,308,SA,AR,AR-B,"Carlos Tejedor",0,,,TEJ,,,,50,2009-10-20T11:12:48+00:00
+42812,AR-0390,small_airport,"Carmen De Patagones Airport",-40.7781,-62.9803,131,SA,AR,AR-B,"Carmen de Patagones",0,,CPG,PAT,,,,50,2011-07-14T03:10:53+00:00
+38763,AR-0088,small_airport,"Casilda Airport",-33.0617,-61.21,252,SA,AR,AR-S,Casilda,0,,,ILD,,,,50,2009-10-20T11:12:44+00:00
+38764,AR-0089,small_airport,"Castelli Airport",-36.11000061035156,-57.86194610595703,33,SA,AR,AR-B,Castelli,0,,,,,,,50,2008-07-10T08:51:32+00:00
+29769,SANW,small_airport,"Ceres Airport",-29.872292,-61.927925,285,SA,AR,AR-S,Ceres,0,SANW,CRR,ERE,,https://en.wikipedia.org/wiki/Ceres_Airport,,50,2016-06-07T07:25:53+00:00
+41562,SAZK,small_airport,"Cerro Catedral Airport",-41.16329956049999,-71.4427032471,3450,SA,AR,AR-R,"Cerro Catedral",0,SAZK,,CDM,,,,50,2011-02-13T00:37:48+00:00
+38772,AR-0097,small_airport,"Chacharramendi Airport",-37.3405990601,-65.646697998,951,SA,AR,AR-L,Chacharramendi,0,,,CHR,,,,50,2011-02-11T23:32:13+00:00
+38765,AR-0090,small_airport,"Castelli Airport",-25.93083381652832,-60.628055572509766,364,SA,AR,AR-H,Chaco,0,,,,,,,50,2008-07-10T08:51:33+00:00
+38773,AR-0098,small_airport,"Chajari Airport",-30.7542,-58,173,SA,AR,AR-E,Chajari,0,,,CHJ,,,,50,2009-10-20T11:12:40+00:00
+38822,AR-0147,small_airport,"Estancia La Choza Airport",-30.5389,-58.2928,236,SA,AR,AR-E,Chajari,0,,,CHC,,,,50,2009-10-20T11:12:42+00:00
+38774,AR-0099,small_airport,"Chañar Ladeado Airport",-33.3333,-62.0333,367,SA,AR,AR-S,"Chañar Ladeado",0,,,CLD,,,,50,2009-10-20T11:12:50+00:00
+38963,AR-0288,small_airport,"Palitue Airport",-39.81638717651367,-71.0294418334961,2562,SA,AR,AR-Q,Chapelco,0,,,,,,,50,2008-07-10T08:54:34+00:00
+35403,AR-0009,small_airport,"Charata Airport",-27.2164,-61.2103,318,SA,AR,AR-H,Charata,0,,CNT,CHA,,,,50,2009-10-20T11:12:48+00:00
+42823,AR-0401,small_airport,"El Gringo Airport",-27.3086,-61.2114,301,SA,AR,AR-H,Charata,0,,,CHT,,,,50,2009-10-20T11:12:46+00:00
+39061,SACP,small_airport,"Chepes Airport",-31.3561420441,-66.5918884277,714,SA,AR,AR-F,Chepes,0,SACP,,CHE,,,,50,2011-02-12T10:02:53+00:00
+5793,SANO,small_airport,"Chilecito Airport",-29.2238998413,-67.4389038086,3099,SA,AR,AR-F,Chilecito,0,SANO,,ITO,,,,50,2011-02-17T03:11:02+00:00
+36,SA29,small_airport,"Choele Choel Airport",-39.286399841299996,-65.6102981567,642,SA,AR,AR-R,"Choele Choel",0,SA29,,OEL,,,SA29,50,2011-07-10T03:08:11+00:00
+38777,AR-0102,small_airport,"Cholila Airport",-42.484722,-71.460556,1883,SA,AR,AR-U,Cholila,0,,,CHO,,,,50,2016-06-03T16:44:24+00:00
+5782,SAHC,small_airport,"Chos Malal Airport",-37.444698333699996,-70.2225036621,2788,SA,AR,AR-Q,"Chos Malal",0,SAHC,HOS,CHM,,,,50,2011-02-16T01:00:01+00:00
+39024,AR-0349,small_airport,"Estancia Tecka Airport",-43.6122207642,-71.0219421387,2361,SA,AR,AR-U,Chubut,0,,,TEC,,,,50,2011-07-14T01:55:22+00:00
+38778,AR-0103,small_airport,"Cinco Saltos Airport",-38.801666259765625,-68.03722381591797,1171,SA,AR,AR-R,"Cinco Saltoses",0,,,,,,,50,2008-07-10T08:51:45+00:00
+38700,AR-0025,small_airport,"Cipoletti Aeroclub Airport",-38.8931007385,-67.9886016846,885,SA,AR,AR-R,Cipoletti,0,SAHI,,CIP,,,,50,2011-02-16T01:37:18+00:00
+38924,AR-0249,small_airport,"Lanzillota Airport",-32.7214012146,-68.6342010498,1869,SA,AR,AR-M,"Ciudad de Lavalle",0,,,LLZ,,,,50,2011-07-11T23:13:27+00:00
+29791,SATC,small_airport,"Clorinda Airport",-25.3036,-57.7344,206,SA,AR,AR-P,Clorinda,0,SATC,CLX,CLO,,https://en.wikipedia.org/wiki/Clorinda_Airport,,50,2016-06-07T07:22:49+00:00
+38783,AR-0108,small_airport,"Colon Airport",-32.2614,-58.1556,65,SA,AR,AR-E,Colon,0,,,CLN,,,,50,2009-10-20T11:12:32+00:00
+42814,AR-0392,small_airport,"Colonia Tirolesa Airport",-31.244722,-64.035278,1335,SA,AR,AR-X,"Colonia Tirolesa",0,,,TIR,,,,50,2017-01-06T01:28:53+00:00
+38694,AR-0019,small_airport,"13 De Diciembre Airport",-45.9033,-67.5564,170,SA,AR,AR-U,"Comodoro Rivadavia",0,,,ICO,,,,50,2009-10-20T11:12:38+00:00
+42816,AR-0394,small_airport,"Concepción Airport",-27.345434,-65.617973,1200,SA,AR,AR-T,Concepción,0,,,CCP,,,,50,2017-09-22T11:32:36+00:00
+38785,AR-0110,small_airport,"Concepcion Del Uruguay Airport",-32.4519,-58.3058,121,SA,AR,AR-E,"Concepcion Del Uruguay",0,,,CDU,,,,50,2009-10-20T11:12:36+00:00
+38786,AR-0111,small_airport,"Concordia Aeroclub Airport",-31.3042,-58.0153,131,SA,AR,AR-E,Concordia,0,,,CRD,,,,50,2009-10-20T11:12:36+00:00
+38787,AR-0112,small_airport,"Confluencia Airport",-36.771400451699996,-69.5385971069,4964,SA,AR,AR-M,Confluencia,0,,,,,,,50,2013-02-05T06:15:21+00:00
+38902,AR-0227,small_airport,"La Mezquita Airport",-31.400800705,-64.3003005981,1672,SA,AR,AR-X,"Cordoba/La Mezquita",0,,,MEZ,,,,50,2011-07-09T12:39:35+00:00
+42799,AR-0012,small_airport,"Aerofumigaciones Don Alejandro Airport",-33.3053,-60.6539,170,SA,AR,AR-S,"Coronel Bogado",0,,,OGB,,,,50,2009-10-20T11:12:38+00:00
+42843,AR-0421,small_airport,"Fumigaciones Campagnucci Airport",-33.3239,-60.6658,157,SA,AR,AR-S,"Coronel Bogado",0,,,BOG,,,,50,2017-01-06T01:56:34+00:00
+38811,AR-0136,balloonport,"El Manantial Airport",-35.1943,-58.3594,49,SA,AR,AR-B,"Coronel Brandsen",0,,,EML,,,,50,2016-06-03T15:13:02+00:00
+38788,AR-0113,small_airport,"Coronel Dorrego Airport",-38.7411,-61.2561,393,SA,AR,AR-B,"Coronel Dorrego",0,,,DOR,,,,50,2009-10-20T11:12:50+00:00
+42818,AR-0396,small_airport,"Coronel Moldes Airport",-33.616669,-64.612503,1170,SA,AR,AR-X,"Coronel Moldes",0,,,MLD,,,,50,2017-01-06T02:08:16+00:00
+38789,AR-0114,small_airport,"Coronel Pringles Airport",-38.0066680908,-61.331943512,810,SA,AR,AR-B,"Coronel Pringles",0,SABP,,PRI,,,,50,2011-02-11T21:00:33+00:00
+5841,SAZC,small_airport,"Brigadier D.H.E. Ruiz Airport",-37.446098,-61.889301,767,SA,AR,AR-B,"Coronel Suarez",0,SAZC,CSZ,SUZ,,https://en.wikipedia.org/wiki/Brigadier_Hector_Eduardo_Ruiz_Airport,,50,2016-06-07T07:27:41+00:00
+35400,AR-0006,closed,"[Duplicate] Brigadier Hector Ruiz Airport",-37.4333000183,-61.8833007812,228,SA,AR,AR-B,"Coronel Suarez",0,,CSZ,,,,,50,2015-02-02T10:36:00+00:00
+38790,AR-0115,small_airport,"Coronel Vidal Airport",-37.4689,-57.7669,85,SA,AR,AR-B,"Coronel Vidal",0,,,VDL,,,,50,2009-10-20T11:12:32+00:00
+38791,AR-0116,small_airport,"Corral De Bustos Airport",-33.2811,-62.1514,393,SA,AR,AR-X,"Corral de Bustos",0,,,BTS,,,,50,2009-10-20T11:12:50+00:00
+38714,AR-0039,small_airport,"Alvear Airport",-29.064722,-56.541111,226,SA,AR,AR-W,Corrientes,0,,,AVR,,,,50,2017-09-22T22:02:32+00:00
+38792,AR-0117,small_airport,"Santa María Airport",-31.286100387599998,-64.4552993774,2296,SA,AR,AR-X,Cosquin,0,,,CQN,,,,50,2011-02-11T23:35:44+00:00
+41551,SAMC,small_airport,"Cristo Redentor Airport",-32.807300567599995,-70.06819915770001,10477,SA,AR,AR-M,"Cristo Redentor",0,SAMC,,CRI,,,,50,2011-02-17T01:42:51+00:00
+38793,AR-0118,small_airport,"Cruz Alta Airport",-33.0078,-61.8369,318,SA,AR,AR-X,"Cruz Alta",0,,,ALT,,,,50,2009-10-20T11:12:48+00:00
+35333,AR-0001,small_airport,"Cullen Airport",-52.885101318359375,-68.41220092773438,132,SA,AR,AR-V,Cullen,0,,,,,,,50,2008-07-10T08:50:20+00:00
+38794,AR-0119,small_airport,"Curuzu Cuatia Aeroclub Airport",-29.7789,-58.0958,262,SA,AR,AR-W,"Curuzu Cuatia",0,,,CZU,,,,50,2009-10-20T11:12:44+00:00
+38828,AR-0153,small_airport,"Estancia San Juan Airport",-29.6028,-58.0281,268,SA,AR,AR-W,"Curuzu Cuatia",0,,,HSJ,,,,50,2009-10-20T11:12:45+00:00
+38796,AR-0121,small_airport,"Fumigaciones Airport",-36.5914,-61.7753,371,SA,AR,AR-B,Daireaux,0,,,DFR,,,,50,2017-01-06T14:14:36+00:00
+38797,AR-0122,small_airport,"Darregueira Airport",-37.7127990723,-63.161899566699994,649,SA,AR,AR-B,Darregueira,0,,,DAR,,,,50,2011-02-11T23:42:51+00:00
+38799,AR-0124,small_airport,"Dean Funes Airport",-30.379199981699998,-64.379699707,2259,SA,AR,AR-X,"Dean Funes",0,,,FUN,,,,50,2011-02-11T23:48:18+00:00
+38800,AR-0125,small_airport,"Diamante Airport",-32.0161,-60.5825,246,SA,AR,AR-E,Diamante,0,,,DTE,,,,50,2009-10-20T11:12:44+00:00
+38805,AR-0130,small_airport,"Eduardo Castex Airport",-35.8805541992,-64.2738876343,600,SA,AR,AR-L,"Eduardo Castex",0,,,ECX,,,,50,2011-02-11T23:59:20+00:00
+38806,AR-0131,small_airport,"El Alamito Airport",-37.27361297607422,-70.38972473144531,3576,SA,AR,AR-Q,"El Alamito",0,,,,,,,50,2008-07-10T08:52:11+00:00
+35336,SA41,small_airport,"El Colorado Airport",-26.316686630249023,-59.33976364135742,269,SA,AR,AR-P,"El Colorado",0,SA41,,,,,SA41,50,2009-01-04T20:27:00+00:00
+42830,AR-0408,small_airport,"Estancia Caridad Airport",-43.72139,-71.24556,2427,SA,AR,AR-U,"El Corcovado",0,,,VEC,,,,50,2016-06-03T14:36:18+00:00
+38809,AR-0134,small_airport,"El Corcovado Airport",-43.533599853515625,-71.48470306396484,1968,SA,AR,AR-U,"El Corcovado - Esquel",0,,,,,,,50,2009-01-04T20:26:51+00:00
+5816,SATD,small_airport,"El Dorado Airport",-26.3974990845,-54.5746994019,685,SA,AR,AR-N,"El Dorado",0,SATD,ELO,ELD,,,,50,2011-07-03T00:37:37+00:00
+39044,AR-0369,small_airport,"Chevron Texaco Airport",-37.365002,-69.300278,2896,SA,AR,AR-Q,"El Trapial",0,,,TXO,,,,50,2017-01-06T16:32:44+00:00
+38814,AR-0139,small_airport,"El Trebol Airport",-32.2153,-61.7161,301,SA,AR,AR-S,"El Trebol",0,SAFT,,ETB,,,,50,2011-02-16T00:49:37+00:00
+42810,AR-0388,small_airport,"Burdisso Airport",-32.2406,-61.7583,364,SA,AR,AR-S,"El Trebol",0,,,TBL,,,,50,2009-10-20T11:12:49+00:00
+38719,AR-0044,small_airport,"Anibal Brizi Airport",-31.4042,-60.8992,127,SA,AR,AR-S,Esperanza,0,,,EBF,,,,50,2009-10-20T11:12:36+00:00
+38816,AR-0141,small_airport,"Esperanza Airport",-31.4736,-60.8447,124,SA,AR,AR-S,Esperanza,0,,,EPZ,,,,50,2009-10-20T11:12:36+00:00
+38912,AR-0237,small_airport,"Lago La Esperanza Airport",-42.217499,-71.805003,1836,SA,AR,AR-U,Esquel,0,,,LZA,,,SA8A,50,2017-01-07T19:59:20+00:00
+38817,AR-0142,small_airport,"Esquina Airport",-30.0489,-59.5353,127,SA,AR,AR-W,Esquina,0,,,ESN,,,,50,2009-10-20T11:12:36+00:00
+39011,AR-0336,small_airport,"San Vicente Airport",-26.9533004761,-54.4878005981,1804,SA,AR,AR-N,Fabiano,0,,,VTE,,,,50,2011-07-14T01:49:28+00:00
+38892,AR-0217,small_airport,"La Angelita Airport",-30.8522,-58.7067,229,SA,AR,AR-E,Federal,0,,,FAG,,,,50,2009-10-20T11:12:42+00:00
+35332,SA46,small_airport,"Fiambala Airport",-27.6422,-67.624702,5029,SA,AR,AR-K,Fiambala,0,SA46,,2380,,,SA46,50,2018-05-06T10:13:21+00:00
+38835,AR-0160,small_airport,"Firmat Aeroclub Airport",-33.4289,-61.5108,344,SA,AR,AR-S,Firmat,0,,,FAE,,,,50,2009-10-20T11:12:48+00:00
+42842,AR-0420,small_airport,"Firmat Airport",-33.4661,-61.4842,344,SA,AR,AR-S,Firmat,0,,,FIM,,,,50,2009-10-20T11:12:48+00:00
+38836,AR-0161,small_airport,"Formosa Aeroclub Airport",-26.3014,-58.2983,229,SA,AR,AR-P,Formosa,0,,,FOR,,,,50,2009-10-20T11:12:42+00:00
+49,SA45,small_airport,"Frias Airport",-28.634399414100002,-65.1091995239,1082,SA,AR,AR-G,Frias,0,SA45,,FRS,,,SA45,50,2011-07-10T02:19:56+00:00
+38705,AR-0030,small_airport,"Alagro Fumigaciones Airport",-32.8878,-60.8436,114,SA,AR,AR-S,Funes,0,,,UNE,,,,50,2009-10-20T11:12:36+00:00
+38840,AR-0165,small_airport,"Galvez Airport",-32.0322,-61.1758,173,SA,AR,AR-S,Galvez,0,,,VEZ,,,,50,2009-10-20T11:12:40+00:00
+42801,AR-0014,small_airport,"Agroaire Airport",-27.4978,-61.6586,377,SA,AR,AR-H,Gancedo,0,,,GAI,,,,50,2009-10-20T11:12:50+00:00
+42874,AR-0452,small_airport,"Pulverizaciones M.H. Airport",-27.4831,-61.6486,318,SA,AR,AR-H,Gancedo,0,,,GDO,,,,50,2009-10-20T11:12:48+00:00
+38920,AR-0245,small_airport,"Las Marias Airport",-28.1,-56.05,410,SA,AR,AR-W,"Gdor. Valentin Virasoro",0,,,VSO,,,,50,2009-10-20T11:12:50+00:00
+39064,SAEA,small_airport,"General Acha Airport",-37.4007987976,-64.6128005981,908,SA,AR,AR-L,"General Acha",0,SAEA,,ACH,,,,50,2011-02-16T00:40:58+00:00
+42906,AR-0484,closed,"General Alvear Airport",-35.9783,-59.9061,164,SA,AR,AR-B,"General Alvear",0,,,GAR,,,,50,2009-10-20T11:12:38+00:00
+29889,SAMA,small_airport,"General Alvear Airport",-35.058898925799994,-67.6928024292,1489,SA,AR,AR-M,"General Alvear",0,SAMA,,GNA,,,,50,2011-02-17T01:37:36+00:00
+38841,AR-0166,small_airport,"General Alvear Aeroclub Airport",-34.9730987549,-67.7236022949,1528,SA,AR,AR-M,"General Alvear",0,,,GVA,,,,50,2011-02-12T00:13:30+00:00
+42846,AR-0424,small_airport,"General Belgrano Airport",-24.745834,-65.418892,4136,SA,AR,AR-A,"General Belgrano - Salta",0,,,GBL,http://www.aeroclubsalta.com/,,SA74,50,2017-01-08T14:21:23+00:00
+38843,AR-0168,small_airport,"General Deheza Airport",-32.745300293,-63.7957992554,898,SA,AR,AR-X,"General Deheza",0,,,GDH,,,,50,2011-02-12T00:16:12+00:00
+38844,AR-0169,small_airport,"General La Madrid Airport",-37.2271995544,-61.2792015076,560,SA,AR,AR-B,"General La Madrid",0,,,LAM,,,,50,2011-02-12T00:19:05+00:00
+38846,AR-0171,small_airport,"General Levalle Airport",-34.0038871765,-63.9308319092,614,SA,AR,AR-X,"General Levalle",0,,,LEV,,,,50,2011-02-12T00:21:34+00:00
+38847,AR-0172,small_airport,"General Madariaga Airport",-37.0392,-57.1372,22,SA,AR,AR-B,"General Madariaga",0,,,MAD,,,,50,2009-10-20T11:12:29+00:00
+41557,SARG,small_airport,"Caa Cati Airport",-27.755300521900004,-57.6329994202,249,SA,AR,AR-W,"General Paz",0,SARG,,CAC,,,,50,2011-07-02T22:50:49+00:00
+38769,AR-0094,small_airport,"Cereales Anahi Ruca Airport",-35.6736106873,-63.7180557251,455,SA,AR,AR-L,"General Pico",0,,,GPF,,,,50,2011-02-11T23:27:58+00:00
+42867,AR-0445,small_airport,"Ñancu Airport",-35.6161,-63.7508,446,SA,AR,AR-L,"General Pico",0,,,GPU,,,,50,2009-10-20T11:12:52+00:00
+38848,AR-0173,small_airport,"General Pìnedo Airport",-27.3394,-61.2744,298,SA,AR,AR-H,"General Pìnedo",0,,,GPO,,,,50,2009-10-20T11:12:46+00:00
+38708,AR-0033,small_airport,"Alfredo Sanchez Airport",-34.8011,-61.865,328,SA,AR,AR-B,"General Pinto",0,,,SEZ,,,,50,2009-10-20T11:12:48+00:00
+38849,AR-0174,small_airport,"General Pinto Airport",-34.7861,-61.9142,318,SA,AR,AR-B,"General Pinto",0,,,PNT,,,,50,2009-10-20T11:12:48+00:00
+5783,SAHR,small_airport,"Dr. Arturo H. Illia Airport",-39.0007019043,-67.6204986572,852,SA,AR,AR-R,"General Roca",0,SAHR,GNR,GNR,,,,50,2011-02-16T01:40:55+00:00
+42847,AR-0425,small_airport,"General San Martin (La Pampa) Airport",-37.94972,-63.6175,528,SA,AR,AR-L,"General San Martin",0,,,SMT,,,,50,2016-06-03T22:53:16+00:00
+35404,AR-0010,small_airport,"General Villegas Airport",-35,-63,383,SA,AR,AR-B,"General Villegas",0,,VGS,GAS,,,,50,2009-10-20T11:12:50+00:00
+42822,AR-0400,small_airport,"El Girasol Airport",-33.6661,-59.8339,91,SA,AR,AR-B,"Gobernador Castro",0,,,GOC,,,,50,2009-10-20T11:12:33+00:00
+38852,AR-0177,small_airport,"Gobernador Crespo Aeroclub Airport",-30.3878,-60.3656,170,SA,AR,AR-S,"Gobernador Crespo",0,,,GCR,,,,50,2009-10-20T11:12:39+00:00
+42800,AR-0013,small_airport,"Agro Servicio Yoris Airport",-26.583055,-64.529724,1043,SA,AR,AR-T,"Gobernador Garmendia",0,,,GYT,http://www.asysrl.com.ar/,,,50,2018-05-06T13:45:14+00:00
+5774,SACT,closed,"Chamical Airport",-30.34530067,-66.29360198,1502,SA,AR,AR-F,"Gobernador Gordillo",0,SACT,,GOR,,,,50,2015-10-07T12:05:54+00:00
+42838,AR-0416,small_airport,"Estancia Villa Corina Airport",-28.035,-56.0678,403,SA,AR,AR-W,"Gobernador Valentin Virasoro",0,,,EVC,,,,50,2009-10-20T11:12:50+00:00
+38854,AR-0179,small_airport,"Gomez Airport",-35.0956,-58.0853,62,SA,AR,AR-B,Gomez,0,,,GOZ,,,,50,2009-10-20T11:12:30+00:00
+38856,AR-0181,small_airport,"Goya Aeroclub",-29.1678,-59.2464,124,SA,AR,AR-W,Goya,0,,,GYA,,,,50,2009-10-20T11:12:36+00:00
+38883,AR-0208,small_airport,"Italaviation Airport",-29.1608,-59.1814,209,SA,AR,AR-W,Goya,0,,,GIT,,,,50,2009-10-20T11:12:42+00:00
+38859,AR-0184,small_airport,"Agro Aereo Gualeguay Airport",-33.0386,-59.4383,52,SA,AR,AR-E,Gualeguay,0,,,GAA,,,,50,2009-10-20T11:12:30+00:00
+42849,AR-0427,small_airport,"Gualeguay Aeroclub Airport",-33.0994,-59.4172,49,SA,AR,AR-E,Gualeguay,0,,,UAE,,,,50,2009-10-20T11:12:30+00:00
+38745,AR-0070,small_airport,"Cabañas Airport",-32.9775,-58.5222,23,SA,AR,AR-E,Gualeguaychu,0,,,GLM,,,,50,2009-10-20T11:12:29+00:00
+42833,AR-0411,small_airport,"Estancia La Providencia Airport",-32.9411,-58.565,65,SA,AR,AR-E,Gualeguaychú,0,,,GLP,,,,50,2009-10-20T11:12:32+00:00
+42850,AR-0428,closed,"Guatraché Airport",-37.682800293,-63.5508003235,574,SA,AR,AR-L,Guatraché,0,,,GTE,,,,50,2011-07-10T00:31:11+00:00
+38868,AR-0193,small_airport,"Henderson Airport",-36.3147010803,-61.747798919699996,492,SA,AR,AR-B,Henderson,0,,,HDS,,,,50,2011-07-09T12:09:29+00:00
+38873,AR-0198,small_airport,"Huanguelen Airport",-37.0330543518,-61.934165954600005,518,SA,AR,AR-B,Huanguelen,0,,,HUG,,,,50,2011-07-09T12:12:41+00:00
+38874,AR-0199,small_airport,"Huinca Renanco Airport",-34.8203010559,-64.3731002808,590,SA,AR,AR-X,"Huinca Renanco",0,,,HUI,,,,50,2011-02-12T01:05:43+00:00
+42828,AR-0406,small_airport,"Establecimiento La Adelita Airport",-31.3925,-61.1431,164,SA,AR,AR-S,Humboldt,0,,,HUM,,,,50,2009-10-20T11:12:38+00:00
+42844,AR-0422,small_airport,"Fumigaciones Fredy Airport",-34.2361,-60.5819,176,SA,AR,AR-B,Hunter,0,,,PRC,,,,50,2009-10-20T11:12:40+00:00
+42806,AR-0384,small_airport,"Belingueres Aviación Airport",-34.2778,-60.5044,209,SA,AR,AR-B,"Ines Indart",0,,,IBA,,,,50,2009-10-20T11:12:42+00:00
+5825,SAVJ,small_airport,"Cabo F.A.A. H. R. Bordón Airport",-41.320899963399995,-69.5748977661,2925,SA,AR,AR-R,"Ingeniero Jacobacci",0,SAVJ,IGB,IJC,,,,50,2011-07-09T12:02:17+00:00
+38875,AR-0200,small_airport,"Ingeniero Luiggi Airport",-35.3549995422,-64.4758300781,633,SA,AR,AR-L,"Ingeniero Luiggi",0,,,IGL,,,,50,2011-02-12T01:08:39+00:00
+38877,AR-0202,small_airport,"Establecimiento La Susana",-34.909168,-59.348888,121,SA,AR,AR-B,"Ingeniero Williams",0,,,,,,,50,2018-01-21T19:50:19+00:00
+38878,AR-0203,small_airport,"Intendente Alvear Airport",-35.2592,-63.5328,416,SA,AR,AR-L,"Intendente Alvear",0,,,IAL,,,,50,2009-10-20T11:12:52+00:00
+42804,AR-0272,small_airport,"Azcarate Irastorza Airport",-35.1994,-63.6008,416,SA,AR,AR-L,"Intendente Alvear",0,,,IAA,,,,50,2009-10-20T11:12:51+00:00
+38882,AR-0207,small_airport,"Don Hector Biondi Airport",-33.2464,-62.4167,387,SA,AR,AR-X,"Isla Verde",0,,,IVB,,,,50,2009-10-20T11:12:50+00:00
+42855,AR-0433,small_airport,"Islas Del Ibicuy Airport",-33.75,-58.7,19,SA,AR,AR-E,"Islas del Ibicuy",0,,,IBY,,,,50,2009-10-20T11:12:28+00:00
+39071,SARO,closed,"Ituzaingo Airport",-27.5261001587,-56.6333007812,62,SA,AR,AR-W,Ituzaingo,0,SARO,,ITU,,,,50,2011-07-03T00:01:09+00:00
+41553,SAMJ,small_airport,"Jachal Airport",-30.249500274699997,-68.740196228,3790,SA,AR,AR-J,Jachal,0,SAMJ,,JAC,,,,50,2011-02-17T01:59:30+00:00
+38884,AR-0209,small_airport,"Jacinto Arauz Airport",-38.066101074200006,-63.4282989502,524,SA,AR,AR-L,"Jacinto Arauz",0,,,JAR,,,,50,2011-07-09T12:14:59+00:00
+38885,AR-0210,small_airport,"Jardin De América Airport",-27.0324993134,-55.1980552673,672,SA,AR,AR-N,"Jardin de América",0,,,JDA,,,,50,2011-07-09T12:18:33+00:00
+38886,AR-0211,small_airport,"Jesús Maria Airport",-30.988100051900002,-64.0768966675,1738,SA,AR,AR-X,"Jesús Maria",0,,,JES,,,,50,2011-07-09T12:21:43+00:00
+38887,AR-0212,small_airport,"Agropecuaria Rio Juramento Airport",-25.1867008209,-64.0828018188,1184,SA,AR,AR-A,"Joaquin V. Gonzalez",0,,,JGA,,,,50,2011-07-09T12:24:56+00:00
+38826,AR-0151,small_airport,"Estancia Nueva Lubecka Airport",-44.44194412231445,-70.44222259521484,2021,SA,AR,AR-U,"Jose de San Martin",0,,,,,,,50,2008-07-10T08:52:29+00:00
+42860,AR-0438,small_airport,"La Madrugada Airport",-38.0036,-59.3489,449,SA,AR,AR-B,"Juan N. Fernández",0,,,LMD,,,,50,2009-10-20T11:12:52+00:00
+38891,AR-0216,small_airport,"Juarez Celman Airport",-31.2113895416,-64.1613922119,1680,SA,AR,AR-X,"Juarez Celman",0,,,JCM,,,,50,2011-07-09T12:30:49+00:00
+42873,AR-0451,small_airport,"Puerta De Avalos Airport",-24.314679,-65.247198,3904,SA,AR,AR-Y,Jujuy,0,,,PDA,,,,50,2016-06-04T01:26:19+00:00
+38740,AR-0065,small_airport,"Blondi Airport",-34.61333465576172,-61.02305603027344,262,SA,AR,AR-B,Junin,0,,,,,,,50,2008-07-10T08:51:10+00:00
+42853,AR-0431,small_airport,"Hosteria San Huberto Airport",-39.7038879395,-71.16999816890001,2810,SA,AR,AR-Q,"Junin de Los Andes",0,,,JAH,,,,50,2011-07-10T00:33:49+00:00
+42878,AR-0456,small_airport,"San Ignacio Airport",-39.847499847399995,-70.8638916016,2267,SA,AR,AR-Q,"Junin de Los Andes",0,,,JLA,,,,50,2011-07-10T00:42:28+00:00
+42856,AR-0434,small_airport,"La Carlota Airport",-33.450000762900004,-63.3499984741,505,SA,AR,AR-X,"La Carlota",0,,,LCT,,,,50,2011-07-10T00:36:38+00:00
+38897,AR-0222,small_airport,"La Consulta Airport",-33.7308349609375,-69.17388916015625,3520,SA,AR,AR-M,"La Consulta",0,,,,,,,50,2008-07-10T08:53:33+00:00
+30055,SACC,small_airport,"La Cumbre Airport",-31.005800247199996,-64.5318984985,3733,SA,AR,AR-X,"La Cumbre",0,SACC,LCM,CUM,,,,50,2011-02-12T09:36:17+00:00
+38899,AR-0224,small_airport,"La Laja Airport",-31.3513889313,-68.47305297850001,2132,SA,AR,AR-J,"La Laja",0,,,AJA,,,,50,2011-07-09T12:34:39+00:00
+30062,SAMP,small_airport,"La Paz Airport",-30.7833,-59.6,200,SA,AR,AR-E,"La Paz",0,,,LPZ,,,,50,2011-02-17T23:07:35+00:00
+38905,AR-0230,small_airport,"La Paz Aeroclub Airport",-30.7442,-59.5683,200,SA,AR,AR-E,"La Paz",0,,,LAZ,,,,50,2009-10-20T11:12:40+00:00
+38906,AR-0231,small_airport,"La Pelada Airport",-30.9556,-60.8858,144,SA,AR,AR-S,"La Pelada",0,,,PEL,,,,50,2009-10-20T11:12:38+00:00
+38815,AR-0140,small_airport,"Elizalde Airport",-34.9747,-57.9614,22,SA,AR,AR-B,"La Plata",0,,,ELZ,,,,50,2009-10-20T11:12:29+00:00
+5798,SAOL,small_airport,"La Quiaca Airport",-22.1506004333,-65.57749938959999,11414,SA,AR,AR-Y,"La Quiaca",0,SASQ,,IAC,,,,50,2011-07-03T00:22:12+00:00
+38909,AR-0234,small_airport,"Laborde Airport",-33.1567,-62.8906,400,SA,AR,AR-X,Laborde,0,,,LAB,,,,50,2009-10-20T11:12:50+00:00
+5814,SASQ,small_airport,"Laboulaye Airport",-34.1353988647,-63.36230087279999,449,SA,AR,AR-X,Laboulaye,0,SAOL,,LYE,,,,50,2011-02-19T00:15:42+00:00
+39068,SAHE,small_airport,"Caviahue Airport",-37.851398,-71.009201,5435,SA,AR,AR-Q,Lafontaine,0,SAHE,CVH,CVH,,https://en.wikipedia.org/wiki/Caviahue_Airport,,50,2016-06-07T07:28:29+00:00
+38910,AR-0235,small_airport,"Lago Buenos Aires Airport",-46.5764007568,-70.948600769,1312,SA,AR,AR-Z,"Lago Buenos Aires",0,,,BAI,,,,50,2011-07-09T12:42:24+00:00
+38915,AR-0240,small_airport,"Laguna De Gomez Airport",-34.6539,-61.01,262,SA,AR,AR-B,"Laguna de Gomez",0,,,LDG,,,,50,2009-10-20T11:12:45+00:00
+39059,SACL,small_airport,"Laguna Larga Airport",-31,-63,1013,SA,AR,AR-X,"Laguna Larga",0,SACL,,LRG,,,,50,2011-02-12T09:49:19+00:00
+38916,AR-0241,small_airport,"Laprida Airport",-37.518901825,-60.7769012451,705,SA,AR,AR-B,Laprida,0,SAEK,,LPR,,,,50,2011-02-11T21:05:41+00:00
+38935,AR-0260,small_airport,"Los Perales Airport",-46.1907997131,-69.28029632570001,1397,SA,AR,AR-Z,"Las Heras",0,,,LHP,,,,50,2011-07-11T23:15:32+00:00
+44,SA38,small_airport,"Las Lajas Airport",-38.538898468,-70.337097168,2788,SA,AR,AR-Q,"Las Lajas",0,SA38,,LLJ,,,SA38,50,2011-07-10T02:44:49+00:00
+31832,SATK,small_airport,"Alferez Armando Rodriguez Airport",-24.7213993073,-60.5488014221,426,SA,AR,AR-P,"Las Lomitas",0,SATK,LLS,ITA,,,,50,2011-07-03T00:56:48+00:00
+38921,AR-0246,small_airport,"Las Ovejas Airport",-36.999699,-70.741897,3936,SA,AR,AR-Q,"Las Ovejas",0,,,OVJ,,,,50,2017-09-23T15:25:31+00:00
+42870,AR-0448,small_airport,"Petruk Airport",-27.0878,-58.6694,177,SA,AR,AR-H,"Las Palmas",0,,,LPP,,,,50,2009-10-20T11:12:40+00:00
+38810,AR-0135,small_airport,"El Gaucho Airport",-32.6294,-61.5444,344,SA,AR,AR-S,"Las Parejas",0,,,EGO,,,,50,2009-10-20T11:12:48+00:00
+38922,AR-0247,small_airport,"Las Rosas Airport",-32.4922,-61.5806,334,SA,AR,AR-S,"Las Rosas",0,,,LRS,,,,50,2009-10-20T11:12:48+00:00
+38923,AR-0248,small_airport,"Las Varillas Airport",-31.8914,-62.7047,442,SA,AR,AR-X,"Las Varillas",0,,,LVL,,,,50,2009-10-20T11:12:52+00:00
+42848,AR-0426,small_airport,"Ginevro Airport",-31.864445,-62.844166,475,SA,AR,AR-X,"Las Varillas",0,,,LVR,,,,50,2016-06-04T08:52:36+00:00
+38926,AR-0251,small_airport,"Leones Airport",-32.6368,-62.3148,373,SA,AR,AR-X,Leones,0,,,LEO,,,,50,2009-10-20T11:12:50+00:00
+42858,AR-0436,small_airport,"La Esmeralda Airport",-29.9939,-57.8378,265,SA,AR,AR-W,Libertad,0,,,LLE,,,,50,2009-10-20T11:12:45+00:00
+38904,AR-0229,small_airport,"La Nueva Airport",-34.9464,-61.3042,246,SA,AR,AR-B,Lincoln,0,,,LNV,,,,50,2009-10-20T11:12:44+00:00
+38928,AR-0253,small_airport,"Lincoln Airport",-34.8911,-61.5306,285,SA,AR,AR-B,Lincoln,0,,,LIN,,,,50,2009-10-20T11:12:46+00:00
+38824,AR-0149,small_airport,"Estancia Llamuco Airport",-38.79944610595703,-70.43472290039062,3924,SA,AR,AR-Q,Llamuco,0,,,,,,,50,2008-07-10T08:52:27+00:00
+38930,AR-0255,small_airport,"Loberia Airport",-38.1906,-58.7864,265,SA,AR,AR-B,Loberia,0,,,LBI,,,,50,2009-10-20T11:12:45+00:00
+38931,AR-0256,small_airport,"Nika Airport",-38.1478,-58.7542,262,SA,AR,AR-B,Lobería,0,,,NIK,,,,50,2009-10-20T11:12:45+00:00
+42797,LCP,small_airport,"Loncopue Airport",-38.081902,-70.643898,3627,SA,AR,AR-Q,Loncopue,0,,LCP,LCP,,,SA18,50,2017-01-07T21:31:40+00:00
+48,SA44,small_airport,"Londres/Belén Airport",-27.7078990936,-67.0951004028,3936,SA,AR,AR-K,Londres/Belén,0,SA44,,BLN,,,SA44,50,2011-07-10T02:24:35+00:00
+38933,AR-0258,small_airport,"Los Cardos Airport",-32.2719,-61.6622,341,SA,AR,AR-S,"Los Cardos",0,,,LCD,,,,50,2009-10-20T11:12:48+00:00
+35334,AR-0002,small_airport,"Los Cerros Airport",-54.34410095214844,-67.83290100097656,1914,SA,AR,AR-V,"Los Cerros",0,,,,,,,50,2008-07-10T08:50:22+00:00
+42808,AR-0386,small_airport,"Buena Esperanza Airport",-30.5306,-58.3972,246,SA,AR,AR-E,"Los Conquistadores",0,,,EZA,,,,50,2009-10-20T11:12:42+00:00
+35405,AR-0011,small_airport,"Los Menucos Airport",-40.817699,-68.074699,2571,SA,AR,AR-R,"Los Menucos",0,,LMD,MCO,,,,50,2017-01-07T21:34:27+00:00
+42829,AR-0407,small_airport,"Establecimiento La Florencia Airport",-33.0769,-61.3178,246,SA,AR,AR-S,"Los Molinos",0,,,LMF,,,,50,2009-10-20T11:12:44+00:00
+38898,AR-0223,closed,"La Fantasia",-34.7286,-59.109402,111,SA,AR,AR-B,Lujan,0,,,,,,,50,2018-01-21T19:42:51+00:00
+42839,AR-0417,small_airport,"Estancia Villa María",-34.6433,-59.1272,104,SA,AR,AR-B,Luján,0,,,LVM,,,,50,2018-01-21T19:39:10+00:00
+42865,AR-0443,closed,"Match Point Airport",-34.5161,-59.1339,82,SA,AR,AR-B,Luján,0,,,LMP,,,,50,2009-10-20T11:12:32+00:00
+38937,AR-0262,small_airport,"Macachin Airport",-37.111099243199995,-63.5499992371,459,SA,AR,AR-L,Macachin,0,,,MAC,,,,50,2011-07-11T23:24:00+00:00
+38807,AR-0132,small_airport,"Establecimiento El Araza Airport",-36.7756,-57.6414,305,SA,AR,AR-B,Maipu,0,,,HZA,,,,50,2009-10-20T11:12:46+00:00
+38939,AR-0264,small_airport,"Maipu Airport",-36.8903,-57.8503,52,SA,AR,AR-B,Maipu,0,,,MPU,,,,50,2009-10-20T11:12:30+00:00
+42864,AR-0442,small_airport,"Malabrigo Airport",-29.35,-59.9667,177,SA,AR,AR-S,Malabrigo,0,,,MLA,,,,50,2009-10-20T11:12:40+00:00
+30113,SAVQ,small_airport,"Maquinchao Airport",-41.2430992126,-68.7078018188,2912,SA,AR,AR-R,Maquinchao,0,SAVQ,MQD,MAQ,,,,50,2011-07-03T02:41:55+00:00
+38966,AR-0291,small_airport,"Parque Hermoso Airport",-38.0287,-57.6393,196,SA,AR,AR-B,"Mar Del Plata",0,,,MPH,,,,50,2009-10-20T11:12:40+00:00
+42813,AR-0391,small_airport,"Club De Planeadores Airport",-38.0153,-57.6536,147,SA,AR,AR-B,"Mar del Plata",0,,,MPP,,,,50,2009-10-20T11:12:38+00:00
+42835,AR-0413,small_airport,"Estancia Lucila Airport",-38.3086,-58.105,72,SA,AR,AR-B,"Mar del Sur",0,,,ELL,,,,50,2009-10-20T11:12:32+00:00
+5799,SAOM,small_airport,"Marcos Juarez Airport",-32.6836,-62.157801,360,SA,AR,AR-X,"Marcos Juarez",0,SAOM,,MJZ,,https://en.wikipedia.org/wiki/Marcos_Ju%C3%A1rez_Airport,,50,2017-09-23T16:01:48+00:00
+42802,AR-0127,small_airport,"Agrocelta Servicios Aereos Airport",-33.8867,-60.8628,269,SA,AR,AR-B,"Mariano H. Alfonzo",0,,,AGC,,,,50,2009-10-20T11:12:46+00:00
+38944,AR-0269,small_airport,"Meliquina Airport",-40.33530044555664,-71.33920288085938,3061,SA,AR,AR-Q,Meliquina,0,,,,,,,50,2009-01-04T20:26:56+00:00
+30130,SAMQ,small_airport,"Mendoza Airpark",-32.8652992249,-68.87190246579999,2694,SA,AR,AR-M,Mendoza,0,SAMQ,,MAE,,,,50,2011-02-18T00:00:27+00:00
+42837,AR-0415,small_airport,"Estancia Santa Romana Airport",-33.753334,-65.246391,1548,SA,AR,AR-D,Mercedes,0,,,MSR,,,,50,2017-01-07T22:22:28+00:00
+30131,SATM,small_airport,"Mercedes Airport",-29.2213993073,-58.0877990723,358,SA,AR,AR-W,Mercedes,0,SATM,MDX,RCE,,,,50,2011-07-03T00:58:52+00:00
+41550,SADR,closed,"Merlo Airport",-34.680283,-58.742658,49,SA,AR,AR-B,Merlo,0,SADR,,MER,,,,50,2017-06-27T21:55:00+00:00
+38948,AR-0273,small_airport,"Metán Airport",-25.5144004822,-64.9655990601,2765,SA,AR,AR-A,Metan,0,SASM,,MTN,,,,50,2011-02-11T21:43:52+00:00
+38949,AR-0274,small_airport,"Mina Clavero Airport",-31.7331008911,-64.98560333249999,3181,SA,AR,AR-X,"Mina Clavero",0,,,MCL,,,,50,2011-07-12T00:59:00+00:00
+24,SA14,small_airport,"Miramar Airport",-38.2271,-57.8697,42,SA,AR,AR-B,Miramar,0,SAEM,MJR,IRA,,,SA14,50,2011-02-14T01:08:31+00:00
+38738,AR-0063,small_airport,"Bellamar Airport",-38.3858,-58.1336,42,SA,AR,AR-B,Miramar,0,,,MBL,,,,50,2009-10-20T11:12:30+00:00
+38919,AR-0244,small_airport,"Las Cortaderas Airport",-38.3547,-58.1089,52,SA,AR,AR-B,Miramar,0,,,BLL,,,,50,2009-10-20T11:12:30+00:00
+42845,AR-0423,small_airport,"Fumigaciones González Airport",-32.3589,-60.9797,98,SA,AR,AR-S,Monje,0,,,MON,,,,50,2009-10-20T11:12:36+00:00
+42868,AR-0446,small_airport,"Pedro Ferrari Airport",-32.9278,-62.4336,354,SA,AR,AR-X,"Monte Buey",0,,,MBF,,,,50,2009-10-20T11:12:48+00:00
+42826,AR-0404,small_airport,"El Pilincho Airport",-30.3872,-57.9683,228,SA,AR,AR-W,"Monte Caseros",0,,,MCP,,,,50,2009-10-20T11:12:42+00:00
+42885,AR-0463,small_airport,"Timboy Airport",-30.2236,-57.8444,213,SA,AR,AR-W,"Monte Caseros",0,,,MCT,,,,50,2009-10-20T11:12:42+00:00
+41549,SADG,closed,"Monte Grande Airport",-34.805599,-58.492001,30,SA,AR,AR-B,"Monte Grande",0,SADG,,MGE,,,,50,2017-07-09T07:18:39+00:00
+38951,AR-0276,small_airport,"Monte Maiz Airport",-33.2103,-62.6297,370,SA,AR,AR-X,"Monte Maiz",0,,,MAI,,,,50,2009-10-20T11:12:50+00:00
+39062,SACQ,small_airport,"Monte Quemado Airport",-25.783563,-62.82884,722,SA,AR,AR-G,"Monte Quemado",0,SACQ,,MTQ,,https://en.wikipedia.org/wiki/Monte_Quemado_Airport,,50,2017-01-02T06:24:41+00:00
+38952,AR-0277,small_airport,"Montecarlo Airport",-26.5438995361,-54.723899841299996,787,SA,AR,AR-N,Montecarlo,0,,,MTL,,,,50,2011-07-12T01:02:18+00:00
+39016,AR-0341,small_airport,"Scaro Airport",-24.4480552673,-65.1758346558,3228,SA,AR,AR-Y,Monterrico,0,,,MTS,,,,50,2011-07-14T01:52:56+00:00
+42866,AR-0444,small_airport,"Montes De Oca Airport",-32.5811,-61.8408,62,SA,AR,AR-S,"Montes de Oca",0,,,OCA,,,,50,2009-10-20T11:12:31+00:00
+38697,AR-0022,small_airport,"Aeroboero Airport",-30.7286,-62.0078,314,SA,AR,AR-X,Morteros,0,,,BOE,,,,50,2009-10-20T11:12:48+00:00
+38955,AR-0280,small_airport,"Morteros Airport",-30.6778,-62.0267,308,SA,AR,AR-X,Morteros,0,,,MTR,,,,50,2009-10-20T11:12:48+00:00
+38913,AR-0238,small_airport,"Lago Nahuel Huapi Airport",-41.0971984863,-71.17780303960001,2558,SA,AR,AR-R,"Nahuel Huapi",0,,,LNH,,,,50,2011-07-09T12:44:26+00:00
+42854,AR-0432,small_airport,"Iriberri Airport",-38.4769,-58.8056,108,SA,AR,AR-B,Necochea,0,,,NEI,,,,50,2009-10-20T11:12:36+00:00
+28,SA20,small_airport,"Loma La Lata Airport",-38.413799,-68.737297,1328,SA,AR,AR-Q,Neuquen,0,SA20,,OMA,,,SA20,50,2017-01-07T21:27:24+00:00
+38889,AR-0214,small_airport,"Juan Carlos Bagur Airport",-32.4186,-59.8158,190,SA,AR,AR-E,Nogoya,0,,,NJB,,,,50,2009-10-20T11:12:40+00:00
+38957,AR-0282,small_airport,"Nogoya Airport",-32.4025,-59.7461,137,SA,AR,AR-E,Nogoya,0,,,NOG,,,,50,2009-10-20T11:12:38+00:00
+30202,SAZX,small_airport,"Nueve De Julio Airport",-35.3997,-60.9358,246,SA,AR,AR-B,"Nueve de Julio",0,SAZX,,LIO,,,,50,2011-02-12T10:47:52+00:00
+5818,SATO,small_airport,"Oberá Airport",-27.5181999207,-55.1241989136,1125,SA,AR,AR-N,Oberá,0,SATO,,OBE,,,,50,2011-07-03T01:02:00+00:00
+38701,AR-0026,small_airport,"Olavarria Aeroclub Airport",-36.9644012451,-60.2757987976,606,SA,AR,AR-B,Olavarria,0,,,OLC,,,,50,2011-02-11T22:14:07+00:00
+38960,AR-0285,small_airport,"Oliva Airport",-32.060798645,-63.5469017029,879,SA,AR,AR-X,Oliva,0,,,OLV,,,,50,2011-07-12T01:05:49+00:00
+38964,AR-0289,small_airport,"Parana Aeroclub Airport",-31.7578,-60.3733,196,SA,AR,AR-E,Parana,0,,,ANA,,,,50,2009-10-20T11:12:40+00:00
+38965,AR-0290,small_airport,"Parana Club De Planeadores Airport",-31.7314,-60.22,151,SA,AR,AR-E,Parana,0,,,PNA,,,,50,2009-10-20T11:12:38+00:00
+39075,SAVP,small_airport,"Paso De Los Indios Airport",-43.8666992188,-69.05000305179999,575,SA,AR,AR-U,"Paso de los Indios",0,SAVP,,IND,,,,50,2011-07-03T02:37:06+00:00
+42863,AR-0441,small_airport,"Las Lilas Airport",-35.1328,-62.2175,350,SA,AR,AR-B,Pasteur,0,,,PAS,,,,50,2009-10-20T11:12:48+00:00
+38967,AR-0292,small_airport,"Pedro Luro Airport",-39.4561,-62.6747,88,SA,AR,AR-B,"Pedro Luro",0,,,URO,,,,50,2009-10-20T11:12:32+00:00
+42861,AR-0439,small_airport,"La Mariela Airport",-35.7828,-61.9342,282,SA,AR,AR-B,Pehuajó,0,,,PJO,,,,50,2009-10-20T11:12:46+00:00
+38968,AR-0293,small_airport,"Pellegrini Airport",-36.2828,-63.1342,370,SA,AR,AR-B,Pellegrini,0,,,PLG,,,,50,2009-10-20T11:12:50+00:00
+39073,SAVA,small_airport,"Piedra Del Aguila Airport",-40.192199707,-70.0100021362,2128,SA,AR,AR-Q,"Piedra del Aguila",0,SAVA,,AGI,,,,50,2011-07-03T01:12:00+00:00
+41546,SACI,small_airport,"Pilar Airport",-31.6819992065,-63.863800048799995,1072,SA,AR,AR-X,Pilar,0,SACI,,PIL,,,,50,2011-02-12T09:46:55+00:00
+38970,AR-0295,small_airport,"Pilcaniyeu Airport",-41.12666702270508,-70.7138900756836,3192,SA,AR,AR-R,Pilcaniyeu,0,,,,,,,50,2008-07-10T08:54:40+00:00
+42834,AR-0412,small_airport,"Estancia La Salvación Airport",-25.2767,-58.9375,321,SA,AR,AR-P,Pirane,0,,,PLS,,,,50,2009-10-20T11:12:48+00:00
+38973,AR-0298,small_airport,"Poblet Airport",-35.0881,-57.9492,65,SA,AR,AR-B,Poblet,0,,,PBE,,,,50,2009-10-20T11:12:32+00:00
+38742,AR-0067,small_airport,"Bonetti Airport",-27.604166030900004,-55.863887786899994,462,SA,AR,AR-N,Posadas,0,,,PBO,,,,50,2011-02-11T23:12:16+00:00
+38977,AR-0302,small_airport,"Posadas Aeroclub Airport",-27.417499542236328,-55.93972396850586,443,SA,AR,AR-N,Posadas,0,,,,,,,50,2008-07-10T08:54:47+00:00
+42832,AR-0410,small_airport,"Estancia La Leonor Airport",-26.1494,-59.6672,285,SA,AR,AR-H,"Presidencia Roca",0,,,PRA,,,,50,2009-10-20T11:12:46+00:00
+35409,AR-0015,closed,"Saenz Peña Airport",-26.815799713134766,-60.448299407958984,20,SA,AR,AR-H,"Presidencia Roque Sáenz Peña",0,,SZQ,,,,,50,2009-01-04T20:26:41+00:00
+42884,AR-0462,small_airport,"Termal Airport",-26.753611,-60.492222,308,SA,AR,AR-H,"Presidencia Roque Sáenz Peña",0,SARS,PRQ,PSP,,,,50,2016-06-04T14:52:44+00:00
+38979,AR-0304,small_airport,"Puán Airport",-37.5393981934,-62.734199523899996,787,SA,AR,AR-B,Puán,0,,,PUA,,,,50,2011-07-12T01:09:52+00:00
+42809,AR-0387,small_airport,"Buenos Aires Airport",-33.859722,-59.468887,85,SA,AR,AR-B,"Pueblo Alsina, Baradero",0,,,BEX,,,,50,2017-01-02T19:38:36+00:00
+39081,SAZU,small_airport,"Puelches Airport",-38.1451034546,-65.9229431152,180,SA,AR,AR-L,Puelches,0,SAZU,,PUE,,,,50,2011-02-12T23:42:32+00:00
+35330,SA19,small_airport,"Puerto Deseado West Airport",-47.7201004028,-65.9324035645,271,SA,AR,AR-Z,"Puerto Deseado",0,SA19,,DES,,,SA19,50,2011-07-14T01:29:00+00:00
+32244,SAAM,closed,"Mazaruca Airport",-33.596001,-59.266998,20,SA,AR,AR-E,"Puerto Ibicuy/Mazuraca",0,SAAM,,,,,,50,2018-01-21T12:45:26+00:00
+35331,SA27,small_airport,"Puerto Rosales Airport",-38.897098541259766,-62.01029968261719,16,SA,AR,AR-B,"Puerto Rosales",0,SA27,,,,,SA27,50,2008-07-10T08:56:01+00:00
+38981,AR-0306,small_airport,"Terminal 6 Airport",-32.6417,-60.7539,85,SA,AR,AR-S,"Puerto San Martín",0,,,PST,,,,50,2009-10-20T11:12:32+00:00
+42859,AR-0437,small_airport,"La Lucía Airport",-33.0119,-61.0608,239,SA,AR,AR-S,Pujato,0,,,PLL,,,,50,2009-10-20T11:12:42+00:00
+42871,AR-0449,small_airport,"Pettilep Airport",-33.005,-61.0194,200,SA,AR,AR-S,Pujato,0,,,PUP,,,,50,2009-10-20T11:12:41+00:00
+38982,AR-0307,small_airport,"Pulmari Airport",-39.100555419921875,-70.99888610839844,3245,SA,AR,AR-Q,Pulmari,0,,,,,,,50,2008-07-10T08:54:51+00:00
+38983,AR-0308,small_airport,"Punta Alta Airport",-38.8342,-62.0869,9,SA,AR,AR-B,"Punta Alta",0,,,PLT,,,,50,2009-10-20T11:12:28+00:00
+41554,SAML,small_airport,"Punta De Vacas Airport",-32.854598999,-69.7604980469,7906,SA,AR,AR-M,"Punta de Vacas",0,SAML,,PDV,,,,50,2011-02-17T02:11:22+00:00
+22,SA12,small_airport,"Quemu Quemu Airport",-36.0587,-63.6313,396,SA,AR,AR-L,"Quemu Quemu",0,SA12,,MUQ,,,SA12,50,2009-10-20T11:12:50+00:00
+38953,AR-0278,small_airport,"Moromar Airport",-38.4164,-58.3839,49,SA,AR,AR-B,Quequen,0,,,UEN,,,,50,2009-10-20T11:12:30+00:00
+39067,SAFR,small_airport,"Rafaela Airport",-31.2825,-61.5017,325,SA,AR,AR-S,Rafaela,0,SAFR,RAF,RLA,,http://en.wikipedia.org/wiki/Rafaela_Aerodrome,,50,2016-01-19T04:49:53+00:00
+38986,AR-0311,small_airport,"La Igualdad Airport",-35.5133,-58.3531,59,SA,AR,AR-B,Ranchos,0,,,RAI,,,,50,2009-10-20T11:12:30+00:00
+38702,AR-0027,small_airport,"Rauch Airport",-36.7717,-59.0575,308,SA,AR,AR-B,Rauch,0,,,RAU,,,,50,2009-10-20T11:12:48+00:00
+38987,AR-0312,small_airport,"Rawson Airport",-43.2944,-65.0644,36,SA,AR,AR-U,Rawson,0,,,RAW,,,,50,2009-10-20T11:12:30+00:00
+38988,AR-0313,small_airport,"Realicó Airport",-35.0592002869,-64.2110977173,541,SA,AR,AR-L,Realicó,0,,,RLC,,,,50,2011-07-14T01:32:14+00:00
+41556,SARD,closed,"Resistencia (City) Airport",-27.465700149499998,-58.97900009159999,175,SA,AR,AR-H,Resistencia,0,SARD,,,,,,50,2014-05-28T12:50:50+00:00
+42798,AR-0008,small_airport,"Aeroclub Chaco Airport",-27.6311,-59.1797,164,SA,AR,AR-H,Resistencia,0,,,RES,,,,50,2009-10-20T11:12:38+00:00
+38989,AR-0314,small_airport,"Nueva Valencia Airport",-27.5864,-58.8203,186,SA,AR,AR-W,Riachuelo,0,,,ENV,,,,50,2009-10-20T11:12:40+00:00
+38990,AR-0315,small_airport,"Don Jose Airport",-32.8275,-60.7817,82,SA,AR,AR-S,Ricardone,0,,,RDJ,,,,50,2009-10-20T11:12:32+00:00
+42872,AR-0450,small_airport,"Pettilep II Airport",-32.8039,-60.7989,180,SA,AR,AR-S,Ricardone,0,,,PEP,,,,50,2009-10-20T11:12:40+00:00
+35335,AR-0003,small_airport,"Rio Bellavista Airport",-53.98270034790039,-68.52359771728516,201,SA,AR,AR-V,"Rio Bellavista",0,,,,,,,50,2008-07-10T08:50:24+00:00
+38832,AR-0157,small_airport,"Estindher Airport",-33.0931015015,-64.42919921880001,1531,SA,AR,AR-X,"Rio Cuarto",0,,,RIE,,,,50,2011-02-12T00:10:34+00:00
+38991,AR-0316,small_airport,"Rio Chico Airport",-51.6686,-69.2603,68,SA,AR,AR-Z,"Rio Gallegos",0,,,RGR,,,,50,2009-10-20T11:12:32+00:00
+39069,SANH,small_airport,"Las Termas Airport",-27.4737,-64.905502,270,SA,AR,AR-G,"Rio Hondo",0,SANH,,RHO,,,RHD,50,2016-06-05T15:40:06+00:00
+42811,AR-0389,closed,"Carlos Saqui Airport",-31.635000228881836,-63.86109924316406,1066,SA,AR,AR-X,"Rio Segundo",0,,,RSA,,,,50,2009-08-18T12:59:28+00:00
+39070,SAOE,small_airport,"Rio Tercero Airport",-32.173302,-64.088303,1246,SA,AR,AR-X,"Rio Tercero",0,SAOE,,RCR,,https://en.wikipedia.org/wiki/R%C3%ADo_Tercero_Airport,,50,2016-06-04T17:14:20+00:00
+41545,SASR,small_airport,"Rivadavia Airport",-24.188600540200003,-62.883399963399995,679,SA,AR,AR-A,Rivadavia,0,SASR,,RIV,,,,50,2011-07-03T00:24:03+00:00
+38704,AR-0029,small_airport,"Aerotec Airport",-33.206943512,-68.492225647,2181,SA,AR,AR-M,Rivadavia,0,,,RAE,,,,50,2011-02-11T22:20:28+00:00
+38993,AR-0318,small_airport,"Rivadavia Airport",-33.227222442599995,-68.4741668701,2162,SA,AR,AR-M,Rivadavia,0,,,RVD,,,,50,2011-07-14T01:35:56+00:00
+38994,AR-0319,small_airport,"Rojas Airport",-34.215,-60.6725,19,SA,AR,AR-B,Rojas,0,,,RJA,,,,50,2009-10-20T11:12:28+00:00
+38980,AR-0305,small_airport,"Pueblo Esther Airport",-33.0817,-60.5647,82,SA,AR,AR-S,Rosario,0,,,ROP,,,,50,2011-07-12T01:13:20+00:00
+38995,AR-0320,small_airport,"Rosario De La Frontera Airport",-25.828056335399996,-64.9680557251,2746,SA,AR,AR-A,"Rosario de La Frontera",0,,,FRO,,,,50,2011-07-14T01:38:43+00:00
+38996,AR-0321,small_airport,"Rosario Del Tala Airport",-32.3289,-59.1906,177,SA,AR,AR-E,"Rosario Del Tala",0,,,ROT,,,,50,2009-10-20T11:12:40+00:00
+38997,AR-0322,small_airport,"Rufino Airport",-34.2831,-62.6719,387,SA,AR,AR-S,Rufino,0,,,RUF,,,,50,2009-10-20T11:12:50+00:00
+38803,AR-0128,small_airport,"Saavedra Airport",-37.750242,-62.33425,1040,SA,AR,AR-B,Saavedra,0,,,DRA,,,,50,2017-01-08T13:51:38+00:00
+18,SA06,small_airport,"Santa Rita Airport",-35.8283,-60.1467,177,SA,AR,AR-B,Saladillo,0,SA06,,SSR,,,SA06,50,2009-10-20T11:12:40+00:00
+41558,SASL,small_airport,"Salar De Cauchari Airport",-24.0191993713,-66.797203064,13000,SA,AR,AR-Y,"Salar de Cauchari",0,SASL,,SDC,,,,50,2011-07-03T00:14:46+00:00
+42875,AR-0453,small_airport,"Saldungaray Airport",-38.216388702399996,-61.750831604,747,SA,AR,AR-B,Saldungaray,0,,,SLG,,,,50,2011-07-10T00:39:07+00:00
+42880,AR-0458,small_airport,"Santo Tomás De La Sierra Airport",-38.2666664124,-61.8333320618,895,SA,AR,AR-B,Saldungaray,0,,,SLY,,,,50,2011-07-10T00:56:03+00:00
+38998,AR-0323,small_airport,"Salliqueló Airport",-36.756401062,-62.9444007874,475,SA,AR,AR-B,Salliqueló,0,,,SLO,,,,50,2011-07-14T01:45:13+00:00
+30,SA22,small_airport,"Santa Victoria Airport",-22.285699844399996,-62.7136993408,918,SA,AR,AR-A,Salta,0,SA22,,VIT,,,SA22,50,2011-07-10T05:36:12+00:00
+42883,AR-0461,small_airport,"Skare Airport",-34.3571833134,-60.1559829712,196,SA,AR,AR-B,Salto,0,,,SSK,,,,50,2010-02-08T10:31:02+00:00
+38914,AR-0239,small_airport,"Laguna Aeroclub Airport",-34.40888977050781,-59.45833206176758,148,SA,AR,AR-B,"San Andres de Giles",0,,,,,,,50,2008-07-10T08:53:49+00:00
+38929,AR-0254,small_airport,"El Mirador",-34.538887,-59.585278,167,SA,AR,AR-B,"San Andres de Giles",0,,,LAD2230,,,,50,2018-01-21T19:34:34+00:00
+38969,AR-0294,small_airport,"LAD 2198 Juan Jose Angelini",-34.426945,-59.480278,164,SA,AR,AR-B,"San Andres de Giles",0,,,LAD2198,,,,50,2018-01-21T19:27:52+00:00
+42851,AR-0429,small_airport,"Haras La Pomme Airport",-34.2078,-59.3856,91,SA,AR,AR-B,"San Antonio de Areco",0,,,SHP,,,,50,2009-10-20T11:12:34+00:00
+35410,AR-0016,closed,"(Old) Antoine De Saint Exupery Airport",-40.7401008606,-64.9804992676,85,SA,AR,AR-R,"San Antonio Oeste",0,,,OES,,,,50,2015-02-02T11:27:01+00:00
+39000,AR-0325,small_airport,"San Benito Airport",-31.8086,-60.4517,193,SA,AR,AR-E,"San Benito",0,,,SBE,,,,50,2009-10-20T11:12:40+00:00
+41555,SAMS,small_airport,"San Carlos Airport",-33.775699615499995,-69.0537033081,3050,SA,AR,AR-M,"San Carlos",0,SAMS,,CAR,,,,50,2011-02-17T02:35:38+00:00
+39001,AR-0326,small_airport,"San Cayetano Heliport",-38.33388900756836,-59.630279541015625,328,SA,AR,AR-B,"San Cayetano",0,,,,,,,50,2008-07-10T08:55:09+00:00
+42876,AR-0454,small_airport,"San Cayetano Airport",-38.3339,-59.6303,328,SA,AR,AR-B,"San Cayetano",0,,,CAY,,,,50,2009-10-20T11:12:48+00:00
+39002,AR-0327,small_airport,"San Cristobal Airport",-30.2642,-61.2203,242,SA,AR,AR-S,"San Cristobal",0,,,SCT,,,,50,2009-10-20T11:12:42+00:00
+39003,AR-0328,small_airport,"San Francisco Airport",-31.4142,-62.1336,374,SA,AR,AR-X,"San Francisco",0,,,FRA,,,,50,2009-10-20T11:12:50+00:00
+42877,AR-0455,small_airport,"San Gregorio Airport",-34.3169,-62.0192,347,SA,AR,AR-S,"San Gregorio",0,,,SGE,,,,50,2009-10-20T11:12:48+00:00
+39006,AR-0331,small_airport,"San Jorge Airport",-31.8836,-61.8442,347,SA,AR,AR-S,"San Jorge",0,,,JOR,,,,50,2009-10-20T11:12:48+00:00
+42807,AR-0385,small_airport,"Bocca Airport",-31.8711,-61.9511,344,SA,AR,AR-S,"San Jorge",0,,,SJB,,,,50,2009-10-20T11:12:48+00:00
+42879,AR-0457,small_airport,"San José De La Dormida Airport",-30.2775001526,-63.8574981689,1387,SA,AR,AR-X,"San José de La Dormida",0,,,SJD,,,,50,2011-07-10T00:44:45+00:00
+46,SA40,small_airport,"San Juan Aeroclub Airport",-31.602800369300002,-68.5473022461,2079,SA,AR,AR-J,"San Juan",0,SA40,,SJA,,,SA40,50,2011-07-10T02:32:03+00:00
+39007,AR-0332,small_airport,"San Justo Airport",-30.7642,-60.5653,180,SA,AR,AR-S,"San Justo",0,,,SJT,,,,50,2009-10-20T11:12:40+00:00
+39008,AR-0333,small_airport,"Aeroclub San Martín",-33.061883,-68.508644,2154,SA,AR,AR-M,"San Martin",0,SAMI,,STI,https://www.facebook.com/Aero-Club-San-Martin-1620167351592200/,,,50,2018-10-12T19:54:57+00:00
+45,SA39,small_airport,"Jujuy Aeroclub Airport",-24.2364997864,-65.2690963745,4047,SA,AR,AR-Y,"San Salvador de Jujuy",0,SA39,,JJA,,,SA39,50,2011-07-10T02:35:33+00:00
+38857,AR-0182,small_airport,"Guadalupe Airport",-31.584,-60.668,59,SA,AR,AR-S,"Santa Fe",0,,,,,,,50,2017-09-21T08:32:13+00:00
+5772,SACA,small_airport,"Cap D. Omar Darío Gelardi Airport",-31.4419002533,-64.2582015991,1594,SA,AR,AR-X,"Santa Isabel - Córdoba",0,SACA,,FMA,,,"Area de Material",50,2011-02-12T09:31:42+00:00
+47,SA42,small_airport,"Santa Maria Airport",-26.673400878900004,-66.0240020752,5904,SA,AR,AR-K,"Santa Maria",0,SA42,,SMC,,,SA42,50,2011-07-10T02:27:25+00:00
+38837,AR-0162,small_airport,"Fortín De Gainza Airport",-34.5494,-63.1225,426,SA,AR,AR-B,"Santa Regina",0,,,SRE,,,,50,2009-10-20T11:12:52+00:00
+38853,AR-0178,small_airport,"Gobernador Santillán Airport",-27.901399612426758,-64.24970245361328,689,SA,AR,AR-G,"Santiago Del Estero",0,,,,,,,50,2009-01-04T20:26:53+00:00
+39013,AR-0338,small_airport,"Santo Tome Airport",-28.5272216796875,-56.10944366455078,223,SA,AR,AR-W,"Santo Tome",0,,,,,,,50,2008-07-10T08:55:20+00:00
+39074,SAVM,small_airport,"Lago Musters Airport",-45.5752,-69.077,889,SA,AR,AR-U,Sarmiento,0,SAVM,,LGM,,http://en.wikipedia.org/wiki/Lago_Musters_Airport,,50,2015-02-20T16:56:24+00:00
+38839,AR-0164,small_airport,"Fumigaciones Stadler Airport",-32.5786,-60.9119,121,SA,AR,AR-S,Serodino,0,,,SER,,,,50,2009-10-20T11:12:36+00:00
+30414,SAVS,small_airport,"Sierra Grande Airport",-41.5917015076,-65.33940124509999,688,SA,AR,AR-R,"Sierra Grande",0,SAVS,SGV,SGR,,,,50,2011-07-03T02:51:36+00:00
+42805,AR-0335,small_airport,"Bahía Dorada Airport",-41.8428,-65.0822,118,SA,AR,AR-R,"Sierra Grande",0,,,BDR,,,,50,2009-10-20T11:12:36+00:00
+39019,AR-0344,small_airport,"Stroeder Airport",-40.2106,-62.6175,91,SA,AR,AR-B,Stroeder,0,,,STD,,,,50,2009-10-20T11:12:35+00:00
+39021,AR-0346,small_airport,"Sunchales Aeroclub Airport",-30.9575,-61.5283,311,SA,AR,AR-S,Sunchales,0,SAFS,NCJ,SCA,,,,50,2012-01-20T04:19:25+00:00
+23,SA13,small_airport,"Estancia La Estrella Airport",-37.5593986511,-58.666000366199995,456,SA,AR,AR-B,Tandil,0,SA13,,BLE,,,"SA13, Belcarce",50,2011-07-10T01:38:24+00:00
+38703,AR-0028,small_airport,"Tandil Aeroclub Airport",-37.26559829711914,-59.093299865722656,583,SA,AR,AR-B,Tandil,0,,,,,,,50,2009-01-04T20:26:43+00:00
+42815,AR-0393,small_airport,"Comandante Eduardo A. Olivero Airport",-37.366668701171875,-58.96666717529297,633,SA,AR,AR-B,Tandil,0,,,,,,,50,2009-01-04T20:27:32+00:00
+42840,AR-0418,small_airport,"F.A.T. Airport",-34.1767,-61.5069,285,SA,AR,AR-S,Teodelina,0,,,TEO,,,,50,2009-10-20T11:12:46+00:00
+39027,AR-0352,small_airport,"Tilisarao Airport",-32.75,-65.28220367429999,2463,SA,AR,AR-D,Tilisarao,0,,,TLS,,,,50,2011-07-14T01:58:39+00:00
+5791,SANI,closed,"Tinogasta Airport",-28.037801,-67.580299,3968,SA,AR,AR-K,Tinogasta,0,SANI,,TIN,,,,50,2018-05-06T10:43:43+00:00
+41560,SAWL,small_airport,"Tolwin Observatory Airport",-54.521900177,-67.1989974976,90,SA,AR,AR-V,"Tolwin (Lago Fagnano)/observatorio MET(TAIS)",0,SAWL,,TOL,,,,50,2011-02-13T13:02:02+00:00
+39030,AR-0355,small_airport,"Tornquist Airport",-38.0956001282,-62.2503013611,934,SA,AR,AR-B,Tornquist,0,,,TOR,,,,50,2011-07-14T02:03:45+00:00
+42836,AR-0414,small_airport,"Estancia San Vicente Airport",-32.9989,-61.7781,229,SA,AR,AR-S,Tortugas,0,,,TSV,,,,50,2009-10-20T11:12:42+00:00
+39031,AR-0356,small_airport,"Tostado Airport",-29.2358,-61.7886,226,SA,AR,AR-S,Tostado,0,,,TOS,,,,50,2009-10-20T11:12:42+00:00
+41,SA34,small_airport,"Trelew Aeroclub Airport",-43.2356,-65.3241,127,SA,AR,AR-U,Trelew,0,SA34,,TRW,,,SA34,50,2009-10-20T11:12:36+00:00
+38893,AR-0218,small_airport,"Trenque Lauquen Airport",-36.0158,-62.6939,324,SA,AR,AR-B,"Trenque Lauquen",0,SA28,,LAU,,,,50,2016-07-06T17:52:19+00:00
+39066,SAET,small_airport,"Ñanco Lauquen Airport",-35.9715,-62.7724,301,SA,AR,AR-B,"Trenque Lauquen",0,SAET,,TQL,,https://en.wikipedia.org/wiki/%C3%91anco_Lauquen_Airport,,50,2016-07-06T17:52:49+00:00
+42869,AR-0447,small_airport,"Petrazzini Airport",-38.3478,-60.2761,350,SA,AR,AR-B,"Tres Arroyos",0,,,YOP,,,,50,2009-10-20T11:12:48+00:00
+42886,AR-0464,small_airport,"Trevelin Airport",-43.08797,-71.47868,1245,SA,AR,AR-U,Trevelin,0,,,TVN,,,,50,2016-06-05T17:29:59+00:00
+38936,AR-0261,small_airport,"Los Tucanes Airport",-27.0358333588,-65.1566696167,1194,SA,AR,AR-T,Tucuman,0,,,TUT,,,,50,2011-07-11T23:20:31+00:00
+39045,AR-0370,small_airport,"Horco Molle Aeroclub Airport",-26.7961006165,-65.3091964722,1902,SA,AR,AR-T,Tucumán,0,,,TCM,,http://en.wikipedia.org/wiki/Mauricio_Gilli_Aerodrome,"Mauricio Gilli Aerodrome",50,2011-07-14T02:44:55+00:00
+39047,AR-0372,small_airport,"Urdinarrain Airport",-32.6964,-58.8992,216,SA,AR,AR-E,Urdinarrain,0,,,URD,,,,50,2009-10-20T11:12:42+00:00
+32247,SAMU,small_airport,"Uspallata Airport",-32.538898468,-69.3458023071,6525,SA,AR,AR-M,Uspallata,0,SAMU,,USP,,,,50,2011-02-17T02:38:59+00:00
+35412,AR-0017,small_airport,"Valcheta Airport",-40.7000007629,-66.1500015259,629,SA,AR,AR-R,Valcheta,0,,VCF,VAL,,,,50,2011-02-11T22:08:42+00:00
+41552,SAMH,small_airport,"Valle Hermoso Airport",-35.1461982727,-70.2053985596,2500,SA,AR,AR-M,"Valle Hermoso",0,SAMH,,VHE,,,,50,2011-02-17T01:55:51+00:00
+38756,AR-0081,small_airport,"Vedia Aeroclub",-34.4817,-61.4903,291,SA,AR,AR-B,Vedia,0,,,VDA,,,,50,2009-10-20T11:12:46+00:00
+39048,AR-0373,small_airport,"Veinticinco De Mayo Airport",-35.4464,-60.0886,164,SA,AR,AR-B,"Veinticinco De Mayo",0,,,MAY,,,,50,2009-10-20T11:12:38+00:00
+39049,AR-0374,small_airport,"Vera Airport",-29.4681,-60.2261,190,SA,AR,AR-S,Vera,0,,,VER,,,,50,2009-10-20T11:12:40+00:00
+39050,AR-0375,small_airport,"Veronica Airport",-35.4,-57.3667,55,SA,AR,AR-B,Veronica,0,,,VNA,,,,50,2009-10-20T11:12:30+00:00
+39051,AR-0376,small_airport,"Victoria Airport",-32.5844,-60.1847,75,SA,AR,AR-E,Victoria,0,,,VIC,,,,50,2009-10-20T11:12:32+00:00
+39052,AR-0377,small_airport,"Victorica Airport",-36.237499237099996,-65.450553894,1020,SA,AR,AR-L,Victorica,0,SAHV,,VCA,,,,50,2011-02-11T21:27:08+00:00
+38942,AR-0267,small_airport,"Martín Fierro Airport",-33.940299987799996,-64.3696975708,754,SA,AR,AR-X,"Vicuña Mackena",0,,,VMK,,,,50,2011-07-11T23:28:19+00:00
+39072,SARV,small_airport,"Villa Angela Airport",-27.5915,-60.6864,246,SA,AR,AR-H,"Villa Angela",0,SARV,,VAN,,,,50,2009-10-20T11:12:44+00:00
+39020,AR-0345,small_airport,"Suboficial Auxiliar Miguel A. Cardone Airport",-33.9617,-61.6325,337,SA,AR,AR-S,"Villa Cañas",0,,,VCC,,,,50,2009-10-20T11:12:48+00:00
+38696,AR-0021,small_airport,"Acindar Airport",-33.2647,-60.2842,82,SA,AR,AR-S,"Villa Constitución",0,,,ION,,,,50,2009-10-20T11:12:32+00:00
+41548,SACS,small_airport,"Villa De Soto Airport",-30.865200042699996,-64.97899627689999,2013,SA,AR,AR-X,"Villa de Soto",0,SACS,,SOT,,,,50,2011-02-12T10:17:41+00:00
+39053,AR-0378,small_airport,"Villa Del Rosario Airport",-31.579313,-63.539184,830,SA,AR,AR-X,"Villa Del Rosario",0,,,VDR,,,,50,2016-06-10T23:22:40+00:00
+41547,SACM,small_airport,"Villa General Mitre Airport",-30.7005996704,-64.0430984497,1760,SA,AR,AR-X,"Villa General Mitre",0,SACM,,VGM,,,,50,2011-02-12T09:51:21+00:00
+39063,SACV,small_airport,"Villa Maria Airport",-32.389400482199996,-63.2585983276,672,SA,AR,AR-X,"Villa Maria del Rio Seco",0,SAOI,,MRA,,,,50,2011-02-17T21:29:12+00:00
+38818,AR-0143,small_airport,"Estancia Don Roberto Airport",-34.0013999939,-65.366897583,1430,SA,AR,AR-D,"Villa Mercedes",0,,,ERT,,,,50,2011-02-12T00:07:04+00:00
+15,SA03,small_airport,"Villa Minetti Airport",-28.6201,-61.6038,246,SA,AR,AR-S,"Villa Minetti",0,SA03,,MIN,,,SA03,50,2009-10-20T11:12:44+00:00
+39055,AR-0380,small_airport,"Villa Ocampo Airport",-28.4969,-59.3256,160,SA,AR,AR-S,"Villa Ocampo",0,,,VPO,,,,50,2009-10-20T11:12:38+00:00
+39056,AR-0381,small_airport,"Villa Regina Airport",-39.073600769,-67.08000183109999,934,SA,AR,AR-R,"Villa Regina",0,,,VRG,,,,50,2011-07-14T02:55:43+00:00
+39057,AR-0382,small_airport,"Villa Rumipal Airport",-32.1850013733,-64.4882965088,2184,SA,AR,AR-X,"Villa Rumipal",0,,,VRU,,,,50,2011-07-14T02:59:56+00:00
+30530,SAAU,small_airport,"Villaguay Airport",-31.855,-59.0756,131,SA,AR,AR-E,Villaguay,0,SAAU,,VIG,,,,50,2011-02-12T09:11:55+00:00
+42824,AR-0402,small_airport,"El Jagüel Airport",-31.7994,-59.0339,200,SA,AR,AR-E,Villaguay,0,,,UEL,,,,50,2009-10-20T11:12:40+00:00
+42825,AR-0403,small_airport,"El Malagueño Airport",-31.6994,-59.4006,180,SA,AR,AR-E,Villaguay,0,,,VLL,,,,50,2009-10-20T11:12:40+00:00
+42888,AR-0466,small_airport,"Yapeyú Airport",-29.44393,-56.823915,214,SA,AR,AR-W,Yapeyú,0,,,YPY,,,,50,2018-05-04T21:35:39+00:00
+39042,AR-0367,heliport,"Almafuerte / Transener S.A. Heliport",-32.203,-64.315,1640,SA,AR,AR-X,Almafuerte,0,,,HAT,,,,25,2009-10-20T11:13:21+00:00
+38890,AR-0215,heliport,"Juan Y Luci Heliport",-32.6922,-64.7206,2404,SA,AR,AR-X,"Alpa Corral",0,,,HAC,,,,25,2009-10-20T11:13:17+00:00
+38961,AR-0286,heliport,"Oreste Berta Heliport",-31.6269,-64.3922,1869,SA,AR,AR-X,"Alta Gracia",0,,,HOB,,,,25,2009-10-20T11:13:17+00:00
+38976,AR-0301,heliport,"Polisur S.A. Heliport",-38.7742,-62.2939,16,SA,AR,AR-B,"Bahía Blanca",0,,,HBP,,,,25,2009-10-20T11:13:19+00:00
+38972,AR-0297,heliport,"Planta Cruz Del Sur Heliport",-53.3228,-68.2658,173,SA,AR,AR-V,"Bahía San Sebastián",0,,,HEN,,,,25,2009-10-20T11:13:19+00:00
+39037,AR-0362,heliport,"Transener S.A. Heliport",-33.0989,-68.5819,2220,SA,AR,AR-M,Barreales,0,,,HCR,,,,25,2009-10-20T11:13:21+00:00
+38744,AR-0069,heliport,"Cabaña San Isidro Labrador Heliport",-34.3783,-58.7883,39,SA,AR,AR-B,"Belén De Escobar",0,,,HCI,,,,25,2009-10-20T11:13:15+00:00
+38925,AR-0250,heliport,"Legat S.A. Heliport",-34.3168,-58.8166,16,SA,AR,AR-B,"Belén De Escobar",0,,,HBE,,,,25,2009-10-20T11:13:17+00:00
+38872,AR-0197,heliport,"Hospital Nac. De Pediatría J. Garraham Heliport",-34.6308,-58.3936,127,SA,AR,AR-B,"Buenos Aires",0,,,HNP,,,,25,2009-10-20T11:13:17+00:00
+38726,AR-0051,heliport,"Autodromo Ciudad De Bs. As. Heliport",-34.6939,-58.46,16,SA,AR,AR-C,"Buenos Aires",0,,,HAU,,,,25,2011-02-11T22:51:41+00:00
+38732,AR-0057,heliport,"B. Churruca Heliport",-34.6407,-58.4094,19,SA,AR,AR-C,"Buenos Aires",0,,,HBC,,,,25,2009-10-20T11:13:15+00:00
+38766,AR-0091,heliport,"Centinela Heliport",-34.5822,-58.3744,42,SA,AR,AR-C,"Buenos Aires",0,,,,,,,25,2009-10-20T11:13:15+00:00
+38798,AR-0123,heliport,"Darsena Sur Heliport",-34.6278,-58.3515,16,SA,AR,AR-C,"Buenos Aires",0,,,HDA,,,,25,2009-10-20T11:13:15+00:00
+38801,AR-0126,heliport,"Dines ( Dr. E. Escudero) Heliport",-34.5726,-58.4005,19,SA,AR,AR-C,"Buenos Aires",0,,,HDI,,,,25,2009-10-20T11:13:15+00:00
+38838,AR-0163,heliport,"Fuerza Aérea(Edificio Cóndor) Heliport",-34.5858,-58.3681,19,SA,AR,AR-C,"Buenos Aires",0,,,HFA,,,,25,2009-10-20T11:13:17+00:00
+38938,AR-0263,heliport,"Madero Heliport",-34.6217,-58.3447,16,SA,AR,AR-C,"Buenos Aires",0,,,HBM,,,,25,2009-10-20T11:13:17+00:00
+38962,AR-0287,heliport,"P.N.A. Of. Ppal. Ballestra Heliport",-34.5772,-58.3838,19,SA,AR,AR-C,"Buenos Aires",0,,,HPN,,,,25,2009-10-20T11:13:17+00:00
+38978,AR-0303,heliport,"Presidencia De La Nación Heliport",-34.6064,-58.3683,26,SA,AR,AR-C,"Buenos Aires",0,,,,,,,25,2009-10-20T11:13:19+00:00
+39012,AR-0337,heliport,"Sanatorio Guemes Heliport",-34.597,-58.4219,268,SA,AR,AR-C,"Buenos Aires",0,,,HSG,,,,25,2009-10-20T11:13:19+00:00
+39022,AR-0347,heliport,"Swiss Medical Heliport",-34.5808,-58.4294,193,SA,AR,AR-C,"Buenos Aires",0,,,HMD,,,,25,2009-10-20T11:13:19+00:00
+38748,AR-0073,heliport,"Cabo Vírgenes Heliport",-52.3278,-68.4092,180,SA,AR,AR-Z,"Cabo Vírgenes",0,,,HCV,,,,25,2009-10-20T11:13:15+00:00
+39032,AR-0357,heliport,"Transener S.A. Heliport",-34.175,-58.9983,32,SA,AR,AR-B,Campana,0,,,HCT,,,,25,2009-10-20T11:13:19+00:00
+38901,AR-0226,heliport,"La Madrugada Heliport",-34.2382,-59.1915,85,SA,AR,AR-B,"Capilla Del Señor",0,,,HLM,,,,25,2009-10-20T11:13:17+00:00
+38917,AR-0242,heliport,"Las Araucarias Heliport",-34.3067,-59.1703,82,SA,AR,AR-B,"Capilla Del Señor",0,,,HCS,,,,25,2009-10-20T11:13:17+00:00
+38934,AR-0259,heliport,"Los Fresnos Heliport",-34.2806,-59.12,111,SA,AR,AR-B,"Capilla Del Señor",0,,,HLF,,,,25,2009-10-20T11:13:17+00:00
+39005,AR-0330,heliport,"San Joaquín Heliport",-34.3344,-59.7139,137,SA,AR,AR-B,"Carmen De Areco",0,,,HRC,,,,25,2009-10-20T11:13:19+00:00
+38831,AR-0156,heliport,"Estancia Santa Isabel Heliport",-39.8847,-70.5136,3116,SA,AR,AR-Q,"Catan Lil",0,,,HCL,,,,25,2009-10-20T11:13:17+00:00
+38808,AR-0133,heliport,"El Capricho Heliport",-34.2325,-59.3158,98,SA,AR,AR-B,Chenaut,0,,,HCO,,,,25,2009-10-20T11:13:15+00:00
+39039,AR-0364,heliport,"Transener S.A. Heliport",-39.5675,-65.6886,426,SA,AR,AR-R,"Choele Choel",0,,,HCC,,,,25,2009-10-20T11:13:21+00:00
+38903,AR-0228,heliport,"La Milagrosa Heliport",-32.4828,-58.2506,49,SA,AR,AR-E,"Concepcion Del Uruguay",0,,,HMI,,,,25,2009-10-20T11:13:17+00:00
+39023,AR-0348,heliport,"Talitas Heliport",-32.5481,-58.2406,26,SA,AR,AR-E,"Concepcion Del Uruguay",0,,,HTA,,,,25,2009-10-20T11:13:19+00:00
+38750,AR-0075,heliport,"Campo De Vuelo Heliport",-31.3689,-64.2636,1515,SA,AR,AR-X,Cordoba,0,,,HMO,,,,25,2009-10-20T11:13:15+00:00
+38762,AR-0087,heliport,"Casa De Gobierno Heliport",-31.4306,-64.1842,1420,SA,AR,AR-X,Cordoba,0,,,HGC,,,,25,2009-10-20T11:13:15+00:00
+38780,AR-0105,heliport,"Ciudad Universitaria Heliport",-31.4406,-64.1894,1443,SA,AR,AR-X,Cordoba,0,,,HCU,,,,25,2009-10-20T11:13:15+00:00
+38974,AR-0299,heliport,"Policía Provincia De Córdoba Heliport",-31.3994,-64.1833,1293,SA,AR,AR-X,Cordoba,0,,,HPC,,,,25,2009-10-20T11:13:19+00:00
+38984,AR-0309,heliport,"Raies Heliport",-31.3461,-64.2081,1459,SA,AR,AR-X,Cordoba,0,,,HRA,,,,25,2009-10-20T11:13:19+00:00
+38895,AR-0220,heliport,"La Caldera Heliport",-36.6669,-56.6789,32,SA,AR,AR-B,"Costa Azul",0,,,HCA,,,,25,2009-10-20T11:13:17+00:00
+38860,AR-0185,heliport,"Helicenter Heliport",-34.4975,-58.6069,113,SA,AR,AR-B,"Don Torcuato",0,,,HLI,,,,25,2009-10-20T11:13:17+00:00
+39025,AR-0350,heliport,"Tecnocopter S.A. Heliport",-34.4922,-58.6061,65,SA,AR,AR-B,"Don Torcuato",0,,,HHT,,,,25,2009-10-20T11:13:19+00:00
+39028,AR-0353,heliport,"Timen S.A. Heliport",-34.4964,-58.6078,19,SA,AR,AR-B,"Don Torcuato",0,,,HDT,,,,25,2009-10-20T11:13:19+00:00
+39041,AR-0366,heliport,"Transener S.A. Heliport",-26.9936,-65.1636,1239,SA,AR,AR-T,"El Bracho",0,,,HBO,,,,25,2009-10-20T11:13:21+00:00
+38830,AR-0155,heliport,"Estancia Santa Ana Heliport",-51.6839,-71.9689,665,SA,AR,AR-Z,"El Turbio",0,,,HTS,,,,25,2009-10-20T11:13:16+00:00
+38767,AR-0092,heliport,"Central Nuclear Heliport",-32.2294,-64.44,1738,SA,AR,AR-X,"Embalse Rio Tercero",0,,,HCN,,,,25,2009-10-20T11:13:15+00:00
+39033,AR-0358,heliport,"Transener S.A. Heliport",-34.9136,-58.7222,65,SA,AR,AR-B,Ezeiza,0,,,HCG,,,,25,2009-10-20T11:13:19+00:00
+38950,AR-0275,heliport,"Miraflores Country Club Heliport",-34.4461,-58.7342,68,SA,AR,AR-B,Garin,0,,,HMC,,,,25,2009-10-20T11:13:17+00:00
+39046,AR-0371,heliport,"Unidad Penitenciaria N° 30 Heliport",-36.0444,-60.0167,180,SA,AR,AR-B,"General Alvear",0,,,HUP,,,,25,2009-10-20T11:13:21+00:00
+39004,AR-0329,heliport,"San Isidro Labrador Heliport",-35.0814,-63.0822,377,SA,AR,AR-B,"General Villegas",0,,,HIL,,,,25,2009-10-20T11:13:19+00:00
+38940,AR-0265,heliport,"Manuel Afonso Heliport",-34.815,-58.1953,36,SA,AR,AR-B,Hudson,0,,,HMA,,,,25,2009-10-20T11:13:17+00:00
+38730,AR-0055,heliport,"Azcarate Irastorza Heliport",-35.1994,-63.6008,416,SA,AR,AR-L,"Intendente Alvear",0,,,,,,,25,2011-02-11T23:00:13+00:00
+38879,AR-0204,heliport,"Intendente Alvear Heliport",-35.2494,-63.5342,416,SA,AR,AR-L,"Intendente Alvear",0,,,,,,,25,2009-10-20T11:13:17+00:00
+38827,AR-0152,heliport,"Estancia Palitue Heliport",-39.8528,-71.0464,2817,SA,AR,AR-Q,"Junin De Los Andes",0,,,HJN,,,,25,2009-10-20T11:13:15+00:00
+38896,AR-0221,heliport,"La Carolina Heliport",-31.3525,-64.2828,1485,SA,AR,AR-X,"La Carolina",0,,,HLC,,,,25,2009-10-20T11:13:17+00:00
+38959,AR-0284,heliport,"Oficial Subinspector Gustavo Soarez De Souza Heliport",-34.7236,-58.515,141,SA,AR,AR-B,"La Matanza",0,,,HMF,,,,25,2009-10-20T11:13:17+00:00
+39026,AR-0351,heliport,"Terminal Y.P.F. Heliport",-34.7322,-58.5589,32,SA,AR,AR-B,"La Matanza",0,,,HMY,,,,25,2009-10-20T11:13:19+00:00
+38795,AR-0120,heliport,"D.P.A.O. Heliport",-34.9597,-57.8928,62,SA,AR,AR-B,"La Plata",0,,,HLP,,,,25,2009-10-20T11:13:15+00:00
+38804,AR-0129,heliport,"Ecodyma S.C.A. Heliport",-34.9408,-57.9919,45,SA,AR,AR-B,"La Plata",0,,,HEC,,,,25,2009-10-20T11:13:15+00:00
+38975,AR-0300,heliport,"Policlinico San Martin Heliport",-34.9167,-57.9167,68,SA,AR,AR-B,"La Plata",0,,,HPM,,,,25,2009-10-20T11:13:19+00:00
+38911,AR-0236,heliport,"Lago Escondido Heliport",-41.7033,-71.6075,2722,SA,AR,AR-R,"Lago Escondido",0,,,HLE,,,,25,2009-10-20T11:13:17+00:00
+38819,AR-0144,heliport,"Estancia Haychol Heliport",-38.6481,-70.6775,3447,SA,AR,AR-Q,"Las Lajas",0,,,HHL,,,,25,2009-10-20T11:13:15+00:00
+38943,AR-0268,heliport,"Match Point Heliport",-34.5161,-59.1339,82,SA,AR,AR-B,Lujan,0,,,HMP,,,,25,2009-10-20T11:13:17+00:00
+39018,AR-0343,heliport,"Sol De Agosto Heliport",-34.5331,-58.9714,32,SA,AR,AR-B,Lujan,0,,,HAG,,,,25,2009-10-20T11:13:19+00:00
+39034,AR-0359,heliport,"Transener S.A. Heliport",-32.3694,-66.0631,1968,SA,AR,AR-D,Lujan,0,,,HLU,,,,25,2009-10-20T11:13:19+00:00
+39015,AR-0340,heliport,"Saturnino Unzue Heliport",-35.4244,-60.1561,164,SA,AR,AR-B,"Mar del Plata",0,,,HUU,,,,25,2009-10-20T11:13:19+00:00
+38695,AR-0020,heliport,"Abel Monteverde Heliport",-32.9208,-62.4663,2646,SA,AR,AR-X,"Monte Buey",0,,,HMB,,,,25,2013-02-05T06:11:54+00:00
+39043,AR-0368,heliport,"Montecristo / Transener S.A. Heliport",-31.3392,-63.9138,1082,SA,AR,AR-X,"Monte Cristo",0,,,HMT,,,,25,2009-10-20T11:13:21+00:00
+38867,AR-0192,heliport,"Heliwest Heliport",-34.6336,-58.7511,71,SA,AR,AR-B,Moreno,0,,,HHW,,,,25,2009-10-20T11:13:17+00:00
+38954,AR-0279,heliport,"Morrison Heliport",-32,-62,465,SA,AR,AR-X,Morrison,0,,,HRR,,,,25,2009-10-20T11:13:17+00:00
+38908,AR-0233,heliport,"La Superba Heliport",-34.5008,-59.015,32,SA,AR,AR-B,"Open Door",0,,,HLS,,,,25,2009-10-20T11:13:17+00:00
+38870,AR-0195,heliport,"Hospital Materno Infantil San Roque Heliport",-31.73,-60.5217,265,SA,AR,AR-E,Paraná,0,,,HPE,,,,25,2009-10-20T11:13:17+00:00
+39038,AR-0363,heliport,"Transener S.A. Heliport",-40.1622,-70.3917,2302,SA,AR,AR-Q,"Piedra Del Aguila",0,,,HPG,,,,25,2009-10-20T11:13:21+00:00
+38729,AR-0054,heliport,"Ayres De Pilar Heliport",-34.4375,-58.7983,45,SA,AR,AR-B,Pilar,0,,,HAP,,,,25,2009-10-20T11:13:15+00:00
+38945,AR-0270,heliport,"Memorial Heliport",-34.4433,-58.8381,62,SA,AR,AR-B,Pilar,0,,,HME,,,,25,2009-10-20T11:13:17+00:00
+39036,AR-0361,heliport,"Transener S.A. Heliport",-38.1472,-65.8228,751,SA,AR,AR-L,Puelches,0,,,HPU,,,,25,2009-10-20T11:13:20+00:00
+39035,AR-0360,heliport,"Recreo / Transener S.A. Heliport",-29.2628,-65.0582,810,SA,AR,AR-K,Recreo,0,,,HRE,,,,25,2009-10-20T11:13:19+00:00
+38725,AR-0050,heliport,"Austral Heliport",-52.8936,-68.3553,127,SA,AR,AR-V,"Rio Cullen",0,,,ULL,,,,25,2009-10-20T11:13:15+00:00
+38992,AR-0317,heliport,"Estancia Rio Ewan Heliport",-54.233548,-67.213246,112,SA,AR,AR-V,"Río Grande",0,,,HRW,,,,25,2016-06-12T10:33:45+00:00
+39040,AR-0365,heliport,"Transener S.A. Heliport",-29.4606,-59.7636,190,SA,AR,AR-S,Romang,0,,,HRT,,,,25,2009-10-20T11:13:21+00:00
+38768,AR-0093,heliport,"Centro Cívico Grand Bourg Heliport",-24.7806,-65.4514,4132,SA,AR,AR-A,Salta,0,,,HGB,,,,25,2009-10-20T11:13:15+00:00
+38834,AR-0159,heliport,"Finca Las Costas Heliport",-24.7703,-65.4956,4300,SA,AR,AR-A,Salta,0,,,HFC,,,,25,2009-10-20T11:13:17+00:00
+38869,AR-0194,heliport,"Hospital De Milagro Heliport",-24.7731,-65.4156,4068,SA,AR,AR-A,Salta,0,,,HHM,,,,25,2009-10-20T11:13:17+00:00
+38871,AR-0196,heliport,"Hospital Municipal Heliport",-34.4489,-59.4494,154,SA,AR,AR-B,"San Andres De Giles",0,,,HSH,,,,25,2009-10-20T11:13:17+00:00
+38720,AR-0045,heliport,"Arelauquen Heliport",-41.1612,-71.3659,3099,SA,AR,AR-R,"San Carlos De Bariloche",0,,,HBA,,,,25,2009-10-20T11:13:15+00:00
+38784,AR-0109,heliport,"Complejo Llao Llao Heliport",-41.0544,-71.5339,2542,SA,AR,AR-R,"San Carlos De Bariloche",0,,,HLL,,,,25,2009-10-20T11:13:15+00:00
+39014,AR-0339,heliport,"Sarthou S.A. Heliport",-34.3642,-58.5497,15,SA,AR,AR-B,"San Fernando",0,,,HFS,,,,25,2009-10-20T11:13:19+00:00
+38781,AR-0106,heliport,"Club Nautico San Isidro Heliport",-34.4614,-58.5003,6,SA,AR,AR-B,"San Isidro",0,,,,,,,25,2009-10-20T11:13:15+00:00
+38770,AR-0095,heliport,"Cerro Chapelco Heliport",-40.1981,-71.3211,4281,SA,AR,AR-Q,"San Martín De Los Andes",0,,,,,,,25,2009-10-20T11:13:15+00:00
+38820,AR-0145,heliport,"Estancia La Candelaria Heliport",-40.0442,-71.3664,2997,SA,AR,AR-Q,"San Martin De Los Andes",0,,,HCD,,,,25,2009-10-20T11:13:15+00:00
+38985,AR-0310,heliport,"Rancho De Montaña Heliport",-40.1525,-71.2856,3297,SA,AR,AR-Q,"San Martín De Los Andes",0,,,HRM,,,,25,2009-10-20T11:13:19+00:00
+38721,AR-0046,heliport,"Aries Heliport",-52.6831,-68.0419,,SA,AR,AR-V,"Santa Cruz",0,,,HES,,,,25,2011-02-11T22:46:10+00:00
+38866,AR-0191,heliport,"Heliplataforma/Rio Cullen-Hidra Norte Heliport",-52.8206,-68.2192,65,SA,AR,AR-V,"Santa Cruz",0,,,HNO,,,,25,2009-10-20T11:13:17+00:00
+38829,AR-0154,small_airport,"Estancia San Ramón Airport",-50.303495,-69.926057,1226,SA,AR,AR-Z,"Santa Cruz",0,,,HSR,,,,25,2016-06-20T08:43:43+00:00
+38861,AR-0186,heliport,"Heliplataforma Am I Heliport",-52.5192,-68.3858,98,SA,AR,AR-Z,"Santa Cruz",0,,,HAB,,,,25,2009-10-20T11:13:17+00:00
+38862,AR-0187,heliport,"Heliplataforma Carina Heliport",-52.7572,-67.2194,30,SA,AR,AR-Z,"Santa Cruz",0,,,HRI,,,,25,2009-10-20T11:13:17+00:00
+38863,AR-0188,heliport,"Heliplataforma/Am-2 Heliport",-52.5489,-68.3125,134,SA,AR,AR-Z,"Santa Cruz",0,,,HAD,,,,25,2009-10-20T11:13:17+00:00
+38864,AR-0189,heliport,"Heliplataforma/Am3 Heliport",-52.5228,-68.2808,134,SA,AR,AR-Z,"Santa Cruz",0,,,HAM,,,,25,2009-10-20T11:13:17+00:00
+38865,AR-0190,heliport,"Heliplataforma/Am5 Heliport",-52.5706,-68.2533,98,SA,AR,AR-Z,"Santa Cruz",0,,,HMQ,,,,25,2009-10-20T11:13:17+00:00
+38881,AR-0206,heliport,"Isla Santa Mónica Heliport",-34.4147,-58.5072,14,SA,AR,AR-B,Tigre,0,,,HSM,,,,25,2009-10-20T11:13:17+00:00
+38821,AR-0146,heliport,"Estancia La Chacota Heliport",-35.9133,-62.6417,295,SA,AR,AR-B,"Trenque Lauquen",0,,,HTL,,,,25,2009-10-20T11:13:15+00:00
+38958,AR-0283,heliport,"Norberto Cordeiro Heliport",-31.4142,-64.4969,2036,SA,AR,AR-X,"Villa Carlos Paz",0,,,HAI,,,,25,2009-10-20T11:13:17+00:00
+38779,AR-0104,heliport,"Citefa Heliport",-34.5575,-58.5056,55,SA,AR,AR-B,"Villa Martelli",0,,,HVM,,,,25,2009-10-20T11:13:15+00:00
+38918,AR-0243,heliport,"Las Chacritas Heliport",-34.405,-58.8631,64,SA,AR,AR-B,"Villa Rosa",0,,,HLT,,,,25,2009-10-20T11:13:17+00:00
+324545,AR-0621,small_airport,"La Sistina Airstrip",-36.974031,-62.436969,,SA,AR,AR-B,,0,,,,,,,0,2017-07-25T09:00:13+00:00
+313014,AR-0498,small_airport,"Puerto Piramides Airport",-42.550804,-64.269397,,SA,AR,AR-U,,0,,,,,,,0,2014-10-20T16:51:48+00:00
+313015,AR-0499,small_airport,"Punta Delgada Field",-42.764154,-63.643799,,SA,AR,AR-U,,0,,,,,,,0,2014-10-08T17:58:49+00:00
+313021,AR-0500,small_airport,"Camerones Field",-44.76667,-65.71667,,SA,AR,AR-U,,0,,,,,,,0,2014-10-08T17:59:20+00:00
+313022,AR-0501,small_airport,"Caleta Valdés Field",-42.454874,-63.61908,,SA,AR,AR-U,,0,,,,,,,0,2014-10-08T17:58:07+00:00
+313090,AR-0502,small_airport,Telsen,-42.383333,-66.95,,SA,AR,AR-U,,0,,,,,,,0,2014-10-20T16:22:36+00:00
+313091,AR-0503,small_airport,"Gan Gan Field",-42.521363,-68.287861,,SA,AR,AR-U,,1,,,,,,,0,2014-10-20T16:34:25+00:00
+313092,AR-0504,small_airport,"Gastre Field",-42.276165,-69.221892,,SA,AR,AR-U,,0,,,,,,,0,2014-10-20T16:39:33+00:00
+313093,AR-0505,small_airport,"Cushamen Field",-42.17195981,-70.666176,,SA,AR,AR-U,,0,,,,,,,0,2014-10-20T16:43:57+00:00
+313094,AR-0506,small_airport,"Las Plumas Filed",-43.729305,-67.284822,,SA,AR,AR-U,,0,,,,,,,0,2014-10-20T17:42:28+00:00
+314778,AR-0509,small_airport,"Rio Chico Highway Strip",-53.642,-67.9486,26,SA,AR,AR-V,,0,,,,,,,0,2015-06-13T13:59:03+00:00
+327585,AR-0626,small_airport,"Loma Alta Airport",-29.049088,-57.081729,295,SA,AR,AR-W,,0,,,,,,,0,2018-05-04T23:12:18+00:00
+42898,AR-0476,heliport,"Heliplataforma Equipo Modular M-10 Heliport",-52.5489,-68.3119,108,SA,AR,AR-Z,,0,,,HEM,,,,0,2009-10-20T11:13:21+00:00
+313007,AR-0496,small_airport,"Aeroclub de El Chaltén Alf. G.N.A. Walter Omar D Anna",-49.328889,-72.93,1279,SA,AR,AR-Z,,0,,,ELX,,,,0,2014-10-06T18:32:11+00:00
+313008,AR-0497,small_airport,"Hipólito Yrigoyen Lago Posadas Airport",-47.565833,-71.74,,SA,AR,AR-Z,,0,,,,,,,0,2014-10-06T18:55:07+00:00
+327590,AR-0629,small_airport,"Estancia El Pinocho",-32.564739,-58.51746,56,SA,AR,AR-E,"Aldea San Antonio",0,,,496,,,,0,2018-05-05T01:08:38+00:00
+318509,AR-0571,heliport,"D.P. El Vapor Heliport",-34.83467,-58.38498,91,SA,AR,AR-B,"Almirante Brown",0,,,HEV,,,,0,2016-06-11T19:44:09+00:00
+318230,AR-0511,small_airport,"Agroalvear S.R.L. Airport",-33.06833,-60.66694,104,SA,AR,AR-S,Alvear,0,,,ALV,,,,0,2016-06-02T23:23:19+00:00
+321708,AR-0586,small_airport,"Augusto Leguizamon Airport",-34.818011,-62.477107,357,SA,AR,AR-B,Ameghino,0,,,AUL,,,,0,2017-09-22T00:27:21+00:00
+324978,AR-0622,small_airport,"Anillaco Airport",-28.795111,-66.914675,4264,SA,AR,AR-F,Anillaco,0,,,ANI,,,"ANAC  2309",0,2018-05-06T10:58:55+00:00
+318231,AR-0512,small_airport,"Arias Airport",-33.664,-62.3751,415,SA,AR,AR-X,Arias,0,,,COA,,,,0,2016-06-03T00:11:53+00:00
+323147,AR-0613,small_airport,"Arroyo de la Ventana Airport",-41.669222,-66.097071,,SA,AR,AR-R,"Arroyo de la Ventana",0,,,,,,,0,2017-05-11T19:21:06+00:00
+323149,AR-0615,small_airport,"Arroyo Los Berros Airport",-41.438981,-66.090185,,SA,AR,AR-R,"Arroyo Los Berros",0,,,,,,,0,2017-05-12T04:31:55+00:00
+323143,AR-0609,small_airport,"Bahía Laura Airport",-48.331097,-66.417847,,SA,AR,AR-Z,"Bahía Laura",0,,,,,,,0,2017-05-11T19:08:16+00:00
+318238,AR-0513,small_airport,"Estancia La Alborada",-37.462706,-58.188557,209,SA,AR,AR-B,Balcarce,0,,,BLA,,,,0,2016-06-03T11:31:15+00:00
+318241,AR-0514,small_airport,"Finca Cuchuy Airport",-23.04,-63.7211,928,SA,AR,AR-A,Ballivian,0,,,FCU,,,,0,2016-06-03T12:21:46+00:00
+321709,AR-0587,small_airport,"Dutto Airport",-28.870432,-62.241535,285,SA,AR,AR-G,Bandera,0,,,ADU,,,,0,2017-01-02T19:34:25+00:00
+42896,AR-0474,heliport,"Heliplataforma Barcaza Yagana Heliport",-52.5225,-68.2806,49,SA,AR,AR-Z,"Barcaza Yagana",0,,,HBY,,,,0,2009-10-20T11:13:21+00:00
+321710,AR-0588,small_airport,"Malfato Airport",-35.1517,-60.5056,187,SA,AR,AR-B,Bragado,0,,,BMO,,,,0,2017-01-02T20:17:56+00:00
+42897,AR-0475,heliport,"Heliplataforma Buque Skandi Patagonia Heliport",-52,-67,,SA,AR,AR-Z,"Buque Skandi",0,,,HSP,,,,0,2009-10-20T11:13:21+00:00
+318243,AR-0515,small_airport,"Calchaqui Airport",-29.85167,-60.29194,184,SA,AR,AR-S,Calchaqui,0,,,CCI,,,,0,2016-06-03T12:57:14+00:00
+298325,CSA,small_airport,"Aerocampo CSA airport",-31.661454441500002,-63.277130127,630,SA,AR,AR-X,Calchin,0,CSA,,CSA,,,,0,2011-04-29T13:27:47+00:00
+318244,AR-0516,small_airport,"Stiefel Airport",-31.99472,-61.60278,232,SA,AR,AR-S,"Cañada Rosquin",0,,,RST,,,,0,2016-06-03T13:45:54+00:00
+45153,AR-0487,heliport,"Cañuelas Gas SA Heliport ",-35.0583,-58.7883,95,SA,AR,AR-B,"Cañuelas ",0,,,HGA,,,,0,2009-10-20T11:13:21+00:00
+327603,AR-0630,small_airport,"Estancia La Elisa Airport",-34.038888,-59.776944,154,SA,AR,AR-B,"Capitan Sarmiento",0,,,578,,,,0,2018-05-05T10:51:46+00:00
+318245,AR-0517,small_airport,"Fumagro Airport",-37.214729,-62.780581,364,SA,AR,AR-B,Carhue,0,,,CFU,,,,0,2016-06-03T14:01:58+00:00
+321732,AR-0590,small_airport,"Malatini Airport",-35.569123,-61.368224,268,SA,AR,AR-B,"Carlos Casares",0,,,CCM,,,,0,2017-01-06T00:46:25+00:00
+321733,AR-0591,small_airport,"Ottaviani Airport",-35.648137,-61.350425,268,SA,AR,AR-B,"Carlos Casares",0,,,CCO,,,"Aeropuerto Carlos Casares Sur",0,2017-01-06T00:59:16+00:00
+318246,AR-0518,small_airport,"Establecimiento La Maria Pilar Airport",-36.488606,-63.432958,410,SA,AR,AR-L,Catrilo,0,,,CTP,,,,0,2016-06-03T14:18:11+00:00
+321746,AR-0595,small_airport,"Las 2 A Airport",-34.811475,-60.51701,196,SA,AR,AR-B,Chacabuco,0,,,AII,,,,0,2017-01-06T12:18:19+00:00
+321734,AR-0592,small_airport,"Copetonas Airport",-38.743657,-60.553332,167,SA,AR,AR-B,Copetonas,0,,,CTA,,,,0,2017-01-06T01:43:36+00:00
+42889,AR-0467,heliport,"Berrini Heliport",-31.4397,-64.3433,1811,SA,AR,AR-X,Córdoba,0,,,HBR,,,,0,2009-10-20T11:13:21+00:00
+318510,AR-0572,heliport,"Centro Cívico Bicentenario Heliport",-31.42037,-64.173235,1306,SA,AR,AR-X,Córdoba,0,,,HBI,,,,0,2016-06-11T23:48:41+00:00
+318247,AR-0519,small_airport,"Agroservicios Airport",-33.2723,-60.5707,144,SA,AR,AR-S,"Coronel Bogado",0,,,ACB,,,,0,2016-06-03T14:56:06+00:00
+318248,AR-0520,small_airport,"Alfomso Mengo Airport",-32.02444,-64.27944,1781,SA,AR,AR-X,Corralito,0,,,CAM,,,,0,2016-06-03T15:36:52+00:00
+318249,AR-0521,small_airport,"Lomas del Espinillo Airport",-32.08806,-64.16972,1441,SA,AR,AR-X,Corralito,0,,,CLE,,,,0,2016-06-03T15:46:59+00:00
+321740,AR-0593,small_airport,"Don Moises Airport",-32.039622,-64.192827,1604,SA,AR,AR-X,Corralito,0,,,MOI,,,,0,2017-01-06T02:33:54+00:00
+318250,AR-0522,small_airport,"Ita Ibate Airport",-27.44833,-57.422241,223,SA,AR,AR-W,Corrientes,0,,,CII,,,,0,2016-06-03T15:55:16+00:00
+321711,AR-0589,small_airport,"Cañada Quiroz Airport",-27.5497,-58.7175,180,SA,AR,AR-W,Corrientes,0,,,CQZ,,,,0,2017-01-02T20:58:37+00:00
+318945,AR-0579,small_airport,"Coy Aike Airport",-51.162246,-69.487675,,SA,AR,AR-Z,"Coy Aike",0,,,,,,,0,2016-06-20T08:41:38+00:00
+323148,AR-0614,small_airport,"Dique Florentino Ameghino Airport",-43.674928,-66.493948,,SA,AR,AR-U,"Dique Florentino Ameghino",0,,,,,,,0,2017-05-12T03:03:54+00:00
+318251,AR-0523,small_airport,"Estancia San Rafael Airport",-25.04347,-58.5915,288,SA,AR,AR-P,"El Espinillo",0,,,ESR,,,,0,2016-06-03T17:06:15+00:00
+327561,AR-0623,small_airport,"El Sauzalito Airport",-24.443851,-61.68824,558,SA,AR,AR-H,"El Sauzalito",0,,,,,,,0,2018-05-03T08:50:30+00:00
+318252,AR-0524,small_airport,"Bernardo's Airport",-32.2506,-61.6519,290,SA,AR,AR-S,"El Trébol",0,,,TDB,,,,0,2016-06-03T17:44:42+00:00
+318253,AR-0525,small_airport,"Salvita Airport",-23.2128,-64.0339,928,SA,AR,AR-A,Embarcación,0,,,SLV,,,,0,2016-06-03T18:01:21+00:00
+321678,AR-0584,small_airport,"San Hilario Airport",-25.86448,-58.672887,236,SA,AR,AR-P,"Estancia Alegria",0,,,380,,,,0,2018-05-05T00:38:27+00:00
+314776,AR-0507,small_airport,"Estancia Cullen South Airport",-52.9435,-68.4021,120,SA,AR,AR-V,"Estancia Cullen",0,,,,,,,0,2015-06-13T12:05:13+00:00
+314780,AR-0510,small_airport,"Los Robles Airport",-54.069,-67.6536,102,SA,AR,AR-V,"Estancia El Roble",0,,,,,,,0,2015-06-13T18:36:20+00:00
+327586,AR-0627,small_airport,"Itá Caabó Airport",-29.29287,-57.727213,262,SA,AR,AR-W,"Estancia Itá Caabó",0,,,529,,,,0,2018-05-04T23:58:46+00:00
+314777,AR-0508,small_airport,"Sara Airport",-53.432,-68.167,52,SA,AR,AR-V,"Estancia Sara",0,,,,,,,0,2015-06-13T12:27:23+00:00
+327647,AR-0641,small_airport,"Traill Southeast Airport",-31.922586,-61.692139,249,SA,AR,AR-S,"Estancia Traill Sureste",0,,,,,,,0,2018-05-06T15:03:01+00:00
+323144,AR-0610,small_airport,"Fitz Roy Airport",-47.021639,-67.241585,,SA,AR,AR-Z,"Fitz Roy",0,,,,,,,0,2017-05-11T19:10:05+00:00
+45154,AR-0488,heliport,"Colonia La Capilla Heliport",-34.9167,-58.2508,82,SA,AR,AR-B,"Florencio Varela",0,,,HFV,,,,0,2009-10-20T11:13:23+00:00
+321675,AR-0581,small_airport,"Fortin Cabo Lugones Airport",-24.300451,-59.830954,,SA,AR,AR-P,"Fortin Cabo Lugones",0,,,,,,,0,2016-12-31T18:50:19+00:00
+318254,AR-0526,small_airport,"El Desafio",-23.2426,-63.323,800,SA,AR,AR-A,"Fortin Dragones",0,,,FDD,,,,0,2016-06-03T19:02:22+00:00
+327624,AR-0635,small_airport,"Cabaña Los Gatos Airport",-27.142412,-61.764272,548,SA,AR,AR-G,Gancedo,0,,,2802,,,,0,2018-05-05T16:43:59+00:00
+298878,AR-0495,small_airport,"Agroaire Airport",-27.476346,-61.624434,330,SA,AR,AR-H,Gancedo,0,,,,http://guialocal.com.ar/agroaire.html,,,0,2011-07-10T06:04:23+00:00
+318255,AR-0527,small_airport,"Finca La Hercilia Airport",-22.6147,-63.662759,1227,SA,AR,AR-A,"General Mosconi",0,,,FLH,,,,0,2016-06-03T22:13:30+00:00
+327611,AR-0632,small_airport,"Estancia Trebolares Airport",-35.636734,-63.498798,377,SA,AR,AR-L,"General Pico",0,,,938,,,,0,2018-05-05T13:31:00+00:00
+318256,AR-0528,small_airport,"Kalbermatter Airport",-27.26028,-61.47444,331,SA,AR,AR-H,"General Pinedo",0,,,GPK,,,,0,2016-06-03T22:26:04+00:00
+318257,AR-0529,small_airport,"El Potrero",-32.97472,-58.25389,88,SA,AR,AR-E,Gualeguaychu,0,,,GEP,,,,0,2016-06-03T23:23:37+00:00
+324544,AR-0620,small_airport,"Guardia Mitre Airstrip",-40.418091,-63.663347,,SA,AR,AR-R,"Guardia Mitre",0,,,,,,,0,2017-07-25T08:36:53+00:00
+321754,AR-0597,small_airport,"Estancia Santa Elisa Airport",-29.304436,-56.881343,206,SA,AR,AR-N,Guaviravi,0,,,GSE,,,,0,2017-01-06T19:19:02+00:00
+321755,AR-0598,small_airport,"Hernando Airport",-32.337145,-63.685178,925,SA,AR,AR-X,Hernando,0,,,NAN,,,"Aeroclub Hernando",0,2017-01-06T19:41:01+00:00
+318259,AR-0530,small_airport,"Plus Agroservicios Aereos S.R.L. Airport",-33.8136,-61.3357,325,SA,AR,AR-S,Hughes,0,,,HGS,,,,0,2016-06-04T00:52:19+00:00
+327565,AR-0624,small_airport,"Ingeniero Juárez Airport",-23.904822,-61.820092,595,SA,AR,AR-P,"Ingeniero Juárez",0,,,,,,,0,2018-05-03T09:06:49+00:00
+318260,AR-0531,small_airport,"Biondi Airport]",-33.2232,-62.4046,400,SA,AR,AR-X,"Isla Verde",0,,,IVL,,,,0,2016-06-04T01:13:50+00:00
+321745,AR-0594,small_airport,"Itati Airport",-27.305297,-58.313924,196,SA,AR,AR-W,Itati,0,,,CIT,,,,0,2017-01-06T11:53:43+00:00
+44745,AR-0072,heliport,"Ituzaingo / Transener S.A. Heliport",-27.5601,-56.6568,233,SA,AR,AR-W,Ituzaingo,0,,,HIT,,,,0,2009-10-20T11:13:15+00:00
+42894,AR-0472,heliport,"Dr. Mariano Moreno Heliport",-34.5631,-58.7903,104,SA,AR,AR-B,"José C. Paz",0,,,HMM,,,,0,2009-10-20T11:13:21+00:00
+321763,AR-0599,small_airport,"Antares Airport",-34.528223,-63.960879,505,SA,AR,AR-X,Jovita,0,,,JOC,,,,0,2017-01-07T19:07:15+00:00
+42891,AR-0469,heliport,"Casa De Lata Heliport",-39.8153,-71.1681,3221,SA,AR,AR-Q,"Junín de Los andes",0,,,HDL,,,,0,2009-10-20T11:13:21+00:00
+42901,AR-0479,heliport,"Pernigotti Heliport",-27.7708,-64.2278,475,SA,AR,AR-G,"La Banda",0,,,HBD,,,,0,2009-10-20T11:13:21+00:00
+318263,AR-0532,small_airport,Casajus,-33.3882,-63.3055,475,SA,AR,AR-X,"La Carlota",0,,,LCC,,,,0,2016-06-04T06:52:31+00:00
+327584,AR-0625,small_airport,"La Cruz Airport",-29.159962,-56.658639,219,SA,AR,AR-W,"La Cruz",0,,,,,,,0,2018-05-04T22:33:36+00:00
+42890,AR-0468,heliport,"Campanopolis Heliport",-34.791746,-58.601936,19,SA,AR,AR-B,"La Matanza",0,,,HIS,,,,0,2017-07-09T07:52:51+00:00
+46644,AR-0493,small_airport,"La Paz Airport",-33.467,-67.55,,SA,AR,AR-M,"La Paz",0,SAMP,,PAZ,,,,0,2011-02-17T23:48:04+00:00
+318511,AR-0573,heliport,"Superficie Heliport",-34.90046,-57.929486,22,SA,AR,AR-B,"La Plata",0,,,HBT,,,,0,2016-06-12T06:16:41+00:00
+318264,AR-0533,small_airport,"Don Emilio Airport",-26.73247,-64.88455,1525,SA,AR,AR-T,"La Ramada De Abajo",0,,,LRE,,,,0,2016-06-04T07:38:05+00:00
+318513,AR-0574,heliport,"C.A.P.E. Provincial Police Heliport",-29.4356,-66.8632,1760,SA,AR,AR-F,"La Rioja",0,,,HPL,,,,0,2016-06-12T09:45:07+00:00
+321677,AR-0583,small_airport,"Colonel Alfonso Airport",-25.130442,-58.217977,,SA,AR,AR-P,"Laguna Blanca",0,,,,,,,0,2016-12-31T19:13:16+00:00
+321764,AR-0600,small_airport,"Lanteri Airpiort",-28.86085,-59.673331,183,SA,AR,AR-S,Lanteri,0,,,LAN,,,,0,2017-01-07T20:18:29+00:00
+321765,AR-0601,small_airport,"Agroalas S.R.L. Airport",-26.870159,-64.74663,1135,SA,AR,AR-T,"Las Cejas",0,,,CEJ,,,,0,2017-01-07T20:53:27+00:00
+318265,AR-0534,small_airport,"AeroSoluciones Airport",-24.74889,-64.235,1614,SA,AR,AR-A,"Las Lajitas",0,,,LLA,,,,0,2016-06-04T08:42:46+00:00
+321766,AR-0602,small_airport,"Horizonte Aplicaciones Areas Airport",-32.521761,-61.550695,321,SA,AR,AR-S,"Las Rosas",0,,,LRT,,,,0,2017-01-07T21:08:49+00:00
+42904,AR-0482,heliport,"S.A.N.A. Heliport",-27.5494,-55.3336,905,SA,AR,AR-N,"Leandro N. Alem",0,,,HLA,,,,0,2009-10-20T11:13:21+00:00
+327625,AR-0636,small_airport,"Estancia Las Marias Airport",-32.470437,-66.082103,2116,SA,AR,AR-D,"Lenadro N. Alem",0,,,2809,,,,0,2018-05-05T17:21:32+00:00
+318266,AR-0535,small_airport,"Don Alberto Airport",-35.8696,-57.8768,35,SA,AR,AR-K,Lezama,0,,,LDA,,,,0,2016-06-04T09:14:20+00:00
+318493,AR-0566,small_airport,"Limay Mahuida Airport",-37.1201,-66.704,,SA,AR,AR-L,"Limay Mahuida",0,,,,,,,0,2016-06-10T07:03:29+00:00
+327605,AR-0631,small_airport,"Estancia Los Leones Airport",-31.170558,-60.718125,125,SA,AR,AR-S,"Llambi Cambel",0,,,750,,,,0,2018-05-05T11:18:29+00:00
+318514,AR-0575,heliport,"La Reserva Heliport",-34.27045,-58.90043,19,SA,AR,AR-B,"Los Cardales",0,,,HLR,,,,0,2016-10-05T12:16:41+00:00
+327651,AR-0642,closed,"Los Juries Airport",-28.477432,-62.1226,301,SA,AR,AR-G,"Los Juries",0,,,,,,,0,2018-05-06T21:08:09+00:00
+327652,AR-0643,small_airport,"El Cuadrado Airport",-28.285565,-61.764686,325,SA,AR,AR-G,"Los Juries",0,,,2713,,,,0,2018-05-06T21:20:21+00:00
+321767,AR-0603,small_airport,"Samave Airport",-33.786401,-62.127806,357,SA,AR,AR-S,Maggiolo,0,,,MAB,,,,0,2017-01-07T21:52:39+00:00
+327589,AR-0628,small_airport,"Estancia El Cencerro Airport",-30.534775,-60.438022,164,SA,AR,AR-S,"Marcelino Escalada",0,,,451,,,,0,2018-05-05T00:53:52+00:00
+42902,AR-0480,heliport,"Policia De La Provincia De Mendoza Heliport",-32.8783,-68.8681,2646,SA,AR,AR-M,Mendoza,0,,,HPD,,,,0,2009-10-20T11:13:21+00:00
+323146,AR-0612,small_airport,"Ministro Ramos Mexía Airport",-40.523752,-67.214651,,SA,AR,AR-R,"Ministro Ramos Mexía",0,,,,,,,0,2017-05-11T19:18:07+00:00
+42892,AR-0470,heliport,"Country Club San Diego Heliport",-34.6006,-58.8414,71,SA,AR,AR-B,Moreno,0,,,HSD,,,,0,2009-10-20T11:13:21+00:00
+318269,AR-0537,small_airport,"Campo San Jose Airport",-30.77778,-62.01472,331,SA,AR,AR-X,Morteros,0,,,CSJ,,,,0,2016-06-04T10:39:47+00:00
+318270,AR-0538,small_airport,"Pulverizaciones Aerosur Airport",-38.576401,-58.796429,55,SA,AR,AR-B,Necochea,0,,,NPA,,,,0,2016-06-04T11:01:22+00:00
+318271,AR-0539,small_airport,"Finca Toloche Airport",-25.4346,-63.8578,1040,SA,AR,AR-A,"Nuestra Señora De Talavera",0,,,NST,,,,0,2016-06-04T11:21:35+00:00
+318495,AR-0567,small_airport,"Nueva Galia Airport",-35.089382,-65.197724,,SA,AR,AR-D,"Nueva Galia",0,,,,,,,0,2016-06-10T08:08:26+00:00
+42900,AR-0478,heliport,"Pachón Minera Heliport",-31.7597,-70.4128,11810,SA,AR,AR-J,"Pachón, Calingasta",0,,,HPS,,,,0,2009-10-20T11:13:21+00:00
+321768,AR-0604,small_airport,"El Recuerdo S.R.L. Airport",-33.10549,-63.192986,451,SA,AR,AR-X,Pescanas,0,,,PAN,,,,0,2017-01-07T23:13:50+00:00
+324366,AR-0616,small_airport,"La Caldonia Airport",-32.1306,-61.8935,365,SA,AR,AR-S,Piamonte,0,,,1063,,,,0,2018-05-05T11:55:46+00:00
+327644,AR-0640,small_airport,"Pichanal-Franzini Airport",-23.338946,-64.247126,1004,SA,AR,AR-A,Pichanal,0,,,2105,,,,0,2018-05-06T14:34:20+00:00
+318274,AR-0541,small_airport,"Servicios Aeronauticos",-37.523004,-62.452319,865,SA,AR,AR-B,Pigüé,0,,,PSA,,,,0,2016-06-04T12:44:00+00:00
+45156,AR-0490,heliport,"Piero Vara Heliport",-34.4328,-58.9722,39,SA,AR,AR-B,Pilar,0,,,HPI,,,,0,2009-10-20T11:13:28+00:00
+318275,AR-0542,small_airport,"Estancia La Carolina Airport",-33.07558,-60.715,110,SA,AR,AR-S,Piñero,0,,,PLC,,,,0,2016-06-04T13:04:36+00:00
+327642,AR-0639,closed,"Pinto Airport",-29.152266,-62.675025,328,SA,AR,AR-G,Pinto,0,,,,,,"Villa General Mitre",0,2018-05-06T13:00:31+00:00
+318276,AR-0543,small_airport,"SAS Aeroaplicaciones Airport",-24.80667,-64.18111,1498,SA,AR,AR-A,"Piquete Cabado",0,,,PCA,,,,0,2016-06-04T13:23:02+00:00
+327621,AR-0634,small_airport,"Finca Porvenir 8 Airport",-24.994562,-64.341664,1732,SA,AR,AR-A,"Piquete Cabado",0,,,2800,,,,0,2018-05-05T15:36:39+00:00
+321676,AR-0582,small_airport,"Posta Cambio A Zalazar Airport",-24.214083,-60.201159,,SA,AR,AR-P,"Posta Cambio A Zalazar Airport",0,,,,,,,0,2016-12-31T19:06:09+00:00
+321769,AR-0605,small_airport,"Rovere Airport",-26.783029,-60.487414,295,SA,AR,AR-H,"Presidencia Roque Sáenz Peña",0,,,PSV,,,,0,2017-01-07T23:54:15+00:00
+324542,AR-0619,small_airport,"Puerto San Antonio Este Airstrip",-40.799532,-64.864185,,SA,AR,AR-R,"Puerto San Antonio Este",0,,,,,,,0,2017-07-25T08:09:20+00:00
+321771,AR-0606,small_airport,"Estancia La Elba",-44.5728,-65.3706,45,SA,AR,AR-U,"Punta Roja",0,,,LAE,,,,0,2017-01-08T00:33:00+00:00
+318946,AR-0580,small_airport,"Estancia Elena Airport",-49.727768,-68.756606,,SA,AR,AR-Z,"Rio Chico",0,,,,,,,0,2016-06-20T08:45:32+00:00
+318278,AR-0544,small_airport,"Vale Airport",-37.06556,-69.39556,3051,SA,AR,AR-M,"Río Colorado",0,,,RCV,,,,0,2016-06-04T16:45:48+00:00
+45160,AR-0205,small_airport,"Fumigaciones Herbinsec Airport",-35.138611,-62.705278,366,SA,AR,AR-B,Roberts,0,,,ROH,,,,0,2009-10-21T14:41:09+00:00
+318279,AR-0545,small_airport,Aeroagereo,-35.13588,-61.99717,327,SA,AR,AR-B,Roberts,0,,,ROB,,,,0,2016-06-04T17:54:47+00:00
+318281,AR-0546,small_airport,"La Amalia",-35.10042,-62.01656,328,SA,AR,AR-B,Roberts,0,,,AMA,,,,0,2016-06-04T18:26:16+00:00
+321772,AR-0607,small_airport,"Fumigaciones Herbinsec Airport",-35.1386,-61.9928,336,SA,AR,AR-B,Roberts,0,,,ROH,,,,0,2017-01-08T01:12:22+00:00
+327626,AR-0637,heliport,"Unidad Regional II de Polcia Heliport",-32.99354,-60.674636,131,SA,AR,AR-S,Rosario,0,,,2831,,,,0,2018-05-05T17:39:33+00:00
+318282,AR-0547,small_airport,"BSG Airport",-34.24968,-62.67416,393,SA,AR,AR-S,Rufino,0,,,RBS,,,,0,2016-06-04T21:37:54+00:00
+321775,AR-0608,small_airport,"Parajon Airport",-34.576385,-61.005748,275,SA,AR,AR-B,Saforcada,0,,,SAF,,,,0,2017-01-08T14:02:33+00:00
+318283,AR-0548,small_airport,"Abelenda Airport",-35.738533,-59.76201,127,SA,AR,AR-B,Saladillo,0,,,SAB,,,,0,2016-06-04T22:18:37+00:00
+318290,AR-0549,small_airport,"Vergnano Airport",-30.32012,-61.90165,314,SA,AR,AR-S,"San Guillermo",0,,,SGV,,,,0,2016-06-05T04:06:17+00:00
+318297,AR-0550,small_airport,"Aeroclub San Javier",-30.5559,-59.9907,90,SA,AR,AR-S,"San Javier",0,,,SJR,,,,0,2016-06-05T10:03:01+00:00
+318298,AR-0551,small_airport,"Chialva S. H. Airport",-32.736945,-62.531378,390,SA,AR,AR-X,"San Marcos",0,,,SMS,,,,0,2016-06-05T10:32:50+00:00
+318515,AR-0576,heliport,"Cooperativa de Trabajos Portuarios Limitada Heliport",-32.71915,-60.72636,29,SA,AR,AR-S,"San Martín",0,,,HPT,,,,0,2016-06-12T10:59:24+00:00
+45155,AR-0489,heliport,"Miguel Colombise Heliport",-33.3617,-60.2511,88,SA,AR,AR-S,"San Nicolás",0,,,HSN,,,,0,2009-10-20T11:13:26+00:00
+42899,AR-0477,heliport,"Metalúrgico Heliport",-33.3617,-60.2511,88,SA,AR,AR-B,"San Nicolás de Los Arroyos",0,,,HSN,,,,0,2009-10-20T11:13:21+00:00
+45161,AR-0465,small_airport,"Casilda Fumigaciones Airport",-33.174722,-61.2,259,SA,AR,AR-S,Sanford,0,,,SCF,,,,0,2009-10-21T14:46:25+00:00
+318300,AR-0552,small_airport,"Santa Clara de Saguier Airport",-31.35549,-61.82983,356,SA,AR,AR-S,"Santa Clara de Saguier",0,,,SCL,,,,0,2016-06-05T12:06:35+00:00
+45157,AR-0491,heliport,"Rio Cullen II Heliplatform",-52.8364,-68.1789,127,SA,AR,AR-V,"Santa Cruz",0,,,HCE,,,,0,2009-10-20T11:13:30+00:00
+321701,AR-0585,small_airport,"Santa Elena Airport",-30.976069,-59.776894,,SA,AR,AR-E,"Santa Elena",0,,,973,,https://en.wikipedia.org/wiki/Monte_Quemado_Airport,,0,2018-05-05T13:06:00+00:00
+318492,AR-0565,small_airport,"Santa Isabel Airport",-36.23682,-66.94624,,SA,AR,AR-L,"Santa Isabel",0,,,,,,,0,2016-06-10T07:00:56+00:00
+318301,AR-0553,small_airport,"San Alberto Airport",-36.592071,-64.220437,620,SA,AR,AR-L,"Santa Rosa",0,,,SLP,,,,0,2016-06-05T12:43:23+00:00
+318516,AR-0577,heliport,"Edificio Tribunales Helipad",-27.7813,-64.265,738,SA,AR,AR-G,"Santiago del Estero",0,,,HET,,,,0,2016-06-12T11:24:02+00:00
+318302,AR-0554,small_airport,"Cóndor del Aire Airport",-33.46587,-60.62854,199,SA,AR,AR-S,"Sargento Cabral",0,,,CDA,,,,0,2016-06-05T13:00:00+00:00
+46645,AR-0494,small_airport,"Colonia Sarmiento Airport",-45.582371,-68.999841,877,SA,AR,AR-U,Sarmiento,0,,OLN,STO,,,,0,2015-02-20T17:40:11+00:00
+318303,AR-0555,small_airport,"Fumigaciones Nando Airport",-29.77963,-62.03181,295,SA,AR,AR-G,"Selva Nueva",0,,,SFN,,,,0,2016-06-05T13:54:37+00:00
+327639,AR-0638,small_airport,"Estancia 13 de Abril Airport",-35.515511,-61.758924,276,SA,AR,AR-B,Smith,0,,,2064,,,,0,2018-05-06T11:26:33+00:00
+327617,AR-0633,small_airport,"Rincón de Luna Airport",-28.470238,-58.249234,180,SA,AR,AR-W,Tabay,0,,,1300,,,,0,2018-05-05T14:51:21+00:00
+324367,AR-0617,small_airport,"El Ocho Airstrip",-31.799689,-59.703579,257,SA,AR,AR-E,Tabossi,0,,,,,,,0,2017-07-09T12:55:00+00:00
+42895,AR-0473,heliport,"Estancia La Pascuala Heliport",-37.3936,-58.9661,721,SA,AR,AR-B,Tandil,0,,,HTD,,,,0,2009-10-20T11:13:21+00:00
+318304,SANR,medium_airport,"Termas de Río Hondo international Airport",-27.4966,-64.93595,935,SA,AR,AR-G,"Termas de Río Hondo",1,SANR,RHD,TRH,,https://en.wikipedia.org/wiki/Las_Termas_Airport,,0,2016-06-05T14:51:32+00:00
+318517,AR-0578,heliport,"Villa La Ñata Heliport",-34.37527,-58.65576,10,SA,AR,AR-B,Tigre,0,,,HVA,,,,0,2016-06-12T11:39:32+00:00
+318305,AR-0556,small_airport,"Establecimiento El 21 Airport",-26.8952,-62.30962,545,SA,AR,AR-G,Tintina,0,,,TEV,,,,0,2016-06-05T15:30:57+00:00
+318306,AR-0557,small_airport,"Tío Pujio Airport",-32.29307,-63.40197,777,SA,AR,AR-X,"Tío Pujio",0,,,TIO,,,,0,2016-06-05T15:47:05+00:00
+45162,AR-0492,small_airport,"La Argentina Airport",-35.996667,-62.705278,311,SA,AR,AR-B,"Trenque Lauquen",0,,,ATN,,,,0,2009-10-21T14:49:28+00:00
+318307,AR-0558,small_airport,"Santagiulian Airport",-38.40573,-60.29968,350,SA,AR,AR-B,"Tres Arroyos",0,,,SGI,,,,0,2016-06-05T17:16:00+00:00
+323145,AR-0611,small_airport,"Tres Cerros Airport",-48.138678,-67.655065,,SA,AR,AR-Z,"Tres Cerros",0,,,,,,,0,2017-05-11T19:14:20+00:00
+318308,AR-0559,small_airport,"Estancia Los Lobles Airport",-36.552913,-63.766652,459,SA,AR,AR-L,Uriburu,0,,,URL,,,,0,2016-06-05T17:54:51+00:00
+318311,AR-0562,small_airport,"Don Angel Airport",-33.93823,-64.40774,800,SA,AR,AR-X,"Vicuña Mackenna",0,,,VMA,,,,0,2016-06-05T19:13:00+00:00
+318313,AR-0563,small_airport,"Beneficios S.R.L. Airport",-33.93759,-64.415095,800,SA,AR,AR-X,"Vicuña Mackenna",0,,,VMB,,,,0,2016-06-06T00:56:49+00:00
+318314,AR-0564,small_airport,"Comequechen Airport",-33.93402,-64.415946,805,SA,AR,AR-X,"Vicuña Mackenna",0,,,VMC,,,,0,2016-06-06T00:55:13+00:00
+318309,AR-0560,small_airport,"Estancia La Criolla Airport",-35.537034,-60.129512,160,SA,AR,AR-B,"Vienticinco de Mayo",0,,,ELC,,,,0,2016-06-05T18:28:05+00:00
+318310,AR-0561,small_airport,"Servicios Agroaereos Airport",-35.449205,-60.160708,165,SA,AR,AR-B,"Vienticinco de Mayo",0,,,MSA,,,,0,2016-06-05T18:41:55+00:00
+46643,AR-0342,small_airport,"Villa de María de Río Seco Airport",-29.9,-63.683,,SA,AR,AR-X,"Villa de María de Río Seco",0,SACV,,MRS,,,,0,2011-02-17T22:16:59+00:00
+318502,SAOV,medium_airport,"Presidente Néstor Kirchner Regionsl Airport",-32.3201,-63.22663,670,SA,AR,AR-X,"Villa Maria",1,SAOV,,VMR,,https://es.wikipedia.org/wiki/Aeropuerto_Regional_Presidente_N%C3%A9stor_Kirchner,,0,2016-06-11T00:18:04+00:00
+318507,AR-0569,small_airport,"Suarez Aviación Airport",-32.4272,-63.3024,700,SA,AR,AR-E,"Villa Nueva",0,,,VNS,,,,0,2016-06-11T15:33:57+00:00
+42893,AR-0471,heliport,"Dayry Partners Americas Manufacturing Argentina Sa Heliport",-32.44,-63.2289,639,SA,AR,AR-X,"Villa Nueva",0,,,HNE,,,,0,2009-10-20T11:13:21+00:00
+318506,AR-0568,small_airport,"RAIG S.A. Airport",-32.4382,-63.2893,685,SA,AR,AR-X,"Villa Nueva",0,,,VNR,,,,0,2016-06-11T15:19:03+00:00
+318508,AR-0570,small_airport,"Villa Valeria Airport",-34.35653,-64.90136,955,SA,AR,AR-X,"Villa Valeria",0,,,CVV,,,,0,2016-06-11T17:59:22+00:00
+324368,AR-0618,small_airport,"Timbo Airstrip",-31.8266,-59.0333,187,SA,AR,AR-E,Villaguay,0,,,,,,,0,2017-07-09T13:17:54+00:00
+42903,AR-0481,heliport,"Roca Heliport",-32.06,-64.7794,3444,SA,AR,AR-X,"Yacanto de Calamuchita",0,,,HYC,,,,0,2009-10-20T11:13:21+00:00
+42905,AR-0483,heliport,"Austral S.A. Heliport",-52.7386,-68.5725,290,SA,AR,AR-V,"Yacimiento Cañadón Alfs",0,,,HCP,,,,0,2009-10-20T11:13:21+00:00

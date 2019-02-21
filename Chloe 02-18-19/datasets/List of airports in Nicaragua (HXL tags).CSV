@@ -1,0 +1,34 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4774,MNMG,medium_airport,"Augusto C. Sandino (Managua) International Airport",12.141500473022461,-86.16819763183594,194,NA,NI,NI-MN,Managua,1,MNMG,MGA,,,http://en.wikipedia.org/wiki/Augusto_C._Sandino_International_Airport,,1050,2008-09-27T10:45:45+00:00
+42164,MNCI,small_airport,"Corn Island",12.1628999710083,-83.06379699707031,1,NA,NI,NI-AS,"Corn Island",0,MNCI,RNI,,,,,50,2008-09-27T10:45:33+00:00
+4770,MNBL,medium_airport,"Bluefields Airport",11.991000175476074,-83.77410125732422,20,NA,NI,NI-AS,Bluefileds,1,MNBL,BEF,,,http://en.wikipedia.org/wiki/Bluefields_Airport,,800,2008-09-27T10:45:32+00:00
+4776,MNPC,medium_airport,"Puerto Cabezas Airport",14.047200202941895,-83.38670349121094,52,NA,NI,NI-AN,"Puerto Cabezas",1,MNPC,PUZ,,,http://en.wikipedia.org/wiki/Puerto_Cabezas_Airport,,800,2008-09-27T10:45:23+00:00
+42161,MNAL,small_airport,"Alamicamba Airport",13.512299537658691,-84.24710083007812,65,NA,NI,NI-AN,Alamicamba,0,MNAL,,,,,,50,2008-09-27T10:45:20+00:00
+42169,MNAM,small_airport,"Altamira Airport",12.110600471496582,-85.760498046875,121,NA,NI,NI-BO,Altamira,0,MNAM,,,,,,50,2008-09-27T10:45:38+00:00
+42170,MNBC,small_airport,"Boaco Airport",12.469099998474121,-85.66259765625,1184,NA,NI,NI-BO,Boaco,0,MNBC,,,,,,50,2008-09-27T10:45:39+00:00
+30809,MNBZ,small_airport,"San Pedro Airport",13.949999809265137,-84.5999984741211,600,NA,NI,NI-AN,Bonanza,0,MNBZ,BZA,,,,,50,2008-09-27T10:45:27+00:00
+42171,MNCH,small_airport,"Chinandega Airport",12.640000343323,-87.137397766113,174,NA,NI,NI-CI,Chinandega,0,MNCH,,,,https://en.wikipedia.org/wiki/Chinandega_Airport,,50,2015-07-24T10:29:09+00:00
+42172,MNCT,small_airport,"Corinto Airport",12.478899955749512,-87.17720031738281,1,NA,NI,NI-CI,Chinandega,0,MNCT,,,,,,50,2008-09-27T10:45:41+00:00
+42178,MNDM,small_airport,"Dos Montes Airport",12.80049991607666,-86.14830017089844,1469,NA,NI,NI-MT,"Dos Montes",0,MNDM,,,,,,50,2008-09-27T10:45:46+00:00
+42165,MNFF,small_airport,"El Bluff Airport",11.99429988861084,-83.68789672851562,1,NA,NI,NI-AS,"El Bluff",0,MNFF,,,,,,50,2008-09-27T10:45:34+00:00
+42177,MNPP,small_airport,"El Papalonal Airport",12.465700149536133,-86.46790313720703,141,NA,NI,NI-LE,"El Papalonal",0,MNPP,,,,,,50,2008-09-27T10:45:45+00:00
+42175,MNES,small_airport,"Estelí Airport",13.111700057983398,-86.36329650878906,2811,NA,NI,NI-ES,Estelí,0,MNES,,,,,,50,2008-09-27T10:45:43+00:00
+42173,MNHG,small_airport,"Hato Grande Airport",11.981399536132812,-85.43270111083984,177,NA,NI,NI-CO,"Hato Grande",0,MNHG,,,,,,50,2008-09-27T10:45:42+00:00
+42176,MNJG,small_airport,Jinotega,13.085700035095215,-85.98770141601562,3232,NA,NI,NI-JI,Jinotega,0,MNJG,,,,,,50,2008-09-27T10:45:44+00:00
+42174,MNJU,small_airport,Juigalpa,12.100000381469727,-85.36666870117188,295,NA,NI,NI-CO,Juigalpa,0,MNJU,,,,,,50,2008-09-27T10:45:43+00:00
+42166,MNKW,small_airport,"Karawala Airport",12.89210033416748,-83.58290100097656,3,NA,NI,NI-AS,Karawala,0,MNKW,,,,,,50,2008-09-27T10:45:35+00:00
+42167,MNEP,small_airport,"La Esperanza Airport",12.199999809265137,-84.28333282470703,88,NA,NI,NI-AS,"La Esperanza",0,MNEP,,,,,,50,2008-09-27T10:45:36+00:00
+31930,MNRT,small_airport,"Rosita Airport",13.889699935913086,-84.40889739990234,193,NA,NI,NI-AN,"La Rosita",0,MNRT,RFS,,,http://en.wikipedia.org/wiki/Rosita_Airport,,50,2009-06-25T21:08:12+00:00
+4773,MNLN,small_airport,"Leon (Fanor Urroz) Airport",12.429200172424316,-86.90280151367188,328,NA,NI,NI-LE,León,0,MNLN,,,,,,50,2008-09-27T10:45:45+00:00
+4771,MNBR,small_airport,"Los Brasiles Airport",12.1899995803833,-86.35389709472656,262,NA,NI,NI-MN,"Los Brasiles",0,MNBR,,,,,,50,2008-09-27T10:45:45+00:00
+42162,MNMA,small_airport,"Macantaca Airport",13.245100021362305,-84.08390045166016,55,NA,NI,NI-AN,Macantaca,0,MNMA,,,,,Makantaca,50,2008-09-27T10:45:21+00:00
+4775,MNMR,small_airport,"Montelimar Airport",11.80519962310791,-86.51129913330078,94,NA,NI,NI-MN,Montelimar,0,MNMR,,MN1B,,,,50,2008-09-27T10:45:45+00:00
+42168,MNNG,small_airport,"Nueva Guinea Airport",11.666666984558105,-84.44999694824219,606,NA,NI,NI-AS,"Nueva Guinea",0,MNNG,NVG,,,,,50,2008-09-27T10:45:37+00:00
+4772,MNFC,small_airport,"Punta Huete (Panchito) Airport",12.353400230407715,-86.18289947509766,217,NA,NI,NI-MN,"Punta Huete",0,MNFC,,MN1A,,,,50,2008-09-27T10:45:45+00:00
+42179,MNRS,small_airport,Rivas,11.42770004272461,-85.8385009765625,174,NA,NI,NI-RI,Rivas,0,MNRS,,,,,,50,2008-09-27T10:45:47+00:00
+42180,MNSC,small_airport,"San Carlos",11.133399963378906,-84.7699966430664,91,NA,NI,NI-SJ,"San Carlos",0,MNSC,NCR,,,,,50,2008-09-27T10:45:48+00:00
+42163,MNSI,small_airport,Siuna,13.727222442626953,-84.77777862548828,606,NA,NI,NI-AN,Siuna,0,MNSI,SIU,,,,,50,2008-09-27T10:45:28+00:00
+32676,MNWP,small_airport,"Waspam Airport",14.7391996383667,-83.96939849853516,98,NA,NI,NI-AN,Waspam,0,MNWP,WSP,,,,,50,2008-09-27T10:45:30+00:00
+318055,MNLP,small_airport,"Omtepe Airport",11.523616,-85.702995,200,NA,NI,NI-RI,"Omtepe Island",1,MNLP,,,,https://en.wikipedia.org/wiki/Ometepe_Airport,"La Paloma, Moyogalpa",0,2016-05-25T01:05:24+00:00
+316239,MNCE,small_airport,"Costa Esmeralda Airport",11.427542,-86.033361,84,NA,NI,NI-RI,Tola,1,MNCE,ECI,ECI,http://www.mukulresort.com/costa-esmeralda-airport.html,https://en.wikipedia.org/wiki/Costa_Esmeralda_Airport,,0,2016-05-25T00:26:26+00:00

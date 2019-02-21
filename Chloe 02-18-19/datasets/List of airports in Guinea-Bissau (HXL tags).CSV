@@ -1,0 +1,9 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3097,GGOV,medium_airport,"Osvaldo Vieira International Airport",11.894800186157227,-15.65369987487793,129,AF,GW,GW-BS,Bissau,1,GGOV,OXB,,,http://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport,,875,2009-02-22T09:12:07+00:00
+39588,GGBF,small_airport,"Bafatá Airport",12.166666984558105,-14.666666984558105,,AF,GW,GW-BA,Bafatá,0,GGBF,,,,,,50,2008-07-21T11:22:23+00:00
+39587,GGBU,small_airport,"Bubaque Airport",11.297355651855469,-15.838079452514648,,AF,GW,GW-BL,Bubaque,0,GGBU,BQE,,,,,50,2008-07-21T11:09:51+00:00
+3096,GGCF,small_airport,"Cufar Airport",11.2878999710083,-15.180500030517578,65,AF,GW,GW-TO,Cufar,0,GGCF,,,,,,50,2008-07-21T11:14:06+00:00
+3156,GG64,small_airport,"Quebo Airport",11.535599708557129,-14.762299537658691,165,AF,GW,GW-TO,Quebo,0,GG64,,GG64,,,Aldeia,50,2008-07-21T11:13:42+00:00
+318892,GGGB,small_airport,"Gabu Airport",12.292002,-14.236044,,AF,GW,GW-GA,Gabu,0,GGGB,,,,,,0,2016-06-18T17:24:59+00:00
+318893,GW-0001,small_airport,"Piche Airport",12.32008,-13.958281,,AF,GW,GW-GA,Piche,0,,,,,,,0,2016-06-18T17:26:41+00:00

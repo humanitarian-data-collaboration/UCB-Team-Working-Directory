@@ -1,0 +1,56 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+6501,UMMS,large_airport,"Minsk National Airport",53.882499694824,28.030700683594,670,EU,BY,BY-MI,Minsk,1,UMMS,MSQ,,http://airport.by/en,http://en.wikipedia.org/wiki/Minsk_National_Airport,"Нацыянальны аэрапорт, Minsk 2 Airport",1150,2015-08-08T19:29:55+00:00
+41134,UMMB,small_airport,"Borovaya Airfield",53.9604611,27.6505961,,EU,BY,BY-MI,Minsk,0,UMMB,,,http://aeroclub-minsk.by/,,,50,2015-11-09T11:53:12+00:00
+6500,UMMM,closed,"Minsk 1 Airport",53.864498,27.5397,748,EU,BY,BY-MI,Minsk,1,UMMM,MHP,,,http://en.wikipedia.org/wiki/Minsk-1,,875,2018-09-01T05:48:17+00:00
+315697,BY-0014,small_airport,"Lipki Air Base",53.913545,27.708775,,EU,BY,BY-MI,,0,UMMI,,,,,"УММИ, Липки",0,2016-07-24T01:57:19+00:00
+6496,UMGG,medium_airport,"Gomel Airport",52.527000427246094,31.016700744628906,472,EU,BY,BY-HO,Gomel,1,UMGG,GME,,http://www.gomelavia.com/,http://en.wikipedia.org/wiki/Gomel_Airport,,875,2009-01-11T21:37:08+00:00
+6499,UMMG,medium_airport,"Hrodna Airport",53.60200119018555,24.053800582885742,443,EU,BY,BY-HR,Hrodna,1,UMMG,GNA,,,http://en.wikipedia.org/wiki/Hrodna_Airport,"Grodno Airport, Гро́дна",875,2009-03-09T18:22:44+00:00
+6502,UMOO,medium_airport,"Mogilev Airport",53.954898834228516,30.09510040283203,637,EU,BY,BY-MA,Mogilev,1,UMOO,MVQ,,,http://en.wikipedia.org/wiki/Mogilev_Airport,,800,2009-01-11T21:42:10+00:00
+6495,UMBB,medium_airport,"Brest Airport",52.108299,23.8981,468,EU,BY,BY-BR,Brest,1,UMBB,BQT,,,https://en.wikipedia.org/wiki/Brest_Airport,"Аэропорт Брест",275,2016-06-23T03:48:57+00:00
+6497,UMII,medium_airport,"Vitebsk Vostochny Airport",55.126499176025,30.349599838257,682,EU,BY,BY-VI,Vitebsk,0,UMII,VTB,,,http://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport,"УМІІ, УМИИ, Vitebsk Southeast, Vitebsk East Airport, Аэрапорт Віцебск, Аэропорт Витебск",275,2015-08-16T14:42:20+00:00
+34952,BY-0003,medium_airport,"Bobrovichi Air Base",52.27830123901367,29.360000610351562,440,EU,BY,BY-HO,Kalinovichi,0,,,,,http://en.wikipedia.org/wiki/Bobrovichi,,250,2008-12-19T20:02:52+00:00
+34946,BY-0001,medium_airport,"Balbasovo Air Base",54.439998626708984,30.29669952392578,620,EU,BY,BY-VI,Orsha,0,,,,,http://en.wikipedia.org/wiki/Balbasovo,"Balbasava, Bolbasovo, Orsha Southwest, Orsha",250,2009-01-11T21:35:39+00:00
+35060,BY-4247,small_airport,"Pribytki Air Base",52.30500030517578,31.163299560546875,456,EU,BY,BY-HO,Gomel,0,,,,,http://en.wikipedia.org/wiki/Pribytki,,50,2008-12-19T20:03:02+00:00
+35026,BY-9934,small_airport,"Luninets Air Base",52.275001525878906,26.774999618530273,472,EU,BY,BY-BR,Luninets,0,,,,,http://en.wikipedia.org/wiki/Luninets_(air_base),,50,2008-12-19T20:03:06+00:00
+35030,BY-1210,closed,"Maladzyechna Air Base",54.24829864501953,26.871700286865234,682,EU,BY,BY-MI,Maladzyechna,0,,,,,http://en.wikipedia.org/wiki/Maladzyechna_(air_base),,50,2009-01-11T21:51:30+00:00
+30140,UMLI,small_airport,"Minsk Machulishchy Airport",53.773300170899994,27.579999923699997,699,EU,BY,BY-MI,Minsk,0,UMLI,,,,,"Minsk Machulishchi Airport, Аэрапорт Мачулішчы, Аэропорт Мачулищи",50,2010-01-21T17:05:26+00:00
+34957,BY-0004,small_airport,"Borovtsy Air Base",55.6082992554,28.678300857500002,456,EU,BY,BY-VI,Polatsk,0,,,,,http://en.wikipedia.org/wiki/Borovitsy,"Borovitsky Air Base, Аэродром Боровцы",50,2009-09-09T15:48:43+00:00
+43023,BY-0005,small_airport,"Polotsk Airport",55.4116668701,28.748332977300002,469,EU,BY,BY-VI,Polotsk,0,,,,,http://en.wikipedia.org/wiki/Polotsk_Airport,"Betskoye Airport, Betskoe Airport, Polotsk South Airport, Аэрапорт Полацк, Аэропорт Бецкое, Аэропорт Полоцк",50,2010-02-21T15:13:09+00:00
+35057,BY-1095,closed,"Postavy Air Base",55.116699,26.7617,472,EU,BY,BY-VI,Postavy,0,,,,,http://en.wikipedia.org/wiki/Postavy,,50,2018-12-31T02:17:34+00:00
+35083,BY-7836,closed,"Smarhon Air Base",54.52330017089844,26.306699752807617,558,EU,BY,BY-HR,Smorgon,0,,,,,http://en.wikipedia.org/wiki/Smarhon_(air_base),,50,2009-01-11T21:46:42+00:00
+35112,BY-3111,closed,"Zhurzhevo Air Base",55.255001,30.2467,636,EU,BY,BY-VI,Vitebsk,0,,,,,http://en.wikipedia.org/wiki/Vitebsk_(air_base),"Vitebsk Severny Air Base, Vitebsk North Air Base, Аэродром Журжево, Аэродром Витебск Северный",50,2019-01-03T12:29:31+00:00
+34951,BY-0002,closed,"Bobr Air Base",54.375,29.376699447631836,646,EU,BY,BY-MI,Talacyn,0,,,,,http://en.wikipedia.org/wiki/Bobr_%28air_base%29,"Bobr East",1,2008-06-13T14:30:04+00:00
+323909,BY-0029,small_airport,"Kliepačy Airstrip",52.7040425,24.3782919,,EU,BY,BY-BR,,0,,,,,,,0,2017-06-16T08:15:50+00:00
+315695,BY-0013,small_airport,Mozyr,51.9858414,29.157581,,EU,BY,BY-HO,,0,,,,,,,0,2015-10-07T15:09:04+00:00
+323945,BY-0030,closed,Selhozaviatsii,52.75557,24.462681,,EU,BY,BY-HR,,0,,,,,,,0,2017-06-17T11:06:31+00:00
+321035,BY-0026,small_airport,"Komsomolskaya Airstrip",53.213143,27.36075,534,EU,BY,BY-MI,,0,,,,,,,0,2018-07-08T21:13:22+00:00
+315693,BY-0012,small_airport,"Aerodrom Kukoviatsino",55.1609946,29.974589,,EU,BY,BY-VI,,0,,,,,,Куковячино,0,2015-10-07T14:50:39+00:00
+315926,BY-0015,small_airport,"Aerodrom Ozepki",55.144536,26.829358,,EU,BY,BY-VI,,0,,,,,,,0,2016-12-06T23:41:39+00:00
+324497,BY-0031,small_airport,"Suklina Airstrip",55.2516188,27.9213048,,EU,BY,BY-VI,,0,,,,,,,0,2017-07-22T01:42:29+00:00
+44375,UMNB,medium_airport,"Babruisk Air Base",53.105,29.205,502,EU,BY,BY-MA,Babruisk,0,UMNB,,,,https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B1%D1%80%D1%83%D0%B9%D1%81%D0%BA_(%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC,"Bobruisk Air Base, Babruysk Air Base, Bobruysk Air Base, Аэродром Бабруйск, Аэродром Бобруйск",0,2016-06-23T03:57:20+00:00
+320231,BY-0023,small_airport,"Bobruisk Aeroclub",53.21033,29.129039,500,EU,BY,BY-MA,Babruysk,0,,,,,,,0,2018-07-08T20:42:33+00:00
+44338,UMMA,medium_airport,"Baranavichi Air Base",53.099998474121094,26.049999237060547,,EU,BY,BY-BR,Baranavichi,0,UMMA,,,,,"Baranovichi Air Base, Аэродром Барановичи",0,2009-04-22T13:15:44+00:00
+308493,UMBK,small_airport,"Borisovo Airport",52.164,24.3999,463,EU,BY,BY-BR,Barysava,0,UMBK,,,,,,0,2013-04-14T13:57:17+00:00
+319599,BY-0018,closed,"Bozhki Airstrip",55.816719,28.025859,410,EU,BY,BY-MI,Bozhki,0,,,,,,Божкі,0,2019-02-18T01:23:31+00:00
+44363,BY-0006,medium_airport,"Osovtsy Air Base",52.5569992065,24.884000778199997,,EU,BY,BY-BR,Byaroza,0,UMMO,,,,,"Byaroza Air Base, Beryoza Air Base, Аэродром Осовцы, Аэродром Бяроза, Аэродром Берёза, УММО",0,2010-01-21T17:08:29+00:00
+44382,BY-0007,closed,"Bykhau Air Base",53.52000045776367,30.200000762939453,,EU,BY,BY-MA,Bykhau,0,,,,,,"Bykhov Air Base, Аэродром Быхау, Аэродром Быхов",0,2009-04-24T12:26:20+00:00
+319606,BY-0021,heliport,"Drozdy Heliport",53.9506,27.5053,703,EU,BY,BY-MI,Drozdy,0,,,H213,,,"Х213, Дрозды",0,2016-07-24T01:15:11+00:00
+319617,BY-0022,small_airport,"Dzerzhinsky Highway Strip",53.68874,27.339573,690,EU,BY,BY-MI,Dzerzhinsky,0,,,ZD7M,,,"ЗД7М, Дзержинский",0,2016-07-24T11:54:13+00:00
+317423,BY-0016,small_airport,Gorki,54.30052,30.948463,,EU,BY,BY-MA,Gorki,0,,,,,,,0,2016-04-03T09:35:29+00:00
+320462,BY-0024,small_airport,"Karolin Airfield",53.634045,23.737307,,EU,BY,BY-HR,Grodno,0,,,,,,"Aeroklub Grodno",0,2016-09-24T02:28:41+00:00
+321489,BY-0027,small_airport,"Kisyali Airfield",54.028259,26.924768,,EU,BY,BY-MI,Kisyali,0,,,,,,,0,2016-12-12T08:45:21+00:00
+319598,BY-0017,closed,"Kokhanovichi Airport",55.85734,28.09827,420,EU,BY,BY-MI,Kokhanovichi,0,,,,,,Коханавічы,0,2016-07-23T10:54:18+00:00
+44997,BY-0008,small_airport,"Bel Airport",53.77580473,31.6715240479,,EU,BY,BY-MA,Krichaw,0,,,,,,"Аэрапорт Бель",0,2009-09-05T21:40:25+00:00
+46165,BY-0009,small_airport,"Lida Air Base",53.877,25.377,,EU,BY,BY-HR,Lida,0,UMDD,,,,,"Аэродром Лида",0,2010-01-21T16:55:52+00:00
+46155,UMNM,small_airport,"Novo-Pashkovo Airport",53.945,30.244,,EU,BY,BY-MA,Mahiylow,0,UMNM,,,,,"Аэропорт Ново-Пашково, УМНМ",0,2010-01-15T14:23:17+00:00
+326267,BY-0032,small_airport,"Mazalovo Airstrip",53.973285,31.58801,630,EU,BY,BY-MA,Mazalovo,0,,,,,,,0,2018-07-08T20:32:34+00:00
+329212,UMGI,small_airport,Rogachev,53.014712,29.878516,,EU,BY,BY-HO,Min'kov,0,UMGI,,,,,,0,2018-09-08T05:31:44+00:00
+319604,BY-0020,heliport,"Njeman Heliport",53.6793,25.5686,465,EU,BY,BY-HR,Njeman,0,,,H492,,,"Х492,  Неман",0,2016-07-24T01:17:07+00:00
+46231,BY-0010,heliport,"Borovukha-2 Helipad",55.534696443,28.7904453278,,EU,BY,BY-VI,Polatsk,0,,,,,,"Вертолётная площадка Боровуха-2",0,2010-02-21T15:08:07+00:00
+46167,UMNV,small_airport,"Pruzhany Air Base",52.582295731799995,24.379863739,,EU,BY,BY-BR,Pruzhany,0,UMNV,,,,,"Аэродром Пружаны, УМНЖ",0,2010-01-21T17:15:35+00:00
+46166,UMMR,small_airport,"Ross Air Base",53.303,24.369,,EU,BY,BY-HR,Ross,0,UMMR,,,,,"Аэродром Россь, УММР",0,2010-01-21T16:59:04+00:00
+319602,UMDU,closed,"Shchuchyn Air Base",53.598206,24.763414,575,EU,BY,BY-HR,Shchuchyn,0,UMDU,,,,,"ЬМФЙ, Щучин",0,2016-11-26T08:23:35+00:00
+322149,BY-0028,small_airport,"Vidzy Airstrip",55.37879,26.626022,466,EU,BY,BY-VI,Vidzy,0,,,,,,,0,2017-06-04T10:32:49+00:00
+320477,BY-0025,small_airport,"Voigovka Airfield",53.621279,27.550494,594,EU,BY,BY-MI,Voigovka,0,,,,,,,0,2018-07-08T21:17:13+00:00
+319603,BY-0019,closed,"Zheludok Heliport",53.598206,24.9719,417,EU,BY,BY-HR,Zheludok,0,,,XMFJ,,,"ЬМФЙ, Желудок",0,2017-08-12T05:51:41+00:00

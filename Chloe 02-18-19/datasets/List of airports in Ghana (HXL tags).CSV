@@ -1,0 +1,11 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2090,DGAA,large_airport,"Kotoka International Airport",5.605189800262451,-0.16678600013256073,205,AF,GH,GH-AA,Accra,1,DGAA,ACC,,,http://en.wikipedia.org/wiki/Kotoka_International_Airport,,1050,2009-08-28T14:27:03+00:00
+2093,DGSI,medium_airport,"Kumasi Airport",6.714560031890869,-1.5908199548721313,942,AF,GH,GH-AH,Kumasi,1,DGSI,KMS,,,http://en.wikipedia.org/wiki/Kumasi_Airport,,800,2009-06-06T09:27:04+00:00
+2095,DGTK,medium_airport,"Takoradi Airport",4.896059989929199,-1.7747600078582764,21,AF,GH,GH-WP,Sekondi-Takoradi,1,DGTK,TKD,,,http://en.wikipedia.org/wiki/Takoradi_Airport,,800,2009-06-06T09:30:14+00:00
+2091,DGLE,medium_airport,"Tamale Airport",9.55718994140625,-0.8632140159606934,553,AF,GH,GH-NP,Tamale,1,DGLE,TML,,,http://en.wikipedia.org/wiki/Tamale_Airport,,800,2009-06-06T09:31:08+00:00
+2094,DGSN,medium_airport,"Sunyani Airport",7.361830234527588,-2.3287599086761475,1014,AF,GH,GH-BA,Sunyani,1,DGSN,NYI,,,http://en.wikipedia.org/wiki/Sunyani_Airport,,250,2009-06-06T09:28:59+00:00
+30910,DGLN,small_airport,"Navrongo Airport",10.899999618530273,-1.100000023841858,2221,AF,GH,GH-UE,Navrongo,0,DGLN,,,,http://en.wikipedia.org/wiki/Navrongo_Airport,,50,2009-06-06T09:27:55+00:00
+2092,DGLW,small_airport,"Wa Airport",10.0826997756958,-2.507689952850342,1060,AF,GH,GH-UW,Wa,0,DGLW,,,,http://en.wikipedia.org/wiki/Wa_Airport,,50,2009-06-06T09:32:06+00:00
+30911,DGLY,small_airport,"Yendi Airport",9.425000190734863,-0.004722000099718571,2408,AF,GH,GH-NP,Yendi,0,DGLY,,,,http://en.wikipedia.org/wiki/Yendi_Airport,,50,2009-06-06T09:32:46+00:00
+322506,GH-0001,small_airport,"Kpong Airfield",6.114864,0.057761,89,AF,GH,GH-EP,Kpong,0,,,,,https://en.wikipedia.org/wiki/Kpong_Airfield,,0,2017-03-28T09:49:22+00:00

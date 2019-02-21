@@ -1,0 +1,14 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3972,LATI,large_airport,"Tirana International Airport Mother Teresa",41.4146995544,19.7206001282,126,EU,AL,AL-11,Tirana,1,LATI,TIA,,http://www.tirana-airport.com/,http://en.wikipedia.org/wiki/Tirana_International_Airport_N%C3%ABn%C3%AB_Tereza,"Rinas International Airport, Aeroporti Nënë Tereza",875,2009-11-21T17:42:31+00:00
+31795,LAKU,medium_airport,"Kukës Airport",42.033699035599994,20.4158992767,1120,EU,AL,AL-07,Kukës,0,LAKU,,,,,,50,2009-11-21T17:26:37+00:00
+3969,LAGJ,closed,"Gjadër Air Base",41.895199,19.5987,23,EU,AL,AL-08,Gjadër,0,LAGJ,,,,https://en.wikipedia.org/wiki/Gjad%C3%ABr_Air_Base,,50,2018-04-10T12:37:27+00:00
+5,AL-LA10,closed,"Gjirokastër Airport",40.087889,20.151917,666,EU,AL,AL-05,Gjirokastër,0,LASK,,,,https://en.wikipedia.org/wiki/Gjirokastër_Airport,LA10,50,2019-01-21T07:37:33+00:00
+3970,LAKO,small_airport,"Korçë Northwest Airport",40.64569854736328,20.741500854492188,665,EU,AL,AL-06,Korçë,0,LAKO,,,,,,50,2009-03-29T17:44:24+00:00
+3971,LAKV,medium_airport,"Kuçovë Air Base",40.77190017700195,19.901899337768555,135,EU,AL,AL-01,Kuçovë,0,LAKV,,,,,Kucova,50,2009-03-29T17:49:06+00:00
+3973,LAVL,medium_airport,"Vlorë Air Base",40.47610092163086,19.474199295043945,3,EU,AL,AL-12,Vlorë,0,LAVL,,,,,"Vlora Air Base",50,2009-03-29T18:03:42+00:00
+35356,AL-0001,closed,"Lapraka Heliport",41.333302,19.7913,297,EU,AL,AL-11,Tirana,0,,,,,,,25,2019-01-14T09:49:49+00:00
+316532,LAFK,heliport,"Tiranë Heliport",41.3111111,19.88,,EU,AL,AL-11,,0,LAFK,,,,,,0,2015-12-12T12:18:01+00:00
+325353,AL-0002,closed,"Aeroporti i Korroticës së Ulët",42.6051923,20.9096986,,EU,AL,AL-U-A,"Korroticës së Ulët",0,,,,,,,0,2017-11-02T04:51:38+00:00
+325354,AL-0003,closed,"Aeroporti i Mifoit",40.6061798,19.4262538,,EU,AL,AL-U-A,Mifoit,0,,,,,,,0,2017-11-02T04:53:42+00:00
+324078,LASK,closed,"Shkodër Airport",42.089361,19.509111,,EU,AL,AL-10,Shkodër,0,LASK,,,,,,0,2017-06-25T17:32:19+00:00

@@ -1,0 +1,66 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5072,OAKB,medium_airport,"Hamid Karzai International Airport",34.565899,69.212303,5877,AS,AF,AF-KAB,Kabul,1,OAKB,KBL,,http://hamidkarzaiairport.com/,https://en.wikipedia.org/wiki/Hamid_Karzai_International_Airport,"Kabul International Airport",1050,2019-01-13T12:15:07+00:00
+5073,OAKN,medium_airport,"Kandahar Airport",31.505800247192383,65.8478012084961,3337,AS,AF,AF-KAN,,0,OAKN,KDH,,,http://en.wikipedia.org/wiki/Kandahar_International_Airport,,250,2008-06-13T14:30:04+00:00
+5070,OAIX,medium_airport,"Bagram Air Base",34.9460983276,69.26499938959999,4895,AS,AF,AF-PAR,Bagram,0,OAIX,OAI,,,http://en.wikipedia.org/wiki/Bagram_Air_Base,,50,2012-04-10T00:38:59+00:00
+5071,OAJL,medium_airport,"Jalalabad Airport",34.39979934692383,70.49859619140625,1814,AS,AF,AF-NAN,,0,OAJL,JAA,,,http://en.wikipedia.org/wiki/Jalalabad_Airport,,250,2008-06-13T14:30:04+00:00
+5076,OASD,small_airport,"Shindand Airport",33.3913002014,62.2610015869,3773,AS,AF,AF-FRA,,0,OASD,OAH,,,http://en.wikipedia.org/wiki/Shindand_Airbase,,50,2012-04-10T00:30:53+00:00
+35387,OAZI,small_airport,"Camp Bastion Airport",31.863800048799998,64.2246017456,2943,AS,AF,AF-HEL,,0,OAZI,OAZ,,,http://en.wikipedia.org/wiki/Camp_Bastion,,50,2012-04-10T01:22:22+00:00
+32449,OATN,small_airport,"Tarin Kowt Airport",32.604198455799995,65.8657989502,4429,AS,AF,AF-ORU,"Tarin Kowt",0,OATN,TII,,,http://en.wikipedia.org/wiki/Tarin_Kowt_Airport,,50,2012-08-04T21:04:26+00:00
+5075,OAMS,medium_airport,"Mazar I Sharif Airport",36.70690155029297,67.20970153808594,1284,AS,AF,AF-BAL,,1,OAMS,MZR,,,http://en.wikipedia.org/wiki/Mazari_Sharif_Airport,,800,2008-06-13T14:30:04+00:00
+5069,OAHR,medium_airport,"Herat Airport",34.209999084472656,62.22829818725586,3206,AS,AF,AF-HER,,1,OAHR,HEA,,,http://en.wikipedia.org/wiki/Herat_Airfield,,800,2008-06-13T14:30:04+00:00
+31044,OAFR,small_airport,"Farah Airport",32.367000579833984,62.18299865722656,3083,AS,AF,AF-FRA,Farah,0,OAFR,FAH,,,,,50,2008-08-03T11:47:32+00:00
+31065,OAFZ,small_airport,"Fayzabad Airport",37.121101,70.518097,3872,AS,AF,AF-BDS,Fayzabad,1,OAFZ,FBD,,,https://en.wikipedia.org/wiki/Fayzabad_Airport,,450,2016-04-16T22:16:48+00:00
+5074,OAMN,medium_airport,"Maimana Airport",35.93080139160156,64.76090240478516,2743,AS,AF,AF-FYB,,0,OAMN,MMZ,,,,,250,2008-06-13T14:30:04+00:00
+5078,OAUZ,medium_airport,"Konduz Airport",36.66510009765625,68.91079711914062,1457,AS,AF,AF-KDZ,,0,OAUZ,UND,,,http://en.wikipedia.org/wiki/Kunduz_Airport,,250,2008-06-13T14:30:04+00:00
+35365,AF11,small_airport,"Salerno Landing Zone Airport",33.363800048799995,69.9561004639,3780,AS,AF,AF-PIA,,0,,OLR,,,http://en.wikipedia.org/wiki/FOB_Salerno,,50,2012-01-21T14:57:14+00:00
+30739,OABN,small_airport,"Bamiyan Airport",34.81700134277344,67.81700134277344,8367,AS,AF,AF-BAM,Bamiyan,0,OABN,BIN,,,,,50,2008-08-03T11:47:24+00:00
+35374,OAKA,small_airport,"Gardez Airport",33.631500244099996,69.239402771,7790,AS,AF,AF-PIA,Gardez,0,OAGZ,GRG,,,http://en.wikipedia.org/wiki/Gardez_Airport,,50,2014-02-22T14:54:30+00:00
+35373,OAGN,small_airport,"Ghazni Airport",33.5312004089,68.412902832,7150,AS,AF,AF-GHA,Ghazni,0,OAGN,GZI,,,http://en.wikipedia.org/wiki/Ghazni_Airport#Airlines_and_destinations,,50,2014-02-22T15:16:02+00:00
+31849,OAQN,small_airport,"Qala-I-Naw Airport",34.98500061035156,63.117801666259766,2999,AS,AF,AF-BDG,Qala-I-Naw,0,OAQN,LQN,,,,,50,2008-08-03T11:47:57+00:00
+35369,AF15,heliport,"Qara Tepa Heliport",37.423301696777344,69.4302978515625,1437,AS,AF,AF-TAK,,1,,,,,,,625,2008-08-03T11:21:43+00:00
+35353,AF-0002,small_airport,"Dehdadi Airport",36.64609909057617,67.03230285644531,1378,AS,AF,AF-BAL,,0,,,,,,,50,2008-08-03T11:21:18+00:00
+35363,AF09,small_airport,"Nayak Airport",34.68709945678711,66.89320373535156,8650,AS,AF,AF-BAM,,0,,,,,,,50,2008-08-03T11:21:31+00:00
+35367,AF13,small_airport,"Sheber Too Landing Zone Airport",34.778900146484375,67.48670196533203,10490,AS,AF,AF-BAM,,0,,,,,,,50,2008-08-03T11:21:39+00:00
+35380,OAPJ,small_airport,"Panyab Airport",34.39780044555664,67.02200317382812,8800,AS,AF,AF-BAM,,0,,,,,,,50,2008-08-03T11:47:54+00:00
+35382,OARZ,small_airport,"Razer Airport",36.022701263427734,70.7698974609375,8269,AS,AF,AF-BDS,,0,,,,,,,50,2008-08-03T11:48:01+00:00
+35386,OAYW,small_airport,"Yawan Airport",37.56169891357422,70.44170379638672,5645,AS,AF,AF-BDS,,0,OAYW,,,,,,50,2008-08-03T11:48:12+00:00
+35368,AF14,small_airport,"Tapa Airport",32.74509811401367,62.59870147705078,2622,AS,AF,AF-FRA,,0,,,,,,,50,2008-08-03T11:21:41+00:00
+35377,OAMK,small_airport,"Mukur Airport",32.879600524902344,67.84860229492188,6600,AS,AF,AF-GHA,,0,,,,,,,50,2008-08-03T11:47:48+00:00
+35376,OALL,small_airport,"Lal (Sarjangal) Airport",34.5070694108,66.2978768349,9220,AS,AF,AF-GHO,,0,,,,,,,50,2010-02-20T16:22:13+00:00
+35383,OATW,small_airport,"Teh Wareh Airport",33.540000915527344,64.42500305175781,7370,AS,AF,AF-GHO,,0,,,,,,,50,2008-08-03T11:48:07+00:00
+35384,OAYL,small_airport,"Yakawlang (Yakolang) Airport",34.513301849365234,66.3031005859375,8700,AS,AF,AF-GHO,,0,,,,,,,50,2008-08-03T11:48:08+00:00
+35355,AF-0004,small_airport,"Dostmohammadkhan Kalay Airport",31.045000076293945,64.1541976928711,2333,AS,AF,AF-HEL,,0,,,,,,,50,2008-08-03T11:21:22+00:00
+5077,OASG,small_airport,"Sheberghan Airport",36.75080108642578,65.91320037841797,1053,AS,AF,AF-JOW,,0,OASG,,,,http://en.wikipedia.org/wiki/Sheberghan_Airfield,,50,2008-06-13T14:30:04+00:00
+35354,AF-0003,small_airport,"Charikar Airport",35.14310073852539,69.31439971923828,5569,AS,AF,AF-KAP,,0,,,,,,,50,2008-08-03T11:21:20+00:00
+35362,AF08,small_airport,"Kotubkhel Airport",34.192901611328125,69.13569641113281,6273,AS,AF,AF-LOW,,0,,,,,,,50,2008-08-03T11:21:29+00:00
+35375,OALG,small_airport,"Logar Airport",33.98649978637695,69.02310180664062,6333,AS,AF,AF-LOW,,0,,,,,,,50,2008-08-03T11:47:44+00:00
+35359,AF04,small_airport,"Helmand Airport",30.33009910583496,61.89690017700195,,AS,AF,AF-NIM,,0,,,,,,,50,2008-08-03T11:21:24+00:00
+35366,AF12,small_airport,"Sarhawdza Landing Zone Airport",33.15610122680664,68.8197021484375,7060,AS,AF,AF-PKA,,0,,,,,,,50,2008-08-03T11:21:37+00:00
+35378,OANL,small_airport,"Nili Airport",35.887901306152344,67.4885025024414,,AS,AF,AF-SAM,,0,,,,,,,50,2008-08-03T11:47:50+00:00
+35360,AF06,small_airport,"Khvej Ghar North Airport",37.07109832763672,69.49500274658203,1645,AS,AF,AF-TAK,,0,,,,,,,50,2008-08-03T11:21:26+00:00
+35361,AF07,small_airport,"Khvej Ghar South Airport",37.06119918823242,69.48829650878906,1645,AS,AF,AF-TAK,,0,,,,,,,50,2008-08-03T11:21:28+00:00
+35381,OART,small_airport,"Rustag Airport",37.099998474121094,69.9000015258789,4543,AS,AF,AF-TAK,,0,,,,,,,50,2008-08-03T11:47:59+00:00
+35385,OAYQ,small_airport,"Yangi Qala Airport",37.45899963378906,69.64659881591797,1600,AS,AF,AF-TAK,,0,OAYQ,,,,,,50,2008-08-03T11:48:10+00:00
+35352,AF-0001,small_airport,"Ajrestan Airport",33.48529815673828,67.14409637451172,8324,AS,AF,AF-ORU,Ajrestan,0,,,,,,,50,2008-08-03T11:21:16+00:00
+35371,OAAK,small_airport,"Andkhoi Airport",36.943322222,65.206966667,900,AS,AF,AF-FYB,Andkhoi,0,,,,,,,50,2010-02-20T16:31:42+00:00
+30795,OABT,small_airport,"Bost Airport",31.55970001220703,64.36499786376953,2464,AS,AF,AF-HEL,Bost,0,OABT,BST,,,,,50,2008-08-03T11:47:26+00:00
+30815,OACC,small_airport,"Chakcharan Airport",34.53300094604492,65.26699829101562,7383,AS,AF,AF-GHO,Chakcharan,0,OACC,CCN,,,,,50,2008-08-03T11:47:28+00:00
+30877,OADZ,small_airport,"Darwaz Airport",38.46110153198242,70.88249969482422,5250,AS,AF,AF-BDS,Darwaz,0,OADZ,DAZ,,,,,50,2008-12-19T20:10:32+00:00
+32079,OAKG,small_airport,"Khojaghar Airport",37.08300018310547,69.36699676513672,1607,AS,AF,AF-TAK,Khojaghar,0,OAKG,,,,,,50,2008-08-03T11:47:41+00:00
+31750,OAKS,small_airport,"Khost Airport",33.3334007263,69.952003479,3756,AS,AF,AF-PIA,Khost,1,OAKS,KHT,,,http://en.wikipedia.org/wiki/Khost_Airfield,"FOB Chapman, دخوست هوائی ډګر",50,2014-09-06T11:13:00+00:00
+31787,OAHN,small_airport,"Khwahan Airport",37.882999420166016,70.21700286865234,3593,AS,AF,AF-BDS,Khwahan,0,OAHN,KWH,,,,,50,2008-08-03T11:47:37+00:00
+32080,OAQM,small_airport,"Kron Monajn Airport",36.16699981689453,70.71700286865234,8420,AS,AF,AF-BDS,"Kron Monajn",0,OAQM,,,,,,50,2008-08-03T11:47:56+00:00
+35364,AF10,small_airport,"Orūzgān Airport",32.9029998779,66.630897522,6725,AS,AF,AF-ORU,Orūzgān,0,OARG,URZ,,,,"Uruzgan, Urozgan",50,2014-02-22T16:35:27+00:00
+35372,OADS,small_airport,"Sardeh Band Airport",33.3207015991,68.6364974976,6971,AS,AF,AF-GHA,"Sardeh Band",0,OADS,SBF,,,http://en.wikipedia.org/wiki/Sardeh_Band_Airport,,50,2014-02-22T16:02:22+00:00
+32081,OASA,small_airport,"Sharana Airstrip",33.12575,68.838517,7340,AS,AF,AF-PKA,Sharana,0,OASA,OAS,,,,"Sharana Air Base",50,2012-04-10T01:05:14+00:00
+32288,OASN,small_airport,"Sheghnan Airport",37.56700134277344,71.5,6700,AS,AF,AF-BDS,Sheghnan,0,OASN,SGA,,,,,50,2008-12-19T20:10:34+00:00
+35323,OATQ,small_airport,"Talolqan Airport",36.7706985474,69.5319976807,2606,AS,AF,AF-TAK,Taloqan,0,OATQ,TQN,,,http://en.wikipedia.org/wiki/Taloqan_Airport,"Taluqan, Taleqan",50,2014-02-22T17:03:06+00:00
+35379,OAOG,small_airport,"Urgun Airport",32.9318008423,69.1563034058,7300,AS,AF,AF-PKA,Urgun,0,OAOG,URN,,,,Urgoon,50,2014-02-22T16:56:34+00:00
+32739,OAZJ,small_airport,"Zaranj Airport",30.972222,61.865833,1572,AS,AF,AF-NIM,Zaranj,0,OAZJ,ZAJ,,,,,50,2013-02-01T09:54:31+00:00
+35357,OA1A,heliport,"Marnah Ghar Heliport",32.33689880371094,68.94059753417969,5558,AS,AF,AF-PKA,,0,,,,,,,25,2008-06-18T08:46:49+00:00
+35370,OATD,heliport,"Toorghodi Heliport",35.222198486328125,62.29059982299805,2600,AS,AF,AF-HER,"Kara Tapa",0,,,,,,,25,2008-12-19T20:10:36+00:00
+301188,OAA,small_airport,"Shank Air Base",33.9225,69.07722222219999,6890,AS,AF,AF-LOW,,0,OASH,OAA,,,,,0,2014-03-14T00:14:47+00:00
+325721,AF-0005,closed,"F@# Off Spammer!",0.7,0.7,,AS,AF,AF-U-A,,0,,,,,,,0,2017-12-09T10:32:44+00:00
+329309,LHR,closed,"marked as spam",0,0,,AS,AF,AF-U-A,,0,,,0000,,,,0,2018-09-17T02:00:30+00:00
+300672,DWR,small_airport,"Dywer Airbase",31,64,2380,AS,AF,AF-HEL,"Camp Dwyer",0,,DWR,,http://militarybases.com/overseas/afghanistan/camp-dwyer/,http://en.wikipedia.org/wiki/Camp_Dwyer,,0,2012-02-05T21:16:35+00:00

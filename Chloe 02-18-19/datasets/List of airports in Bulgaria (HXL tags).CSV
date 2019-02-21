@@ -1,0 +1,136 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3977,LBSF,large_airport,"Sofia Airport",42.696693420410156,23.411436080932617,1742,EU,BG,BG-23,Sofia,1,LBSF,SOF,,http://sofia-airport.bg,http://en.wikipedia.org/wiki/Sofia_Airport,,1150,2008-12-08T06:03:22+00:00
+3974,LBBG,large_airport,"Burgas Airport",42.56959915161133,27.515199661254883,135,EU,BG,BG-02,Burgas,1,LBBG,BOJ,,,http://en.wikipedia.org/wiki/Burgas_Airport,,1150,2009-03-11T21:54:46+00:00
+3979,LBWN,large_airport,"Varna Airport",43.232101,27.8251,230,EU,BG,BG-03,Varna,1,LBWN,VAR,,,http://en.wikipedia.org/wiki/Varna_Airport,,1150,2016-02-16T22:16:51+00:00
+3976,LBPD,medium_airport,"Plovdiv International Airport",42.067799,24.8508,597,EU,BG,BG-16,Plovdiv,1,LBPD,PDV,,http://www.plovdivairport.com/,http://en.wikipedia.org/wiki/Plovdiv_International_Airport,,1150,2016-02-16T22:17:38+00:00
+43909,LBHT,small_airport,"Ihtiman Airfield",42.42189,23.767221,2113,EU,BG,BG-23,Ihtiman,0,LBHT,,,https://bg-bg.facebook.com/BG.LBHT,https://en.wikipedia.org/wiki/Ihtiman_Airfield,"Maintenance, aircraft maintenance, FTO",0,2016-02-16T22:42:18+00:00
+3975,LBGO,medium_airport,"Gorna Oryahovitsa Airport",43.15140151977539,25.712900161743164,285,EU,BG,BG-04,"Gorna Oryahovitsa",0,LBGO,GOZ,,,,,250,2009-03-27T18:04:59+00:00
+108,LBPL,medium_airport,"Dolna Mitropoliya Air Base",43.451401,24.5028,330,EU,BG,BG-15,"Dolna Mitropoliya",0,LBPL,,,,https://en.wikipedia.org/wiki/Dolna_Mitropoliya_Air_Base,LB41,50,2016-11-04T06:44:08+00:00
+89,LBPG,medium_airport,"Graf Ignatievo Air Base",42.290401458740234,24.714000701904297,190,EU,BG,BG-16,"Graf Ignatievo",0,LBPG,,,,http://en.wikipedia.org/wiki/Graf_Ignatievo_Airbase,LB21,50,2009-03-27T18:05:27+00:00
+106,LB39,closed,"Graf Ignatievo South Airport",42.263196,24.719299,623,EU,BG,BG-16,"Graf Ignatievo",0,,,,,,LB39,50,2017-10-01T19:14:58+00:00
+109,LB42,small_airport,"Kamenets Airport",43.327301025390625,25.003400802612305,420,EU,BG,BG-15,Kamenets,0,LB42,,LB42,,,,50,2009-03-27T18:05:16+00:00
+43899,LBBO,small_airport,"Bohot Airport",43.30638885498047,24.691389083862305,1162,EU,BG,BG-15,Bohot,0,LBBO,,,,,,0,2009-03-27T18:05:13+00:00
+43891,LBWV,small_airport,"Izgrev Airport",43.2772216796875,27.70194435119629,1119,EU,BG,BG-03,Izgrev,0,LBWV,,,,,,0,2009-03-27T18:04:56+00:00
+43910,LBLS,small_airport,"Lesnovo Airport",42.634498596191406,23.64644432067871,1825,EU,BG,BG-23,Lesnovo,0,LBLS,,,,,,0,2009-03-27T18:05:47+00:00
+43887,LBPR,small_airport,"Primorsko Airport",42.2596,27.703846,14,EU,BG,BG-02,Primorsko,0,LBPR,,,,https://en.wikipedia.org/wiki/Primorsko_Airfield,,0,2016-05-30T16:18:58+00:00
+43903,LBST,small_airport,"Stryama Airfield",42.540279,24.825222,916,EU,BG,BG-16,Stryama,0,LBST,,,,,,0,2018-05-31T12:02:19+00:00
+43907,BG-0015,small_airport,"Trastenik Airport",43.66595458984375,25.86668586730957,450,EU,BG,BG-18,Trastenik,0,,,,,,,0,2009-03-27T18:05:38+00:00
+93,LBWB,medium_airport,"Balchik Air Base",43.42380142211914,28.181299209594727,660,EU,BG,BG-03,Balchik,0,LBWB,,,,,LB25,50,2009-03-11T21:32:33+00:00
+104,LB37,small_airport,"Stanke Dimitrov Highway Strip",42.175701,23.0509,3447,EU,BG,BG-10,Boboshevo,0,,,LB37,,,,50,2017-02-10T05:43:59+00:00
+110,LB43,closed,"Dobrich Air Base",43.60960006713867,27.83650016784668,825,EU,BG,BG-03,Dobrich,0,,,,,http://en.wikipedia.org/wiki/Dobrich_Air_Base,LB43,50,2009-03-11T22:16:15+00:00
+83,LBMG,medium_airport,"Gabrovnitsa Air Base",43.5443000793457,23.272499084472656,626,EU,BG,BG-12,Gabrovnitsa,0,LBMG,,,,,LB15,50,2009-03-11T21:40:10+00:00
+82,LBHS,medium_airport,"Haskovo Malevo Airport",41.976398,25.5898,160,EU,BG,BG-26,Haskovo,0,LBHS,,,,https://en.wikipedia.org/wiki/Haskovo_Malevo_Airport,LB14,50,2017-03-28T10:41:40+00:00
+31597,BG-HKV,small_airport,"Malevo Airport",41.871799469,25.6047992706,600,EU,BG,BG-26,Haskovo,0,,HKV,,,,LB26,50,2014-11-13T21:53:02+00:00
+99,LB32,closed,"Konush Airstrip",42.072399,25.053301,500,EU,BG,BG-16,Konush,0,,,LB32,,,,50,2017-02-10T05:23:05+00:00
+100,LB33,small_airport,"Leskovo Airport",43.726600646972656,27.68600082397461,700,EU,BG,BG-03,Leskovo,0,LB33,,LB33,,,,50,2009-03-27T18:04:59+00:00
+98,LB31,small_airport,"Levski Airport",43.36940002441406,25.149099349975586,150,EU,BG,BG-15,Levski,0,,,,,,LB31,50,2009-03-11T21:29:16+00:00
+96,LB29,small_airport,"Maslarevo Airstrip",43.405399,25.474001,349,EU,BG,BG-04,Maslarevo,0,,,LB29,,,,50,2017-02-10T05:17:30+00:00
+105,LB38,small_airport,"Mustrak Airport",41.84000015258789,26.30970001220703,675,EU,BG,BG-26,Mustrak,0,LB38,,LB38,,,,50,2009-03-27T18:05:55+00:00
+112,LB45,small_airport,"Petrich Airport",41.448299407958984,23.217100143432617,371,EU,BG,BG-01,Petrich,0,LB45,,LB45,,,,50,2009-03-27T18:04:44+00:00
+95,LB27,closed,"Podem Airstrip",43.548199,24.590401,150,EU,BG,BG-15,Podem,0,,,LB27,,,,50,2017-02-10T05:12:37+00:00
+81,LB13,small_airport,"Radomir Dolni Rakovets Airfield",42.444199,22.9835,625,EU,BG,BG-14,Radomir,0,LBSW,,LB13,,,,50,2017-02-10T04:41:50+00:00
+92,LBRS,closed,"Ruse Airport",43.6948013306,26.056699752800004,614,EU,BG,BG-18,Ruse,0,LBRS,ROU,,,http://en.wikipedia.org/wiki/Ruse_Airport,"LB24, Shtruklovo Air Base",50,2013-03-08T20:56:00+00:00
+91,LBPS,closed,"Cheshnegirovo Air Base",42.11410140991211,24.992900848388672,604,EU,BG,BG-16,Sadovo,0,LBPS,,,,,LB23,50,2009-03-11T22:17:40+00:00
+90,LB22,closed,"Stanke Dimitrov Air Base",42.311699,23.246901,2149,EU,BG,BG-10,"Sapareva Banya",0,LB22,,LB22,,,,50,2016-09-11T08:11:59+00:00
+32324,LBSS,closed,"Silistra Polkovnik Lambrinovo Air Base",44.055199,27.178801,351,EU,BG,BG-19,Silistra,0,LBSS,SLS,,,https://en.wikipedia.org/wiki/Silistra_Airfield,,50,2018-09-01T23:14:06+00:00
+85,LBSL,small_airport,"Sliven Airfield",42.64630126953125,26.359399795532227,656,EU,BG,BG-28,Sliven,0,LBSL,,,,,,50,2009-03-27T18:06:10+00:00
+102,LB35,small_airport,"Golyama Smolnitsa Airport",43.627899169921875,27.69409942626953,810,EU,BG,BG-03,Smolnitsa,0,LB35,,LB35,,,,50,2009-03-27T18:04:54+00:00
+88,LBSD,closed,"Dobroslavtsi Air Base",42.812400817871094,23.29960060119629,1738,EU,BG,BG-23,Sofia,0,LBSD,,,,http://en.wikipedia.org/wiki/Dobroslavtsi_Airbase,"Kumaritsa Airport, LB20",50,2009-03-27T18:05:41+00:00
+103,LB36,small_airport,"Sokolovo Airstrip",43.475601,28.102699,760,EU,BG,BG-03,Sokolovo,0,,,LB36,,,,50,2017-02-10T05:37:59+00:00
+3978,LBSZ,small_airport,"Stara Zagora Airport",42.3766667,25.655,558,EU,BG,BG-24,"Stara Zagora",0,LBSZ,SZR,,,http://en.wikipedia.org/wiki/Stara_Zagora_Airport,,50,2015-12-11T13:40:31+00:00
+101,LB34,closed,"Stefanovo Airstrip",43.506901,27.8449,905,EU,BG,BG-03,Stefanovo,0,,,LB34,,,,50,2017-06-20T14:14:39+00:00
+97,LB30,small_airport,"Stryama Airport",42.285301208496094,24.868499755859375,560,EU,BG,BG-16,Stryama,0,LB30,,LB30,,,,50,2009-03-27T18:05:27+00:00
+84,LBTG,small_airport,"Bukhovtsi Airfield",43.3065986633,26.700899124099998,666,EU,BG,BG-25,Targovishte,0,LBTG,TGV,,,http://en.wikipedia.org/wiki/Targovishte_Airport,LB16,50,2013-08-25T16:10:53+00:00
+86,LB18,small_airport,"Tenevo Airstrip",42.346401,26.5739,390,EU,BG,BG-28,Tenevo,0,,,LB18,,,,50,2017-02-10T04:48:57+00:00
+79,LB11,small_airport,"Tsalapita Airport",42.188747,24.535716,630,EU,BG,BG-16,Tsalapita,0,LBTS,,LB11,,,,50,2016-05-30T15:14:06+00:00
+107,LBVD,small_airport,"Vidin Smurdan Airfield",44.0224,22.816099,200,EU,BG,BG-05,Vidin,0,LBVD,,,,,LB40,50,2016-10-27T05:46:42+00:00
+111,BG-JAM,medium_airport,"Bezmer Air Base",42.4548988342,26.3521995544,509,EU,BG,BG-28,Yambol,0,LBIA,JAM,,,http://en.wikipedia.org/wiki/Bezmer_Airbase,LB44,50,2013-03-08T20:12:45+00:00
+87,LB19,closed,"Zimnitsa Airstrip",42.600498,26.633699,518,EU,BG,BG-28,Zimnitsa,0,,,LB19,,,,50,2017-02-10T04:51:09+00:00
+316379,LBSB,small_airport,"Slanchev Bryag",42.7263814,27.6250285,,EU,BG,BG-02,,0,LBSB,,,,,,0,2015-11-18T11:11:34+00:00
+330281,BG-0067,small_airport,"Aytos Airstrip",42.6774939,27.2549498,,EU,BG,BG-02,,0,,,,,,,0,2019-02-01T03:06:38+00:00
+330334,BG-0068,small_airport,"Lozarevo Airstrip",42.757368,26.900321,,EU,BG,BG-02,,0,,,,,,Лозарево,0,2019-02-06T11:35:34+00:00
+320719,BG-0038,small_airport,"Suvorovo Airstrip",43.3587179,27.5827284,,EU,BG,BG-03,,0,,,,,,,0,2016-10-09T01:28:55+00:00
+325007,BG-0056,small_airport,"Karamanite Airstrip",43.4945283,27.4480307,,EU,BG,BG-03,,0,,,,,,,0,2017-09-26T12:43:38+00:00
+329116,LBWC,heliport,"Chaika Helicopter Base",43.188139,27.848255,,EU,BG,BG-03,,0,LBWC,,,,,,0,2018-08-27T07:27:11+00:00
+315677,BG-0026,closed,Polikraishte,43.199333,25.640889,,EU,BG,BG-04,,0,,,,,,,0,2019-01-06T05:33:21+00:00
+325008,BG-0057,small_airport,"Lozen Airstrip",43.3017942,25.8624229,,EU,BG,BG-04,,0,,,,,,,0,2017-09-26T12:46:42+00:00
+328915,BG-0065,small_airport,"Borovan Airstrip",43.426891,23.77037,,EU,BG,BG-06,,0,,,,,,,0,2018-08-02T12:30:07+00:00
+330381,BG-0070,small_airport,"Krivodol Airstrip",43.37472,23.51036,,EU,BG,BG-06,,0,,,,,,,0,2019-02-09T09:04:35+00:00
+315917,BG-0027,small_airport,Gabrovo,42.9482,25.35998,,EU,BG,BG-07,,0,,,,,,Габрово,0,2019-02-18T02:37:05+00:00
+320637,BG-0037,small_airport,"Orliak Airfield",43.6344188,27.3963294,,EU,BG,BG-08,,0,,,,,,,0,2016-10-04T00:31:13+00:00
+329247,BG-0066,small_airport,"Tervel Airstrip",43.7178529,27.4395281,,EU,BG,BG-08,,0,,,,,,,0,2018-09-14T07:16:22+00:00
+316400,LBGI,small_airport,"Gorski Izvor",42.0358333,25.4083333,164,EU,BG,BG-09,,0,LBGI,,,,,,0,2015-11-21T10:42:19+00:00
+316401,LBBA,small_airport,Bahovitsa,43.2061111,24.6555556,,EU,BG,BG-11,,0,LBBA,,,,,,0,2015-11-21T10:50:45+00:00
+316380,LBMO,small_airport,Montana,43.3826194,23.2632026,,EU,BG,BG-12,,0,LBMO,,,,,,0,2015-11-18T11:20:20+00:00
+330382,BG-0071,small_airport,"Medovnitsa Airstrip",43.6478754,22.7972558,,EU,BG,BG-12,,0,,,,,,,0,2019-02-09T09:11:05+00:00
+315604,BG-0025,small_airport,"Belchinski Bani",42.37488,23.39322,,EU,BG,BG-13,,0,,,,,,,0,2015-09-29T02:06:38+00:00
+316288,BG-0032,small_airport,Breznik,42.6933052,22.8965594,699,EU,BG,BG-14,,0,LBBR,,,,,,0,2015-11-10T04:15:47+00:00
+324048,BG-0053,small_airport,Staroseltsi,43.531511,24.2967868,,EU,BG,BG-15,,0,,,,,,,0,2017-06-24T00:51:57+00:00
+326621,BG-0059,small_airport,"Slavovitsa Airstrip",43.58114,24.447395,,EU,BG,BG-15,,0,,,,,,,0,2018-03-10T10:21:01+00:00
+328224,BG-0062,small_airport,"Knezha Airstrip",43.5460038,24.0946856,,EU,BG,BG-15,,0,,,,,,,0,2018-06-07T23:55:13+00:00
+328225,BG-0063,small_airport,"Brenitsa Airstrip",43.4415329,24.1403714,,EU,BG,BG-15,,0,,,,,,,0,2018-06-08T00:20:06+00:00
+315501,BG-0022,closed,"Staro Jelezare",42.447797,24.663927,,EU,BG,BG-16,,0,,,,,,,0,2018-05-31T12:01:24+00:00
+315509,BG-0023,small_airport,Ostrovo,43.6938742,26.5799644,,EU,BG,BG-17,,0,,,LB47,,,,0,2015-09-22T01:11:29+00:00
+315928,BG-0028,small_airport,Blagoevo,43.4554878,26.4316546,,EU,BG,BG-17,,0,,,,,,,0,2015-10-21T03:43:34+00:00
+315510,BG-0024,small_airport,Krivnya,43.66328,26.42224,,EU,BG,BG-18,,0,,,,,,,0,2015-09-22T01:44:46+00:00
+316381,LBBQ,small_airport,Byala,43.4634836,25.7116132,,EU,BG,BG-18,,0,LBBQ,,,,,,0,2015-11-18T11:26:35+00:00
+316430,LBBZ,small_airport,Bazan,43.7284294,26.1196959,,EU,BG,BG-18,,0,LBBZ,,,,,,0,2015-11-28T02:49:09+00:00
+316246,BG-0030,small_airport,Bozhurishte,42.7533821,23.2028015,,EU,BG,BG-23,,0,,,,,,,0,2015-11-07T07:39:03+00:00
+316339,BG-0033,small_airport,Slivnitsa,42.8441447,23.0144436,,EU,BG,BG-23,,0,,,,,,,0,2015-11-13T15:42:57+00:00
+325118,BG-0058,small_airport,"Dragoman Airstrip",42.9335588,22.978856,,EU,BG,BG-23,,0,,,,,,,0,2017-10-07T01:57:49+00:00
+316402,LBDA,small_airport,"Daskal Atanasovo",42.3213889,25.8936111,129,EU,BG,BG-24,,0,LBDA,,,,,,0,2015-11-21T10:54:01+00:00
+321060,BG-0042,small_airport,"Selskostopansko Airstrip",43.2364818,27.0456557,,EU,BG,BG-27,,0,,,,,,,0,2016-11-06T03:38:29+00:00
+324584,BG-0055,small_airport,"Shumen Airfield",43.287027,26.942278,,EU,BG,BG-27,,0,,,,,,,0,2017-07-29T00:58:00+00:00
+328466,BG-0064,small_airport,"Gradishte Airstrip",43.3339849,26.8542546,,EU,BG,BG-27,,0,,,,,,,0,2018-06-21T10:32:37+00:00
+330371,BG-0069,small_airport,"Bedzhene Airstrip",43.4476491,27.2766781,,EU,BG,BG-U-A,,0,,,,,,,0,2019-02-08T05:13:53+00:00
+320908,BG-0040,small_airport,"Air Belozem",42.216975,25.064943,,EU,BG,BG-16,Belozem,0,,,,http://air.belozem.com/index.php,,,0,2016-10-24T02:13:34+00:00
+320720,BG-0039,small_airport,"Branichevo Airstrip",43.6657816,27.1007895,,EU,BG,BG-27,Branichevo,0,,,,,,,0,2016-10-09T01:37:26+00:00
+318180,BG-0034,closed,"Brogovo Airstrip",44.132,22.659357,195,EU,BG,BG-05,Brogovo,0,,,,,,,0,2016-05-30T17:46:14+00:00
+43908,LBDB,small_airport,"Dolna Banya Airport",42.308528900146484,23.820417404174805,1779,EU,BG,BG-23,"Dolna Banya",0,LBDB,,,,,,0,2009-03-27T18:05:43+00:00
+316281,BG-0031,small_airport,"Draganovtsi Airport",42.943042,25.169528,,EU,BG,BG-07,Draganovtsi,0,,,,,,Драгановци,0,2016-02-16T21:55:31+00:00
+43905,BG-0013,small_airport,"Dve Mogili Airport",43.606655,25.890982,837,EU,BG,BG-18,"Dve Mogili",0,LBDM,,,,,,0,2016-11-18T00:54:10+00:00
+323737,BG-0046,small_airport,"Dzhulyunitsa Airstrip",43.5852521,25.6144416,,EU,BG,BG-18,Dzhulyunitsa,0,,,,,,,0,2017-06-10T01:49:03+00:00
+43898,LBRD,small_airport,"Erden Airport",43.499168,23.304722,617,EU,BG,BG-12,Erden,0,LBRD,,,,https://en.wikipedia.org/wiki/Erden_Airfield,,0,2016-05-30T14:02:48+00:00
+43895,BG-0007,closed,"Glozhene Airfield",43.679222,23.796246,177,EU,BG,BG-06,Glozhene,0,,,,,,,0,2019-02-17T01:54:07+00:00
+324004,BG-0052,small_airport,"Pirin Airfield",41.564478,23.766999,1638,EU,BG,BG-01,"Gotse Delchev",0,,,,,,,0,2018-07-08T22:49:41+00:00
+43900,LBGR,small_airport,"Grivitsa Airfield",43.415062,24.730515,919,EU,BG,BG-15,Grivitsa,0,LBGR,,,,https://en.wikipedia.org/wiki/Grivitza_Airfield,,0,2016-05-30T13:20:47+00:00
+43915,BG-0018,closed,"Irechekovo Airport",42.470249,26.733295,804,EU,BG,BG-28,Irechekovo,0,,,,,,,0,2019-01-01T06:57:15+00:00
+43892,LBKJ,small_airport,"Kainardzha Airport",43.97041702270508,27.46955680847168,575,EU,BG,BG-03,Kainardzha,0,LBKJ,,,,,,0,2009-03-27T18:04:58+00:00
+323908,BG-0049,closed,"SSA Kalipetrovo",44.0580505,27.2564944,,EU,BG,BG-19,Kalipetrovo,0,,,,,,,0,2017-06-16T08:03:45+00:00
+43912,"LBKL ",small_airport,"Kalvacha Airport",42.58625030517578,25.426250457763672,1083,EU,BG,BG-24,Kalvacha,0,LBKL,,,,,,0,2009-03-27T18:05:51+00:00
+318181,BG-0035,closed,"Kapitanovtsi Airstrip",44.055815,22.878457,155,EU,BG,BG-05,Kapitanovtsi,0,,,,,,,0,2016-05-30T18:59:03+00:00
+313407,BG-0021,small_airport,"Gledka Airport",41.5999,25.3857,962,EU,BG,BG-09,Kardzali,0,,,,,,"Kardjali, Kardzhali, KDG",0,2014-12-19T00:05:32+00:00
+323910,BG-0050,small_airport,"Koynare Airstrip",43.3710549,24.1304424,,EU,BG,BG-15,Koynare,0,,,,,,,0,2017-06-16T08:19:43+00:00
+43896,BG-0008,closed,"Kozloduy Airfield",43.763134,23.722031,152,EU,BG,BG-06,Kozloduy,0,,,,,,,0,2019-02-17T01:52:26+00:00
+43901,BG-0010,closed,"Krushovene Airfield",43.623531,24.378567,130,EU,BG,BG-15,Krushovene,0,,,,,,,0,2019-02-17T04:32:55+00:00
+43886,BG-0001,closed,"Livada Airport",42.456284,27.197334,58,EU,BG,BG-02,Livada,0,,,,,,,0,2019-01-06T05:31:04+00:00
+328102,BG-0061,small_airport,Doyrentsi,43.250388,24.838526,,EU,BG,BG-11,Lovec,0,,,,,,,0,2018-05-29T05:59:49+00:00
+43911,LBLN,heliport,"Lozen Heliport",42.619388580322266,23.50147247314453,1923,EU,BG,BG-23,Lozen,0,LBLN,,,,,,0,2009-03-27T18:05:49+00:00
+318178,LBMA,small_airport,"Maritsa Airfield",42.2652,24.7205,630,EU,BG,BG-16,Maritsa,0,LBMA,,,,,"Graf Ignatievo",0,2016-05-30T15:59:40+00:00
+43902,BG-0011,closed,"Milkovitsa Airport",43.634274,24.757254,400,EU,BG,BG-15,Milkovitsa,0,,,,,,,0,2019-01-06T12:35:10+00:00
+323617,BG-0045,small_airport,"Mogilishte Airstrip",43.4915599,28.3519964,,EU,BG,BG-08,Mogilishte,0,,,,,,,0,2017-06-03T12:34:05+00:00
+321097,BG-0043,small_airport,"Nikola Kozlevo Airstrip",43.5533648,27.2228242,,EU,BG,BG-27,"Nikola Kozlevo",0,,,,,,,0,2016-11-09T23:25:33+00:00
+323951,BG-0051,small_airport,"Ovchepoltsi Airstrip",42.3227836,24.4194897,,EU,BG,BG-13,Ovchepoltsi,0,,,,,,,0,2017-06-17T11:42:46+00:00
+326891,BG-0060,small_airport,"Panicharevo Airstrip",42.2765321,22.990845,,EU,BG,BG-10,Panicharevo,0,,,,,,,0,2018-04-01T02:34:40+00:00
+323875,BG-0048,small_airport,"Pishtigovo Airstrip",42.2307252,24.4383034,,EU,BG,BG-13,Pishtigovo,0,,,,,,,0,2017-06-15T01:44:47+00:00
+43913,BG-0016,small_airport,"Raikova Mogila Airfield",41.815411,26.304062,690,EU,BG,BG-26,"Raikova Mogila",0,,,,,,,0,2017-06-21T11:23:33+00:00
+323828,BG-0047,small_airport,"Rakovski Airstrip",42.293513,24.947311,,EU,BG,BG-16,Rakovski,0,,,,,,,0,2017-06-13T03:03:37+00:00
+43328,LBBR,closed,"Ravnetz Air Base",42.526100158691406,27.26959991455078,74,EU,BG,BG-02,Ravnetz,0,LBBR,,,,,Ravnets,0,2009-03-27T18:04:48+00:00
+43906,BG-0014,closed,"Ryakhovo Airport",43.982754,26.242744,65,EU,BG,BG-18,Ryakhovo,0,,,,,,,0,2019-01-01T06:53:43+00:00
+324356,BG-0054,closed,"Saedinenie Airstrip",42.296957,24.555684,,EU,BG,BG-16,Saedinenie,0,,,,,,,0,2017-07-08T06:58:26+00:00
+43897,BG-0009,small_airport,"Selanovtsi Airport",43.655277252197266,24.01007080078125,535,EU,BG,BG-06,Selanovtsi,0,,,,,,,0,2009-03-27T18:05:09+00:00
+316181,BG-0029,small_airport,"Staro Selishte",43.6502778,26.7541667,,EU,BG,BG-17,"Staro Selishte",0,,,,,,"Старо селище",0,2015-11-03T11:49:00+00:00
+43893,BG-0005,small_airport,"Svishtov Airport",43.61817932128906,25.283662796020508,60,EU,BG,BG-04,Svishtov,0,,,,,,,0,2009-03-27T18:05:01+00:00
+43894,BG-0006,small_airport,"Vardim Airport",43.61746597290039,25.52391242980957,60,EU,BG,BG-04,Svishtov,0,,,,,,,0,2009-03-27T18:05:02+00:00
+43914,BG-0017,small_airport,"Topolovgrad Airport",42.113834381103516,26.38335418701172,784,EU,BG,BG-26,Topolovgrad,0,,,,,,,0,2009-03-27T18:06:00+00:00
+43888,BG-0002,closed,"Troyanovo Airport",42.56879,27.148243,546,EU,BG,BG-02,Troyanovo,0,,,,,,,0,2019-01-01T07:47:04+00:00
+43889,BG-0003,small_airport,"Trustikovo Airstrip",42.414635,27.294455,40,EU,BG,BG-02,Trustikovo,0,,,,,,,0,2019-02-17T03:09:05+00:00
+320248,BG-0036,small_airport,"Veren Airfield",42.3326251,25.1695166,,EU,BG,BG-24,Veren,0,,,LB28,,,,0,2016-09-12T05:13:16+00:00
+320996,BG-0041,small_airport,"Selskostopansko Airstrip",42.544095,26.673452,837,EU,BG,BG-28,Vodenichane,0,,,,,,,0,2018-07-08T22:30:21+00:00
+43916,BG-0019,closed,"Voynika Airport",42.377701,26.843519,830,EU,BG,BG-28,Voynika,0,,,,,,,0,2019-01-01T09:35:36+00:00
+43904,BG-0012,small_airport,"Voysil Airport",42.217559814453125,24.63912582397461,601,EU,BG,BG-16,Voysil,0,,,,,,,0,2009-03-27T18:05:31+00:00
+318177,LBVR,small_airport,"Vratsa Airport",43.2559,23.5327,935,EU,BG,BG-06,Vratsa,0,LBVR,,,,,,0,2016-05-30T14:57:15+00:00
+43917,BG-0020,closed,"Yambol Airfield",42.507132,26.490739,453,EU,BG,BG-28,Yambol,0,,,,,,,0,2019-02-18T01:22:06+00:00
+321107,BG-0044,small_airport,"Yunatsite Airstrip",42.232673,24.245056,766,EU,BG,BG-13,Yunatsite,0,,,,,,,0,2018-07-08T23:07:27+00:00
+43890,BG-0004,small_airport,"Zagortsi Airport",42.403419494628906,27.07024574279785,368,EU,BG,BG-02,Zagortsi,0,,,,,,,0,2009-03-27T18:04:54+00:00

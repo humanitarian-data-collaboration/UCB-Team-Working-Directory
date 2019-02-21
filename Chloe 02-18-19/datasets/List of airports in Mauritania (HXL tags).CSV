@@ -1,0 +1,26 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3135,GQNN,closed,"Nouakchott International Airport",18.0982,-15.9485,13,AF,MR,MR-NKC,Nouakchott,0,GQNN,,,,http://en.wikipedia.org/wiki/Nouakchott_International_Airport,,150,2017-05-20T12:17:33+00:00
+3137,GQPA,medium_airport,"Atar International Airport",20.506799697875977,-13.04319953918457,734,AF,MR,MR-07,Atar,0,GQPA,ATR,,,http://en.wikipedia.org/wiki/Atar_International_Airport,,150,2009-06-13T16:14:27+00:00
+323315,GQNO,large_airport,"Nouakchott–Oumtounsy International Airport",18.31,-15.9697222,9,AF,MR,MR-NKC,Nouakchott,1,GQNO,NKC,,,https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport,"Nouakchott,Oumtounsy",0,2017-05-20T12:16:32+00:00
+3133,GQNI,small_airport,"Néma Airport",16.621999740600586,-7.3165998458862305,751,AF,MR,MR-01,Néma,0,GQNI,EMN,,,http://en.wikipedia.org/wiki/N%C3%A9ma_Airport,,150,2009-06-13T16:21:34+00:00
+3138,GQPP,medium_airport,"Nouadhibou International Airport",20.9330997467041,-17.030000686645508,24,AF,MR,MR-08,Nouadhibou,1,GQPP,NDB,,,http://en.wikipedia.org/wiki/Nouadhibou_International_Airport,,150,2009-06-13T16:09:31+00:00
+30630,GQNJ,small_airport,"Akjoujt Airport",19.733016967773438,-14.383249282836914,403,AF,MR,MR-12,Akjoujt,0,GQNJ,AJJ,,,http://en.wikipedia.org/wiki/Akjoujt_Airport,,50,2009-06-13T16:13:19+00:00
+3139,GQPT,small_airport,"Bir Moghrein Airport",25.2367000579834,-11.588700294494629,1206,AF,MR,MR-11,"Bir Moghrein",0,GQPT,,,,http://en.wikipedia.org/wiki/Bir_Moghrein_Airport,,50,2009-06-13T16:15:06+00:00
+32444,GQNC,small_airport,"Tichitt Airport",18.450000762939453,-9.517000198364258,561,AF,MR,MR-09,Tichitt,0,GQNC,THI,,,http://en.wikipedia.org/wiki/Tichitt_Airport,,50,2009-06-13T16:24:40+00:00
+32135,GQPZ,small_airport,"Tazadit Airport",22.756399154663086,-12.483599662780762,1129,AF,MR,MR-11,Zouérate,0,GQPZ,OUZ,,,http://en.wikipedia.org/wiki/Tazadit_Airport,,50,2009-06-13T16:23:58+00:00
+3130,GQNA,small_airport,"Aioun el Atrouss Airport",16.711299896240234,-9.637880325317383,951,AF,MR,MR-02,"Aioun El Atrouss",0,GQNA,AEO,,,http://en.wikipedia.org/wiki/Aioun_el_Atrouss_Airport,,250,2009-06-13T16:12:10+00:00
+3134,GQNK,small_airport,"Kaédi Airport",16.159500122070312,-13.507599830627441,66,AF,MR,MR-04,Kaédi,0,GQNK,KED,,,http://en.wikipedia.org/wiki/Ka%C3%A9di_Airport,,150,2009-06-13T16:19:41+00:00
+3132,GQNF,small_airport,"Kiffa Airport",16.59000015258789,-11.406200408935547,424,AF,MR,MR-03,Kiffa,0,GQNF,KFA,,,http://en.wikipedia.org/wiki/Kiffa_Airport,,150,2009-06-13T16:20:53+00:00
+3136,GQNS,small_airport,"Sélibaby Airport",15.179699897766113,-12.207300186157227,219,AF,MR,MR-10,Sélibaby,0,GQNS,SEY,,,http://en.wikipedia.org/wiki/S%C3%A9libaby_Airport,Selibabi,150,2009-06-13T16:22:33+00:00
+3131,GQND,small_airport,"Tidjikja Airport",18.570100784301758,-11.423500061035156,1363,AF,MR,MR-09,Tidjikja,0,GQND,TIY,,,http://en.wikipedia.org/wiki/Tidjikja_Airport,,150,2009-06-13T16:25:19+00:00
+30699,GQNE,small_airport,"Abbaye Airport",16.63331413269043,-14.200000762939453,66,AF,MR,MR-05,Boghe,0,GQNE,BGH,,,http://en.wikipedia.org/wiki/Abbaye_Airport,,50,2009-06-13T16:17:11+00:00
+32131,GQNB,small_airport,"Boutilimit Airport",17.533000946044922,-14.682999610900879,121,AF,MR,MR-06,Boutilimit,0,GQNB,OTL,,,http://en.wikipedia.org/wiki/Boutilimit_Airport,,50,2009-06-13T16:16:31+00:00
+31126,GQPF,small_airport,"Fderik Airport",22.66699981689453,-12.732999801635742,961,AF,MR,MR-11,Fderik,0,GQPF,FGD,,,http://en.wikipedia.org/wiki/Fderik_Airport,,50,2009-06-13T16:18:41+00:00
+31934,GQNL,small_airport,"Letfotar Airport",17.75,-12.5,256,AF,MR,MR-05,Moudjeria,0,GQNL,MOM,,,http://en.wikipedia.org/wiki/Letfotar_Airport,,50,2009-04-12T05:37:39+00:00
+32446,GQNT,small_airport,"Tamchakett Airport",17.232999801635742,-10.817000389099121,620,AF,MR,MR-02,Tamchakett,0,GQNT,THT,,,http://en.wikipedia.org/wiki/Tamchakett_Airport,,50,2009-06-13T16:23:02+00:00
+32461,GQNH,small_airport,"Timbedra Airport",16.232999801635742,-8.166999816894531,692,AF,MR,MR-01,Timbedra,0,GQNH,TMD,,,http://en.wikipedia.org/wiki/Timbedra_Airport,,50,2009-06-13T16:25:55+00:00
+31548,GQNM,small_airport,"Dahara Airport",16.299999237060547,-8.050000190734863,722,AF,MR,MR-01,Timbreda,0,GQNM,,,,http://en.wikipedia.org/wiki/Dahara_Airport,,50,2009-06-13T16:20:21+00:00
+318017,MR-0002,closed,"Bou Gara Airport",16.5334,-10.7912,520,AF,MR,MR-03,,0,,,,,,,0,2016-05-22T18:40:59+00:00
+312503,CGT,small_airport,"Chinguetti Airport",20.5055,-12.3978,1775,AF,MR,MR-07,Chinguetti,0,,CGT,,,,,0,2014-07-20T00:57:14+00:00
+318016,MR-0001,closed,"Old Néma Airport",16.6057,-7.2835,820,AF,MR,MR-01,Néma,0,,,,,,"Néma South",0,2016-05-22T18:08:21+00:00

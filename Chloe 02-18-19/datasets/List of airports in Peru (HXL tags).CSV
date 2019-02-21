@@ -1,0 +1,173 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+6217,SPIM,large_airport,"Jorge Chávez International Airport",-12.0219,-77.114305,113,SA,PE,PE-LIM,Lima,1,SPJC,LIM,,http://www.lap.com.pe/,https://en.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_International_Airport,SPIM,1050,2018-04-27T15:04:18+00:00
+6243,SPZO,large_airport,"Alejandro Velasco Astete International Airport",-13.535699844400002,-71.9387969971,10860,SA,PE,PE-CUS,Cusco,1,SPZO,CUZ,,http://www.corpac.gob.pe/,http://en.wikipedia.org/wiki/Alejandro_Velasco_Astete_International_Airport,,875,2010-09-07T09:49:15+00:00
+6233,SPQU,medium_airport,"Rodríguez Ballón International Airport",-16.3411006927,-71.5830993652,8405,SA,PE,PE-ARE,Arequipa,1,SPQU,AQP,,,http://en.wikipedia.org/wiki/Rodriguez_Ballon_International_Airport,,1050,2010-09-07T09:47:49+00:00
+6222,SPJL,medium_airport,"Inca Manco Capac International Airport",-15.467100143432617,-70.158203125,12552,SA,PE,PE-PUN,Juliaca,1,SPJL,JUL,,,http://en.wikipedia.org/wiki/Inca_Manco_Capac_International_Airport,,875,2008-07-21T16:57:31+00:00
+6242,SPZA,medium_airport,"Maria Reiche Neuman Airport",-14.854000091600001,-74.9615020752,1860,SA,PE,PE-ICA,Nazca,1,SPZA,NZC,,,http://en.wikipedia.org/wiki/Maria_Reiche_Neuman_Airport,,800,2014-07-31T12:28:57+00:00
+6235,SPRU,medium_airport,"Capitan FAP Carlos Martinez De Pinillos International Airport",-8.08141040802002,-79.10880279541016,106,SA,PE,PE-LAL,Trujillo,1,SPRU,TRU,,,http://en.wikipedia.org/wiki/Cap._FAP_Carlos_Mart%C3%ADnez_de_Pinillos_International_Airport,,1050,2008-07-21T16:57:59+00:00
+6232,SPQT,medium_airport,"Coronel FAP Francisco Secada Vignetta International Airport",-3.7847399711608887,-73.30879974365234,306,SA,PE,PE-LOR,Iquitos,1,SPQT,IQT,,,http://en.wikipedia.org/wiki/Crnl._FAP_Francisco_Secada_Vignetta_International_Airport,,1050,2008-07-21T16:57:59+00:00
+6213,SPHI,medium_airport,"Capitan FAP Jose A Quinones Gonzales International Airport",-6.787479877471924,-79.8281021118164,97,SA,PE,PE-LAM,Chiclayo,1,SPHI,CIX,,,http://en.wikipedia.org/wiki/Cap._FAP_Jos%C3%A9_A._Qui%C3%B1ones_Gonzales_International_Airport,,1050,2008-07-21T16:57:20+00:00
+6238,SPTN,medium_airport,"Coronel FAP Carlos Ciriani Santa Rosa International Airport",-18.053300857500002,-70.2758026123,1538,SA,PE,PE-TAC,Tacna,1,SPTN,TCQ,,,http://en.wikipedia.org/wiki/Crnl._FAP_Carlos_Ciriani_Santa_Rosa_International_Airport,,1050,2010-09-06T17:28:59+00:00
+6239,SPTU,medium_airport,"Padre Aldamiz International Airport",-12.6135997772,-69.2285995483,659,SA,PE,PE-MDD,"Puerto Maldonado",1,SPTU,PEM,,,http://en.wikipedia.org/wiki/Padre_Aldamiz_International_Airport,"Puerto Maldonado International Airport",975,2010-09-06T17:29:57+00:00
+6240,SPUR,medium_airport,"Capitán FAP Guillermo Concha Iberico International Airport",-5.20574998856,-80.61640167239999,120,SA,PE,PE-PIU,Piura,1,SPUR,PIU,,,http://en.wikipedia.org/wiki/Cap._FAP_Guillermo_Concha_Iberico_International_Airport,,800,2010-09-06T17:28:00+00:00
+6223,SPJR,medium_airport,"Mayor General FAP Armando Revoredo Iglesias Airport",-7.1391801834106445,-78.4894027709961,8781,SA,PE,PE-CAJ,Cajamarca,1,SPJR,CJA,,,http://en.wikipedia.org/wiki/My._Gral._FAP._Armando_Revoredo_Iglesias_Airport,,875,2008-07-21T16:57:33+00:00
+6205,SPCL,medium_airport,"Cap FAP David Abenzur Rengifo International Airport",-8.37794017791748,-74.57430267333984,513,SA,PE,PE-UCA,Pucallpa,1,SPCL,PCL,,,http://en.wikipedia.org/wiki/Captain_Rolden_International_Airport,,875,2008-07-21T16:57:11+00:00
+6237,SPST,medium_airport,"Cadete FAP Guillermo Del Castillo Paredes Airport",-6.508739948272705,-76.37319946289062,869,SA,PE,PE-SAM,Tarapoto,1,SPST,TPP,,,http://en.wikipedia.org/wiki/Cad._FAP_Guillermo_del_Castillo_Paredes_Airport,,825,2008-07-21T16:58:03+00:00
+6241,SPYL,medium_airport,"Capitan Montes Airport",-4.5766401290894,-81.254096984863,282,SA,PE,PE-PIU,Talara,1,SPYL,TYL,,,http://en.wikipedia.org/wiki/Cap._FAP_Victor_Montes_Arias_Airport,,875,2015-08-16T16:31:26+00:00
+6226,SPME,medium_airport,"Capitan FAP Pedro Canga Rodriguez Airport",-3.55253005027771,-80.38140106201172,115,SA,PE,PE-TUM,Tumbes,1,SPME,TBP,,,http://en.wikipedia.org/wiki/Cap._FAP_Pedro_Canga_Rodr%C3%ADguez_Airport,,800,2008-07-21T16:57:38+00:00
+6216,SPHZ,medium_airport,"Comandante FAP German Arias Graziani Airport",-9.347439765930176,-77.59839630126953,9097,SA,PE,PE-ANC,Anta,0,SPHZ,ATA,,,http://en.wikipedia.org/wiki/Comandante_FAP_Germ%C3%A1n_Arias_Graziani_Airport,,250,2008-07-21T16:57:20+00:00
+6225,SPLP,small_airport,"Las Palmas Air Base",-12.16069984436,-76.998901367188,250,SA,PE,PE-LIM,Chorrillos,0,SPLP,,,,https://en.wikipedia.org/wiki/Las_Palmas_Air_Base,,50,2015-10-05T13:04:03+00:00
+6228,SPMS,medium_airport,"Moises Benzaquen Rengifo Airport",-5.893770217895508,-76.11820220947266,587,SA,PE,PE-LOR,Yurimaguas,1,SPMS,YMS,,,http://en.wikipedia.org/wiki/Mois%C3%A9s_Benzaquen_Rengifo_Airport,,875,2008-07-21T16:57:38+00:00
+6214,SPHO,medium_airport,"Coronel FAP Alfredo Mendivil Duarte Airport",-13.154800415039062,-74.20439910888672,8917,SA,PE,PE-AYA,Ayacucho,1,SPHO,AYP,,,http://en.wikipedia.org/wiki/Coronel_FAP_Alfredo_Mendivil_Duarte_Airport,,800,2008-07-21T16:57:20+00:00
+6203,SPBC,medium_airport,"Caballococha Airport",-3.91686010361,-70.5082015991,328,SA,PE,PE-LOR,Caballococha,0,SPBC,,LHC,,http://en.wikipedia.org/wiki/Caballococha_Airport,,800,2012-11-22T08:27:05+00:00
+6208,SPEO,medium_airport,"Teniente FAP Jaime A De Montreuil Morales Airport",-9.149609565734863,-78.5238037109375,69,SA,PE,PE-ANC,Chimbote,1,SPEO,CHM,,,http://en.wikipedia.org/wiki/Tnte._FAP_Jaime_Montreuil_Morales_Airport,,800,2008-07-21T16:57:18+00:00
+6229,SPNC,medium_airport,"Alferez Fap David Figueroa Fernandini Airport",-9.878809928894043,-76.20480346679688,6070,SA,PE,PE-HUC,Huánuco,1,SPNC,HUU,,,http://en.wikipedia.org/wiki/Alf%C3%A9rez_FAP_David_Figueroa_Fernandini_Airport,,800,2008-07-21T16:57:38+00:00
+6215,SPHY,small_airport,"Andahuaylas Airport",-13.706399917602539,-73.35040283203125,11300,SA,PE,PE-APU,Andahuaylas,1,SPHY,ANS,,,http://en.wikipedia.org/wiki/Andahuaylas_Airport,,450,2008-07-21T16:58:59+00:00
+39627,SPHL,small_airport,"Olmos Airport",-5.984722137451172,-79.74527740478516,585,SA,PE,PE-LAM,<Olmos,1,SPHL,,,,,,350,2008-07-21T16:58:30+00:00
+39628,SPHU,small_airport,"Huancayo Airport",-12.069899559020996,-75.19850158691406,10800,SA,PE,PE-JUN,Huancayo,1,SPHU,,,,,,350,2008-07-21T16:58:31+00:00
+39643,SPPO,small_airport,"Pozuzo Airport",-10.070099830627441,-75.55000305175781,2420,SA,PE,PE-PAS,Pozuzo,1,SPPO,,,,,,350,2008-07-21T16:58:46+00:00
+6220,SPJI,medium_airport,"Juanjui Airport",-7.169099807739258,-76.72859954833984,1148,SA,PE,PE-SAM,Juanjuí,0,SPJI,JJI,,,,,275,2008-07-21T16:57:31+00:00
+6236,SPSO,medium_airport,"Capitán FAP Renán Elías Olivera International Airport",-13.74489974975586,-76.22029876708984,39,SA,PE,PE-ICA,Pisco,0,SPSO,PIO,,,,,275,2008-07-21T16:58:03+00:00
+6202,SPAY,medium_airport,"Teniente General Gerardo Pérez Pinedo Airport",-10.7291002274,-73.7665023804,751,SA,PE,PE-UCA,Atalaya,0,SPAY,,,,http://en.wikipedia.org/wiki/Tnte._Gral._Gerardo_P%C3%A9rez_Pinedo_Airport,,250,2014-07-05T21:17:03+00:00
+6231,SPPY,medium_airport,"Chachapoyas Airport",-6.201809883117676,-77.8561019897461,8333,SA,PE,PE-AMA,Chachapoyas,0,SPPY,CHH,,,,,250,2008-07-21T16:57:57+00:00
+6204,SPBR,medium_airport,"Iberia Airport",-11.411600112915039,-69.48870086669922,750,SA,PE,PE-MDD,Iberia,0,SPBR,IBP,,,,,250,2008-07-21T16:57:09+00:00
+6224,SPLO,medium_airport,"Ilo Airport",-17.69499969482422,-71.34400177001953,72,SA,PE,PE-MOQ,Ilo,0,SPLO,ILQ,,,,,250,2008-08-27T07:58:46+00:00
+6219,SPJE,medium_airport,"Shumba Airport",-5.59248,-78.774002,2477,SA,PE,PE-CAJ,Jaén,1,SPJE,JAE,,,https://en.wikipedia.org/wiki/Ja%C3%A9n_Airport,,250,2016-07-31T08:56:11+00:00
+6221,SPJJ,medium_airport,"Francisco Carle Airport",-11.7831001282,-75.47339630130001,11034,SA,PE,PE-JUN,Jauja,1,SPJJ,JAU,,,http://en.wikipedia.org/wiki/Francisco_Carle_Airport,,250,2011-10-04T15:02:01+00:00
+6218,SPJA,medium_airport,"Juan Simons Vela Airport",-6.067860126495361,-77.16000366210938,2707,SA,PE,PE-SAM,Rioja,0,SPJA,RIJ,,,,,250,2008-07-21T16:57:29+00:00
+6211,SPGB,small_airport,"Galilea Airport",-4.031879901885986,-77.75879669189453,597,SA,PE,PE-AMA,,0,SPGB,,,,,,50,2008-06-13T14:30:04+00:00
+6207,SPEE,small_airport,"El Estrecho Airport",-2.4540600776672363,-72.67060089111328,421,SA,PE,PE-LOR,,0,SPEE,,SP69,,,,50,2008-06-13T14:30:04+00:00
+6212,SPGP,small_airport,"Güeppi­ Airport",-0.11905600130558014,-75.2479019165039,680,SA,PE,PE-LOR,,0,SPGP,,SP01,,,,50,2008-07-21T16:57:20+00:00
+39621,SPCR,small_airport,"Acarí Airbase Airport",-15.5,-74.66667175292969,540,SA,PE,PE-ARE,Acarí,0,SPCR,,,,,,50,2008-07-21T16:58:24+00:00
+39616,SPAT,small_airport,"Aguas Calientes Airport",-8.833330154418945,-74.68329620361328,9840,SA,PE,PE-HUC,"Aguas Calientes",0,SPAT,,,,,,50,2008-08-27T07:58:46+00:00
+39611,SPAG,small_airport,"Aguaytia Airport",-9.037409782409668,-75.50920104980469,5853,SA,PE,PE-UCA,Aguaytia,0,SPAG,,,,,,50,2008-07-21T16:58:15+00:00
+39610,SPAA,small_airport,"Caraz Airport",-9.05142879486084,-77.81014251708984,7401,SA,PE,PE-ANC,Ancash,0,SPAA,,,,,,50,2008-07-21T16:58:14+00:00
+39602,SPNO,small_airport,"Ancón Airport",-11.794699668884277,-77.18090057373047,38,SA,PE,PE-LIM,Ancón,0,SPNO,,,,,,50,2008-07-21T16:56:53+00:00
+6201,SPAS,small_airport,"Alferez FAP Alfredo Vladimir Sara Bauer Airport",-2.79612994194,-76.46659851070001,728,SA,PE,PE-LOR,Andoas,0,SPAS,AOP,,,http://en.wikipedia.org/wiki/Alferez_FAP_Alfredo_Vladimir_Sara_Bauer_Airport,,50,2012-06-17T18:03:00+00:00
+39619,SPCG,small_airport,"Casa Grande Airport",-7.743888854980469,-79.18638610839844,475,SA,PE,PE-LAL,Ascope,0,SPCG,,,,,,50,2008-07-21T16:58:22+00:00
+39639,SPOY,small_airport,"Atico Airport",-16.232221603393555,-73.61194610595703,9,SA,PE,PE-ARE,Atico,0,SPOY,,,,,,50,2008-07-21T16:58:42+00:00
+32345,SPAC,small_airport,"Ciro Alegria Airport",-4.566999912261963,-77.91699981689453,547,SA,PE,PE-AMA,Bagua,0,SPAC,,,,,,50,2008-07-21T16:56:59+00:00
+39626,SPGU,small_airport,"Baguá Airport",-5.6347222328186035,-78.53055572509766,1375,SA,PE,PE-AMA,Baguá,0,SPGU,,,,,,50,2008-07-21T16:58:29+00:00
+39617,SPBA,small_airport,"Barranca Airport",-10.75,-77.76667022705078,160,SA,PE,PE-LIM,Barranca,0,SPBA,,,,,,50,2008-07-21T16:58:20+00:00
+39591,SPBY,small_airport,Bayovar,-5.830749988555908,-81.02580261230469,88,SA,PE,PE-PIU,Bayovar,0,SPBY,,,,,,50,2008-07-21T16:56:42+00:00
+30772,SPBL,small_airport,"Huallaga Airport",-7.06056022644043,-76.58219909667969,980,SA,PE,PE-SAM,Bellavista,0,SPBL,BLP,,,,,50,2008-07-21T16:57:09+00:00
+39625,SPGS,small_airport,"Lagunas Airport",-6.900000095367432,-78.63333129882812,12675,SA,PE,PE-CAJ,Cajamarca,0,SPGS,,,,,,50,2008-07-21T16:58:28+00:00
+32346,SPAM,small_airport,"Camana Airport",-16.632999420166016,-72.68299865722656,209,SA,PE,PE-ARE,Camana,0,SPAM,,,,,,50,2008-07-21T16:57:01+00:00
+32377,SPVL,small_airport,"Caraveli Airport",-15.767000198364258,-73.36699676513672,5675,SA,PE,PE-ARE,Caraveli,0,SPVL,,,,,,50,2008-07-21T17:05:58+00:00
+39649,SPSA,small_airport,"Casma Airport",-9.449999809265137,-78.30000305175781,248,SA,PE,PE-ANC,Casma,0,SPSA,,,,,,50,2008-07-21T16:58:52+00:00
+39632,SPLD,small_airport,"Celendín Airport",-6.867599964141846,-78.14990234375,8600,SA,PE,PE-CAJ,Celendín,0,SPLD,,,,,,50,2008-07-21T16:58:36+00:00
+39662,SPZT,small_airport,"Chazuta Airport",-6.574166774749756,-76.13666534423828,757,SA,PE,PE-SAM,Chazuta,0,SPZT,,,,,,50,2008-07-21T16:59:04+00:00
+39595,SPHA,small_airport,"Chincha Airport",-13.370699882507324,-76.11289978027344,640,SA,PE,PE-ICA,Chincha,0,SPHA,,,,,,50,2008-07-21T16:56:46+00:00
+39647,SPRG,small_airport,"San Regis Airport",-13.516666412353516,-76.0999984741211,294,SA,PE,PE-ICA,Chincha,0,SPRG,,,,,,50,2008-07-21T16:58:50+00:00
+39635,SPNH,small_airport,"Laguna Choclococha Airport",-13.16569995880127,-75.0719985961914,14965,SA,PE,PE-HUV,Choclococha,0,SPNH,,,,,,50,2008-07-21T16:58:39+00:00
+39622,SPCT,small_airport,"Chota Airport",-6.550000190734863,-78.6500015258789,7800,SA,PE,PE-CAJ,Chota,0,SPCT,,,,,,50,2008-07-21T16:58:25+00:00
+39592,SPCC,small_airport,"Ciudad Constitución Airport",-9.865278244018555,-75.0088882446289,775,SA,PE,PE-PAS,"Ciudad Constitución",0,SPCC,,,,,,50,2008-07-21T16:56:43+00:00
+6230,SPOL,small_airport,"Collique Airport",-11.92870044708252,-77.06109619140625,410,SA,PE,PE-LIM,"Collique Bajo",0,SPOL,,,,,,50,2008-07-21T16:57:46+00:00
+32349,SPCM,small_airport,"Contamana Airport",-7.33666992188,-74.99140167239999,480,SA,PE,PE-LOR,Contamana,0,SPCM,,CTF,,,,50,2012-06-23T03:37:26+00:00
+39638,SPOS,small_airport,"Zorritos Airport",-3.6737399101257324,-80.65239715576172,95,SA,PE,PE-TUM,"Contralmirante Villar",0,SPOS,,,,,,50,2008-07-21T16:58:42+00:00
+6206,SPDR,small_airport,"Trompeteros Airport",-3.80601000786,-75.03929901119999,427,SA,PE,PE-LOR,Corrientes,0,SPDR,TDP,,,,,50,2013-08-24T21:04:55+00:00
+39620,SPCN,small_airport,"Cunocuno Airport",-15.977222442626953,-73.10832977294922,5300,SA,PE,PE-ARE,Cunocuno,0,SPCN,,,,,,50,2008-07-21T16:58:23+00:00
+39613,SPAL,small_airport,"Alao Airport",-6.5,-76.7166976928711,1740,SA,PE,PE-SAM,"El Dorado",0,SPAL,,,,,,50,2008-07-21T16:58:17+00:00
+39651,SPSJ,small_airport,"San José de Sisa Airport",-6.616489887237549,-76.68840026855469,1200,SA,PE,PE-SAM,"El Dorado",0,SPSJ,,,,,,50,2008-07-21T16:58:54+00:00
+32375,SPTP,small_airport,"El Pato Air Base",-4.54980993270874,-81.2240982055664,286,SA,PE,PE-PIU,"El Pato",0,SPTP,,,,,,50,2008-07-21T17:09:30+00:00
+39659,SPVA,small_airport,"Hacienda El Valor Airport",-5.662499904632568,-78.64472198486328,,SA,PE,PE-AMA,"El Valor",0,SPVA,,,,,,50,2008-07-21T16:59:01+00:00
+6209,SPEP,small_airport,"Puerto Esperanza Airport",-9.7681303024292,-70.70649719238281,725,SA,PE,PE-UCA,Esperanza,0,SPEP,,,,,,50,2008-07-21T16:57:18+00:00
+39624,SPFA,small_airport,"Fausa Airport",-14.709400177001953,-71.7311019897461,14809,SA,PE,PE-CUS,Fausa,0,SPFA,,,,,,50,2008-07-21T20:27:26+00:00
+30636,SPAR,small_airport,"Alerta Airport",-11.682999610900879,-69.33300018310547,797,SA,PE,PE-MDD,Fortaleza,0,SPAR,ALD,,,,,50,2008-07-21T16:57:05+00:00
+39658,SPUC,small_airport,"Huamachuco Airport",-7.81808,-78.02834,11224,SA,PE,PE-LAL,Huamachuco,0,SPUC,,,,,,50,2015-04-18T07:57:22+00:00
+39604,SPPP,small_airport,"Huanacopampa Airport",-14.155900001525879,-72.28379821777344,13130,SA,PE,PE-APU,Huanacopampa,0,SPPP,,,,,,50,2008-07-21T16:56:54+00:00
+6200,SPAB,small_airport,"Huancabamba Airport",-5.256770133972168,-79.44290161132812,6312,SA,PE,PE-PIU,Huancabamba,0,SPAB,,SP72,,,,50,2008-08-27T07:58:46+00:00
+39629,SPHV,small_airport,"Huánuco Viejo Airport",-9.92632007598877,-76.23390197753906,6320,SA,PE,PE-HUC,"Huánuco Viejo",0,SPHV,,,,,,50,2008-07-21T16:58:32+00:00
+39597,SPIA,small_airport,"Ica Airport",-14.20009994506836,-75.57389831542969,1500,SA,PE,PE-ICA,Ica,0,SPIA,,,,,,50,2008-07-21T16:56:48+00:00
+39648,SPRL,small_airport,"Imperial Airport",-12.316666603088379,-75.06666564941406,,SA,PE,PE-LIM,Imperial,0,SPRL,,,,,,50,2008-07-21T16:58:51+00:00
+39598,SPIN,small_airport,"Iñapari Airport",-10.979000091552734,-69.55940246582031,917,SA,PE,PE-MDD,Iñapari,0,SPIN,,,,,,50,2008-07-21T16:56:49+00:00
+32362,SPNT,small_airport,"Intuto Airport",-3.5829999446868896,-74.75,650,SA,PE,PE-LOR,Intuto,0,SPNT,,,,,,50,2008-07-21T16:57:42+00:00
+32353,SPEN,small_airport,"Iscozasin Airport",-10.182999610900879,-75.1500015258789,898,SA,PE,PE-PAS,Iscozasin,0,SPEN,,,,,,50,2008-07-21T16:57:18+00:00
+39645,SPQJ,small_airport,"Jaquí Airport",-15.466667175292969,-74.43333435058594,,SA,PE,PE-ARE,Jaquí,0,SPQJ,,,,,,50,2008-07-21T16:58:48+00:00
+39589,SPBS,small_airport,"Bellavista Airport",-5.288390159606934,-76.29209899902344,675,SA,PE,PE-LOR,Jeberos,0,SPBS,,,,,,50,2008-07-21T16:56:40+00:00
+39618,SPBQ,small_airport,"Nuevo Acari Airport",-15.483333587646484,-74.68333435058594,590,SA,PE,PE-ARE,"La Bella Unión",0,SPBQ,,,,,,50,2008-07-21T16:58:21+00:00
+39605,SPQI,small_airport,"Kiteni Airport",-12.649100303649902,-73.03780364990234,2540,SA,PE,PE-CUS,"La Convención",0,SPQI,,,,,,50,2008-07-21T16:56:55+00:00
+39608,SPLC,small_airport,"Mariano Melgar",-16.791500091552734,-71.8865966796875,3890,SA,PE,PE-ARE,"La Joya",0,SPLC,,,,,,50,2008-07-21T16:57:34+00:00
+39600,SPLG,small_airport,"Lagarto Nuevo Airport",-12.641599655151367,-69.8375015258789,763,SA,PE,PE-MDD,Lagarto,0,SPLG,,,,,,50,2008-07-21T16:56:51+00:00
+39652,SPSL,small_airport,"Lamas Airport",-6.416666507720947,-76.53333282470703,2600,SA,PE,PE-SAM,Lamas,0,SPSL,,,,,,50,2008-07-21T16:58:55+00:00
+32412,SPOV,small_airport,"Shiringayoc/Hacienda Hda Mejia Airport",-11.9,-69.167,748,SA,PE,PE-MDD,"Leon Velarde",0,SPOV,,,,,,50,2018-04-26T13:12:42+00:00
+39633,SPLT,small_airport,"Lobitos Airport",-4.448611259460449,-81.27555847167969,45,SA,PE,PE-PIU,Lobitos,0,SPLT,,,,,,50,2008-07-21T16:58:37+00:00
+39623,SPEB,small_airport,"Pebas Airport",-3.3333001136779785,-71.81670379638672,383,SA,PE,PE-LOR,Loreto,0,SPEB,,,,,,50,2008-07-21T16:58:26+00:00
+39631,SPLA,small_airport,"Luisiana Airport",-12.66670036315918,-73.7332992553711,,SA,PE,PE-AYA,Luisiana,0,SPLA,,,,,,50,2008-07-21T20:28:43+00:00
+39660,SPYA,small_airport,"Luya Airport",-6.691699981689453,-79.70169830322266,298,SA,PE,PE-LAM,Luya,0,SPYA,,,,,,50,2008-07-21T16:59:02+00:00
+41593,PE-MFT,small_airport,"Machu Pichu Airport",-13.116666793823242,-72.5666732788086,9500,SA,PE,PE-HUC,"Machu Pichu",0,,MFT,,,,,50,2008-08-27T07:58:12+00:00
+39609,SOML,small_airport,"Malin Airport",-7.63332986831665,-78.6500015258789,5190,SA,PE,PE-LAL,Malin,0,SOML,,,,,,50,2008-07-21T16:58:13+00:00
+32363,SPNU,small_airport,"Manu Airport",-12.282999992370605,-70.88300323486328,1010,SA,PE,PE-MDD,Manu,0,SPNU,,,,,,50,2008-07-21T16:57:46+00:00
+39654,SPSS,small_airport,"Masisea Airport",-8.61142,-74.309962,522,SA,PE,PE-UCA,Masisea,0,SPSS,,,,,,50,2018-04-27T19:06:27+00:00
+6227,SPMF,small_airport,"Mayor PNP Nancy Flores Paucar Airport",-11.3254,-74.535598,2247,SA,PE,PE-JUN,Mazamari,0,SPMF,MZA,,,https://en.wikipedia.org/wiki/Mayor_Pnp_Nancy_Flore_Airport,"Manuel Prado Ugarteche",50,2018-04-27T15:29:47+00:00
+32351,SPDO,small_airport,"Mollendo Airport",-17.045400619506836,-71.98370361328125,9,SA,PE,PE-ARE,Mollendo,0,SPDO,,,,,,50,2008-07-21T16:57:16+00:00
+6210,SPEQ,small_airport,"Cesar Torke Podesta Airport",-17.179000854492188,-70.93080139160156,4480,SA,PE,PE-MOQ,Moquegua,0,SPEQ,,,,,,50,2008-07-21T16:57:18+00:00
+31883,SPBB,small_airport,"Moyobamba Airport",-6.0188889503479,-76.98832702636719,2749,SA,PE,PE-SAM,Moyobamba,0,SPBB,MBP,,,,,50,2008-07-21T16:57:07+00:00
+39656,SPTA,small_airport,"Nauta Airport",-4.533299922943115,-73.55000305175781,370,SA,PE,PE-LOR,Nauta,0,SPTA,,,,,,50,2008-07-21T16:58:58+00:00
+39601,SPNM,small_airport,"Nuevo Mundo Airport",-11.541500091552734,-73.14219665527344,1090,SA,PE,PE-CUS,"Nuevo Mundo",0,SPNM,,,,,,50,2008-07-21T16:56:52+00:00
+39590,SPBT,small_airport,"Obenteni Airport",-10.747777938842773,-74.2205581665039,3290,SA,PE,PE-UCA,Obenteni,0,SPBT,,,,,,50,2008-07-21T16:56:41+00:00
+32364,SPOR,small_airport,"Orcopampa Airport",-15.317000389099121,-72.3499984741211,12200,SA,PE,PE-ARE,Orcopampa,0,SPOR,,,,,,50,2008-07-21T16:57:48+00:00
+39637,SPON,small_airport,"Orellana Airport",-6.896749973297119,-75.1521987915039,424,SA,PE,PE-LOR,Orellana,0,SPON,,,,,,50,2008-07-21T16:58:41+00:00
+39593,SPEZ,small_airport,"Puerto Bermudez Airport",-10.299200057983398,-74.93720245361328,840,SA,PE,PE-PAS,Oxapampa,0,SPEZ,,,,,,50,2008-07-21T16:56:44+00:00
+32379,SPYO,small_airport,"Pacasmayo Airport",-7.40693998336792,-79.56890106201172,95,SA,PE,PE-LAL,Pacasmayo,0,SPYO,,,,,,50,2008-07-21T17:01:22+00:00
+39661,SPZH,small_airport,"Pachiza Airport",-7.299280166625977,-76.77459716796875,1102,SA,PE,PE-SAM,Pachiza,0,SPZH,,,,,,50,2008-07-21T16:59:03+00:00
+39599,SPIT,small_airport,"Paita Airport",-5.085949897766113,-81.15280151367188,230,SA,PE,PE-PIU,"Paita Wesr",0,SPIT,,,,,,50,2008-07-21T16:56:50+00:00
+39642,SPPN,small_airport,"Palmas del Espino Airport",-8.292590141296387,-76.4395980834961,1625,SA,PE,PE-SAM,"Palmas del Espino",0,SPPN,,,,,,50,2008-07-21T16:58:45+00:00
+32358,SPJB,small_airport,"Pampa Grande Airport",-7.61447,-78.06159,8727,SA,PE,PE-CAJ,"Pampa Grande",0,SPJB,,,,,,50,2015-04-18T07:55:18+00:00
+32368,SPPH,small_airport,"Pampa Hermosa Airport",-7.199999809265137,-75.30000305175781,510,SA,PE,PE-LOR,"Pampa Hermosa",0,SPPH,,,,,,50,2008-07-21T16:57:57+00:00
+32367,SPPG,small_airport,"Paramonga Airport",-10.666999816894531,-77.83300018310547,16,SA,PE,PE-LIM,Paramonga,0,SPPG,,,,,,50,2008-07-21T16:57:55+00:00
+39612,SPAI,small_airport,"Urpay Airport",-8.3495,-77.3985,10400,SA,PE,PE-LAL,Pataz,0,SPAI,,,,,,50,2015-04-18T08:05:47+00:00
+39630,SPIS,small_airport,"Pias Airport",-7.92062,-77.52518,8500,SA,PE,PE-LAL,Pataz,0,SPIS,,,,,,50,2015-04-18T07:22:46+00:00
+32347,SPAP,small_airport,"Picota Airport",-6.900000095367432,-76.38300323486328,948,SA,PE,PE-SAM,Picota,0,SPAP,,,,,,50,2008-07-21T16:57:03+00:00
+32355,SPIR,small_airport,"Patria Airport",-13.032999992370605,-71.26699829101562,2224,SA,PE,PE-CUS,Pillcopata,0,SPIR,,,,,,50,2008-07-21T16:57:25+00:00
+39603,SPOA,small_airport,"Saposoa Airport",-6.9600300788879395,-76.76840209960938,982,SA,PE,PE-SAM,"Plaza Saposoa",0,SPOA,SQU,,,,,50,2008-08-27T07:58:46+00:00
+39641,SPPM,small_airport,"Pomacocha Airport",-15.179200172424316,-73.27439880371094,10524,SA,PE,PE-AYA,Pomacocha,0,SPPM,,,,,,50,2008-07-21T16:58:44+00:00
+39644,SPPZ,small_airport,"Palcazú Airport",-9.895833015441895,-75.1177749633789,932,SA,PE,PE-PAS,Porvenir,0,SPPZ,,,,,,50,2008-07-21T16:58:47+00:00
+32350,SPCP,small_airport,"Pucacaca Airport",-6.833000183105469,-76.33300018310547,977,SA,PE,PE-SAM,Pucacaca,0,SPCP,,,,,,50,2008-07-21T16:57:14+00:00
+32366,SPPB,small_airport,"Tipishsa Airport",-9.533060073852539,-72.75689697265625,783,SA,PE,PE-UCA,"Puerto Breu",0,SPPB,,,,,,50,2008-07-21T16:57:53+00:00
+39596,SPHC,small_airport,"Chala Airport",-15.869999885559082,-74.24739837646484,112,SA,PE,PE-ARE,"Puerto Chala",0,SPHC,,,,,,50,2008-07-21T16:56:47+00:00
+32374,SPTI,small_airport,"Puerto Inca Airport",-9.383000373840332,-74.96700286865234,583,SA,PE,PE-HUC,"Puerto Inca",0,SPTI,,,,,,50,2008-07-21T17:04:33+00:00
+32365,SPPA,small_airport,"Puerto Ocopa Airport",-11.133000373840332,-74.3499984741211,1217,SA,PE,PE-JUN,"Puerto Ocopa",0,SPPA,,,,,,50,2008-07-21T16:57:51+00:00
+39594,SPGT,small_airport,"Puerto Victoria Airport",-9.902609825134277,-74.96410369873047,782,SA,PE,PE-PAS,"Puerto Victoria",0,SPGT,,,,,,50,2008-07-21T16:56:45+00:00
+39646,SPQR,small_airport,"Quiruvilca Airport",-7.9666666984558105,-78.19999694824219,13509,SA,PE,PE-LAL,Qiruvilca,0,SPQR,,,,,,50,2008-07-21T16:58:49+00:00
+32540,SPIL,small_airport,"Quince Air Base",-13.23330020904541,-70.75330352783203,2047,SA,PE,PE-CUS,"Quince Mil",0,SPIL,UMI,,,,,50,2008-07-21T16:57:22+00:00
+32369,SPQN,small_airport,"Requena Airport",-5.066999912261963,-73.86699676513672,393,SA,PE,PE-LOR,Requena,0,SPQN,REQ,,,,,50,2008-07-21T16:57:59+00:00
+39636,SPNR,small_airport,"Ricrán Airport",-10.777950286865234,-76.25131225585938,13720,SA,PE,PE-PAS,Ricrán,0,SPNR,,,,,,50,2008-07-21T16:58:40+00:00
+32359,SPLN,small_airport,"San Nicolas Airport",-6.39231014251709,-77.5011978149414,5082,SA,PE,PE-AMA,"Rodriguez de Mendoza",0,SPLN,RIM,,,,,50,2008-07-21T16:57:36+00:00
+32373,SPTE,small_airport,"San Francisco Airport",-12.532999992370605,-73.80000305175781,2499,SA,PE,PE-CUS,"San Francisco",0,SPTE,,,,,,50,2008-07-21T16:58:04+00:00
+39650,SPSF,small_airport,"San Francisco Airport",-6.6166801452637,-77.766700744629,8202,SA,PE,PE-AMA,"San Francisco de Yeso",0,SPSF,,,,,,50,2016-01-21T22:39:24+00:00
+39615,SPAO,small_airport,"San Juan Aposento Airport",-15.353899955749512,-75.16709899902344,23,SA,PE,PE-ICA,"San Juan Aposento",0,SPAO,APE,,,,,50,2008-07-21T16:58:19+00:00
+32302,SPJN,small_airport,"San Juan de Marcona Airport",-15.352499961853027,-75.13719940185547,144,SA,PE,PE-ICA,"San Juan de Marcona",0,SPJN,SJA,,,,,50,2008-07-21T16:57:33+00:00
+28475,SPRF,small_airport,"San Rafael Airport",-14.267000198364258,-70.46700286865234,14422,SA,PE,PE-PUN,"San Rafael",0,SPRF,,,,,,50,2008-06-13T14:30:04+00:00
+6234,SPRM,small_airport,"Capitán FAP Leonardo Alvariño Herr Airport",-11.128600120544434,-75.35050201416016,2600,SA,PE,PE-JUN,"San Ramón",0,SPRM,,,,,,50,2008-07-21T16:57:59+00:00
+39634,SPMR,small_airport,"Santa Maria Airport",-11.983333587646484,-77,769,SA,PE,PE-LIM,"Santa María",0,SPMR,SMG,,,,,50,2008-07-21T16:58:38+00:00
+32354,SPIP,small_airport,"Satipo Airport",-11.2625,-74.647778,2099,SA,PE,PE-JUN,Satipo,0,SPIP,,,,,,50,2018-04-26T13:08:22+00:00
+32371,SPSE,small_airport,"Sepahua Airport",-11.141799926757812,-73.03350067138672,886,SA,PE,PE-UCA,Sepahua,0,SPSE,,,,,,50,2008-07-21T16:58:01+00:00
+39653,SPSN,small_airport,"Shapaja Airport",-6.5797200202941895,-76.26280212402344,700,SA,PE,PE-SAM,Shapaja,0,SPSN,,,,,,50,2008-07-21T16:58:56+00:00
+39655,SPSY,small_airport,"Shiringayoc Airport",-11.898,-69.0625,856,SA,PE,PE-MDD,Shiringayoc,0,SPSY,SYC,,,,,50,2018-04-27T10:32:55+00:00
+32372,SPSI,small_airport,"Siguas Airport",-16.367000579833984,-72.16699981689453,4720,SA,PE,PE-ARE,Siguas,0,SPSI,,,,,,50,2008-07-21T16:58:02+00:00
+39614,SPAN,small_airport,"Sullana Airport",-4.903888702392578,-80.6852798461914,197,SA,PE,PE-PIU,Sullana,0,SPAN,,,,,,50,2008-07-21T16:58:18+00:00
+32438,SPGM,small_airport,"Tingo Maria Airport",-9.133000373840332,-75.94999694824219,2010,SA,PE,PE-HUC,"Tingo Maria",0,SPGM,TGI,,,,,50,2008-07-21T16:57:20+00:00
+39657,SPTY,small_airport,"Tintay Airport",-13.959166526794434,-73.18583679199219,8809,SA,PE,PE-APU,Tintay,0,SPTY,,,,,,50,2008-07-21T16:58:59+00:00
+32348,SPCH,small_airport,"Tocache Airport",-8.1829996109,-76.516998291,1500,SA,PE,PE-SAM,Tocache,0,SPCH,,TCG,,,,50,2012-11-22T08:28:04+00:00
+39606,SPTQ,small_airport,"Toquepala Airport",-17.29949951171875,-70.65280151367188,8536,SA,PE,PE-TAC,Toquepala,0,SPTQ,,,,,,50,2008-07-21T16:56:56+00:00
+32376,SPTR,small_airport,"Tournavista Airport",-8.922406,-74.715234,649,SA,PE,PE-HUC,Tournavista,0,SPTR,,,,,,50,2018-04-27T19:22:01+00:00
+39640,SPPL,small_airport,"Playa Airport",-8.517820358276367,-76.48049926757812,2070,SA,PE,PE-SAM,Trismaje,0,SPPL,,,,,,50,2008-07-21T16:58:43+00:00
+32357,SPIZ,small_airport,"Uchiza Airport",-8.467000007629395,-76.3499984741211,1965,SA,PE,PE-HUC,Uchiza,0,SPIZ,UCZ,,,,,50,2008-07-21T16:57:29+00:00
+32361,SPNP,small_airport,"Ventilla Airport",-15.800000190734863,-70.05000305175781,13123,SA,PE,PE-PUN,Ventilla,0,SPNP,,,,,,50,2008-07-21T16:57:40+00:00
+39607,SPVI,small_airport,"Vicco Airport",-10.847844123840332,-76.24695587158203,13464,SA,PE,PE-PAS,Vicco,0,SPVI,,,,,,50,2008-07-21T16:56:57+00:00
+32378,SPVR,small_airport,"Vitor Airport",-16.42919921875,-71.83779907226562,,SA,PE,PE-ARE,Vitor,0,SPVR,,,,,,50,2008-07-21T17:06:20+00:00
+32380,SPYU,small_airport,"Yauca Airport",-15.618900299072266,-74.53610229492188,488,SA,PE,PE-ARE,Yauca,0,SPYU,,,,,,50,2008-07-21T17:05:42+00:00
+32356,SPIY,small_airport,"Yauri Airport",-14.800000190734863,-71.43299865722656,12972,SA,PE,PE-CUS,Yauri,0,SPIY,,,,,,50,2008-07-21T16:57:27+00:00
+32360,SPLS,small_airport,"Zorrillos Airport",-8.416999816894531,-75.13300323486328,711,SA,PE,PE-UCA,Zorrillos,0,SPLS,,,,,,50,2008-07-21T16:57:38+00:00
+313312,spgl,small_airport,"Chagual Airport",-7.798106,-77.6495,3967,SA,PE,PE-LAL,,0,SPGL,,,,,,0,2014-11-30T17:03:52+00:00
+327366,PE-0004,small_airport,"Santa Maria de Fatima Airport",-11.940815,-68.994212,857,SA,PE,PE-MDD,,0,,,,,,,0,2018-04-27T11:13:09+00:00
+323804,PE-0003,small_airport,"Cabo Pantoja Airstrip",-0.952,-75.179731,,SA,PE,PE-LOR,"Cabo Pantoja",0,,,,,,,0,2017-06-12T09:57:47+00:00
+327368,PE-0006,small_airport,"Quempiri Airfield",-11.876932,-73.916868,1329,SA,PE,PE-JUN,"Cutivireni Mission",0,SPCV,,,,,,0,2018-09-09T13:32:13+00:00
+316784,PE-0002,small_airport,"Old Iquitos Airport",-3.7422,-73.2604,295,SA,PE,PE-LOR,Iquitos,0,,,,,,,0,2016-01-23T09:58:02+00:00
+327367,PE-0005,small_airport,"Kirigueti Airfield",-11.57419,-73.12853,1168,SA,PE,PE-CUS,Kirigueti,0,,,,,,,0,2018-04-27T11:36:28+00:00
+314993,PE-0001,small_airport,"Lagunas Airstrip",-5.2475,-75.678,430,SA,PE,PE-LOR,Lagunas,0,,,,,,,0,2015-07-16T10:47:30+00:00
+301326,VVN,small_airport,"Las Malvinas/Echarate Airport",-11.854861,-72.939332,1285,SA,PE,PE-CUS,"Las Malvinas",0,SPWT,VVN,,,https://en.wikipedia.org/wiki/Las_Malvinas_Airport,,0,2018-10-28T12:44:53+00:00
+327371,SPYC,small_airport,"Yarinacocha Airport",-8.340436,-74.597906,489,SA,PE,PE-UCA,Pucallpa,0,SPYC,,,,,,0,2018-04-27T18:36:32+00:00
+327372,PE-0007,small_airport,"Pucallpa West Airport",-8.361953,-74.656877,489,SA,PE,PE-UCA,Pucallpa,0,,,,,,,0,2018-04-27T18:58:08+00:00

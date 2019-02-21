@@ -1,0 +1,236 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5531,RJAA,large_airport,"Narita International Airport",35.7647018433,140.386001587,141,AS,JP,JP-12,Tokyo,1,RJAA,NRT,,,http://en.wikipedia.org/wiki/Narita_International_Airport,"TYO, Tokyo Narita Airport, New Tokyo International Airport",1033675,2015-01-23T13:00:50+00:00
+5627,RJTT,large_airport,"Tokyo Haneda International Airport",35.552299,139.779999,35,AS,JP,JP-13,Tokyo,1,RJTT,HND,,http://www.haneda-airport.jp/,http://en.wikipedia.org/wiki/Tokyo_International_Airport,"TYO, Haneda",1168475,2016-11-21T16:05:24+00:00
+5536,RJBB,large_airport,"Kansai International Airport",34.42729949951172,135.24400329589844,26,AS,JP,JP-27,Osaka,1,RJBB,KIX,,http://www.kansai-airport.or.jp/en/index.asp,http://en.wikipedia.org/wiki/Kansai_International_Airport,OSA,1023275,2008-06-13T14:30:04+00:00
+5598,RJOO,large_airport,"Osaka International Airport",34.785499572753906,135.43800354003906,50,AS,JP,JP-27,Osaka,1,RJOO,ITM,,,http://en.wikipedia.org/wiki/Osaka_International_Airport,"OSA, Itami",51150,2009-01-29T22:35:54+00:00
+5564,RJFF,large_airport,"Fukuoka Airport",33.585899353027344,130.4510040283203,32,AS,JP,JP-40,Fukuoka,1,RJFF,FUK,,http://www.fuk-ab.co.jp/english/frame_index.html,http://en.wikipedia.org/wiki/Fukuoka_Airport,"Itazuke Air Base",1022275,2008-06-13T14:30:04+00:00
+5544,RJCC,large_airport,"New Chitose Airport",42.77519989013672,141.69200134277344,82,AS,JP,JP-01,"Chitose / Tomakomai",1,RJCC,CTS,,http://www.new-chitose-airport.jp/language/english/,http://en.wikipedia.org/wiki/New_Chitose_Airport,,1021475,2009-01-30T18:14:38+00:00
+5671,ROAH,large_airport,"Naha Airport",26.1958007812,127.646003723,12,AS,JP,JP-47,Naha,1,ROAH,OKA,,http://www.naha-airport.co.jp/,http://en.wikipedia.org/wiki/Naha_Airport,"那覇空港, Naha Kūkō?, AHA, Naha AFB",51150,2012-06-10T15:23:14+00:00
+5576,RJGG,large_airport,"Chubu Centrair International Airport",34.8583984375,136.80499267578125,15,AS,JP,JP-23,Tokoname,1,RJGG,NGO,,,http://en.wikipedia.org/wiki/Ch%C5%ABbu_Centrair_International_Airport,,1012875,2008-08-08T11:22:31+00:00
+5673,RODN,large_airport,"Kadena Air Base",26.3556,127.767998,143,AS,JP,JP-47,,0,RODN,DNA,,,https://en.wikipedia.org/wiki/Kadena_Air_Base,,850,2016-05-31T09:38:33+00:00
+5581,RJNA,medium_airport,"Nagoya Airport",35.255001068115234,136.9239959716797,52,AS,JP,JP-23,Nagoya,1,RJNA,NKM,,,http://en.wikipedia.org/wiki/Nagoya_Airfield,,925,2008-08-08T11:17:08+00:00
+5629,RJTY,large_airport,"Yokota Air Base",35.74850082397461,139.34800720214844,463,AS,JP,JP-13,Fussa,0,RJTY,OKO,,,http://en.wikipedia.org/wiki/Yokota_Air_Base,,850,2008-08-08T11:30:53+00:00
+5566,RJFK,large_airport,"Kagoshima Airport",31.80340003967285,130.718994140625,906,AS,JP,JP-46,Kagoshima,1,RJFK,KOJ,,,http://en.wikipedia.org/wiki/Kagoshima_Airport,,1150,2009-01-28T17:24:47+00:00
+5590,RJOA,medium_airport,"Hiroshima Airport",34.4361000061,132.919006348,1088,AS,JP,JP-34,Hiroshima,1,RJOA,HIJ,,,http://en.wikipedia.org/wiki/Hiroshima_Airport,,1050,2010-08-29T21:27:39+00:00
+5550,RJCO,medium_airport,"Okadama Airport",43.117447,141.38134,25,AS,JP,JP-01,Sapporo,1,RJCO,OKD,,,http://en.wikipedia.org/wiki/Okadama_Airport,"RJCO, OKD, Sapporo, Okadama",800,2017-06-11T04:59:11+00:00
+5612,RJSM,medium_airport,"Misawa Air Base",40.703201293899994,141.367996216,119,AS,JP,JP-02,Misawa,1,RJSM,MSJ,,,http://en.wikipedia.org/wiki/Misawa_Air_Base,,1050,2010-08-29T21:29:17+00:00
+5615,RJSS,medium_airport,"Sendai Airport",38.1397018433,140.917007446,15,AS,JP,JP-04,Sendai,1,RJSS,SDJ,,,http://en.wikipedia.org/wiki/Sendai_Airport,,1000,2010-08-29T21:28:32+00:00
+5595,RJOI,medium_airport,"Iwakuni Marine Corps Air Station",34.143902,132.235992,7,AS,JP,JP-35,Iwakuni,1,RJOI,IWK,,http://www.iwakuni-airport.jp/,https://en.wikipedia.org/wiki/Marine_Corps_Air_Station_Iwakuni,"Iwakuni MCAS",250,2016-08-06T23:33:02+00:00
+5597,RJOM,medium_airport,"Matsuyama Airport",33.82720184326172,132.6999969482422,25,AS,JP,JP-38,Matsuyama,1,RJOM,MYJ,,,http://en.wikipedia.org/wiki/Matsuyama_Airport,,875,2008-08-08T10:13:17+00:00
+5618,RJTA,medium_airport,"Atsugi Naval Air Facility",35.4546012878418,139.4499969482422,205,AS,JP,JP-13,,0,RJTA,NJA,,,http://en.wikipedia.org/wiki/Naval_Air_Facility_Atsugi,"Atsugi NAF",400,2008-08-08T11:33:32+00:00
+5683,ROTM,medium_airport,"Futenma Marine Corps Air Station",26.27429962158203,127.75599670410156,247,AS,JP,JP-47,,0,ROTM,,,,,"Futenma MCAS",250,2008-08-08T10:22:28+00:00
+5545,RJCH,medium_airport,"Hakodate Airport",41.7700004578,140.822006226,151,AS,JP,JP-01,Hakodate,1,RJCH,HKD,,,http://en.wikipedia.org/wiki/Hakodate_Airport,,1050,2010-08-29T23:09:29+00:00
+5585,RJNK,medium_airport,"Komatsu Airport",36.39459991455078,136.40699768066406,36,AS,JP,JP-17,Kanazawa,1,RJNK,KMQ,,,http://en.wikipedia.org/wiki/Komatsu_Airport,,1050,2008-08-08T11:14:28+00:00
+5569,RJFO,medium_airport,"Oita Airport",33.479400634799994,131.736999512,19,AS,JP,JP-44,Oita,1,RJFO,OIT,,,http://en.wikipedia.org/wiki/Oita_Airport,,1050,2010-08-29T23:11:21+00:00
+5543,RJCB,medium_airport,"Tokachi-Obihiro Airport",42.7332992554,143.216995239,505,AS,JP,JP-01,Obihiro,1,RJCB,OBO,,,http://en.wikipedia.org/wiki/Obihiro_Airport,,975,2010-08-29T21:30:29+00:00
+5674,ROIG,closed,"Ishigaki Airport",24.3445,124.187,93,AS,JP,JP-47,Ishigaki,0,,,,,https://en.wikipedia.org/wiki/Ishigaki_Airport,,800,2019-02-12T07:49:00+00:00
+5538,RJBE,medium_airport,"Kobe Airport",34.6328010559082,135.2239990234375,22,AS,JP,JP-28,Kobe,1,RJBE,UKB,,,http://en.wikipedia.org/wiki/Kobe_Airport,,800,2008-08-08T11:19:12+00:00
+5611,RJSK,medium_airport,"Akita Airport",39.6156005859375,140.218994140625,313,AS,JP,JP-05,Akita,1,RJSK,AXT,,,http://en.wikipedia.org/wiki/Akita_Airport,,1050,2009-01-28T17:10:36+00:00
+5605,RJSA,medium_airport,"Aomori Airport",40.73469924926758,140.6909942626953,664,AS,JP,JP-02,Aomori,1,RJSA,AOJ,,,http://en.wikipedia.org/wiki/Aomori_Airport,,1050,2009-01-28T17:11:39+00:00
+5573,RJFU,medium_airport,"Nagasaki Airport",32.916900634799994,129.914001465,15,AS,JP,JP-42,Nagasaki,1,RJFU,NGS,,,http://en.wikipedia.org/wiki/Nagasaki_Airport,,1050,2010-08-29T21:28:01+00:00
+5613,RJSN,medium_airport,"Niigata Airport",37.9558982849,139.121002197,29,AS,JP,JP-15,Niigata,1,RJSN,KIJ,,,http://en.wikipedia.org/wiki/Niigata_Airport,,1050,2010-08-29T23:11:49+00:00
+5608,RJSF,medium_airport,"Fukushima Airport",37.22740173339844,140.43099975585938,1221,AS,JP,JP-07,Sukagawa,1,RJSF,FKS,,http://www.fks-ab.co.jp/,http://en.wikipedia.org/wiki/Fukushima_Airport,福島空港,1050,2009-07-01T18:14:06+00:00
+5577,RJKA,medium_airport,"Amami Airport",28.430599212646484,129.71299743652344,27,AS,JP,JP-46,Amami,1,RJKA,ASJ,,,http://en.wikipedia.org/wiki/Amami_Airport,,975,2009-01-28T17:11:08+00:00
+5677,ROMY,medium_airport,"Miyako Airport",24.782800674399997,125.294998169,150,AS,JP,JP-47,"Miyako City",1,ROMY,MMY,,,http://en.wikipedia.org/wiki/Miyako_Airport,,975,2010-09-01T19:08:21+00:00
+5549,RJCN,medium_airport,"Nakashibetsu Airport",43.5774993896,144.960006714,234,AS,JP,JP-01,Nakashibetsu,1,RJCN,SHB,,,http://en.wikipedia.org/wiki/Nakashibetsu_Airport,,975,2010-09-01T19:09:43+00:00
+5548,RJCM,medium_airport,"Memanbetsu Airport",43.8805999756,144.164001465,135,AS,JP,JP-01,Ōzora,1,RJCM,MMB,,,http://en.wikipedia.org/wiki/Memanbetsu_Airport,,975,2010-08-29T23:12:25+00:00
+5552,RJCW,medium_airport,"Wakkanai Airport",45.4042015076,141.800994873,30,AS,JP,JP-01,Wakkanai,1,RJCW,WKJ,,,http://en.wikipedia.org/wiki/Wakkanai_Airport,,975,2010-09-01T19:14:18+00:00
+5620,RJTH,medium_airport,"Hachijojima Airport",33.1150016785,139.785995483,303,AS,JP,JP-13,Hachijojima,1,RJTH,HAC,,,http://en.wikipedia.org/wiki/Hachijojima_Airport,,800,2010-09-01T18:49:15+00:00
+5626,RJTR,heliport,"Kastner Army Heliport",35.5138015747,139.393997192,360,AS,JP,JP-13,"Camp Zama",0,RJTR,,,,http://en.wikipedia.org/wiki/Camp_Zama,,250,2013-09-29T04:05:33+00:00
+327608,ISG,medium_airport,"New Ishigaki Airport",24.396389,124.245,102,AS,JP,JP-47,Ishigaki,1,ROIG,ISG,,,https://en.wikipedia.org/wiki/New_Ishigaki_Airport,,0,2018-05-05T11:51:25+00:00
+46576,JP-0003,closed,"[Duplicate] RJTT",35.5522222222,139.779722222,,AS,JP,JP-13,Tokio,0,,,,http://www.tokyo-airport-bldg.co.jp/en/,http://en.wikipedia.org/wiki/Tokyo_International_Airport,,0,2015-02-17T11:08:45+00:00
+5558,RJEC,medium_airport,"Asahikawa Airport",43.670799255371094,142.44700622558594,721,AS,JP,JP-01,"Asahikawa / Hokkaidō",1,RJEC,AKJ,,,http://en.wikipedia.org/wiki/Asahikawa_Airport,,1050,2009-01-28T17:12:23+00:00
+5572,RJFT,medium_airport,"Kumamoto Airport",32.83729934692383,130.85499572753906,642,AS,JP,JP-43,Kumamoto,1,RJFT,KMJ,,,http://en.wikipedia.org/wiki/Kumamoto_Airport,,1050,2008-08-08T10:10:02+00:00
+5567,RJFM,medium_airport,"Miyazaki Airport",31.877199173,131.449005127,20,AS,JP,JP-45,Miyazaki,1,RJFM,KMI,,,http://en.wikipedia.org/wiki/Miyazaki_Airport,,1050,2010-08-29T21:31:28+00:00
+5591,RJOB,medium_airport,"Okayama Airport",34.7569007874,133.854995728,806,AS,JP,JP-33,"Okayama City",1,RJOB,OKJ,,,http://en.wikipedia.org/wiki/Okayama_Airport,,1050,2010-08-29T21:33:25+00:00
+5601,RJOT,medium_airport,"Takamatsu Airport",34.214199066199996,134.01600647,607,AS,JP,JP-37,Takamatsu,1,RJOT,TAK,,,http://en.wikipedia.org/wiki/Takamatsu_Airport,,1050,2010-08-29T21:31:55+00:00
+5610,RJSI,medium_airport,"Hanamaki Airport",39.4286003112793,141.13499450683594,297,AS,JP,JP-03,,1,RJSI,HNA,,,http://en.wikipedia.org/wiki/Hanamaki_Airport,,975,2008-08-08T09:38:46+00:00
+5547,RJCK,medium_airport,"Kushiro Airport",43.041000366199995,144.192993164,327,AS,JP,JP-01,Kushiro,1,RJCK,KUH,,,http://en.wikipedia.org/wiki/Kushiro_Airport,,975,2010-08-29T21:29:51+00:00
+5557,RJEB,medium_airport,"Monbetsu Airport",44.303901672399995,143.404006958,80,AS,JP,JP-01,Monbetsu,1,RJEB,MBE,,,http://en.wikipedia.org/wiki/Monbetsu_Airport,,975,2010-09-01T19:09:06+00:00
+5600,RJOS,medium_airport,"Tokushima Airport/JMSDF Air Base",34.132801,134.606995,26,AS,JP,JP-36,Tokushima,1,RJOS,TKS,,,"https://en.wikipedia.org/wiki/Tokushima_Airport; https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B3%B6%E9%A3%9B%E8%A1%8C%E5%A0%B4#.E8",Tokushima,975,2017-07-16T14:41:25+00:00
+5555,RJDC,medium_airport,"Yamaguchi Ube Airport",33.930000305200004,131.279006958,23,AS,JP,JP-35,Ube,1,RJDC,UBJ,,,http://en.wikipedia.org/wiki/Yamaguchi_Ube_Airport,,975,2010-08-29T23:13:40+00:00
+5606,RJSC,medium_airport,"Yamagata Airport",38.411899566699994,140.371002197,353,AS,JP,JP-06,Yamagata,1,RJSC,GAJ,,,http://en.wikipedia.org/wiki/Yamagata_Airport,,975,2010-08-29T23:14:25+00:00
+5624,RJTO,medium_airport,"Oshima Airport",34.782001495399996,139.36000061,130,AS,JP,JP-13,"Izu Oshima",1,RJTO,OIM,,,http://en.wikipedia.org/wiki/Oshima_Airport,,875,2010-09-01T19:12:01+00:00
+5592,RJOC,medium_airport,"Izumo Airport",35.4136009216,132.88999939,15,AS,JP,JP-32,Izumo,1,RJOC,IZO,,,http://en.wikipedia.org/wiki/Izumo_Airport,,875,2010-08-29T23:08:56+00:00
+5580,RJKN,medium_airport,"Tokunoshima Airport",27.83639907836914,128.88099670410156,17,AS,JP,JP-46,Tokunoshima,1,RJKN,TKN,,,http://en.wikipedia.org/wiki/Tokunoshima_Airport,,825,2009-01-28T17:24:04+00:00
+5532,RJAF,medium_airport,"Matsumoto Airport",36.16680145263672,137.92300415039062,2182,AS,JP,JP-20,Matsumoto,1,RJAF,MMJ,,http://www.matsumoto-airport.co.jp/,http://en.wikipedia.org/wiki/Matsumoto_Airport,,800,2009-01-28T17:42:49+00:00
+5614,RJSR,medium_airport,"Odate Noshiro Airport",40.1918983459,140.371002197,292,AS,JP,JP-05,Odate,1,RJSR,ONJ,,,http://en.wikipedia.org/wiki/Odate-Noshiro_Airport,,800,2010-09-01T19:11:30+00:00
+5586,RJNO,medium_airport,"Oki Airport",36.18109893798828,133.3249969482422,311,AS,JP,JP-32,Okinoshima,1,RJNO,OKI,,,http://en.wikipedia.org/wiki/Oki_Airport,,800,2008-08-08T11:09:30+00:00
+5560,RJER,medium_airport,"Rishiri Airport",45.2420005798,141.186004639,112,AS,JP,JP-01,Rishiri,1,RJER,RIS,,,http://en.wikipedia.org/wiki/Rishiri_Airport,,800,2010-09-01T19:17:45+00:00
+29783,RJTF,medium_airport,"Chofu Airport",35.67169952392578,139.5279998779297,141,AS,JP,JP-13,Tokyo,1,RJTF,,,,http://en.wikipedia.org/wiki/Chofu_Airport,,550,2009-01-02T09:12:42+00:00
+5546,RJCJ,medium_airport,"Chitose Air Base",42.79449844359999,141.666000366,87,AS,JP,JP-01,,0,RJCJ,,,,http://en.wikipedia.org/wiki/Chitose_Air_Base,,300,2009-10-20T12:49:17+00:00
+5539,RJBH,medium_airport,"Hiroshimanishi Airport",34.36690139770508,132.41400146484375,15,AS,JP,JP-34,,0,RJBH,HIW,,,http://en.wikipedia.org/wiki/Hiroshima-Nishi_Airport,,275,2008-08-08T10:21:27+00:00
+5535,RJAW,medium_airport,"Iwo Jima Airport",24.784000396728516,141.322998046875,384,AS,JP,JP-13,,0,RJAW,IWO,,,,,250,2008-08-08T09:46:40+00:00
+5583,RJNG,medium_airport,"Gifu Airport",35.394100189208984,136.8699951171875,128,AS,JP,JP-21,Gifu,0,RJNG,QGU,,,,,250,2008-08-08T11:16:20+00:00
+5579,RJKI,medium_airport,"Kikai Airport",28.321300506599997,129.927993774,21,AS,JP,JP-46,Kikai,1,RJKI,KKX,,,http://en.wikipedia.org/wiki/Kikai_Airport,,250,2013-09-29T13:38:45+00:00
+5578,RJKB,medium_airport,"Okierabu Airport",27.4255008698,128.701004028,101,AS,JP,JP-46,Okinoerabujima,1,RJKB,OKE,,,http://en.wikipedia.org/wiki/Okinoerabu_Airport,,250,2013-09-29T14:47:08+00:00
+5682,RORY,medium_airport,"Yoron Airport",27.0440006256,128.401992798,52,AS,JP,JP-46,Yoronjima,1,RORY,RNJ,,,http://en.wikipedia.org/wiki/Yoron_Airport,,250,2013-09-29T14:53:33+00:00
+5672,RODE,small_airport,"Ie Shima Auxiliary Air Base",26.725757598876953,127.76490020751953,184,AS,JP,JP-47,,0,RODE,,,,,,50,2008-08-08T09:51:48+00:00
+31644,RORH,small_airport,"Hateruma Airport",24.0589008331,123.805999756,43,AS,JP,JP-47,Hateruma,0,RORH,HTR,,,http://en.wikipedia.org/wiki/Hateruma_Airport,,50,2013-09-29T14:34:17+00:00
+28139,ROKR,small_airport,"Kerama Airport",26.168300628699996,127.292999268,156,AS,JP,JP-47,Kerama,0,ROKR,KJP,,http://www.pref.okinawa.jp/airport/index/kr/kerama00-e.htm,http://en.wikipedia.org/wiki/Kerama_Airport,,50,2013-09-29T14:56:18+00:00
+32212,RJAZ,small_airport,"Kozushima Airport",34.189998626699996,139.134002686,452,AS,JP,JP-13,Kozushima,0,RJAZ,,,,http://en.wikipedia.org/wiki/K%C5%8Dzushima_Airport,,50,2013-09-29T13:48:03+00:00
+30460,RJTC,small_airport,"Tachikawa Airfield",35.71080017089844,139.4029998779297,312,AS,JP,JP-13,Tokyo,0,RJTC,,,,http://en.wikipedia.org/wiki/Tachikawa_Airfield,,50,2009-01-02T09:14:15+00:00
+41850,RJTX,heliport,"Yokosuka Heliport",35.28992462158203,139.67991638183594,,AS,JP,JP-13,,0,RJTX,,,,,,0,2008-09-14T10:28:15+00:00
+299238,rjns,large_airport,"Mt. Fuji Shizuoka Airport",34.7960434679,138.18775177,433,AS,JP,JP-22,"Makinohara / Shimada",1,RJNS,FSZ,,http://www.mtfuji-shizuokaairport.jp/english/index.html,http://en.wikipedia.org/wiki/Shizuoka_Airport,,0,2013-09-29T13:51:58+00:00
+5596,RJOK,medium_airport,"Kōchi Ryōma Airport",33.546101,133.669006,42,AS,JP,JP-39,Nankoku,1,RJOK,KCZ,,,http://en.wikipedia.org/wiki/K%C5%8Dchi_Airport,"Kochi, Nankoku, RJOK, KCZ",1050,2017-06-24T15:09:35+00:00
+5594,RJOH,medium_airport,"Miho Yonago Airport",35.4921989440918,133.23599243164062,20,AS,JP,JP-32,Yonago,1,RJOH,YGJ,,,http://en.wikipedia.org/wiki/Miho-Yonago_Airport,"Miho Air Base",1050,2008-08-08T10:19:01+00:00
+5571,RJFS,medium_airport,"Saga Airport",33.149700164799995,130.302001953,6,AS,JP,JP-41,Saga,1,RJFS,HSG,,,http://en.wikipedia.org/wiki/Saga_Airport,,975,2010-09-01T19:12:34+00:00
+5588,RJNW,medium_airport,"Noto Airport",37.2930984497,136.962005615,718,AS,JP,JP-17,Wajima,1,RJNW,NTQ,,,http://en.wikipedia.org/wiki/Noto_Airport,,975,2010-09-01T19:10:48+00:00
+5563,RJFE,medium_airport,"Fukue Airport",32.66630172729492,128.83299255371094,273,AS,JP,JP-42,Goto,1,RJFE,FUJ,,,http://en.wikipedia.org/wiki/Goto-Fukue_Airport,,875,2008-08-08T10:05:40+00:00
+5570,RJFR,medium_airport,"Kitakyūshū Airport",33.8459014893,131.035003662,21,AS,JP,JP-40,Kitakyūshū,1,RJFR,KKJ,,,http://en.wikipedia.org/wiki/New_Kitakyushu_Airport,,875,2010-08-29T23:13:09+00:00
+5587,RJNT,medium_airport,"Toyama Airport",36.64830017089844,137.18800354003906,95,AS,JP,JP-16,Toyama,1,RJNT,TOY,,,http://en.wikipedia.org/wiki/Toyama_Airport,,875,2008-08-08T11:10:52+00:00
+5675,ROKJ,medium_airport,"Kumejima Airport",26.363500595092773,126.71399688720703,23,AS,JP,JP-47,,1,ROKJ,UEO,,,http://en.wikipedia.org/wiki/Kumejima_Airport,,800,2008-06-13T14:30:04+00:00
+5684,ROYN,medium_airport,"Yonaguni Airport",24.466899871826172,122.97799682617188,70,AS,JP,JP-47,,1,ROYN,OGN,,,http://en.wikipedia.org/wiki/Yonaguni_Airport,,800,2008-06-13T14:30:04+00:00
+5602,RJOW,medium_airport,"Iwami Airport",34.676399231,131.789993286,184,AS,JP,JP-32,Masuda,1,RJOW,IWJ,,,http://en.wikipedia.org/wiki/Iwami_Airport,,800,2010-09-01T18:49:49+00:00
+5625,RJTQ,medium_airport,"Miyakejima Airport",34.073600769,139.559997559,67,AS,JP,JP-13,Miyakejima,1,RJTQ,MYE,,,http://en.wikipedia.org/wiki/Miyakejima_Airport,,800,2010-09-01T18:50:35+00:00
+5537,RJBD,medium_airport,"Nanki Shirahama Airport",33.6622009277,135.363998413,298,AS,JP,JP-30,Shirahama,1,RJBD,SHM,,,http://en.wikipedia.org/wiki/Nanki-Shirahama_Airport,,800,2010-09-01T19:10:15+00:00
+5617,RJSY,medium_airport,"Shonai Airport",38.81219863889999,139.787002563,86,AS,JP,JP-06,Shonai,1,RJSY,SYO,,,http://en.wikipedia.org/wiki/Shonai_Airport,,800,2010-09-01T19:13:09+00:00
+5599,RJOR,medium_airport,"Tottori Airport",35.5301017761,134.167007446,65,AS,JP,JP-31,Tottori,1,RJOR,TTJ,,,http://en.wikipedia.org/wiki/Tottori_Airport,,800,2010-09-01T19:13:43+00:00
+5556,RJDT,medium_airport,"Tsushima Airport",34.2849006653,129.330993652,213,AS,JP,JP-42,Tsushima,1,RJDT,TSJ,,,http://en.wikipedia.org/wiki/Tsushima_Airport,,800,2010-09-01T19:18:15+00:00
+5680,RORS,medium_airport,"Shimojishima Airport",24.8267002106,125.144996643,54,AS,JP,JP-47,Shimojishima,0,RORS,SHI,,,http://en.wikipedia.org/wiki/Shimojishima_Airport,"Shimoji Airport",575,2013-09-29T14:05:38+00:00
+5609,RJSH,medium_airport,"Hachinohe Airport",40.556400299072266,141.46600341796875,152,AS,JP,JP-02,,0,RJSH,HHE,,,,,300,2008-08-08T09:36:19+00:00
+5623,RJTL,medium_airport,"Shimofusa Airport",35.79890060424805,140.01100158691406,98,AS,JP,JP-13,,0,RJTL,,,,,,300,2008-08-08T11:32:05+00:00
+5568,RJFN,medium_airport,"Nyutabaru Airport",32.08359909057617,131.4510040283203,259,AS,JP,JP-45,,0,RJFN,,,,,,300,2008-08-08T09:59:06+00:00
+5574,RJFY,medium_airport,"Kanoya Airport",31.367599487304688,130.84500122070312,214,AS,JP,JP-46,,0,RJFY,,,,,,300,2008-08-08T09:57:19+00:00
+5533,RJAH,medium_airport,"Hyakuri Airport",36.181098938,140.414993286,105,AS,JP,JP-08,Omitama,1,RJAH,IBR,,,http://en.wikipedia.org/wiki/Hyakuri_Airfield,"Ibaraki Airport",300,2012-03-17T16:23:26+00:00
+5541,RJBT,medium_airport,"Tajima Airport",35.51279830932617,134.78700256347656,584,AS,JP,JP-28,Tajima,0,RJBT,TJH,,,,,275,2008-08-08T11:13:31+00:00
+5551,RJCT,medium_airport,"Tokachi Airport",42.890499114990234,143.1580047607422,281,AS,JP,JP-01,,0,RJCT,,,,,,250,2008-06-13T14:30:04+00:00
+5628,RJTU,medium_airport,"Utsunomiya Airport",36.5145,139.87101,334,AS,JP,JP-09,,0,RJTU,,,,,QUT,250,2017-01-07T13:11:48+00:00
+5619,RJTE,medium_airport,"Tateyama Airport",34.987099,139.828995,10,AS,JP,JP-12,,0,RJTE,,,,https://en.wikipedia.org/wiki/JMSDF_Tateyama_Air_Base,,250,2016-09-29T12:55:02+00:00
+5622,RJTK,medium_airport,"Kisarazu Airport",35.39830017089844,139.91000366210938,10,AS,JP,JP-12,,0,RJTK,,,,,,250,2008-08-08T11:26:29+00:00
+5582,RJNF,medium_airport,"Fukui Airport",36.1427993774,136.223999023,19,AS,JP,JP-18,,0,RJNF,FKJ,,,http://en.wikipedia.org/wiki/Fukui_Airport,,250,2013-09-29T13:26:07+00:00
+5584,RJNH,medium_airport,"Hamamatsu Airport",34.75019836425781,137.7030029296875,150,AS,JP,JP-22,,0,RJNH,,,,,,250,2008-08-08T11:24:21+00:00
+5589,RJNY,medium_airport,"Shizuhama Airport",34.812801361083984,138.29800415039062,23,AS,JP,JP-22,,0,RJNY,,,,,,250,2008-08-08T11:24:33+00:00
+5593,RJOF,medium_airport,"Hofu Airport",34.034698486328125,131.5489959716797,7,AS,JP,JP-35,,0,RJOF,,,,,,250,2008-08-08T10:17:31+00:00
+5604,RJOZ,medium_airport,"Ozuki Airport",34.0452995300293,131.052001953125,13,AS,JP,JP-35,,0,RJOZ,,,,,,250,2008-08-08T10:17:02+00:00
+5561,RJFA,medium_airport,"Ashiya Airport",33.88309860229492,130.6529998779297,98,AS,JP,JP-40,,0,RJFA,,,,,,250,2008-08-08T10:02:47+00:00
+5542,RJCA,small_airport,"Asahikawa Airfield",43.794734,142.365432,377,AS,JP,JP-01,"Camp Asahikawa",0,RJCA,,,,https://en.wikipedia.org/wiki/Asahikawa_Air_Field,"Camp Asahikawa, RJCA",250,2017-06-11T05:27:48+00:00
+5678,RORE,medium_airport,"Ie Jima Airport",26.7220001221,127.785003662,246,AS,JP,JP-47,Ie,0,RORE,IEJ,,,http://en.wikipedia.org/wiki/Iejima_Airport,,250,2013-09-29T13:29:26+00:00
+5554,RJDB,medium_airport,"Iki Airport",33.7490005493,129.785003662,41,AS,JP,JP-42,Iki,1,RJDB,IKI,,,http://en.wikipedia.org/wiki/Iki_Airport,,250,2013-09-29T13:33:06+00:00
+5616,RJST,medium_airport,"Matsushima Air Base",38.4048995972,141.220001221,7,AS,JP,JP-04,Ishinomaki,0,RJST,,,http://www.mod.go.jp/asdf/matsushima/,http://en.wikipedia.org/wiki/Matsushima_Air_Field,"松島飛行場, 松島基地",250,2010-02-14T12:48:33+00:00
+5679,RORK,medium_airport,"Kitadaito Airport",25.9447002411,131.32699585,80,AS,JP,JP-47,Kitadaitōjima,1,RORK,KTD,,,http://en.wikipedia.org/wiki/Kitadaito_Airport,,250,2013-09-29T13:42:50+00:00
+5676,ROMD,medium_airport,"Minami-Daito Airport",25.8465003967,131.263000488,167,AS,JP,JP-47,Minamidaitō,1,ROMD,MMD,,,http://en.wikipedia.org/wiki/Minami-Daito_Airport#Airlines,,250,2013-09-29T13:58:08+00:00
+5559,RJEO,medium_airport,"Okushiri Airport",42.0717010498,139.432998657,161,AS,JP,JP-01,"Okushiri Island",1,RJEO,OIR,,,http://en.wikipedia.org/wiki/Okushiri_Airport,,250,2013-09-29T14:20:57+00:00
+5607,RJSD,medium_airport,"Sado Airport",38.0601997375,138.414001465,88,AS,JP,JP-15,Sado,1,RJSD,SDS,,,http://en.wikipedia.org/wiki/Sado_Airport,,250,2013-09-29T14:29:04+00:00
+5565,RJFG,medium_airport,"New Tanegashima Airport",30.605100631699997,130.990997314,768,AS,JP,JP-46,Tanegashima,1,RJFG,TNE,,,http://en.wikipedia.org/wiki/New_Tanegashima_Airport,,250,2013-09-29T14:38:27+00:00
+5681,RORT,medium_airport,"Tarama Airport",24.653900146499996,124.675003052,36,AS,JP,JP-47,Tarama,1,RORT,TRA,,,http://en.wikipedia.org/wiki/Tarama_Airport,,250,2013-09-29T14:41:57+00:00
+5621,RJTJ,medium_airport,"Iruma Air Base",35.84189987182617,139.41099548339844,295,AS,JP,JP-13,Tokyo,0,RJTJ,,,,http://en.wikipedia.org/wiki/Iruma_Air_Base,"Johnson Air Base",250,2009-01-02T09:15:37+00:00
+5575,RJFZ,medium_airport,"Tsuiki Air Field",33.6850013733,131.039993286,55,AS,JP,JP-16,Tsuiki,0,RJFZ,,,,http://en.wikipedia.org/wiki/Tsuiki_Air_Field,"築城飛行場, Tsuiki Hikōjō, Tsuiki Airbase",250,2013-09-29T05:32:38+00:00
+5562,RJFC,medium_airport,"Yakushima Airport",30.3855991364,130.658996582,124,AS,JP,JP-46,Yakushima,0,RJFC,KUM,,,http://en.wikipedia.org/wiki/Yakushima_Airport,,250,2013-09-29T14:50:10+00:00
+5603,RJOY,medium_airport,"Yao Airport",34.59629821777344,135.60299682617188,39,AS,JP,JP-27,Yao,0,RJOY,,,,http://en.wikipedia.org/wiki/Yao_Airport,,250,2008-08-08T11:20:40+00:00
+3355,RJ04,small_airport,"Shikabe Airport",42.04499816894531,140.79299926757812,63,AS,JP,JP-01,,0,RJ04,,RJ04,,,,50,2008-06-13T14:30:04+00:00
+30406,RJSU,small_airport,"Sendai Kasuminom Airport",38.235599517822266,140.92300415039062,20,AS,JP,JP-04,,0,RJSU,,,,,,50,2008-08-08T09:41:13+00:00
+30016,RJAK,small_airport,"Kasumigaura Airport",36.034698486328125,140.1929931640625,92,AS,JP,JP-08,,0,RJAK,,,,,,50,2008-08-08T11:27:50+00:00
+5534,RJAM,small_airport,"Minami Torishima Airport",24.2896995544,153.979003906,22,AS,JP,JP-13,,0,RJAM,MUS,,,http://en.wikipedia.org/wiki/Minami_Torishima_Airport,"Marcus Island Airport",50,2011-04-03T14:23:12+00:00
+29649,RJOE,small_airport,"Akeno Airport",34.53329849243164,136.6719970703125,20,AS,JP,JP-24,,0,RJOE,,,,,,50,2008-08-08T11:21:34+00:00
+5540,RJBK,small_airport,"Kohnan Airport",34.59080123901367,133.93299865722656,3,AS,JP,JP-33,,0,RJBK,,,,,,50,2008-08-08T11:06:32+00:00
+30134,RJDM,small_airport,"Metabaru Air Base",33.32529830932617,130.41400146484375,49,AS,JP,JP-41,,0,RJDM,,,,,,50,2008-08-08T10:09:10+00:00
+5553,RJDA,small_airport,"Amakusa Airport",32.482498,130.158997,340,AS,JP,JP-43,,1,RJDA,AXJ,,,https://en.wikipedia.org/wiki/Amakusa_Airfield,,50,2016-06-22T07:34:06+00:00
+30621,RORA,small_airport,"Aguni Airport",26.5925006866,127.240997314,38,AS,JP,JP-47,Aguni,1,RORA,AGJ,,,http://en.wikipedia.org/wiki/Aguni_Airport,,50,2013-09-29T13:16:14+00:00
+32214,RJDK,small_airport,"Kamigoto Airport",33.0130996704,129.192001343,263,AS,JP,JP-42,Kamigoto,0,RJDK,,,,http://en.wikipedia.org/wiki/Kamigoto_Airport,,50,2013-09-29T14:31:54+00:00
+30186,RJAN,small_airport,"Niijima Airport",34.3694000244,139.268997192,92,AS,JP,JP-13,"Niijima Village",1,RJAN,,,,http://en.wikipedia.org/wiki/Niijima_Airport,,50,2013-09-29T14:11:59+00:00
+30207,RJDO,small_airport,"Ojika Airport",33.1907997131,129.089996338,30,AS,JP,JP-42,Ojika,0,RJDO,,,,http://en.wikipedia.org/wiki/Ojika_Airport,,50,2013-09-29T14:15:06+00:00
+32216,RJSO,small_airport,"JASDF Airport",41.233001708984375,141.13299560546875,24,AS,JP,JP-02,Ominato,0,RJSO,,,,,,50,2008-08-08T09:36:48+00:00
+30326,RJCR,small_airport,"Rebun Airport",45.4550018311,141.039001465,92,AS,JP,JP-01,Rebun,0,RJCR,RBJ,,,http://en.wikipedia.org/wiki/Rebun_Airport,,50,2013-09-29T14:25:08+00:00
+41849,JP-0001,heliport,"Chichi-jima Heliport",27.089799881,142.192001343,,AS,JP,JP-13,,0,RJAO,,,,http://en.wikipedia.org/wiki/Chichijima_Airfield,,0,2011-10-08T10:51:45+00:00
+300121,RO02,heliport,"Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,AS,JP,JP-47,,0,RO02,,,,,,0,2011-12-11T11:57:28+00:00
+300122,RO04,heliport,"White Beach Helipad CFAO",26.301666666699997,127.910277778,31,AS,JP,JP-47,,0,RO04,,,,,,0,2011-12-11T12:25:55+00:00
+323905,JP-0041,heliport,"Abashiri Sub Base JASDF Heliport",44.079566,144.230415,,AS,JP,JP-01,Abashiri,0,,,,,,"Abashiri, JASDF",0,2017-06-16T05:06:47+00:00
+324930,RJX2,closed,Daicolo-Aibetsu,43.882428,142.609384,,AS,JP,JP-01,Aibetsu,0,RJX2,,,,,"Daicolo, Aibetsu",0,2017-09-12T03:47:00+00:00
+323777,JP-0010,heliport,"Aidomari (Oshima) Heliport",41.49771,139.34505,,AS,JP,JP-01,Aidomari,0,,,,,,"Aidomari, Oshima, Lighthouse",0,2017-06-11T02:35:43+00:00
+324529,JP-0082,heliport,"Ajicho Helipad",34.406633,134.106749,,AS,JP,JP-37,Ajicho,0,,,,,,"Ajicho, Oshima, Ooshima",0,2017-07-24T03:36:44+00:00
+323990,JP-0064,heliport,"Japanese Red Cross Ashikawa Hospital Helipad",43.770178,142.348765,,AS,JP,JP-01,Asahikawa,0,,,,,,"Japanese Red Cross Ashikawa Hospital, Asahikawa",0,2017-06-19T02:01:00+00:00
+324461,JP-0079,heliport,"Kagawa Prefectural Chuo Hospital Helipad",34.348769,134.0626,,AS,JP,JP-37,"Asahimachi, Takamatsu-shi",0,,,,,,"Asahimachi, Takatsu-shi, Kagawa Prefectural Chuo Hospital",0,2017-07-17T05:23:31+00:00
+313630,JP-0007,small_airport,"Oitakenou Airport",33.026331,131.505577,771,AS,JP,JP-44,Bungo-ono,0,ROIT,,,http://www.pref.oita.jp/site/kenou/,http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E7%9C%8C%E5%A4%AE%E9%A3%9B%E8%A1%8C%E5%A0%B4,,0,2016-06-30T14:08:54+00:00
+323845,JP-0023,heliport,"Camp Abira Heliport",42.815303,141.818339,,AS,JP,JP-01,"Camp Abira",0,,,,,,"Camp Abira",0,2017-06-14T01:49:10+00:00
+323780,JP-0012,heliport,"Camp Asahikawa Helipad",43.795303,142.370017,377,AS,JP,JP-01,"Camp Asahikawa",0,,,,,https://en.wikipedia.org/wiki/Asahikawa_Air_Field,"Camp Asahikawa",0,2017-06-11T05:49:02+00:00
+323781,JP-0013,heliport,"Camp Asahikawa Heliport",43.793217,142.360407,377,AS,JP,JP-01,"Camp Asahikawa",0,,,,,,"Camp Asahikawa",0,2017-06-11T05:56:49+00:00
+324012,JP-0071,heliport,"Camp Asahikawa Helipad",43.7953,142.370018,,AS,JP,JP-01,"Camp Asahikawa",0,,,,,,"Camp Asahikawa",0,2017-06-21T02:42:30+00:00
+323948,JP-0047,heliport,"Vice Camp Ashoro JGSDF Heliport",43.248532,143.600197,,AS,JP,JP-01,"Camp Ashoro",0,,,,,,"Camp Ashoro. JGSDF",0,2017-06-17T11:20:28+00:00
+323895,JP-0033,heliport,"Camp Bibai JGSDF Heliport",43.305482,141.873791,,AS,JP,JP-01,"Camp Bibai",0,,,,,,"Camp Bibai, JGSDF",0,2017-06-16T02:04:11+00:00
+323906,JP-0042,heliport,"Camp Bihoro JGSDF Heliport",43.821135,144.161164,,AS,JP,JP-01,"Camp Bihoro",0,,,,,,"Camp Bihoro",0,2017-06-16T05:31:46+00:00
+323848,JP-0026,closed,"Camp Chitose Higashi Second Airfield",42.827261,141.734962,,AS,JP,JP-01,"Camp Chitose",0,,,,,,"Camp Chitose Higashi",0,2017-06-14T02:59:15+00:00
+323846,JP-0024,closed,"Camp Chitose Higashi First Airfield",42.835475,141.719084,,AS,JP,JP-01,"Camp Chitose Higashi",0,,,,,,"Camp Chitose Higashi",0,2017-06-14T02:20:46+00:00
+323847,JP-0025,closed,"Camp Chitose Higashi Third Airfield",42.833933,141.731615,,AS,JP,JP-01,"Camp Chitose Higashi",0,,,,,,"Camp Chitose Higashi",0,2017-06-14T02:34:55+00:00
+323852,JP-0028,heliport,"Camp Chitose Higashi Heliport",42.833352,141.70951,,AS,JP,JP-28,"Camp Chitose Higashi",0,,,,,,"Camp Chitose Higashi",0,2017-06-19T02:40:23+00:00
+323904,JP-0040,heliport,"Camp Engaru JGSDF Heliport",44.054456,143.544855,,AS,JP,JP-01,"Camp Engaru",0,,,,,,"Camp Engaru, JGSDF",0,2017-06-16T04:46:04+00:00
+323960,JP-0053,heliport,"Vice Camp Hidaka JGSDF Heliport",42.896362,142.519547,,AS,JP,JP-01,"Camp Hidaka",0,,,,,,"Camp Hidaka, JGSDF",0,2017-06-18T03:49:04+00:00
+323834,JP-0019,closed,"Camp Horobetsu JGSDF Airfield",42.40012,141.088936,,AS,JP,JP-01,"Camp Horobetsu",0,,,,,,"Camp Horobetsu",0,2017-06-13T05:03:46+00:00
+323837,JP-0020,heliport,"Camp Horobetsu JGSDF Heliport",42.400822,141.089323,,AS,JP,JP-01,"Camp Horobetsu",0,,,,,,"Camp Horobetsu",0,2017-06-13T05:16:29+00:00
+323897,JP-0035,closed,"Camp Iwamikawa Airfield",43.208233,141.812382,,AS,JP,JP-01,"Camp Iwamikawa",0,,,,,,"Camp Iwamikawa",0,2017-06-16T02:34:11+00:00
+323896,JP-0034,heliport,"Camp Iwamizawa JGSDF Helipad",43.213724,141.801213,,AS,JP,JP-01,"Camp Iwamizawa",0,,,,,,"Camp Iwamizawa, JGSDF",0,2017-06-16T02:21:17+00:00
+323963,JP-0056,heliport,"Camp Kita-Eniwa JGSDF Heliport",42.89017,141.560911,,AS,JP,JP-01,"Camp Kita-Eniwa",0,,,,,,"Camp Kita-Eniwa, JGSDF",0,2017-06-18T04:57:46+00:00
+323944,JP-0046,heliport,"Camp Kushiro JGSDF Heliport",43.013395,144.455393,,AS,JP,JP-01,"Camp Kushiro",0,,,,,,"Camp Kushiro, JGSDF",0,2017-06-17T10:59:45+00:00
+323833,JP-0018,heliport,"Camp Kutchan Helipad",42.878512,140.754262,,AS,JP,JP-01,"Camp Kutchan",0,,,,,,"Camp Kutchan, JGSDF",0,2017-06-13T04:42:14+00:00
+323853,JP-0029,heliport,"Camp Makomakai JGSDF Heliport",43.004384,141.356857,,AS,JP,JP-01,"Camp Makomakai (Sapporo)",0,,,,,,"Camp Makomakai, JGSDF, Sapporo",0,2017-06-14T04:20:52+00:00
+323851,JP-0027,heliport,"Camp Minami-Eniwa JGSDF Helipad",42.858049,141.57775,,AS,JP,JP-01,"Camp Minami-Eniwa",0,,,,,,"Camp Minami-Eniwa, JGSDF",0,2017-06-14T03:43:49+00:00
+323902,JP-0039,small_airport,"Camp Nayoro JGSDF Heliport",44.384575,142.442508,,AS,JP,JP-01,"Camp Nayoro",0,,,,,,"Camp Nayoro, JGSDF",0,2017-06-16T04:01:52+00:00
+323942,JP-0044,heliport,"Camp Nemuro Sub Base JASDF Heliport",43.31777,145.603641,,AS,JP,JP-01,"Camp Nemuro",0,,,,,,"Camp Nemuro, JASDF",0,2017-06-17T02:06:23+00:00
+323955,JP-0050,heliport,"Tokachi Heliport",42.895051,143.165127,,AS,JP,JP-01,"Camp Obihiro",0,,,,,,"Tokachi, Camp Obihiro, JGSDF",0,2017-06-18T01:22:37+00:00
+323901,JP-0038,heliport,"Camp Rumoi JGSDF Heliport",43.932779,141.667504,,AS,JP,JP-01,"Camp Rumoi",0,,,,,,"Camp Rumoi, JGSDF",0,2017-06-16T03:32:53+00:00
+323877,JP-0030,heliport,"Camp Sapporo JGSDF Heliport",43.023518,141.350013,,AS,JP,JP-01,"Camp Sapporo (Sapporo)",0,,,,,,"Camp Sapporo, JGSDF",0,2017-06-15T03:50:23+00:00
+323941,JP-0043,heliport,"Vice Camp JGSDF Shibetsu Heliport",43.652708,145.12363,,AS,JP,JP-01,"Camp Shibetsu",0,,,,,,"Camp Shibetsu, JGSDF",0,2017-06-17T01:44:55+00:00
+323953,JP-0049,heliport,"Camp Shikaoi JGSDF Heliport",43.145508,142.996176,,AS,JP,JP-01,"Camp Shikaoi",0,,,,,,"Camp Shikaoi, JGSDF",0,2017-06-17T12:08:00+00:00
+323966,JP-0059,heliport,"Camp Shimamatsu JGSDF Heliport",42.911721,141.555209,,AS,JP,JP-01,"Camp Shimamatsu",0,,,,,,"Camp Shimamatsu, JGSDF",0,2017-06-18T05:57:45+00:00
+323839,JP-0021,heliport,"Camp Shiraoi JGSDF Heliport",42.602846,141.314301,,AS,JP,JP-01,"Camp Shiraoi",0,,,,,,"Camp Shiraoi",0,2017-06-13T05:36:43+00:00
+323961,JP-0054,heliport,"Camp Shizunai JGSDF Heliport",42.306156,142.442058,,AS,JP,JP-01,"Camp Shizunai",0,,,,,,"Camp Shizunai, JGSDF",0,2017-06-18T03:57:23+00:00
+323962,JP-0055,heliport,"Camp Shizunai JGSDF Main Heliport",42.309764,142.441667,,AS,JP,JP-01,"Camp Shizunai",0,,,,,,"Camp Shizunai, JGSDF",0,2017-06-18T04:23:40+00:00
+323898,JP-0036,closed,"Camp Takikawa Airfield",43.576816,141.902225,,AS,JP,JP-01,"Camp Takikawa",0,,,,,,"Camp Takikawa",0,2017-06-16T02:59:33+00:00
+323899,JP-0037,heliport,"Camp Takikawa JGSDF Heliport",43.574863,141.905027,,AS,JP,JP-01,"Camp Takikawa",0,,,,,,"Camp Takikawa, JGSDF",0,2017-06-16T03:11:15+00:00
+323964,JP-0057,heliport,"Eniwa Exercise Area JGSDF Heliport",42.822809,141.614335,,AS,JP,JP-01,Eniwa,0,,,,,,"Eniwa, JGSDF",0,2017-06-18T05:19:37+00:00
+323965,JP-0058,closed,"Eniwa Exercise Area Airfield",42.82191,141.615314,,AS,JP,JP-01,Eniwa,0,,,,,,Eniwa,0,2017-06-18T05:35:36+00:00
+323956,JP-0051,heliport,"Erimo Sub Base JASDF Heliport",41.960427,143.226607,,AS,JP,JP-01,Erimo,0,,,,,,"Erimo, JASDF",0,2017-06-18T01:41:09+00:00
+299572,RJAT,heliport,"Fuji Air Base",35.3172222222,138.87217,2271,AS,JP,JP-22,Gotemba,0,RJAT,,,,,,0,2011-10-08T13:51:12+00:00
+323775,JP-0009,heliport,"Camp Hakodate Heliport",41.778465,140.767645,,AS,JP,JP-01,Hakodate,0,,,,,,"Camp Hakodate, Hakodate, JGSDF",0,2017-06-11T01:17:42+00:00
+323996,JP-0067,heliport,"Hakodate Municipal Hospital Helipad",41.805464,140.730255,,AS,JP,JP-01,Hakodate,0,,,,,,"Hakodate Municipal Hospital, Hakodate",0,2017-06-20T04:04:40+00:00
+324659,JP-0085,closed,"Nakajima Handa Aerodrome",34.901454,136.95636,,AS,JP,JP-23,Handa,0,,,,,,"Handa, Nakajima",0,2017-08-07T03:41:43+00:00
+323829,JP-0016,heliport,"Inaho-misaki Lighthouse Helipad",42.247163,139.557239,,AS,JP,JP-01,Inaho-misaki,0,,,,,,"Inaho-misaki Lighthouse, Okushiri",0,2017-06-13T03:34:38+00:00
+323831,JP-0017,heliport,"Inaho-misaki Lighthouse Helipad",42.247163,139.557239,,AS,JP,JP-01,Inaho-misaki,0,,,,,,"Inaho-misaki Lighthouse, Okushiri",0,2017-06-13T03:35:05+00:00
+323825,RJCS,medium_airport,"Kenebetsu JASDF Airfield",43.425154,144.741354,,AS,JP,JP-01,Kenebetsu,0,RJCS,,,,,"RJCS, Kenebetsu, JASDF",0,2017-06-13T01:35:49+00:00
+323991,JP-0065,heliport,"Kitami Red Cross Hospital Helipad",43.808356,143.894965,,AS,JP,JP-01,Kitami,0,,,,,,"Kitami Red Cross Hospital, Kitami",0,2017-06-19T02:21:06+00:00
+324456,JP-0075,heliport,"Yokoyama Ryu Memorial Comics Hall Helipad",33.558237,133.546947,,AS,JP,JP-39,Kochi,0,,,,,,"Yokoyama Ryu Memorial Comics Hall; Kochi",0,2017-07-17T02:41:27+00:00
+324458,JP-0076,heliport,"Kochi Medical School Hospital Helipad",33.595289,133.615336,143,AS,JP,JP-39,Kochi,0,,,,,,"Kochi Medical School Hospital, Kochi",0,2017-07-17T03:08:11+00:00
+309677,JP-0006,closed,"Kyūshū Airport",33.8364,130.947,14,AS,JP,JP-40,"Kokura Minami-ku",0,,,,,,"KKJ, RJFR",0,2013-09-29T05:02:47+00:00
+309676,RJOP,heliport,"Komatsushima Heliport",34.005278,134.626479,13,AS,JP,JP-36,Komatsushima,0,RJOP,,,,https://en.wikipedia.org/wiki/List_of_airports_in_Japan#Heliports,,0,2017-07-20T02:09:53+00:00
+323995,JP-0066,heliport,"Aikoku Heliport",43.02899,144.401978,,AS,JP,JP-01,Kushiro,0,,,,,,Aikoku,0,2017-06-20T03:54:08+00:00
+323998,JP-0068,heliport,"Kushiro City General Hospital Helipad",42.976295,144.403506,,AS,JP,JP-01,Kushiro,0,,,,,,"Kushiro City General Hospital, Kushiro",0,2017-06-20T04:12:58+00:00
+323999,JP-0069,heliport,"Kushiro Rosai Hospital Helipad",43.006038,144.385261,,AS,JP,JP-01,Kushiro,0,,,,,,"Kushiro Rosai Hospital, Kushiro",0,2017-06-20T04:19:05+00:00
+324000,JP-0070,heliport,"Kushiro Takanosai Memorial Hospital Helipad",43.029277,144.397256,,AS,JP,JP-01,Kushiro,0,,,,,,"Kushiro Takanosai Memorial Hospital, Kushiro",0,2017-06-20T04:26:07+00:00
+309675,RJTS,heliport,"Soumagahara Heliport",36.434767,138.952936,1300,AS,JP,JP-10,Maebashi,0,RJTS,,,,,,0,2013-09-29T04:30:04+00:00
+309674,RJBM,heliport,"Maizuru Heliport",35.490425,135.377196,16,AS,JP,JP-26,Maizuru,0,RJBM,,,,,,0,2013-09-29T04:18:57+00:00
+324551,JP-0083,heliport,"Tonosho Highashi (Meguriike) Helipad",34.47594,134.181269,,AS,JP,JP-37,Meguriike,0,,,,,,"Tonosho Highashi, Meguriike, Shodoshima",0,2017-07-26T04:31:40+00:00
+324455,JP-0074,heliport,"Kagawa University Hospital Helipad",34.291312,134.123937,184,AS,JP,JP-37,Miki-cho,0,,,,,,"Kagawa, Miki-cho",0,2017-07-17T00:02:02+00:00
+313629,ZZZZ,small_airport,"Satsuma Iōjima Airport",30.784722,130.270556,338,AS,JP,JP-46,Mishima-Mura,0,RJX7,,,,http://wikimapia.org/6705190/Satsuma-Iwo-jima-Airport,"SATSUMA,IWOJIMA,RJX7",0,2016-06-30T14:10:49+00:00
+324061,KCZ,medium_airport,"Kochi Airport (高知空港)",33.546259,133.668938,29,AS,JP,JP-39,Nankoku,0,RJOK,KCZ,,http://www.kochiap.co.jp/en/,https://en.wikipedia.org/wiki/K%C5%8Dchi_Airport,"Kochi, Nankoku, RJOK, KCZ, 高知空港",0,2017-06-24T14:44:07+00:00
+324975,JP-0086,heliport,"Niihama Heliport",33.950086,133.300058,,AS,JP,JP-38,Niihama,0,,,,,,Niihama,0,2017-09-22T02:20:32+00:00
+323827,JP-0015,heliport,"Okushiritou Sub Base JASDF Helipad",42.160978,139.443085,,AS,JP,JP-01,Okushiritou,0,,,,,,"Okushiritou, Okushiri",0,2017-06-13T02:51:20+00:00
+323778,JP-0011,heliport,"Oshima Heliport",41.507912,139.383006,,AS,JP,JP-01,Oshima,0,,,,,,Oshima,0,2017-06-11T02:12:21+00:00
+300118,RJ03,heliport,"Sagami Depot Heliport",35.585555555599996,139.384722222,374,AS,JP,JP-14,Sagamihara,0,RJ03,,,,,,0,2011-12-10T05:54:49+00:00
+323976,JP-0060,heliport,"Sapporo Dome Helipad",43.01395,141.40691,,AS,JP,JP-01,Sapporo,0,,,,,,"Sapporo Dome",0,2017-06-18T15:30:37+00:00
+323986,JP-0061,heliport,"Hokkaido Medical Center for Child Health & Rehabilitation Helipad",43.1282367,141.2108203,,AS,JP,JP-01,Sapporo,0,,,,,,"Hokkaido Medical Center for Child Health & Rehabilitation",0,2017-06-19T00:44:09+00:00
+323987,JP-0062,heliport,"Teine Keijinkai Hospital Helipad",43.121811,141.243681,,AS,JP,JP-01,Sapporo,0,,,,,,"Teine Keijinkai Hospital",0,2017-06-19T01:02:44+00:00
+323988,JP-0063,heliport,"Sapporo Medical University Hospital Helipad",43.054774,141.333202,,AS,JP,JP-01,Sapporo,0,,,,,,"Sapporo Medical University Hospital",0,2017-06-19T01:29:42+00:00
+323774,JP-0008,heliport,"Komagatake JGSDF Exercise Heliport",42.071688,140.763818,,AS,JP,JP-01,Shikabe,0,,,,,,"Komagatake, JGSDF, Shikabe",0,2017-06-11T00:46:21+00:00
+324460,JP-0078,heliport,"Hyogo Prefectural Awaji Medical Care Center Helipad",34.34699,134.895619,,AS,JP,JP-28,Sumoto,0,,,,,,Sumoto,0,2017-07-17T04:28:22+00:00
+323957,JP-0052,small_airport,"Taiki Aerospace Research Airfield",42.499971,143.441759,,AS,JP,JP-01,Taiki,0,,,,,,Taeki.,0,2017-06-18T02:49:38+00:00
+324462,JP-0080,heliport,"Kagawa Prefectural Office Main Building Helipad",34.340293,134.042883,,AS,JP,JP-37,"Tenjinmae, Takamatsu-shi",0,,,,,,"Kagawa Prefectural Office Main Building, Tenjinmae, Takamatsu-shi",0,2017-07-17T05:31:23+00:00
+324934,RJX9,closed,"Teshikage Airport",43.480017,144.434252,360,AS,JP,JP-01,Teshikage,0,RJX9,,,,,Teshikage,0,2017-09-13T01:50:58+00:00
+324453,JP-0072,heliport,"Taoka Hospital Helipad (rooftop)",34.065694,134.563654,90,AS,JP,JP-36,Tokushima,0,,,,,https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B2%A1%E7%97%85%E9%99%A2,"Taoka Hospital; Tokushima",0,2017-07-16T21:45:21+00:00
+324454,JP-0073,heliport,"Tokushima Prefectural Central Hospital Helipad",34.075564,134.520477,156,AS,JP,JP-36,Tokushima,0,,,,,https://ja.wikipedia.org/wiki/徳島県立中央病院,"Tokushima, Prefectural Central Hospital",0,2017-07-16T22:59:04+00:00
+324459,JP-0077,heliport,"Tokushima Municipal Helipad",34.08257,134.563091,170,AS,JP,JP-36,Tokushima,0,,,,,,"Tokushima Municipal Hospital, Tokushima",0,2017-07-17T03:38:59+00:00
+43212,JP-0002,heliport,"Tokyo Heliport",35.629395,139.873642,16,AS,JP,JP-13,Tokyo,0,RJTI,,,http://www.kouwan.metro.tokyo.jp/rito/tmg_heliport/,http://en.wikipedia.org/wiki/Tokyo_Heliport,,0,2016-06-02T08:37:03+00:00
+300123,RJ01,heliport,"Akasaka Press Center Heliport",35.663333333299995,139.725555556,97,AS,JP,JP-13,Tokyo,0,RJ01,,,,,,0,2011-12-11T13:14:50+00:00
+309673,RJTI,heliport,"Tokyo Heliport",35.635924,139.839475,14,AS,JP,JP-13,Tokyo,0,RJTI,,,http://www.kouwan.metro.tokyo.jp/rito/tmg_heliport/,http://en.wikipedia.org/wiki/Tokyo_Heliport,QXO,0,2017-01-07T14:47:21+00:00
+323894,JP-0032,heliport,"Toubetsu Sub Base JASDF Airport",43.310284,141.522666,,AS,JP,JP-01,Toubetsu,0,,,,,,"Toubetsu, JASDF",0,2017-06-17T11:34:26+00:00
+323949,JP-0048,small_airport,"Toubetsu Sub Base JASDF Heliport",43.310284,141.522666,,AS,JP,JP-01,Toubetsu,0,,,,,,"Toubetsu, JASDF",0,2017-06-17T11:30:20+00:00
+324588,JP-0084,heliport,"Umaki Heliport",34.472263,134.314669,,AS,JP,JP-37,Umaki,0,,,,,,"Umaki, Shodoshima",0,2017-07-29T22:05:14+00:00
+323844,JP-0022,heliport,"Vice Camp JGSDF Hayakita Heliport",42.788285,141.817864,,AS,JP,JP-01,"Vice Camp JGSDF Hayakita",0,,,,,,"Camp Hayakita, JGSDF",0,2017-06-13T23:41:39+00:00
+323892,JP-0031,heliport,"Vice Camp JGSDF Naebo Heliport",43.071122,141.386455,,AS,JP,JP-01,"Vice Camp Naebo",0,,,,,,"Vice Camp Naebo, JGSDF",0,2017-06-16T01:09:10+00:00
+323799,JP-0014,heliport,"Wakkanai JMSDF Base Heliport",45.437897,141.648284,,AS,JP,JP-01,Wakkanai,0,,,,,,"Wakkanai, JMSDF",0,2017-06-11T23:55:30+00:00
+323826,RJCY,small_airport,"Yakumo JASDF Airbase",42.246628,140.266743,,AS,JP,JP-01,Yakumo,0,RJCY,,,,,"RJCY, Yakumo, JASDF, QRN",0,2017-06-13T02:08:29+00:00
+323943,JP-0045,heliport,"Yausubetsu Exercise Area JGSDF Heliport",43.297435,144.989716,,AS,JP,JP-01,Yausubetsu,0,,,,,,"Yausubetsu, JGSDF",0,2017-06-17T02:40:00+00:00
+300237,JP-0004,heliport,"Yokohama Heliport",35.3422222222,139.656388889,4,AS,JP,JP-14,Yokohama,0,,,,,,,0,2011-12-23T03:10:17+00:00
+300238,JP-0005,heliport,"Minato-Mirai Heliport",35.4633333333,139.6375,3,AS,JP,JP-14,Yokohama,0,,,,,,,0,2011-12-23T03:43:51+00:00
+320815,RJ02,heliport,"North Pier Yokohama Heliport",35.4554,139.64501,8,AS,JP,JP-14,Yokohama,0,RJ02,,RJ02,,,,0,2016-10-15T13:09:19+00:00
+324495,JP-0081,heliport,"Yoshima Helipad",34.394321,133.819549,,AS,JP,JP-37,Yoshima,0,,,,,,Yoshima,0,2017-07-21T23:33:08+00:00

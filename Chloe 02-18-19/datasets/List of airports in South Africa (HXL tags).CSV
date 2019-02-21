@@ -1,0 +1,491 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2792,FAJS,large_airport,"OR Tambo International Airport",-26.1392,28.246,5558,AF,ZA,ZA-GT,Johannesburg,1,FAOR,JNB,,http://www.acsa.co.za/home.asp?pid=228,http://en.wikipedia.org/wiki/OR_Tambo_International_Airport,"Johannesburg International Airport",1014475,2017-12-30T08:54:28+00:00
+2775,FACT,large_airport,"Cape Town International Airport",-33.9648017883,18.6016998291,151,AF,ZA,ZA-WC,"Cape Town",1,FACT,CPT,,http://www.airports.co.za/home.asp?pid=229,http://en.wikipedia.org/wiki/Cape_Town_International_Airport,"Kaapstad Internasionale Lughawe, CTIA, DF Malan Airport",51275,2013-12-06T22:30:37+00:00
+2800,FALA,medium_airport,"Lanseria Airport",-25.938499450699997,27.9260997772,4517,AF,ZA,ZA-GT,Johannesburg,1,FALA,HLA,,,http://en.wikipedia.org/wiki/Lanseria_Airport,,1050,2013-12-06T22:53:46+00:00
+2820,FAPE,medium_airport,"Port Elizabeth Airport",-33.9849014282,25.6173000336,226,AF,ZA,ZA-EC,"Port Elizabeth",1,FAPE,PLZ,,http://www.acsa.co.za/home.asp?pid=236,http://en.wikipedia.org/wiki/Port_Elizabeth_Airport,"Verwoerd International Airport",875,2013-12-06T23:55:07+00:00
+2854,FAWB,medium_airport,"Wonderboom Airport",-25.6539,28.224199,4095,AF,ZA,ZA-GT,Pretoria,1,FAWB,PRY,,http://www.wonderboomairport.co.za/,http://en.wikipedia.org/wiki/Wonderboom_Airport,,250,2016-05-10T14:30:58+00:00
+2795,FAKN,medium_airport,"Kruger Mpumalanga International Airport",-25.3831996918,31.1056003571,2829,AF,ZA,ZA-MP,Mpumalanga,1,FAKN,MQP,,,http://en.wikipedia.org/wiki/Kruger_Mpumalanga_International_Airport,,800,2013-12-06T23:25:51+00:00
+2782,FAGC,medium_airport,"Grand Central Airport",-25.986299514799995,28.1401004791,5325,AF,ZA,ZA-GT,Midrand,0,FAGC,GCJ,,,http://en.wikipedia.org/wiki/Grand_Central_Airport,,250,2013-12-06T22:52:19+00:00
+2778,FADN,small_airport,"Air Force Base Durban",-29.9701,30.9505,33,AF,ZA,ZA-NL,Durban,0,FADN,,,,http://en.wikipedia.org/wiki/Durban_International_Airport,"Louis Botha International Airport, DUR, Durban International Airport",1050,2016-05-10T23:49:03+00:00
+2784,FAGM,medium_airport,"Rand Airport",-26.2425003052,28.1511993408,5483,AF,ZA,ZA-GT,Johannesburg,1,FAGM,QRA,,,http://en.wikipedia.org/wiki/Rand_Airport,,800,2013-12-06T22:57:44+00:00
+300795,FALE,large_airport,"King Shaka International Airport",-29.6144444444,31.1197222222,295,AF,ZA,ZA-NL,Durban,1,FALE,DUR,,,http://en.wikipedia.org/wiki/King_Shaka_International_Airport,"La Mercy Airport",0,2013-12-06T22:34:17+00:00
+2832,FARG,medium_airport,"Rustenburg Airport",-25.6443004608,27.271099090599996,3700,AF,ZA,ZA-NW,Rustenburg,0,FARG,,,,http://en.wikipedia.org/wiki/Rustenburg_Airfield,,250,2012-12-30T09:14:48+00:00
+27289,FANS,small_airport,"Nelspruit Airport",-25.5,30.9137992859,2875,AF,ZA,ZA-MP,Nelspruit,0,FANS,NLP,,,http://en.wikipedia.org/wiki/Nelspruit_Airport,,50,2013-12-06T23:27:32+00:00
+2783,FAGG,large_airport,"George Airport",-34.0056,22.378902,648,AF,ZA,ZA-WC,George,1,FAGG,GRJ,,,http://en.wikipedia.org/wiki/George_Airport,"PW Botha Airport",1275,2018-02-25T15:19:19+00:00
+2779,FAEL,medium_airport,"Ben Schoeman Airport",-33.0355987549,27.825899124099998,435,AF,ZA,ZA-EC,"East London",1,FAEL,ELS,,http://www.airports.co.za/home.asp?pid=415,http://en.wikipedia.org/wiki/East_London_Airport,,1050,2013-12-06T22:38:22+00:00
+2772,FABL,medium_airport,"Bram Fischer International Airport",-29.092699050900002,26.302400589,4458,AF,ZA,ZA-FS,Bloemfontain,1,FABL,BFN,,,http://en.wikipedia.org/wiki/Bloemfontein_Airport,,875,2013-12-06T22:28:43+00:00
+2847,FAUP,medium_airport,"Pierre Van Ryneveld Airport",-28.39909935,21.260200500499998,2782,AF,ZA,ZA-NC,Upington,1,FAUP,UTN,,,http://en.wikipedia.org/wiki/Upington_Airport,,875,2013-12-07T00:23:44+00:00
+2828,FAPS,medium_airport,"Potchefstroom Airport",-26.670999527,27.0818996429,4520,AF,ZA,ZA-NW,Potchefstroom,0,FAPS,PCF,,,,,250,2012-01-22T12:41:25+00:00
+2853,FAVV,medium_airport,"Vereeniging Airport",-26.566400528,27.9608001709,4846,AF,ZA,ZA-GT,Vereeniging,0,FAVV,,,,,,250,2013-12-07T00:31:20+00:00
+2826,FAPN,small_airport,"Pilanesberg International Airport",-25.333799362199997,27.173400878900004,3412,AF,ZA,ZA-NW,Pilanesberg,0,FAPN,NTY,,,http://en.wikipedia.org/wiki/Pilanesberg_International_Airport,,50,2013-12-06T23:40:14+00:00
+27295,FASH,small_airport,"Stellenbosch Airport",-33.9799995422,18.819999694800003,295,AF,ZA,ZA-WC,Stellenbosch,0,FASH,,,http://www.stelfly.co.za/,,"Stellenbosch Flying Club",50,2010-09-07T08:16:02+00:00
+2794,FAKM,medium_airport,"Kimberley Airport",-28.802799224900003,24.7651996613,3950,AF,ZA,ZA-NC,Kimberley,1,FAKM,KIM,,,http://en.wikipedia.org/wiki/Kimberley_Airport,,875,2013-12-06T22:59:54+00:00
+2822,FAPH,medium_airport,"Hendrik Van Eck Airport",-23.937200546299998,31.1553993225,1432,AF,ZA,ZA-NP,Phalaborwa,1,FAPH,PHW,,,http://en.wikipedia.org/wiki/Hendrik_Van_Eck_Airport,,800,2013-12-06T23:34:38+00:00
+2825,FAPM,medium_airport,"Pietermaritzburg Airport",-29.649000167799997,30.3987007141,2423,AF,ZA,ZA-NL,Pietermaritzburg,1,FAPM,PZB,,,http://en.wikipedia.org/wiki/Pietermaritzburg_Airport,,800,2013-12-06T23:37:44+00:00
+2856,FAWK,medium_airport,"Waterkloof Air Force Base",-25.829999923699997,28.222499847399998,4940,AF,ZA,ZA-GT,Pretoria,0,FAWK,WKF,,,http://en.wikipedia.org/wiki/AFB_Waterkloof,AFB,375,2012-12-22T10:44:31+00:00
+2829,FAPY,small_airport,"Parys Airport",-26.889299392700195,27.503400802612305,4740,AF,ZA,ZA-FS,Parys,0,FAPY,,,,,,50,2008-08-13T13:22:23+00:00
+2855,FAWI,small_airport,"Witbank Airport",-25.832300186199998,29.1919994354,5078,AF,ZA,ZA-MP,Witbank,0,FAWI,,,,,,50,2013-12-07T00:40:26+00:00
+2837,FASI,small_airport,"Springs Airfield",-26.2494004736,28.3982715607,5340,AF,ZA,ZA-GT,"Del Fouche",0,FASI,,,,,,250,2014-01-08T08:42:58+00:00
+2850,FAVG,medium_airport,"Virginia Airport",-29.770599365234375,31.058399200439453,20,AF,ZA,ZA-NL,Durban,0,FAVG,VIR,,,,,250,2008-08-13T13:25:25+00:00
+2839,FASS,medium_airport,"Sishen Airport",-27.6485996246,22.9993000031,3848,AF,ZA,ZA-NC,Sishen,0,FASS,SIS,,,,,250,2013-12-07T00:10:19+00:00
+2843,FATP,small_airport,"New Tempe Airport",-29.032899856567383,26.15760040283203,4547,AF,ZA,ZA-FS,"Bain's Vlei",0,FATP,,,,,,50,2008-08-13T13:21:42+00:00
+27288,FAKT,small_airport,"Kitty Hawk Airport",-25.860000610399997,28.4500007629,4619,AF,ZA,ZA-GT,Boschkop,0,FAKT,,,http://www.fakt.co.za,,,50,2013-10-01T13:56:04+00:00
+27279,FABS,small_airport,"Brits Airport",-25.53230094909668,27.77589988708496,3756,AF,ZA,ZA-NW,Brits,0,FABS,,,,,,50,2008-08-13T13:27:54+00:00
+27282,FAFK,small_airport,"Fisantekraal Airport",-33.77,18.74,399,AF,ZA,ZA-WC,Fisantekraal,0,FAFK,,,,https://en.wikipedia.org/wiki/Fisantekraal_Airfield,,50,2016-07-01T10:37:15+00:00
+2796,FAKR,small_airport,"Krugersdorp Airport",-26.0808259199,27.7259149551,5499,AF,ZA,ZA-GT,Krugersdorp,0,FAKR,,,http://www.fakr.co.za,,,50,2014-01-10T06:15:31+00:00
+2821,FAPG,medium_airport,"Plettenberg Bay Airport",-34.0881601675,23.3287234306,465,AF,ZA,ZA-WC,"Plettenberg Bay",0,FAPG,PBZ,,,,,250,2014-01-08T08:19:55+00:00
+2835,FASC,medium_airport,"Secunda Airport",-26.52409935,29.170099258399997,5250,AF,ZA,ZA-MP,Secunda,0,FASC,ZEC,,,,,250,2013-12-07T00:07:22+00:00
+2773,FABM,small_airport,"Bethlehem Airport",-28.2483997345,28.3360996246,5561,AF,ZA,ZA-FS,Bethlehem,0,FABM,,,,,,50,2013-12-06T22:21:08+00:00
+29953,FAHT,small_airport,"Hoedspruit Airport",-24.351699829101562,30.949399948120117,1801,AF,ZA,ZA-NP,Hoedspruit,0,FAHT,,,,,,50,2008-08-13T13:26:48+00:00
+31055,FAOR,large_airport,"OR Tambo International Airport",-26.1392,28.246,5558,AF,ZA,ZA-GT,Johannesburg,1,FAOR,JNB,,,,"Johannesburg International Airport",50,2017-12-30T09:17:13+00:00
+41188,FATA,small_airport,"Tedderfield Air Park",-26.352037738499998,27.9681630135,5198,AF,ZA,ZA-GT,Tedderfield,0,FATA,,,,,,50,2014-01-10T02:44:02+00:00
+2809,FAMG,medium_airport,"Margate Airport",-30.8574008942,30.343000412,495,AF,ZA,ZA-NL,Margate,1,FAMG,MGH,,,http://en.wikipedia.org/wiki/Margate_Airport,,800,2013-12-06T23:20:17+00:00
+2827,FAPP,medium_airport,"Polokwane International Airport",-23.845269,29.458615,4076,AF,ZA,ZA-NP,Polokwane,1,FAPP,PTG,,,http://en.wikipedia.org/wiki/Polokwane_International_Airport,"FAPB,  AFB Pietersburg,  Pietersburg International Airport, Gateway International Airport",800,2016-04-17T15:41:02+00:00
+2823,FAPI,medium_airport,"Pietersburg Municipal Airport",-23.9260997772,29.4843997955,4354,AF,ZA,ZA-NP,Polokwane,1,FAPI,,,,,PTG,650,2012-12-29T14:28:58+00:00
+2790,FAHS,small_airport,"Hoedspruit Air Force Base Airport",-24.368600845299998,31.0487003326,1743,AF,ZA,ZA-NP,Hoedspruit,1,FAHS,HDS,,,http://en.wikipedia.org/wiki/Hoedspruit_Airport#Eastgate_Airport,,450,2013-12-06T22:50:14+00:00
+2780,FAEO,medium_airport,"Ermelo Airport",-26.4955997467041,29.979799270629883,5700,AF,ZA,ZA-MP,Ermelo,0,FAEO,,,,,,250,2008-08-13T13:23:12+00:00
+2816,FANC,medium_airport,"Newcastle Airport",-27.7705993652,29.976900100699996,4074,AF,ZA,ZA-NL,Newcastle,0,FANC,NCS,,,http://en.wikipedia.org/wiki/Newcastle_Airport_(South_Africa),,250,2013-12-06T23:29:42+00:00
+2841,FASZ,medium_airport,"Skukuza Airport",-24.960899353,31.5886993408,1020,AF,ZA,ZA-MP,Skukuza,0,FASZ,SZK,,,http://en.wikipedia.org/wiki/Skukuza_Airport,,250,2013-12-07T00:12:06+00:00
+2791,FAHV,small_airport,"Gariep Dam Airport",-30.56220054626465,25.52829933166504,4176,AF,ZA,ZA-FS,"Hendrik Verwoerd dam",0,FAHV,,,,,,50,2008-08-13T13:21:30+00:00
+41301,FADX,small_airport,"Delta 200 Airstrip",-33.6494935368,18.471879959099997,220,AF,ZA,ZA-WC,Koeberg,0,FADX,,,,,,50,2012-04-20T07:49:13+00:00
+2817,FANY,small_airport,"Nylstroom Airfield",-24.686100006103516,28.434900283813477,3900,AF,ZA,ZA-NP,Modimolle,0,FANY,,,,,,50,2009-09-01T07:44:35+00:00
+41285,FAMH,small_airport,"Musina(Messina) Airport",-22.356000900299996,29.9862003326,1904,AF,ZA,ZA-NP,Musina,0,FAMH,MEZ,,,,,50,2012-12-20T21:20:53+00:00
+299614,ZA-0105,small_airport,"Aviators Paradise Field",-25.69389,27.7825073972,3800,AF,ZA,ZA-GT,,0,FAAP,,,http://www.aviatorsparadise.co.za/,,,0,2012-12-16T10:58:10+00:00
+2812,FAMM,medium_airport,"Mmabatho International Airport",-25.798400878900004,25.548000335699996,4181,AF,ZA,ZA-NW,Mafeking,1,FAMM,MBD,,,http://en.wikipedia.org/wiki/Mmabatho_International_Airport,Mafikeng,1050,2013-12-06T23:10:52+00:00
+2848,FAUT,medium_airport,"K. D. Matanzima Airport",-31.546363184900002,28.6733551025,2400,AF,ZA,ZA-EC,Mthatha,1,FAUT,UTT,,,http://en.wikipedia.org/wiki/K.D._Matanzima_Airport,Umtata,800,2014-01-08T08:07:18+00:00
+2831,FARB,medium_airport,"Richards Bay Airport",-28.740999221800003,32.0920982361,109,AF,ZA,ZA-NL,"Richards Bay",1,FARB,RCB,,,http://en.wikipedia.org/wiki/Richards_Bay_Airport,,800,2013-12-07T00:00:27+00:00
+2771,FABE,medium_airport,"Bisho Airport",-32.8970985413,27.279100418099997,1950,AF,ZA,ZA-EC,Bisho,0,FABE,BIY,,,,,250,2013-12-06T22:27:07+00:00
+2793,FAKD,medium_airport,"P C Pelser Airport",-26.8710994720459,26.718000411987305,4444,AF,ZA,ZA-NW,Klerksdorp,0,FAKD,KXE,,,,,250,2008-08-13T13:27:31+00:00
+2815,FAMU,medium_airport,"Mkuze Airport",-27.626100540161133,32.0443000793457,400,AF,ZA,ZA-NL,Mkuze,0,FAMU,MZQ,,,,,250,2008-08-13T13:26:14+00:00
+2834,FASB,medium_airport,"Springbok Airport",-29.689300537109375,17.939599990844727,2690,AF,ZA,ZA-NC,Springbok,0,FASB,SBU,,,,,250,2008-08-13T13:24:32+00:00
+2849,FAVB,medium_airport,"Vryburg Airport",-26.9824008942,24.7287998199,3920,AF,ZA,ZA-NW,Vyrburg,0,FAVB,VRU,,,http://en.wikipedia.org/wiki/Vryburg_Airport,,250,2012-12-30T08:43:26+00:00
+2857,FAWM,small_airport,"Welkom Airport",-27.996824511099998,26.663333892799997,4421,AF,ZA,ZA-FS,Welkom,0,FAWM,,,,,,250,2014-01-10T06:35:10+00:00
+27278,FABW,small_airport,"Beaufort West Airport",-32.29999923706055,22.670000076293945,2941,AF,ZA,ZA-WC,"Beaufort West",0,FABW,,,,,,50,2008-08-13T13:28:34+00:00
+2770,FABB,small_airport,"Brakpan Airport",-26.23859977722168,28.301799774169922,5300,AF,ZA,ZA-GT,Brakpan,0,FABB,,,,,,50,2008-08-13T13:22:40+00:00
+41190,FARA,small_airport,"Petit Airport",-26.0845963451,28.390386581399998,5460,AF,ZA,ZA-GT,Daveyton,0,FARA,,,,,,50,2014-01-08T07:10:30+00:00
+2786,FAGT,small_airport,"Grahamstown Airport",-33.284698486328125,26.49810028076172,2135,AF,ZA,ZA-EC,Grahamstown,0,FAGT,,,,,,50,2008-08-13T13:20:35+00:00
+29919,FAGL,small_airport,"Groblersdal Kob Airport",-25.186899185180664,29.40329933166504,3051,AF,ZA,ZA-MP,Groblersdal,0,FAGL,,,,,,50,2008-08-13T13:23:49+00:00
+27284,FAHG,small_airport,"Heidelburg Airport",-26.510000228881836,28.389999389648438,5089,AF,ZA,ZA-GT,Heidelburg,0,FAHG,,,,,,50,2008-08-13T13:22:31+00:00
+30453,FASY,small_airport,"Syferfontein Airport",-26.349199295043945,27.779399871826172,5420,AF,ZA,ZA-GT,Hiltonia,0,FASY,,,,,,50,2008-08-13T13:22:37+00:00
+2797,FAKS,small_airport,"Kroonstad Airport",-27.660600662231445,27.315799713134766,4700,AF,ZA,ZA-FS,Kroonstad,0,FAKS,,,,,,50,2008-08-13T13:22:10+00:00
+2802,FALI,small_airport,"Lichtenburg Airport",-26.17569923400879,26.184600830078125,4875,AF,ZA,ZA-NW,Lichtenburg,0,FALI,,,,,,50,2008-08-13T13:27:39+00:00
+30164,FAMO,small_airport,"Mossel Bay Airport",-34.158298,22.058599,531,AF,ZA,ZA-WC,"Mossel Bay",0,FAMO,MZY,,http://www.mosselbayaero.com/wmenu.php,,,50,2016-07-09T23:17:13+00:00
+41273,FAQR,closed,"Potgietersrus Airport",-24.233334,28.983334,3500,AF,ZA,ZA-NP,Potgietersus,0,FAQR,,,,,"""Potties"", Potgietersrus Mine",50,2016-04-17T15:33:50+00:00
+2838,FASK,small_airport,"Swartkop Air Force Base",-25.8097000122,28.164600372299997,4780,AF,ZA,ZA-GT,Pretoria,0,FASK,,,,http://en.wikipedia.org/wiki/AFB_Swartkop,,50,2012-10-13T14:50:19+00:00
+41261,FARO,small_airport,"Rooiberg Airport",-24.7777888889,27.7523361111,3811,AF,ZA,ZA-NP,Rooiberg,0,FARO,,,,,,50,2013-07-20T05:00:28+00:00
+30538,FAVU,small_airport,"Volksrust Airport",-27.37689971923828,29.860000610351562,5610,AF,ZA,ZA-MP,Volksrust,0,FAVU,,,,,,50,2008-08-13T13:22:59+00:00
+27298,FAWA,small_airport,"Warmbaths Airport",-24.90999984741211,28.299999237060547,3655,AF,ZA,ZA-NP,Warmbaths,0,FAWA,,,,,,50,2008-08-13T13:26:20+00:00
+309043,ZA-0110,small_airport,"Panorama Airfield",-26.329316319599997,28.0684691112,5000,AF,ZA,ZA-GT,,0,,,PAN,,,,0,2014-01-10T02:16:44+00:00
+312691,ZA-0120,small_airport,Morningstar,-33.757978,18.550403,200,AF,ZA,ZA-WC,,0,,,,http://www.wcmc.co.za,,,0,2014-08-17T13:18:10+00:00
+2808,FAMD,medium_airport,"Malamala Airport",-24.818099975585938,31.544599533081055,1124,AF,ZA,ZA-NP,Malamala,1,FAMD,AAM,,,http://en.wikipedia.org/wiki/Mala_Mala_Airport,,800,2008-08-13T13:26:23+00:00
+2768,FAAG,medium_airport,"Aggeneys Airport",-29.28179931640625,18.813899993896484,2648,AF,ZA,ZA-NC,Aggeneys,0,FAAG,AGZ,,,,,250,2008-08-13T13:24:39+00:00
+2767,FAAB,medium_airport,"Alexander Bay Airport",-28.575001,16.5333,98,AF,ZA,ZA-NC,"Alexander Bay",0,FAAB,ALJ,,,http://en.wikipedia.org/wiki/Alexander_Bay_Airport,Kortdoorn,250,2018-05-19T20:07:56+00:00
+2806,FALY,medium_airport,"Ladysmith Airport",-28.5816993713,29.749700546299998,3548,AF,ZA,ZA-NL,Ladysmith,0,FALY,LAY,,,http://en.wikipedia.org/wiki/Ladysmith_Airport,,250,2013-12-06T23:08:41+00:00
+2813,FAMN,medium_airport,"Riverside Airport",-25.4300003052,31.5767002106,1024,AF,ZA,ZA-MP,Malelane,0,FAMN,LLE,,,,,250,2013-12-06T23:19:22+00:00
+2819,FAOH,medium_airport,"Oudtshoorn Airport",-33.6069984436,22.188999176,1063,AF,ZA,ZA-WC,Oudtshoorn,0,FAOH,OUH,FAOH,,,,250,2014-01-29T10:34:56+00:00
+2830,FAQT,medium_airport,"Queenstown Airport",-31.92020034790039,26.882200241088867,3637,AF,ZA,ZA-EC,Queenstown,0,FAQT,UTW,,,,,250,2008-08-13T13:21:11+00:00
+2836,FASD,medium_airport,"Saldanha /Vredenburg Airport",-32.964099884,17.9692993164,50,AF,ZA,ZA-WC,Saldanha-Vredenburg,0,FASD,,,,,,250,2012-12-20T20:37:50+00:00
+27286,ZA-0003,small_airport,"Koppies Airport",-27.25,27.549999237060547,,AF,ZA,ZA-FS,,0,,,,,,,50,2008-08-13T13:31:15+00:00
+27277,FAAN,small_airport,"Aliwal North Airport",-30.68000030517578,26.729999542236328,4405,AF,ZA,ZA-EC,"Aliwal North",0,FAAN,,,,,,50,2008-08-13T13:21:30+00:00
+29669,FAAP,small_airport,"Arnot Power Station Airport",-25.941099166900003,29.810300827,5594,AF,ZA,ZA-MP,"Arnot Power Station",0,,,,,,,50,2012-12-16T10:55:50+00:00
+41210,FASE,small_airport,"Sabi Sabi Airport",-24.947375434199998,31.4488477707,1276,AF,ZA,ZA-MP,Belfast,0,FASE,GSS,,,,,50,2014-01-08T07:08:19+00:00
+41291,ZA-0086,small_airport,"Aero Den Airport",-25.726667404174805,27.739721298217773,4050,AF,ZA,ZA-NW,Brits,0,,,,,,,50,2008-08-13T13:27:48+00:00
+29846,FAER,small_airport,"Ellisras Matimba Airport",-23.726699829101562,27.68829917907715,2799,AF,ZA,ZA-NP,Ellisras,0,FAER,ELL,,,,,50,2008-08-13T13:27:01+00:00
+27281,FAEM,small_airport,"Empangeni Airport",-28.719999313354492,31.889999389648438,251,AF,ZA,ZA-NL,Empangeni,0,FAEM,EMG,,,,,50,2008-08-13T13:25:50+00:00
+41182,FAFF,small_airport,"Frankfort Airport",-27.285400390625,28.515300750732422,5176,AF,ZA,ZA-FS,Frankfort,0,FAFF,,,,,,50,2008-08-13T13:22:17+00:00
+27283,FAGI,small_airport,"Giyani Airport",-23.283300399780273,30.649999618530273,1584,AF,ZA,ZA-NP,Giyani,0,FAGI,GIY,,,,,50,2008-08-13T13:27:06+00:00
+29912,FAGV,small_airport,"Gravelotte Airport",-23.91670036315918,30.700000762939453,1650,AF,ZA,ZA-NP,Gravelotte,0,FAGV,,,,,,50,2008-08-13T13:26:57+00:00
+41603,ZA-0094,small_airport,"Hazyview Airport",-25.050100326538086,31.131900787353516,1810,AF,ZA,ZA-MP,Hazyview,0,,HZV,,,,,50,2008-08-27T07:58:22+00:00
+41270,FATB,small_airport,"Thorny Bush Game Lodge Airport",-24.414722442626953,31.165000915527344,1900,AF,ZA,ZA-NP,Hoedspruit,0,FATB,,,,,,50,2008-08-13T13:26:44+00:00
+41258,FAKB,small_airport,"Kosibaai Airport",-27.03333282470703,32.75,140,AF,ZA,ZA-NL,"Kosi Bay",0,FAKB,,,,,,50,2008-08-13T13:26:19+00:00
+29879,FAFW,small_airport,"Freeway Airport",-25.47719955444336,28.290000915527344,3819,AF,ZA,ZA-GT,Kromdraai,0,FAFW,,,,,,50,2008-08-13T13:22:55+00:00
+2804,FALO,small_airport,"Louis Trichardt Airport",-23.061899185180664,29.864700317382812,3025,AF,ZA,ZA-NP,"Louis Trichardt",0,FALO,LCD,,,,,50,2008-08-13T13:27:09+00:00
+30095,FALL,small_airport,"Lydenburg Airport",-25.103300094604492,30.414199829101562,4882,AF,ZA,ZA-MP,Lydenburg,0,FALL,,,,,,50,2008-08-13T13:23:51+00:00
+2810,FAMI,small_airport,"Marble Hall Airport",-24.989099502563477,29.283100128173828,2980,AF,ZA,ZA-MP,"Marble Hall",0,FAMI,,,,,,50,2008-08-13T13:23:51+00:00
+2807,FAMB,small_airport,"Middelburg Airport",-25.684799194335938,29.440200805664062,4886,AF,ZA,ZA-MP,Middelburg,0,FAMB,,,,,,50,2008-08-13T13:23:42+00:00
+2818,FAOB,small_airport,"Overberg Airport",-34.554901123,20.250699996900003,52,AF,ZA,ZA-WC,Overberg,0,FAOB,OVG,,,http://en.wikipedia.org/wiki/AFB_Overberg,,50,2012-01-21T12:25:24+00:00
+30275,FAPD,small_airport,"Pofadder Airport",-29.141700744628906,19.41309928894043,3241,AF,ZA,ZA-NC,Pofadder,0,FAPD,,,,,,50,2008-08-13T13:24:41+00:00
+30278,FAPL,small_airport,"Pongola Airport",-27.3622,31.606701,942,AF,ZA,ZA-NL,Pongola,0,FAPL,,,,http://en.wikipedia.org/wiki/Pongola_Airport,,50,2018-04-28T17:45:46+00:00
+27290,FAPA,small_airport,"Port Alfred Airport",-33.5541992188,26.877700805699998,275,AF,ZA,ZA-EC,"Port Alfred",0,FAPA,AFD,,,http://en.wikipedia.org/wiki/Port_Alfred_Airport,,50,2014-01-09T00:40:14+00:00
+27292,FASJ,small_airport,"Saffier Airport",-26.760000228881836,27.760000228881836,4700,AF,ZA,ZA-GT,Saffier,0,FASJ,,,,,,50,2008-08-13T13:22:25+00:00
+2840,FASX,small_airport,"Hendrik Swellengrebel Airport",-34.04819869995117,20.474599838256836,407,AF,ZA,ZA-WC,Swellendam,0,FASX,,,,,,50,2008-08-13T13:28:11+00:00
+41607,ZA-0098,small_airport,"Tshipise Airport",-22.619300842285156,30.175600051879883,1786,AF,ZA,ZA-NP,Tshipise,0,,TSD,,,,,50,2008-08-27T07:58:26+00:00
+30504,FAUH,small_airport,"Uitenhage Airport",-33.785301208496094,25.38330078125,289,AF,ZA,ZA-EC,Uitenhage,0,FAUH,,,,,,50,2008-08-13T13:20:32+00:00
+27297,FAVP,small_airport,"Vanderbijlpark Airport",-26.69029998779297,27.777099609375,4861,AF,ZA,ZA-GT,Vanderbijlpark,0,FAVP,,,,,,50,2008-08-13T13:22:27+00:00
+2851,FAVM,small_airport,"Venetia Airport",-22.4480991364,29.337699890099998,2333,AF,ZA,ZA-NP,"Venetia Mine",0,FAVM,,,,,,50,2013-12-06T21:57:37+00:00
+30555,FAWR,small_airport,"Wavecrest Airport",-32.589698791503906,28.51919937133789,89,AF,ZA,ZA-EC,Wavecrest,0,FAWR,,,,,,50,2008-08-13T13:20:56+00:00
+27299,FAWD,small_airport,"Wolmeransstad Airport",-27.170000076293945,25.979999542236328,4513,AF,ZA,ZA-NW,Wolmeransstad,0,FAWD,,,,,,50,2008-08-13T13:27:25+00:00
+310578,ZA-0112,small_airport,"Fly Inn Estate",-25.9711496926,28.3502766059,5300,AF,ZA,ZA-GT,,0,,,,,,,0,2014-01-08T07:16:51+00:00
+2781,FAFB,medium_airport,"Ficksburg Sentraoes Airport",-28.82309913635254,27.908899307250977,5315,AF,ZA,ZA-FS,Ficksburg,0,FAFB,FCB,,,,,250,2008-08-13T13:21:44+00:00
+2799,FAKZ,medium_airport,"Kleinsee Airport",-29.6884002686,17.093999862700002,270,AF,ZA,ZA-NC,Kleinsee,0,FAKZ,KLZ,,,http://en.wikipedia.org/wiki/Kleinzee_Airport,,250,2013-12-06T23:01:52+00:00
+2798,FAKU,medium_airport,"Johan Pienaar Airport",-27.45669937133789,23.411399841308594,4382,AF,ZA,ZA-NC,Kuruman,0,FAKU,KMH,,,http://en.wikipedia.org/wiki/Johan_Pienaar_Airport,,250,2008-06-13T14:30:04+00:00
+2805,FALW,medium_airport,"Langebaanweg Airport",-32.968898773199996,18.1602993011,108,AF,ZA,ZA-WC,Langebaanweg,0,FALW,SDB,,,http://en.wikipedia.org/wiki/AFB_Langebaanweg,,250,2012-12-20T20:44:06+00:00
+2824,FAPJ,medium_airport,"Port St Johns Airport",-31.605899810791016,29.519800186157227,1227,AF,ZA,ZA-EC,"Port St Johns",0,FAPJ,JOH,,,,,250,2008-08-13T13:21:14+00:00
+2833,FARS,medium_airport,"Robertson Airport",-33.812198638916016,19.902799606323242,640,AF,ZA,ZA-WC,Robertson,0,FARS,ROD,,,,,250,2008-08-13T13:28:14+00:00
+2845,FATZ,medium_airport,"Tzaneen Airport",-23.8243999481,30.329299926799997,1914,AF,ZA,ZA-NP,Tzaneen,0,FATZ,LTA,,,,,250,2013-12-07T00:18:06+00:00
+2852,FAVR,medium_airport,"Vredendal Airport",-31.641000747680664,18.5447998046875,330,AF,ZA,ZA-WC,Vredendal,0,FAVR,VRE,,,,,250,2008-08-13T13:28:38+00:00
+41845,ZA-0101,small_airport,"Sappi / Ngodwana",-25.58867835998535,30.622364044189453,,AF,ZA,ZA-MP,,0,,,,,,,50,2008-09-14T09:08:51+00:00
+29643,FAAE,small_airport,"Aberdeen Airport",-32.46670150756836,24.066699981689453,2461,AF,ZA,ZA-EC,Aberdeen,0,FAAE,,,,,,50,2008-08-13T13:20:59+00:00
+2769,FAAL,small_airport,"Alldays Airport",-22.6790008545,29.0555000305,2600,AF,ZA,ZA-NP,Alldays,0,FAAL,ADY,,,,,50,2009-11-06T17:16:58+00:00
+41281,ZA-0081,small_airport,"Alldays (Greater Kuduland) Airport",-22.80380630493164,28.995750427246094,2590,AF,ZA,ZA-NP,Alldays,0,,,,,,,50,2008-08-13T13:27:12+00:00
+2811,FAMJ,small_airport,"Majuba Power Station Airport",-27.079299926799997,29.7784996033,5600,AF,ZA,ZA-MP,Amerspoort,0,FAMJ,,,,,,50,2013-12-06T23:17:21+00:00
+41196,ZA-0029,small_airport,"Amersfoort Airport",-27.020000457763672,29.8700008392334,4500,AF,ZA,ZA-MP,Amerspoort,0,,,,,,,50,2008-08-13T13:23:03+00:00
+41298,FAAS,small_airport,"Ashton Airport",-33.81666564941406,20.066667556762695,525,AF,ZA,ZA-WC,Ashton,0,FAAS,,,,,,50,2008-08-13T13:28:14+00:00
+41844,ZA-0100,small_airport,"Bapsfontein Airport",-25.99188889,28.41583333,5292,AF,ZA,ZA-GT,Bapsfontein,0,,,,,,FA0004,50,2012-12-29T13:56:19+00:00
+2842,FATF,small_airport,"Tommys Field Airport",-28.260000228881836,22.993200302124023,4360,AF,ZA,ZA-NC,Beeshoek,0,FATF,,,,,,50,2008-08-13T13:24:55+00:00
+41287,ZA-0084,small_airport,"Bospoort Airport",-26.595556259155273,26.22922134399414,5085,AF,ZA,ZA-NW,Bospoort,0,,,,,,,50,2008-08-13T13:27:36+00:00
+41309,ZA-0093,small_airport,"Britstown Airport",-30.58333396911621,23.516666412353516,3500,AF,ZA,ZA-NC,Britstown,0,,,,,,,50,2008-08-13T13:28:41+00:00
+41194,ZA-0027,small_airport,"Bronkhorstspruit Airport",-25.77138900756836,28.726943969726562,4800,AF,ZA,ZA-GT,Bronkhorstspruit,0,,,,,,,50,2008-08-13T13:22:51+00:00
+2858,FAYP,medium_airport,"Ysterplaat Air Force Base",-33.90019989013672,18.498300552368164,52,AF,ZA,ZA-WC,"Cape Town",0,FAYP,,,http://www.af.mil.za/bases/afb_ysterplaat/,http://en.wikipedia.org/wiki/AFB_Ysterplaat,"Maitland Aerodrome, AFS Brooklyn",50,2009-06-11T08:05:10+00:00
+41186,FACR,small_airport,"Carltonville Airport",-26.366666793823242,27.34666633605957,5000,AF,ZA,ZA-GT,Carltonville,0,FACR,,,,,,50,2008-08-13T13:22:32+00:00
+29756,FACN,small_airport,"Carnarvon Airport",-30.98859977722168,22.13170051574707,4160,AF,ZA,ZA-NC,Carnarvon,0,FACN,,,,,,50,2008-08-13T13:24:09+00:00
+27280,FACK,small_airport,"Christiana Airport",-27.877700805664062,25.201799392700195,3978,AF,ZA,ZA-NW,Christiana,0,FACK,,,,,,50,2008-08-13T13:27:19+00:00
+29833,FADD,small_airport,"Dundee Airport",-28.1830997467041,30.22249984741211,4219,AF,ZA,ZA-NL,Dundee,0,FADD,,,,,,50,2008-08-13T13:25:58+00:00
+41189,FADR,small_airport,"Dunnottar Airfield",-26.3543156175,28.466791153,5241,AF,ZA,ZA-GT,Dunnottar,0,,,,,,,50,2014-01-10T06:10:49+00:00
+29878,FAFR,small_airport,"Fraserburg Airport",-31.933900833129883,21.502500534057617,4180,AF,ZA,ZA-NC,Fraseburg,0,FAFR,,,,,,50,2008-08-13T13:23:58+00:00
+2785,FAGR,small_airport,"Graaff Reinet Airport",-32.193599700927734,24.541400909423828,2604,AF,ZA,ZA-EC,Graaff-Reinet,0,FAGR,,,,,,50,2008-08-13T13:21:05+00:00
+41175,ZA-0016,small_airport,"Aero Farm Airport",-28.22361183166504,29.115833282470703,5580,AF,ZA,ZA-FS,Harrismith,0,,,,,,,50,2008-08-13T13:22:02+00:00
+41193,ZA-0026,small_airport,"Blue Mountain Valley Airport",-25.857500076293945,27.627777099609375,4150,AF,ZA,ZA-GT,Hekpoort,0,,,,,,,50,2008-08-13T13:22:50+00:00
+30302,FAHE,small_airport,"Pullenshope Hendrina Airport",-25.977800369262695,29.618900299072266,5171,AF,ZA,ZA-MP,Hendrina,0,FAHE,,,,,,50,2008-08-13T13:23:30+00:00
+27285,FAHH,small_airport,"Hibberdene Airport",-30.6299991607666,30.520000457763672,89,AF,ZA,ZA-NL,Hibberdene,0,FAHH,,,,,,50,2008-08-13T13:25:13+00:00
+29959,FAHP,small_airport,"Hoopstad Airport",-27.821699142456055,25.916900634765625,4131,AF,ZA,ZA-FS,Hoopstad,0,FAHP,,,,,,50,2008-08-13T13:22:09+00:00
+27287,FAKE,small_airport,"Keimouth Airport",-32.70000076293945,28.350000381469727,222,AF,ZA,ZA-EC,Keimouth,0,FAKE,,,,,,50,2008-08-13T13:20:49+00:00
+41604,ZA-0095,small_airport,"Khoka Moya Airport",-24.593000411987305,31.41510009765625,1440,AF,ZA,ZA-NP,"Khoka Moya",0,,KHO,,,,,50,2008-08-27T07:58:23+00:00
+41220,ZA-0045,small_airport,"John Weston Airport",-28.733333587646484,24.66666603088379,3936,AF,ZA,ZA-NC,Kimberley,0,,,,,,,50,2008-08-13T13:24:47+00:00
+31048,FAKI,small_airport,"Kobb Inn Airport",-32.433799,28.683467,147,AF,ZA,ZA-EC,"Kobb Inn",0,FAKI,,,http://www.kobinn.co.za/,,"Resort,Lodge,Fly-inn",50,2011-12-05T07:17:13+00:00
+30036,FAKG,small_airport,"Komati Power Station Airport",-26.093299865722656,29.45560073852539,5289,AF,ZA,ZA-MP,"Komati Power Station",0,FAKG,,,,,,50,2008-08-13T13:23:24+00:00
+30038,FAKP,small_airport,"Komatipoort Airport",-25.44029998779297,31.93000030517578,541,AF,ZA,ZA-MP,Komatipoort,0,FAKP,KOF,,,,,50,2008-08-13T13:23:47+00:00
+31046,FAIO,closed,"Odi Airport",-25.5499992371,27.933000564599997,3862,AF,ZA,ZA-NW,Lerulaneng,0,FAIO,,,,,,50,2015-01-29T09:12:29+00:00
+41262,FALD,small_airport,"Londolozi Airport",-24.7478,31.4743,1300,AF,ZA,ZA-NP,Londolozi,0,FALD,LDZ,,,,,50,2018-05-01T14:11:43+00:00
+2803,FALM,small_airport,"Makhado Air Force Base Airport",-23.159900665283203,29.696500778198242,3069,AF,ZA,ZA-NP,"Louis Trichardt Southwest",0,FALM,,,,,,50,2008-08-13T13:27:07+00:00
+41272,ZA-0073,small_airport,"Nederland Airport",-24.301300048828125,31.29129981994629,1298,AF,ZA,ZA-NP,Nederland,0,,,,,,,50,2008-08-13T13:26:49+00:00
+41245,FAIS,small_airport,"Isithebe Airport",-29.10555648803711,31.407499313354492,313,AF,ZA,ZA-NL,Nyoni,0,FAIS,,,,,,50,2008-08-13T13:25:39+00:00
+41222,ZA-0047,small_airport,"Augrabies Airport",-28.630167007399997,20.320333480800002,2200,AF,ZA,ZA-NC,"Orange Falls",0,,,,http://www.dundilodge.co.za/,,"Lodge,Resort,Fly-inn",50,2011-10-11T06:04:23+00:00
+30219,FAOI,small_airport,"Orient Glider Airport",-26.039400100708008,27.595600128173828,5102,AF,ZA,ZA-GT,Orient,0,FAOI,,,,,,50,2008-08-13T13:22:43+00:00
+31054,FAOL,small_airport,"Othawa Airport",-24.732999801635742,31.399999618530273,1098,AF,ZA,ZA-NP,Otthawa,0,FAOL,,,,,,50,2008-08-13T13:26:35+00:00
+41302,FAPU,small_airport,"Paarl East Airport",-33.710766666699996,19.024388888900003,596,AF,ZA,ZA-WC,Paarl,0,FAPU,,,,,,50,2012-12-14T12:25:41+00:00
+41300,ZA-0091,small_airport,"Altona Airport",-33.707637786865234,18.646249771118164,261,AF,ZA,ZA-WC,Philadelphia,0,,,,,,,50,2008-08-13T13:28:18+00:00
+30258,FAPF,small_airport,"Piet Retief Airport",-26.9969005585,30.840799331699998,4423,AF,ZA,ZA-MP,"Piet Retief",0,FAPF,,,,,,50,2013-12-06T23:36:07+00:00
+41276,ZA-0076,small_airport,"Ranch Motel Airport",-24.041000366210938,29.27589988708496,4500,AF,ZA,ZA-NP,Polokwane,0,,,,,,,50,2008-08-13T13:26:55+00:00
+30283,FAPT,small_airport,"Posmasburg Soil Airport",-28.338600158691406,23.079700469970703,4301,AF,ZA,ZA-NC,Postmasburg,0,FAPT,,,,,,50,2008-08-13T13:24:55+00:00
+27296,FATR,small_airport,"Trennery's Airport",-32.63859939575195,28.424299240112305,114,AF,ZA,ZA-EC,Qolora,0,FATR,,,,,,50,2008-08-13T13:20:54+00:00
+30329,FARI,small_airport,"Reivilo Airport",-27.547199249267578,24.172500610351562,4715,AF,ZA,ZA-NW,Reivilo,0,FARI,RVO,,,,,50,2008-08-13T13:27:23+00:00
+30344,FARD,small_airport,"Riversdale Airport",-34.111698150634766,21.262800216674805,591,AF,ZA,ZA-WC,Riversdale,0,FARD,,,,,,50,2008-08-13T13:28:09+00:00
+30365,FASU,small_airport,"Sace Airport",-25.956899642944336,29.211700439453125,5151,AF,ZA,ZA-MP,Sace,0,FASU,,,,,,50,2008-08-13T13:23:32+00:00
+30400,FASG,small_airport,"Schweizer Reneke Airport",-27.16309928894043,25.286100387573242,4373,AF,ZA,ZA-NW,"Schweizer Reneke",0,FASG,,,,,,50,2008-08-13T13:27:27+00:00
+41212,ZA-0041,small_airport,"Malamala West Airport",-24.808094024658203,31.50456428527832,1176,AF,ZA,ZA-MP,Sparta,0,,,,,,,50,2008-08-13T13:23:54+00:00
+41251,ZA-0065,small_airport,"St Lucia Estuary",-28.350000381469727,32.41666793823242,60,AF,ZA,ZA-NL,"St Lucía",0,,,,,,,50,2008-08-13T13:25:55+00:00
+2844,FATT,small_airport,"Tutuka Power Station Airport",-26.776599884,29.3388004303,5313,AF,ZA,ZA-MP,Standerton,0,FATT,,,,,,50,2013-12-07T00:15:23+00:00
+27294,FASR,small_airport,"Standerton Airport",-26.927000045776367,29.209999084472656,5200,AF,ZA,ZA-MP,Standerton,0,FASR,,,,,,50,2008-08-13T13:23:06+00:00
+41150,FATM,small_airport,"Stutterheim Airport",-32.56666564941406,27.450000762939453,2675,AF,ZA,ZA-EC,Stutterheim,0,FATM,,,,,,50,2008-08-13T13:20:56+00:00
+27291,FAPZ,small_airport,"Progress Airport",-33.93000030517578,25.3700008392334,748,AF,ZA,ZA-EC,Sunlands,0,FAPZ,,,,,,50,2008-08-13T13:20:28+00:00
+31059,FASL,small_airport,"Sutherland Airport",-32.48820114135742,20.697099685668945,5247,AF,ZA,ZA-NC,Sutherland,0,FASL,,,,,,50,2008-08-13T13:23:56+00:00
+41280,ZA-0080,small_airport,"Swartwater Highway Strip Airport",-22.840999603271484,28.20870018005371,2800,AF,ZA,ZA-NP,Swartwater,0,,,,,,,50,2008-08-13T13:27:11+00:00
+41266,FATI,small_airport,"Thabazimbi Airport",-24.5760850299,27.4196863174,3225,AF,ZA,ZA-NP,Thabazimbi,0,FATI,,,,,,50,2012-12-22T13:11:54+00:00
+30485,FATH,small_airport,"Thohoyandou Airport",-23.076900482177734,30.38360023498535,2021,AF,ZA,ZA-NP,Thohoyandou,0,FATH,THY,,,,,50,2008-08-13T13:27:09+00:00
+41162,FAUG,small_airport,"Ugie Airport",-31.219999313354492,28.209999084472656,4580,AF,ZA,ZA-EC,Ugie,0,FAUG,,,,,,50,2008-08-13T13:21:23+00:00
+41260,ZA-0069,small_airport,"Ulusaba Airport",-24.7854003906,31.3549003601,1263,AF,ZA,ZA-NP,Ulusaba,0,FAUS,ULX,,,,,50,2012-12-22T02:45:44+00:00
+30515,FAUR,small_airport,"Utrecht Airport",-27.680500030517578,30.31679916381836,4101,AF,ZA,ZA-NL,Utrecht,0,FAUR,,,,,,50,2008-08-13T13:26:14+00:00
+41288,FAVE,small_airport,"Ventersdorp Airport",-26.300899505615234,26.814199447631836,4917,AF,ZA,ZA-NW,Ventersdorp,0,FAVE,,,,,,50,2008-08-13T13:27:37+00:00
+30542,FAVY,small_airport,"Vryheid Airport",-27.78689956665039,30.79640007019043,3799,AF,ZA,ZA-NL,Vryheid,0,FAVY,VYD,,,,,50,2008-08-13T13:26:10+00:00
+41195,ZA-0028,small_airport,"Wakkerstroom Airport",-27.350000381469727,30.166667938232422,5848,AF,ZA,ZA-MP,Wakkerstroom,0,,,,,,,50,2008-08-13T13:23:02+00:00
+30561,FAWO,small_airport,"Willowmore Airport",-33.263301849365234,23.4906005859375,2608,AF,ZA,ZA-EC,Willowmore,0,FAWO,,,,,,50,2008-08-13T13:20:37+00:00
+30569,FAWC,small_airport,"Worcester Glider Airport",-33.66310119628906,19.415300369262695,673,AF,ZA,ZA-WC,Worcester,0,FAWC,,,,,,50,2008-08-13T13:28:21+00:00
+2859,FAZR,small_airport,"Zeerust Airport",-25.599000930786133,26.042299270629883,4258,AF,ZA,ZA-NW,Zeerust,0,FAZR,,,,,,50,2008-08-13T13:27:50+00:00
+299617,FADU,small_airport,"Walkersons Field",-25.36278,30.18778,6041,AF,ZA,ZA-MP,,0,FADU,,FADU,http://www.walkersons.co.za/,,"Lodge,Resort,Fly-inn",0,2011-10-11T07:21:32+00:00
+310576,ZA-0111,small_airport,"Kudu Private Nature Reserve",-24.995,30.403333333299997,4580,AF,ZA,ZA-MP,,0,,,,,,,0,2014-01-08T06:22:08+00:00
+312261,ZA-0115,small_airport,"High Way Airfield",-33.9508694444,22.9803583333,,AF,ZA,ZA-WC,,0,,,,,,,0,2014-06-22T12:13:39+00:00
+330555,ZA-0162,small_airport,Bingelela,-28.711116,29.331242,3731,AF,ZA,ZA-NL,Bergville,0,,,,https://www.bingelela.co.za/,,"Sling aircraft, Places to eat, flyin, breakfast, Bergville. Accomodation",0,2019-02-16T09:02:32+00:00
+308162,ZA-0108,small_airport,"Bethal Airport",-26.480902,29.466671,5475,AF,ZA,ZA-MP,Bethal,0,,,,,,,0,2012-12-16T14:21:16+00:00
+299605,ZA-0104,small_airport,"Winterveldt Mine Airport",-24.665,30.18528,3000,AF,ZA,ZA-NP,Doornbosch,0,FAWT,,FAWT,,,,0,2011-12-05T07:16:11+00:00
+310582,ZA-0113,small_airport,"Sunset Shores Airfield",-26.8512013063,28.198428154,4955,AF,ZA,ZA-GT,"Sunset Shores",0,,,,,,,0,2014-01-09T02:18:52+00:00
+310585,ZA-0114,small_airport,"Zebula Golf Estate & Spa",-24.755833,27.97,,AF,ZA,ZA-U-A,"Zebula Golf Estate & Spa",0,,,,http://www.zebula.co.za/content.aspx?id=170,,,0,2018-11-30T08:30:21+00:00
+2789,FAHR,medium_airport,"Harrismith Airport",-28.23509979248047,29.106199264526367,5585,AF,ZA,ZA-FS,Harrismith,0,FAHR,HRS,,,,,250,2008-08-13T13:22:01+00:00
+2801,FALC,medium_airport,"Lime Acres Finsch Mine Airport",-28.36009979248047,23.43910026550293,4900,AF,ZA,ZA-NC,"Lime Acres",0,FALC,LMR,,,,,250,2008-08-13T13:24:53+00:00
+2814,FAMS,medium_airport,"Morningside Farm Airport",-25.7045001984,26.9090003967,4251,AF,ZA,ZA-NW,Silveroaks,0,FAMS,,,,,,250,2012-12-20T21:42:18+00:00
+2846,FAUL,medium_airport,"Prince Mangosuthu Buthelezi Airport",-28.3206005096,31.4165000916,1720,AF,ZA,ZA-NL,Ulundi,0,FAUL,ULD,,,http://en.wikipedia.org/wiki/Ulundi_Airport,,250,2013-12-07T00:21:49+00:00
+29907,FAGO,small_airport,"Gowrie Airport",-24.737165303599998,31.5602874756,1200,AF,ZA,ZA-MP,,0,FAGO,,,,,,50,2012-12-16T12:35:35+00:00
+41843,ZA-0099,small_airport,"Holbank Airport",-26.570999145507812,30.243000030517578,,AF,ZA,ZA-MP,,0,,,,,,,50,2008-09-14T13:59:58+00:00
+29645,FAAD,closed,"Adelaide Airport",-32.6831016541,26.2942008972,1955,AF,ZA,ZA-EC,Adelaide,0,FAAD,,,,,,50,2015-03-17T13:31:08+00:00
+41174,ZA-0015,small_airport,"Aldam Airport",-28.268888473510742,27.161388397216797,5105,AF,ZA,ZA-FS,Aldam,0,,,,,,,50,2008-08-13T13:21:58+00:00
+41161,ZA-0007,small_airport,"Stockdale Landing Strip Airport",-31.245100021362305,26.298500061035156,5315,AF,ZA,ZA-EC,Alfalfa,0,,,,,,,50,2008-08-13T13:21:22+00:00
+41282,ZA-0082,small_airport,"Alldays Safaris Airport",-22.667200088500977,29.315200805664062,2650,AF,ZA,ZA-NP,Alldays,0,,,,,,,50,2008-08-13T13:27:14+00:00
+41246,ZA-0062,small_airport,"Amatikulu (Microlight) Airport",-29.098167419433594,31.5049991607666,240,AF,ZA,ZA-NL,Amatikulu,0,,,,,,,50,2008-08-13T13:25:40+00:00
+41198,FAAM,small_airport,"Amsterdam Airport",-26.633333206176758,30.600000381469727,4310,AF,ZA,ZA-MP,Amsterdam,0,FAAM,,,,,,50,2008-08-13T13:23:08+00:00
+41181,ZA-0020,small_airport,"Anton Fourie Farm Airport",-27.5,26.330554962158203,4300,AF,ZA,ZA-FS,"Anton Fourie",0,,,,,,,50,2008-08-13T13:22:12+00:00
+41263,FACC,small_airport,"Arathusa Safari Lodge Airport",-24.744165,31.522499,1200,AF,ZA,ZA-NP,Arathusa,0,FACC,ASS,,http://arathusa.co.za/getting-to-arathusa-by-scheduled-flight/,,,50,2018-05-20T02:24:38+00:00
+41247,FALQ,small_airport,"El Mirador Airport",-28.98611068725586,29.47972297668457,3897,AF,ZA,ZA-NL,Ardmore,0,FALQ,,,,,,50,2008-08-13T13:25:43+00:00
+41232,ZA-0054,small_airport,"Askham Airport",-26.9869441986,20.7772216797,2801,AF,ZA,ZA-NC,Askham,0,FAAK,,,,,,50,2012-12-16T10:26:17+00:00
+41239,ZA-0059,small_airport,"Baynesfield Estate Airport",-29.761667251586914,30.3397216796875,2772,AF,ZA,ZA-NL,Atherstone,0,,,,,,,50,2008-08-13T13:25:26+00:00
+41242,ZA-0060,small_airport,"Ballito Bay (Dophin Coast) Airport",-29.48889923095703,31.179000854492188,200,AF,ZA,ZA-NL,"Ballito Bay",0,,,,,,,50,2008-08-13T13:25:31+00:00
+41278,ZA-0078,small_airport,"Baltimore Airport",-23.256834030151367,28.408832550048828,3203,AF,ZA,ZA-NP,Baltimore,0,,,,,,,50,2008-08-13T13:27:07+00:00
+31035,FABA,small_airport,"Microland Flight Park",-25.976255771599998,28.3890151978,5476,AF,ZA,ZA-GT,Bapsfontein,0,FABA,,,,,,50,2012-12-29T11:10:11+00:00
+29685,FABN,closed,"Barberton Municipal Airfield",-25.778600692699996,31.017499923699997,,AF,ZA,ZA-MP,Barberton,0,,,,,,,50,2010-09-25T08:39:31+00:00
+41223,ZA-0048,small_airport,"Barkley West Airport",-28.532833099365234,24.533832550048828,3800,AF,ZA,ZA-NC,"Barkley West",0,,,,,,,50,2008-08-13T13:24:52+00:00
+41164,FABF,small_airport,"Barkly East Airport",-30.966667175299996,27.604166030900004,5940,AF,ZA,ZA-EC,"Barkly East",0,FABF,,,,,,50,2014-04-07T22:12:41+00:00
+41233,ZA-0055,small_airport,"Barrange Airport",-26.125,22.61888885498047,3300,AF,ZA,ZA-NC,Barrange,0,,,,,,,50,2008-08-13T13:25:09+00:00
+41264,ZA-0070,small_airport,"Batavia Airport",-24.668333053588867,26.536666870117188,3195,AF,ZA,ZA-NP,Batavia,0,,,,,,,50,2008-08-13T13:26:36+00:00
+29699,FABH,small_airport,"Belfast Aerodrome",-25.6587417378,30.041577816,6250,AF,ZA,ZA-MP,Belfast,0,FABH,,,,,,50,2012-12-16T13:39:43+00:00
+41156,FABT,small_airport,"Bethesda Road Airport",-31.873199462890625,24.796899795532227,4630,AF,ZA,ZA-EC,Bethesda,0,FABT,,,,,,50,2008-08-13T13:21:12+00:00
+41141,ZA-0001,small_airport,"Beulah Airport",-33.905277252197266,24.95694351196289,34,AF,ZA,ZA-EC,Beulah,0,,,,,,,50,2008-08-13T13:20:29+00:00
+29709,FABZ,small_airport,"Bizana Airport",-30.860300064086914,29.86389923095703,2740,AF,ZA,ZA-EC,Bizana,0,FABZ,,,,,,50,2008-08-13T13:21:27+00:00
+41209,ZA-0039,small_airport,"Blackie Swart Airport",-25.57550048828125,30.975860595703125,3300,AF,ZA,ZA-MP,"Blackie Swart",0,,,,,,,50,2008-08-13T13:23:43+00:00
+41267,ZA-0071,small_airport,"Blyde Canyon Airport",-24.574443817138672,30.7772216796875,4300,AF,ZA,ZA-NP,"Blyde Canyon",0,,,,,,,50,2008-08-13T13:26:39+00:00
+41218,ZA-0043,small_airport,"Bosluispan  Airport",-29.850276947021484,18.96555519104004,2874,AF,ZA,ZA-NC,Boluispan,0,,,,,,,50,2008-08-13T13:24:30+00:00
+41259,ZA-0068,small_airport,"Bonwa Phala Airport",-24.886667251586914,28.047222137451172,3650,AF,ZA,ZA-NP,"Bonwa Phala",0,,,,,,,50,2008-08-13T13:26:21+00:00
+2774,FABO,small_airport,"Hendrik Potgieter Airport",-27.36680030822754,26.629199981689453,4236,AF,ZA,ZA-FS,Bothaville,0,FABO,,,,,,50,2008-08-13T13:22:14+00:00
+41170,ZA-0011,small_airport,"Brandfort Airport",-28.690399169921875,26.420799255371094,4647,AF,ZA,ZA-FS,Brandfort,0,,,,,,,50,2008-08-13T13:21:48+00:00
+29726,FABV,small_airport,"Brandviei Airport",-30.466699600219727,20.466699600219727,2999,AF,ZA,ZA-NC,Brandviei,0,FABV,,,,,,50,2008-08-13T13:24:19+00:00
+29723,ZA-0103,small_airport,"Bredasdorp Airport",-34.665,20.0628,30,AF,ZA,ZA-WC,Bredasdorp,0,FABR,,,,,,50,2015-01-04T09:18:13+00:00
+41160,ZA-0006,small_airport,"Brosterlea Farm Airport",-31.28333282470703,26.566667556762695,5500,AF,ZA,ZA-EC,"Brosterlea Farm",0,,,,,,,50,2008-08-13T13:21:21+00:00
+41152,FABU,small_airport,"Bultfontein Airport",-28.273369,26.135835,4400,AF,ZA,ZA-FS,Bultfontein,0,FABU,UTE,,,,,50,2012-12-29T15:44:46+00:00
+29740,FABD,small_airport,"Burghersdorp Airport",-30.977500915527344,26.3080997467041,4734,AF,ZA,ZA-EC,Burgersdorp,0,FABD,,,,,,50,2008-08-13T13:28:40+00:00
+29713,FABK,small_airport,"Bushmans Kloof Airport",-32.035,19.0435,1050,AF,ZA,ZA-WC,"Bushman's Kloof",0,FABK,,,,,,50,2012-12-30T14:08:52+00:00
+2776,FACV,small_airport,"Calvinia Airport",-31.50029945373535,19.725900650024414,3250,AF,ZA,ZA-NC,Calvinia,0,FACV,,,,,,50,2008-08-13T13:24:00+00:00
+30136,FAMC,small_airport,"Middelburg 2 Airport",-31.547199249267578,25.029399871826172,4022,AF,ZA,ZA-EC,"Cape Town",0,FAMC,,,,,,50,2008-09-14T08:46:05+00:00
+29757,FACL,small_airport,"Carolina Airport",-26.078100204467773,30.092500686645508,5420,AF,ZA,ZA-MP,Carolina,0,FACL,,,,,,50,2008-08-13T13:23:25+00:00
+41206,ZA-0036,small_airport,"Forel Airport",-25.950000762939453,30.116666793823242,6464,AF,ZA,ZA-MP,Carolina,0,,,,,,,50,2008-08-13T13:23:33+00:00
+41153,FACX,small_airport,"Cathcart Airport",-32.28710174560547,27.1387996673584,3959,AF,ZA,ZA-EC,Cathcart,0,FACX,,,,,,50,2008-08-13T13:21:03+00:00
+41304,FACE,small_airport,"Ceres Airport",-33.35300064086914,19.311399459838867,1519,AF,ZA,ZA-WC,Ceres,0,FACE,,,,,,50,2008-08-13T13:28:27+00:00
+41307,FACI,small_airport,"Citrusdal Airport",-32.617698669433594,19.005399703979492,532,AF,ZA,ZA-WC,Citrusdal,0,FACI,,,,,,50,2008-08-13T13:28:32+00:00
+31037,FACW,small_airport,"Clanwilliam Airport",-32.177,18.8819,416,AF,ZA,ZA-WC,Clanwilliam,0,FACW,,,,,,50,2016-04-15T10:46:22+00:00
+29792,FACB,small_airport,"Colesberg Airport",-30.73390007019043,25.065000534057617,4639,AF,ZA,ZA-NC,Colesberg,0,FACB,,,,,,50,2008-08-13T13:24:13+00:00
+41216,ZA-0042,small_airport,"Adamsfontein Airport",-30.581388473510742,25.260000228881836,3970,AF,ZA,ZA-NC,Colesberg,0,,,,,,,50,2008-08-13T13:24:17+00:00
+41148,FACH,small_airport,"Cookhouse Airport",-32.74470138549805,25.796300888061523,1893,AF,ZA,ZA-EC,Cookhouse,0,FACH,,,,,,50,2008-08-13T13:20:47+00:00
+29653,FACO,small_airport,"Alkantpan Copper Airport",-29.906400680541992,22.316699981689453,3589,AF,ZA,ZA-NC,Cooperton,0,FACO,,,,,,50,2008-08-13T13:24:29+00:00
+29908,FACD,small_airport,"Cradock Airport",-32.1567001343,25.6455993652,3110,AF,ZA,ZA-EC,Cradock,0,FACD,CDO,,,,,50,2012-10-25T11:41:14+00:00
+29821,FADA,small_airport,"De Aar Airport",-30.69219970703125,24.020599365234375,4154,AF,ZA,ZA-NC,"De Aar",0,FADA,,,,,,50,2008-08-13T13:24:15+00:00
+41215,FADY,small_airport,"De Aar Military Airport",-30.63650894165039,23.91972541809082,4037,AF,ZA,ZA-NC,"De Aar",0,FADY,,,,,,50,2008-09-17T03:11:58+00:00
+41303,FADS,small_airport,"De Doorns Airport",-33.455557,19.684493,1626,AF,ZA,ZA-WC,"De Doorns",0,FADS,,,,,,50,2013-01-28T14:06:31+00:00
+29823,FADL,small_airport,"Delareyville Airport",-26.67919921875,25.474700927734375,4469,AF,ZA,ZA-NW,Delareyville,0,FADL,,,,,,50,2008-08-13T13:27:33+00:00
+41204,FADE,small_airport,"Delmas Airport",-26.141666412353516,28.691667556762695,5075,AF,ZA,ZA-MP,Delmas,0,FADE,,,,,,50,2008-08-13T13:23:22+00:00
+29825,FADO,small_airport,"Dendron Airport",-23.380599975585938,29.32080078125,3399,AF,ZA,ZA-NP,Dendron,0,FADO,,,,,,50,2008-08-13T13:27:03+00:00
+41187,FADV,small_airport,"Devon Airport",-26.358999252319336,28.78969955444336,5460,AF,ZA,ZA-GT,Devon,0,FADV,,,,,,50,2008-08-13T13:22:33+00:00
+41158,FADG,small_airport,"Dordrecht Airport",-31.383333206176758,27.03333282470703,5200,AF,ZA,ZA-EC,Dordrecht,0,FADG,,,,,,50,2008-08-13T13:21:17+00:00
+41240,FADZ,small_airport,"Drakensberg Gardens Airport",-29.75,29.25,5948,AF,ZA,ZA-NL,"Drakensberg Gardens",0,FADZ,,,,,,50,2008-08-13T13:25:27+00:00
+41224,ZA-0049,small_airport,"Baken Mine Airport",-28.409250259399414,16.779722213745117,135,AF,ZA,ZA-NC,Drifsand,0,,,,,,,50,2008-08-13T13:24:53+00:00
+41252,ZA-0066,small_airport,"Battlefields Airport",-28.131526947021484,30.290416717529297,4040,AF,ZA,ZA-NL,Dundee,0,,,,,,,50,2008-08-13T13:25:59+00:00
+31038,FADH,small_airport,"Durnacol Airport",-28.046100616455078,30.006399154663086,4317,AF,ZA,ZA-NL,Durnacol,0,FADH,,,,,,50,2008-08-13T13:26:01+00:00
+29837,FADB,small_airport,"Dwaalboom Airport",-24.807199478149414,26.829700469970703,3652,AF,ZA,ZA-NP,Dwaalboom,0,FADB,,,,,,50,2008-08-13T13:26:25+00:00
+41168,FAED,small_airport,"Edenburg Airport",-29.75,25.899999618530273,4509,AF,ZA,ZA-FS,Edenburg,0,FAED,,,,,,50,2008-08-13T13:21:34+00:00
+31039,FAEG,small_airport,"Egnep Airport",-24.566999435424805,30.316999435424805,2299,AF,ZA,ZA-NP,Egnep,0,FAEG,,,,,,50,2008-08-13T13:26:41+00:00
+41159,FAET,small_airport,"Elliot Airport",-31.306900024414062,27.84950065612793,5028,AF,ZA,ZA-EC,Elliot,0,FAET,,,,,,50,2008-08-13T13:21:20+00:00
+41248,FAGH,small_airport,"Glen Grey Airport",-28.83333396911621,29.46666717529297,3500,AF,ZA,ZA-NL,Emmaus,0,FAGH,,,,,,50,2008-08-13T13:25:46+00:00
+29857,FAES,small_airport,"Eshowe Airport",-28.880199432373047,31.45490074157715,1601,AF,ZA,ZA-NL,Eshowe,0,FAES,,,,,,50,2008-08-13T13:25:45+00:00
+29860,FAEC,small_airport,"Estcourt Airport",-29.047199249267578,29.910600662231445,4262,AF,ZA,ZA-NL,Estcourt,0,FAEC,,,,,,50,2008-08-13T13:25:42+00:00
+41249,ZA-0063,small_airport,"Amphitheatre Lodge Airport",-28.655834197998047,29.149999618530273,3900,AF,ZA,ZA-NL,"Ethels Drive",0,,,,,,,50,2008-08-13T13:25:51+00:00
+41199,ZA-0031,small_airport,"Evander Landing Strip Airport",-26.489999771118164,29.079999923706055,5288,AF,ZA,ZA-MP,Evander,0,,,,,,,50,2008-08-13T13:23:13+00:00
+41277,ZA-0077,small_airport,"Babala Lodge Airport",-23.328611373901367,27.60961151123047,2700,AF,ZA,ZA-NP,"Fahad Game Reserve",0,,,,,,,50,2008-08-13T13:27:04+00:00
+41217,FAFG,small_airport,"Flamingo Vlei Airport",-30.490999221801758,21.121700286865234,3248,AF,ZA,ZA-NC,"Flamingo Vlei",0,FAFG,,,,,,50,2008-08-13T13:24:18+00:00
+29871,FAFO,small_airport,"Fort Beaufort Airport",-32.79050064086914,26.577699661254883,1581,AF,ZA,ZA-EC,"Fort Beaufort",0,FAFO,,,,,,50,2008-08-13T13:20:44+00:00
+31040,FAFU,small_airport,"Fraaiuitzicht Airport",-27.316999435424805,27.25,4841,AF,ZA,ZA-FS,Fraaiuitzicht,0,FAFU,,,,,,50,2008-08-13T13:22:16+00:00
+41230,ZA-0053,small_airport,"Ganspan Airport",-27.941667556762695,24.81999969482422,3778,AF,ZA,ZA-NC,Ganspan,0,,,,,,,50,2008-08-13T13:25:02+00:00
+29892,FAGS,small_airport,"Giants Castle Airport",-29.269699096679688,29.566099166870117,6086,AF,ZA,ZA-NL,"Giant'S Castle Game Reserve",0,FAGS,,,,,,50,2008-08-13T13:25:37+00:00
+29893,FAGJ,small_airport,"Gifvlei Airport",-30.38330078125,20.033300399780273,3199,AF,ZA,ZA-NC,Gifvlei,0,FAGJ,,,,,,50,2008-08-13T13:28:43+00:00
+41274,ZA-0074,small_airport,"Boulders Game Ranch Airport",-24.108055114746094,30.90916633605957,1500,AF,ZA,ZA-NP,Gravelotte,0,,,,,,,50,2008-08-13T13:26:53+00:00
+41275,ZA-0075,small_airport,"Boulders Game Ranch 2 (Microlight) Airport",-24.086666107177734,30.843889236450195,1500,AF,ZA,ZA-NP,Gravelotte,0,,,,,,,50,2008-08-13T13:26:54+00:00
+2787,FAGY,small_airport,"Greytown Airport",-29.1219997406,30.586700439499996,3531,AF,ZA,ZA-NL,Greytown,0,FAGY,,,,http://en.wikipedia.org/wiki/Greytown_Airport,,50,2013-12-06T22:44:31+00:00
+41197,ZA-0030,small_airport,"Dasville Airport",-26.816667556762695,28.46666717529297,5250,AF,ZA,ZA-MP,Grootviei,0,,,,,,,50,2008-08-13T13:23:07+00:00
+29950,FAHU,small_airport,"H M S Bastard Memorial Airport",-30.542499542236328,29.499000549316406,4701,AF,ZA,ZA-NL,"H.M.S.Bastard Memorial",0,FAHU,,,,,,50,2008-08-13T13:25:17+00:00
+29932,FAHK,small_airport,"Haakdoornboom Airport",-25.587200164794922,28.115800857543945,4055,AF,ZA,ZA-GT,Haakdoornboom,0,FAHK,,,,,,50,2008-08-13T13:22:53+00:00
+29935,FAHI,small_airport,"Halfweg Airport",-30.0132999420166,20.13920021057129,3159,AF,ZA,ZA-NC,Halfweg,0,FAHI,,,,,,50,2008-08-13T13:24:27+00:00
+29937,FAHJ,small_airport,"Harding Airport",-30.566699981689453,29.88330078125,2890,AF,ZA,ZA-NL,Harding,0,FAHJ,,,,,,50,2008-08-13T13:25:15+00:00
+41269,FAHB,small_airport,"Hartebeespoortdam Airport",-24.502399444580078,28.079099655151367,3740,AF,ZA,ZA-NP,Hartebeespoort,0,FAHB,,,,,,50,2008-08-13T13:26:43+00:00
+29943,FAHO,small_airport,"Heilbron Airport",-27.278600692749023,27.9955997467041,5200,AF,ZA,ZA-FS,Heilbron,0,FAHO,,,,,,50,2008-08-13T13:22:19+00:00
+29945,FAHF,small_airport,"Henrys Flats Airport",-33.04610061645508,25.716899871826172,1709,AF,ZA,ZA-EC,"Henry'S Flats",0,FAHF,,,,,,50,2008-08-13T13:20:41+00:00
+31045,FAHM,closed,"Hermanus Airport",-34.415276,19.184074,72,AF,ZA,ZA-WC,Hermanus,0,FAHM,,,,,,50,2017-05-09T11:27:18+00:00
+29948,FAHL,small_airport,"Hluhluwe Airport",-28.0166049887,32.2751712799,249,AF,ZA,ZA-NL,Hluhluwe,0,FAHL,HLW,,,http://en.wikipedia.org/wiki/Hluhluwe_Airport,,50,2013-12-06T22:47:48+00:00
+30222,FAON,small_airport,"Ornate Lake - St Lucia Airport",-28.044900894165,32.425399780273,128,AF,ZA,ZA-NL,Hluhluwe,0,FAON,,,,,"Hell's Gate Airport",50,2015-08-09T02:49:11+00:00
+30482,FATN,small_airport,"Thaba Nchu Tar Airport",-29.317800521850586,26.822799682617188,4941,AF,ZA,ZA-FS,Homeward,0,FATN,TCU,,,,,50,2008-08-13T13:21:40+00:00
+41177,ZA-0018,small_airport,"Bartsrus Airport",-27.960416793823242,25.835832595825195,4200,AF,ZA,ZA-FS,Hoopstad,0,,,,,,,50,2008-08-13T13:22:04+00:00
+29964,FAHC,small_airport,"Howick Airport",-29.552799224853516,30.21109962463379,3619,AF,ZA,ZA-NL,Howick,0,FAHC,,,,,,50,2008-08-13T13:25:30+00:00
+41139,FAHD,small_airport,"Humansdorp Airport",-34.036598205566406,24.78890037536621,345,AF,ZA,ZA-EC,Humansdorp,0,FAHD,,,,,,50,2008-08-13T13:20:25+00:00
+29970,FAID,small_airport,"Idutywa Airport",-32.099998474121094,28.316699981689453,2530,AF,ZA,ZA-EC,Idutywa,0,FAID,,,,,,50,2008-08-13T13:21:09+00:00
+31047,FAIW,small_airport,"Indwe Airport",-31.483333587646484,27.350000381469727,4167,AF,ZA,ZA-EC,Indwe,0,FAIW,,,,,,50,2008-08-13T13:21:15+00:00
+41257,FAIV,small_airport,"Ingwavuma Airport",-27.11709976196289,32.00870132446289,2100,AF,ZA,ZA-NL,Ingwavuma,0,FAIV,,,,,,50,2008-08-13T13:26:18+00:00
+41176,ZA-0017,small_airport,"Alberta Airport",-27.984167098999023,28.39444351196289,5540,AF,ZA,ZA-FS,Inhoek,0,,,,,,,50,2008-08-13T13:22:03+00:00
+41606,ZA-0097,small_airport,"Inyati Airport",-24.777700424194336,31.385499954223633,1245,AF,ZA,ZA-NP,Inyati,0,,INY,,,,,50,2008-08-27T07:58:25+00:00
+41254,FAIA,small_airport,"Itala Airport",-27.4867000579834,31.171100616455078,2665,AF,ZA,ZA-NL,Itala,0,FAIA,,,,,,50,2008-08-13T13:26:15+00:00
+41167,FAJF,small_airport,"Jagersfontain Airport",-29.762500762939453,25.433000564575195,4714,AF,ZA,ZA-FS,Jagersfontain,0,FAJF,,,,,,50,2008-08-13T13:21:33+00:00
+41147,FAJV,small_airport,"Jansenville Airport",-32.9390983581543,24.670700073242188,1430,AF,ZA,ZA-EC,Jansenville,0,FAJV,,,,,,50,2008-08-13T13:20:42+00:00
+41138,FAPX,small_airport,"Paradise Beach Airport",-34.102779388427734,24.88277816772461,15,AF,ZA,ZA-EC,Jeffreysbaal,0,FAPX,,,,,,50,2008-08-13T13:20:22+00:00
+41142,FAJP,small_airport,"Joubertina Airport",-33.831199645996094,23.83009910583496,2007,AF,ZA,ZA-EC,Joubertina,0,FAJP,,,,,,50,2008-08-13T13:20:30+00:00
+41256,ZA-0067,small_airport,"Jozini Airport",-27.350000381469727,32.13333511352539,355,AF,ZA,ZA-NL,Jozini,0,,,,,,,50,2008-08-13T13:26:17+00:00
+41306,FAKA,small_airport,"Kagga Kamma Airport",-32.74699401855469,19.56209945678711,3494,AF,ZA,ZA-WC,"Kagga Kamma Private Game Reserve",0,FAKA,,,,,,50,2008-08-13T13:28:31+00:00
+31049,FAKK,small_airport,"Kakamas Airport",-28.799999237060547,20.632999420166016,2322,AF,ZA,ZA-NC,Kakamas,0,FAKK,,,,,,50,2008-08-13T13:24:46+00:00
+41140,FAKW,small_airport,"Kareedouw Airport",-33.96666717529297,24.299999237060547,1050,AF,ZA,ZA-EC,Kareedouw,0,FAKW,,,,,,50,2008-08-13T13:20:26+00:00
+30023,FAKH,small_airport,"Kenhardt Airport",-29.32670021057129,21.188600540161133,2723,AF,ZA,ZA-NC,Kenhardt,0,FAKH,,,,,,50,2008-08-13T13:24:37+00:00
+41143,FAKX,small_airport,"Kenton on Sea Airport",-33.6693000793457,26.63089942932129,172,AF,ZA,ZA-EC,"Kenton On Sea",0,FAKX,,,,,,50,2008-08-13T13:20:33+00:00
+41155,FAKF,small_airport,"Koffee Bay Airport",-31.963899612426758,29.149099349975586,10,AF,ZA,ZA-EC,"Koffee Bay",0,FAKF,,,,,,50,2008-08-13T13:21:11+00:00
+30034,FAKV,small_airport,"Koffyfontein Min Airport",-29.43939971923828,24.98859977722168,3996,AF,ZA,ZA-FS,Koffyfontein,0,FAKV,,,,,,50,2008-08-13T13:21:38+00:00
+31753,ZA-KIG,small_airport,"Koingnaas Airport",-30.18779945373535,17.279199600219727,228,AF,ZA,ZA-NC,Koingnaas,0,,KIG,,,,,50,2008-08-13T13:24:21+00:00
+41234,FADM,small_airport,"Kokstad Airport",-30.556499481201172,29.408199310302734,4084,AF,ZA,ZA-NL,Kokstad,0,FADM,,,,,,50,2008-08-13T13:25:15+00:00
+30037,FAKO,small_airport,"Komga Airport",-32.59280014038086,27.87579917907715,2178,AF,ZA,ZA-EC,Komga,0,FAKO,,,,,,50,2008-08-13T13:20:56+00:00
+30045,FAKL,small_airport,"Kriel Airport",-26.251100540161133,29.194700241088867,5262,AF,ZA,ZA-MP,Kriel,0,FAKL,,,,,,50,2008-08-13T13:23:18+00:00
+41179,ZA-0019,small_airport,"Braehead Airport",-27.680500030517578,27.25349998474121,4300,AF,ZA,ZA-FS,Kroonstad,0,,,,,,,50,2008-08-13T13:22:10+00:00
+31056,FAPQ,small_airport,"Punda Maria(Malia) Airport",-22.77,31.0108,1500,AF,ZA,ZA-NP,"Kruger National Park",0,FAPQ,,,,,,50,2012-12-29T13:35:59+00:00
+30056,FALB,small_airport,"Ladybrand Af Airport",-29.181100845336914,27.45359992980957,5180,AF,ZA,ZA-FS,Ladybrand,0,FALB,,,,,,50,2008-08-13T13:21:42+00:00
+41211,ZA-0040,small_airport,"Lavino Airport",-24.83333396911621,30.100000381469727,2550,AF,ZA,ZA-MP,Lavino,0,,,,,,,50,2008-08-13T13:23:53+00:00
+31050,FALF,small_airport,"Loeriesfontein Airport",-30.906400680541992,19.42530059814453,2997,AF,ZA,ZA-NC,Loeriesfontein,0,FALF,,,,,,50,2008-08-13T13:24:11+00:00
+41228,FALH,small_airport,"Lohathla Military Airport",-28.036800384521484,23.09869956970215,4500,AF,ZA,ZA-NC,Lohathla,0,FALH,,,,,,50,2008-08-13T13:24:58+00:00
+41229,ZA-0052,small_airport,"Dippiesfield Airport",-28.032222747802734,23.202777862548828,4500,AF,ZA,ZA-NC,Lohatlha,0,,,,,,,50,2008-08-13T13:24:59+00:00
+30093,FALK,small_airport,"Lusikisiki Airport",-31.36669921875,29.58329963684082,1831,AF,ZA,ZA-EC,Lusikisiki,0,FALK,LUJ,,,,,50,2008-08-13T13:21:19+00:00
+30328,FARZ,small_airport,"Reitz Airport",-22.78420066833496,28.430299758911133,5331,AF,ZA,ZA-NP,Maasstroom,0,FARZ,,,,,,50,2008-08-13T13:27:13+00:00
+41163,FAMQ,small_airport,"Maclear Airport",-31.08329963684082,28.376399993896484,4106,AF,ZA,ZA-EC,Maclear,0,FAMQ,,,,,,50,2008-08-13T13:21:24+00:00
+30111,FAML,small_airport,"Manyani Game Lodge Airport",-25.816699981689453,25.716699600219727,4383,AF,ZA,ZA-NW,Mafeking,0,FAML,,,,,,50,2008-08-13T13:27:43+00:00
+41289,FAMK,small_airport,"Mafeking Airport",-25.816667556762695,25.616666793823242,4201,AF,ZA,ZA-NW,Mafeking,0,FAMK,,,,,,50,2008-08-13T13:27:44+00:00
+41290,ZA-0085,small_airport,"Mafeking North Airport",-25.792057037353516,25.61103057861328,4181,AF,ZA,ZA-NW,Mafeking,0,,,,,,,50,2008-08-13T13:27:47+00:00
+31043,FAGW,small_airport,"Magwa Airport",-31.39394187927246,29.693470001220703,1823,AF,ZA,ZA-EC,Magwa,0,FAGW,,,,,,50,2008-08-13T13:32:14+00:00
+31052,FAMF,small_airport,"Malabar Airport",-29.011899948120117,23.847400665283203,3348,AF,ZA,ZA-NC,Malabar,0,FAMF,,,,,,50,2008-08-13T13:24:44+00:00
+30104,FAMY,small_airport,"Malmesbury Airport",-33.46189880371094,18.7007999420166,971,AF,ZA,ZA-WC,Mammesbury,0,FAMY,,,,,,50,2008-08-13T13:28:26+00:00
+30262,FAPO,small_airport,"Pilgrims Rest Airport",-24.784700393676758,30.792200088500977,3802,AF,ZA,ZA-NP,Mankolehlotlo,0,FAPO,,,,,,50,2008-08-13T13:26:28+00:00
+41219,ZA-0044,small_airport,"Bateleur Airport",-29.1391658782959,23.648332595825195,3368,AF,ZA,ZA-NC,Maselsfontein,0,,,,,,,50,2008-08-13T13:24:42+00:00
+41293,ZA-0088,small_airport,"Beestekraal Airport",-25.299999237060547,27.53333282470703,3200,AF,ZA,ZA-NW,Massikier,0,,,,,,,50,2008-08-13T13:27:55+00:00
+31051,FAMA,small_airport,"Matatiele Airport",-30.322200775146484,28.794200897216797,4762,AF,ZA,ZA-NL,Matatiele,0,FAMA,,,,,,50,2008-08-13T13:25:19+00:00
+41292,ZA-0087,small_airport,"Botsalano Airport",-25.53333282470703,25.733333587646484,4659,AF,ZA,ZA-NW,Mathase,0,,,,,,,50,2008-08-13T13:27:53+00:00
+41284,FAMP,small_airport,"Madimbo Airport",-22.37470054626465,30.88159942626953,2116,AF,ZA,ZA-NP,Matshakatini,0,FAMP,,,,,,50,2008-08-13T13:27:16+00:00
+41151,FAZP,small_airport,"Mazeppa Bay Airport",-32.471900939941406,28.652799606323242,13,AF,ZA,ZA-EC,"Mazeppa Bay",0,FAZP,,,,,,50,2008-08-13T13:20:57+00:00
+41255,FAMX,small_airport,"Mbazwana Airport",-27.481399536132812,32.59389877319336,195,AF,ZA,ZA-NL,Mbazwana,0,FAMX,,,,,,50,2008-08-13T13:26:16+00:00
+41202,ZA-0034,small_airport,"Vanggatfontein Airport",-26.200000762939453,28.816667556762695,5100,AF,ZA,ZA-MP,MIddelburg,0,,,,,,,50,2008-08-13T13:23:20+00:00
+41605,ZA-0096,small_airport,"Mkambati Airport",-31.283300399780273,29.966699600219727,560,AF,ZA,ZA-EC,Mkambati,0,,MBM,,,,,50,2008-08-27T07:58:24+00:00
+41157,FAMT,small_airport,"Molteno Airport",-31.38960075378418,26.348400115966797,5254,AF,ZA,ZA-EC,Molteno,0,FAMT,,,,,,50,2008-08-13T13:21:16+00:00
+41192,ZA-0025,small_airport,"Aero 57 Airport",-25.903165817260742,28.082000732421875,5100,AF,ZA,ZA-GT,Monavoni,0,,,,,,,50,2008-08-13T13:22:47+00:00
+31036,FACA,small_airport,"Monte Carlo Airport",-28.799999237060547,27.41699981689453,4995,AF,ZA,ZA-FS,"Monte Carlo",0,FACA,,,,,,50,2008-08-13T13:21:46+00:00
+41265,FAMV,small_airport,"Montrose Airport",-24.625,30.186111450195312,2690,AF,ZA,ZA-NP,Montrose,0,FAMV,,,,,,50,2008-08-13T13:26:37+00:00
+41283,ZA-0083,small_airport,"Avarel Airport",-22.579599380493164,29.968900680541992,2100,AF,ZA,ZA-NP,Mopane,0,,,,,,,50,2008-08-13T13:27:15+00:00
+41149,ZA-0004,small_airport,"Brown's Landing Airport",-32.6974983215,28.320278167699996,300,AF,ZA,ZA-EC,"Morgan's Bay",0,,,,,,"Browns, Morgans Bay, wild coast, morgs, eastern cape, border, east london",50,2014-03-10T00:41:42+00:00
+41238,ZA-0058,small_airport,"Alverstone Airfield",-29.779722213745117,30.718334197998047,2740,AF,ZA,ZA-NL,Mpumalanga,0,,,,,,,50,2008-08-13T13:25:25+00:00
+31053,FAMZ,small_airport,"Msauli Airport",-26.049999237060547,31.017000198364258,2548,AF,ZA,ZA-MP,Msauli,0,FAMZ,,,,,,50,2008-08-13T13:23:27+00:00
+2777,FADK,small_airport,"Mubatuba Airport",-28.36840057373047,32.24810028076172,210,AF,ZA,ZA-NL,Mubatuba,0,FADK,DUK,FA65,,,,50,2008-08-13T13:25:54+00:00
+41243,FANH,small_airport,"New Hanover Airport",-29.356000900268555,30.518400192260742,2490,AF,ZA,ZA-NL,"New Hanover",0,FANH,,,,,,50,2008-08-13T13:25:32+00:00
+41200,ZA-0032,small_airport,"New Scotland Airport",-26.299999237060547,30.733333587646484,5280,AF,ZA,ZA-MP,"New Scotland",0,,,,,,,50,2008-08-13T13:23:16+00:00
+41271,FANG,small_airport,"Ngala Airport",-24.389,31.326,3357,AF,ZA,ZA-NP,Ngala,0,FANG,NGL,,,,,50,2018-05-01T14:19:02+00:00
+41214,FANV,small_airport,"Nieuwoudtville Airfield",-31.350000381469727,19.116666793823242,1890,AF,ZA,ZA-NC,Nieuwoudtville,0,FANV,,,,,,50,2008-08-13T13:24:05+00:00
+41294,ZA-0089,small_airport,"Lobatse Southeast Airport",-25.246200561523438,25.881900787353516,3742,AF,ZA,ZA-NW,Nkwedumang,0,,,,,,,50,2008-08-13T13:27:56+00:00
+41253,FANA,small_airport,"Nongoma Airport",-27.913999557495117,31.656200408935547,2596,AF,ZA,ZA-NL,Nongoma,0,FANA,,,,,,50,2008-08-13T13:26:06+00:00
+41178,FAOD,small_airport,"Odendaalsrus Airport",-27.871000289916992,26.69339942932129,1340,AF,ZA,ZA-FS,Odendaalsrus,0,FAOD,,,,,,50,2008-08-13T13:22:05+00:00
+30210,FAOF,small_airport,"Jack Duvenhage Airport",-27.961700439453125,22.71660041809082,4216,AF,ZA,ZA-NC,Olifantshoek,0,FAOF,,,,,,50,2008-08-13T13:25:01+00:00
+30220,FAOY,small_airport,"Orkney Airport",-26.98390007019043,26.651399612426758,4265,AF,ZA,ZA-NW,Orkney,0,FAOY,,,,,,50,2008-08-13T13:27:29+00:00
+41286,FAOT,small_airport,"Ottosdal Airport",-26.79829978942871,26.00029945373535,4860,AF,ZA,ZA-NW,Ottosdal,0,FAOT,,,,,,50,2008-08-13T13:27:32+00:00
+31057,FAPV,small_airport,"Petrusville Airport",-30.08180046081543,24.67959976196289,4116,AF,ZA,ZA-NC,Petrusville,0,FAPV,,,,,,50,2008-08-13T13:24:25+00:00
+41166,ZA-0009,small_airport,"Philippolis Airport",-30.215900421142578,25.220300674438477,4695,AF,ZA,ZA-FS,Philippolis,0,,,,,,,50,2008-08-13T13:21:33+00:00
+32185,FADQ,small_airport,"Zulu Inyala Airport",-27.84939956665039,32.30970001220703,160,AF,ZA,ZA-NL,Phinda,0,FADQ,PZL,,,,,50,2008-08-13T13:26:08+00:00
+41172,ZA-0013,small_airport,"Phuthadijhaba Airport",-28.406665802001953,28.810832977294922,5800,AF,ZA,ZA-FS,Phuthadijhaba,0,,,,,,,50,2008-08-13T13:21:52+00:00
+30257,FAPW,small_airport,"Pietersrus Airport",-26.60610008239746,29.329200744628906,5472,AF,ZA,ZA-MP,Pietersrus,0,FAPW,,,,,,50,2008-08-13T13:23:10+00:00
+41146,FADP,small_airport,"Darlington Dam Lodge Airport",-33.18320083618164,25.193199157714844,847,AF,ZA,ZA-EC,"Port Elizabeth",0,FADP,,,,,,50,2008-08-13T13:20:39+00:00
+30291,FAPK,small_airport,"Prieska Airport",-29.6835994720459,22.770599365234375,3100,AF,ZA,ZA-NC,Prieska,0,FAPK,PRK,,,,,50,2008-08-13T13:24:34+00:00
+30294,FAPC,small_airport,"Prince Albert Airport",-33.20249938964844,22.03219985961914,2001,AF,ZA,ZA-WC,"Prince Albert",0,FAPC,,,,,,50,2008-08-13T13:28:30+00:00
+41203,ZA-0035,small_airport,"Blesbokfontain Airport",-26.17569923400879,29.182199478149414,5294,AF,ZA,ZA-MP,"Reedstream Park",0,,,,,,,50,2008-08-13T13:23:21+00:00
+41213,FARM,small_airport,"Richmond Airport",-31.423500061035156,23.978200912475586,4731,AF,ZA,ZA-NC,Richmond,0,FARM,,,,,,50,2008-08-13T13:24:01+00:00
+41250,ZA-0064,small_airport,"Riverview Airport",-28.433332443237305,32.150001525878906,210,AF,ZA,ZA-NL,Riverview,0,,,,,,,50,2008-08-13T13:25:54+00:00
+41201,ZA-0033,small_airport,"Mooivlei Airport",-26.24799919128418,29.71540069580078,5600,AF,ZA,ZA-MP,"Saint Helen",0,,,,,,,50,2008-08-13T13:23:19+00:00
+41241,FASA,small_airport,"Sani Pass Airport",-29.65719985961914,29.44770050048828,5933,AF,ZA,ZA-NL,"Sani Pass",0,FASA,,,,,,50,2008-08-13T13:25:28+00:00
+29738,FABP,small_airport,"Black Rock Airport",-27.129724,22.846255,3450,AF,ZA,ZA-NC,Santoy,0,FABP,,,,,,50,2012-12-29T16:24:50+00:00
+41221,ZA-0046,small_airport,"Schmidtsdrif Airport",-28.66666603088379,24.03333282470703,3366,AF,ZA,ZA-NC,Schmidtsdrif,0,,,,,,,50,2008-08-13T13:24:48+00:00
+30407,FASN,small_airport,"Senekal Airport",-28.31220054626465,27.646099090576172,4849,AF,ZA,ZA-FS,Senekal,0,FASN,,,,,,50,2008-08-13T13:21:55+00:00
+41171,ZA-0012,small_airport,"Arizona Airport",-28.453332901000977,27.524999618530273,5500,AF,ZA,ZA-FS,Senekal,0,,,,,,,50,2008-08-13T13:21:51+00:00
+30419,FASM,small_airport,"Siteka Airport",-29.325000762939453,30.149200439453125,4400,AF,ZA,ZA-NL,Siteka,0,FASM,,,,,,50,2008-08-13T13:25:35+00:00
+30424,FASW,small_airport,"Slurry Airport",-25.81559944152832,25.88640022277832,4692,AF,ZA,ZA-NW,Slurry,0,FASW,,,,,,50,2008-08-13T13:27:46+00:00
+30428,FAST,small_airport,"Somerset East Airport",-32.75019836425781,25.594999313354492,2349,AF,ZA,ZA-EC,"Somerset East",0,FAST,,,,,,50,2008-08-13T13:20:46+00:00
+41305,FALS,small_airport,"Somersveld Airport",-33.2462272644043,18.479997634887695,196,AF,ZA,ZA-WC,Somersveld,0,FALS,,,,,,50,2008-08-13T13:28:28+00:00
+29755,FACF,small_airport,"Cap St Francis Airport",-34.1869010925293,24.834999084472656,131,AF,ZA,ZA-EC,"St Francis",0,FACF,,,,,,50,2008-08-13T13:20:21+00:00
+30436,FAZQ,small_airport,"Star Airport",-26.89310073852539,27.690000534057617,4754,AF,ZA,ZA-FS,Star,0,FAZQ,,,,,,50,2008-08-13T13:22:23+00:00
+41173,ZA-0014,small_airport,"Sterkfontein Airport",-28.376800537109375,29.006200790405273,5479,AF,ZA,ZA-FS,"Sterkfontein Dam",0,,,,,,,50,2008-08-13T13:21:53+00:00
+41144,FALR,small_airport,"Steytlerville Airport",-33.33700180053711,24.321399688720703,1450,AF,ZA,ZA-EC,Steytlerville,0,FALR,,,,,,50,2008-08-13T13:20:35+00:00
+41297,FACY,small_airport,"Stilbaai Airport",-34.3517990112,21.424800872800002,266,AF,ZA,ZA-WC,Stilbaai,0,FACY,,,,,,50,2012-12-16T15:28:14+00:00
+41296,FAAF,small_airport,"Andrew's Field Airport",-34.76288986206055,20.034915924072266,30,AF,ZA,ZA-WC,Struisbaai,0,FAAF,,,,,,50,2008-08-13T13:27:58+00:00
+41191,ZA-0024,small_airport,"Sun Valley Airfield",-26.03333282470703,27.899999618530273,5000,AF,ZA,ZA-GT,"Sun Valley",0,,,,,,,50,2008-08-13T13:22:44+00:00
+41236,ZA-0057,small_airport,"Diamond Valley Airport",-30.27199935913086,29.39739990234375,4900,AF,ZA,ZA-NL,Swartberg,0,,,,,,,50,2008-08-13T13:25:21+00:00
+41154,ZA-0005,small_airport,"Blanco Airport",-32.08333206176758,26.299999237060547,4200,AF,ZA,ZA-EC,Tarkastad,0,,,,,,,50,2008-08-13T13:21:10+00:00
+30496,FATK,small_airport,"Tsitsikama Fly Airport",-34.08470153808594,24.28969955444336,381,AF,ZA,ZA-EC,Tsitsikama,0,FATK,,,,,,50,2008-08-13T13:20:24+00:00
+30563,FATW,small_airport,"Witberg Tswalu Airport",-27.204999923706055,22.48189926147461,3921,AF,ZA,ZA-NC,"Tswalo Game Reserve",0,FATW,,,,,,50,2008-08-13T13:25:07+00:00
+41225,FAUC,small_airport,"Ulco Airport",-28.35449981689453,24.22909927368164,3512,AF,ZA,ZA-NC,Ulco,0,FAUC,,,,,,50,2008-08-13T13:24:54+00:00
+31042,FAGA,small_airport,"Grange Airport",-30.267000198364258,29.966999053955078,2600,AF,ZA,ZA-NL,Umzimkulu,0,FAGA,,,,,,50,2008-08-13T13:25:23+00:00
+41235,ZA-0056,small_airport,"Scottburg Airport",-30.28569984436035,30.65690040588379,196,AF,ZA,ZA-NL,Umzinto,0,,,,,,,50,2008-08-13T13:25:20+00:00
+41237,FAUB,small_airport,"Underberg Airport",-29.788400650024414,29.498300552368164,5057,AF,ZA,ZA-NL,Underberg,0,FAUB,,,,,,50,2008-08-13T13:25:24+00:00
+41231,FAVS,small_airport,"Vastrap Airport",-27.841388702392578,21.634166717529297,3245,AF,ZA,ZA-NC,Upington,0,FAVS,,,,,,50,2008-08-13T13:25:03+00:00
+30516,FAVA,small_airport,"Vaalputs Airport",-30.134199142456055,18.52669906616211,3340,AF,ZA,ZA-NC,Vaalputs,0,FAVA,,,,,,50,2008-08-13T13:24:23+00:00
+41299,ZA-0090,small_airport,"Assegaay Bosch Game Lodge Airport",-33.760250091552734,21.547222137451172,620,AF,ZA,ZA-WC,Vanwyksdorp,0,,,,,,,50,2008-08-13T13:28:17+00:00
+41165,ZA-0008,small_airport,"Venterstad Airport",-30.775699615478516,25.787500381469727,4200,AF,ZA,ZA-EC,Venterstad,0,,,,,,,50,2008-08-13T13:21:28+00:00
+30528,FAVF,small_airport,"Verborgenfontei Airport",-31.165800094604492,23.80940055847168,4360,AF,ZA,ZA-NC,Verborgenfontein,0,FAVF,,,,,,50,2008-08-13T13:24:07+00:00
+30529,FAVW,small_airport,"Victoria West Airport",-31.39940071105957,23.156400680541992,4124,AF,ZA,ZA-NC,"Victoria West",0,FAVW,,,,,,50,2008-08-13T13:24:02+00:00
+41308,ZA-0092,small_airport,"Holrivier Airport",-31.566667556762695,18.383333206176758,225,AF,ZA,ZA-WC,Viermuisklip,0,,,,,,,50,2008-08-13T13:28:39+00:00
+41184,ZA-0022,small_airport,"Appleby Airport",-27.20133399963379,26.903499603271484,4300,AF,ZA,ZA-FS,Vijoenskroon,0,,,,,,,50,2008-08-13T13:22:21+00:00
+41185,ZA-0023,small_airport,"Villiers Airport",-27.049999237060547,28.600000381469727,5097,AF,ZA,ZA-FS,Villers,0,,,,,,,50,2008-08-13T13:22:21+00:00
+2788,FAHA,small_airport,"Harmony Airport",-28.078699111938477,26.8612003326416,4399,AF,ZA,ZA-FS,Virginia,0,FAHA,,,,,,50,2008-08-13T13:22:02+00:00
+29688,FABX,small_airport,"Beatrix Airport",-28.2450008392334,26.771900177001953,4518,AF,ZA,ZA-FS,Virginia,0,FABX,,,,,,50,2008-08-13T13:22:01+00:00
+41180,FAVI,small_airport,"Von Abo's Villa Airport",-27.610599517822266,26.683500289916992,4304,AF,ZA,ZA-FS,"Von Abo's Villa",0,FAVI,,,,,,50,2008-08-13T13:22:11+00:00
+30540,FAVD,small_airport,"Vrede Airport",-27.44029998779297,29.153099060058594,5499,AF,ZA,ZA-FS,Vrede,0,FAVD,,,,,,50,2008-08-13T13:22:14+00:00
+41226,ZA-0050,small_airport,"Warrenton Airport",-28.12070083618164,24.87179946899414,3798,AF,ZA,ZA-NC,Warrenton,0,,,,,,,50,2008-08-13T13:24:56+00:00
+41279,ZA-0079,small_airport,"Bergtop Airport",-22.917943954467773,29.457834243774414,2620,AF,ZA,ZA-NP,Waterpoort,0,,,,,,,50,2008-08-13T13:27:10+00:00
+41268,ZA-0072,small_airport,"Tanda Tula Airport",-24.533599853499997,31.2999992371,1555,AF,ZA,ZA-NP,Welverdiend,0,FATD,TDT,,,,,50,2012-12-22T12:29:33+00:00
+31061,FAWP,small_airport,"Wepener Airport",-29.742399215698242,27.022600173950195,4755,AF,ZA,ZA-FS,Wepener,0,FAWP,,,,,,50,2008-08-13T13:21:36+00:00
+30558,FAWS,small_airport,"Wesselbronn Af Airport",-27.84670066833496,26.35059928894043,4301,AF,ZA,ZA-FS,Wesselsbron,0,FAWS,,,,,,50,2008-08-13T13:22:07+00:00
+31062,FAWT,small_airport,"Cape Blue Mine Airport",-29.33333396911621,22.28333282470703,3050,AF,ZA,ZA-NC,Westerberg,0,FAWT,,,,,,50,2008-08-13T13:24:35+00:00
+30562,FAWL,small_airport,"Williston Airport",-31.38360023498535,20.93280029296875,3484,AF,ZA,ZA-NC,Williston,0,FAWL,,,,,,50,2008-08-13T13:24:04+00:00
+41145,ZA-0002,small_airport,"Bhejane Game Reserve Airport",-33.1966667175293,23.934667587280273,1895,AF,ZA,ZA-EC,Willowmore,0,,,,,,,50,2008-08-13T13:20:38+00:00
+31060,FAWN,small_airport,"Winburg Airport",-28.5,27.016666412353516,4800,AF,ZA,ZA-FS,Winburg,0,FAWN,,,,,,50,2008-08-13T13:21:50+00:00
+41169,ZA-0010,small_airport,"Arbeitsgenot Airport",-28.73590087890625,27.231800079345703,4800,AF,ZA,ZA-FS,Winburg,0,,,,,,,50,2008-08-13T13:21:47+00:00
+41205,FANL,small_airport,"New Largo Airport",-25.978500366210938,28.984399795532227,5038,AF,ZA,ZA-MP,Witbank,0,FANL,,,,,,50,2008-08-13T13:23:28+00:00
+41227,ZA-0051,small_airport,"Bells Bank Airport",-28.104999542236328,24.378334045410156,3875,AF,ZA,ZA-NC,Witputs,0,,,,,,,50,2008-08-13T13:24:57+00:00
+41244,ZA-0061,small_airport,"Clan Airport",-29.354900360107422,30.4281005859375,2180,AF,ZA,ZA-NL,York,0,,,,,,,50,2008-08-13T13:25:33+00:00
+31063,FAZA,small_airport,"Zastron Airport",-30.299999237060547,27.117000579833984,4265,AF,ZA,ZA-FS,Zastron,0,FAZA,,,,,,50,2008-08-13T13:21:32+00:00
+312612,ZA-0118,closed,"Unknown (near Simon's Town)",-34.206585,18.427413,,AF,ZA,ZA-EC,,0,,,,,,,0,2014-08-07T16:30:52+00:00
+324962,ZA-0151,small_airport,"Leeukop Farm Airfield",-26.867884,28.075958,5000,AF,ZA,ZA-FS,,0,,,,,,"leeukop,deneysville,vaal,free state,",0,2017-09-20T09:38:54+00:00
+324963,ZA-0152,small_airport,"Vaal Dam Airfield",-26.94099,28.14281,5000,AF,ZA,ZA-FS,,0,,,,,,"vaal, dam, deneysville,free state",0,2017-09-20T09:49:15+00:00
+325957,JNB,closed,"NOT OR Tambo International Airport",0.7,0.9,,AF,ZA,ZA-GT,,0,,,,,,,0,2017-12-31T10:05:43+00:00
+308160,FABG,small_airport,"Buffelshoek Airport",-24.702464,31.587875,1347,AF,ZA,ZA-MP,,0,FABG,,,,,,0,2012-12-16T12:44:14+00:00
+323206,ZA-0155,small_airport,"Letaba Rest Camp Airstrip",-23.833534,31.570522,,AF,ZA,ZA-NP,,0,,,,,,,0,2017-05-13T20:05:31+00:00
+300670,ZA-0107,closed,"Robben Island Airstrip",-33.8004044125,18.363733291600003,,AF,ZA,ZA-WC,,0,,,,,,,0,2012-02-05T15:48:39+00:00
+312624,ZA-0119,heliport,"Cape Town Heliport",-33.901018,18.425936,,AF,ZA,ZA-WC,,0,,,,,,,0,2014-08-08T18:11:54+00:00
+326497,ZA-0153,small_airport,"Elandspad Airfield",-34.433548,20.722225,293,AF,ZA,ZA-WC,,0,,,,,,,0,2018-02-25T14:52:33+00:00
+315423,ZA-0134,small_airport,"Annakop Airport",-29.1057,19.0791,2528,AF,ZA,ZA-NC,Annakop,0,,,,,,,0,2015-09-13T17:20:08+00:00
+308195,ZA-0109,small_airport,"Bloemhof Airport",-27.6094,25.5794,4127,AF,ZA,ZA-NW,Bloemhof,0,,,,,,,0,2012-12-30T14:23:12+00:00
+317512,ZA-0136,small_airport,"Kirstonia Airport",-25.4681,23.6971,3455,AF,ZA,ZA-NW,Bray,0,,,,,,,0,2016-04-10T22:19:29+00:00
+315420,ZA-0132,small_airport,"Buffels River Airport",-29.6265,17.4522,615,AF,ZA,ZA-NC,Buffelsbank,0,,,,,,,0,2015-09-13T12:01:19+00:00
+326496,FACG,small_airport,"Caledon Airfield",-34.259523,19.416214,936,AF,ZA,ZA-WC,Caledon,0,FACG,,,,,,0,2018-02-25T14:24:15+00:00
+328069,ZA-0159,small_airport,FACN,0,0,,AF,ZA,ZA-WC,Carnarvon,0,FACN,,,,,,0,2018-05-28T08:00:59+00:00
+315407,ZA-0124,small_airport,"Doringbaai Airstrip",-31.8057,18.2384,130,AF,ZA,ZA-WC,Doringbaai,0,,,,,,"Thorn Bay",0,2015-09-12T22:43:37+00:00
+315418,ZA-0130,small_airport,"Gamoep Airstrip",-29.9214,18.4237,3140,AF,ZA,ZA-NC,Gamoep,0,,,,,,,0,2015-09-13T11:04:58+00:00
+315411,ZA-0128,closed,"Garies Airport",-30.6075,17.9039,1348,AF,ZA,ZA-NC,Garies,0,,,,,,,0,2015-09-13T01:08:00+00:00
+326499,ZA-0158,closed,"Old George Airfield",-33.975,22.418302,689,AF,ZA,ZA-WC,George,0,,,,,,,0,2018-02-25T16:14:12+00:00
+314349,ZA-0121,closed,"Munster Airfield",-31.0033,30.2487,180,AF,ZA,ZA-EC,"Glenmore Beach",0,,,,,,,0,2015-04-15T02:21:54+00:00
+318840,ZA-0146,small_airport,"Griekwastad Airport",-28.832734,23.27354,,AF,ZA,ZA-NC,Griekwastad,0,,,,,,,0,2016-06-17T04:38:34+00:00
+318835,ZA-0141,small_airport,"Groblershoop Airport",-28.912138,21.992947,,AF,ZA,ZA-NC,Groblershoop,0,,,,,,,0,2016-06-17T04:29:33+00:00
+318842,ZA-0148,small_airport,"Hanover Airport",-31.075719,24.452623,,AF,ZA,ZA-NC,Hanover,0,,,,,,,0,2016-06-17T05:38:38+00:00
+299598,ZA-0038,small_airport,"Hippo Pools Airport",-24.199722222200002,30.8125,1145,AF,ZA,ZA-NP,"Hippo Pools Resort",0,,,,http://www.hippopools.co.za,,"Lodge,Resort,Fly-in",0,2011-12-05T07:13:11+00:00
+315416,ZA-0129,small_airport,"Hondeklip Bay Airstrip",-30.3366,17.2896,100,AF,ZA,ZA-NC,"Hondeklip Bay",0,,,,,,Hondeklipbaai,0,2015-09-13T10:44:58+00:00
+318836,ZA-0142,small_airport,"Hopetown Airport",-29.630074,24.095224,,AF,ZA,ZA-NC,Hopetown,0,,,,,,,0,2016-06-17T04:31:23+00:00
+318839,ZA-0145,small_airport,"Jacobsdal Airport",-29.11701,24.785856,,AF,ZA,ZA-FS,Jacobsdal,0,,,,,,,0,2016-06-17T04:36:31+00:00
+330595,ZA-0163,small_airport,"O.R. Tambo International Airport South Africa Traditional spiritual healer +27795742484",0,0,,AF,ZA,ZA-GT,Johannesburg,0,,,,http://shafinaburu.wixsite.com/love,https://about.me/shafinaburu,"-Bring a Lost lover Back -Spiritual Money -Win Lottery  -Ring with powers to Heal & Prophecy -Wealthy/Spiritual Money -Love Potions -Win a Job of Your Dreams -Promotions at Work. -Make a revenge on your hatter",0,2019-02-19T19:31:10+00:00
+318475,ZA-0140,heliport,"Kuruman Hospital Heliport",-27.459904,23.443762,,AF,ZA,ZA-NC,Kuruman,0,,,,,,,0,2016-06-10T05:12:56+00:00
+318841,ZA-0147,small_airport,"Lady Grey Golf Course Airstrip",-30.706581,27.208231,,AF,ZA,ZA-EC,"Lady Grey",0,,,,,,,0,2016-06-17T05:32:10+00:00
+328056,HLA,medium_airport,Lanseria,0,0,,AF,ZA,ZA-GT,Lanseria,1,,HLA,HLA,,,,0,2018-05-28T00:10:42+00:00
+318838,ZA-0144,small_airport,"Luckhof Airport",-29.737988,24.780042,,AF,ZA,ZA-FS,Luckhof,0,,,,,,,0,2016-06-17T04:35:13+00:00
+330312,ZA-0161,small_airport,"Klipriver Airfield, South Africa",-26.475684,28.111032,5001,AF,ZA,ZA-GT,Midvaal,0,,,,,,,0,2019-02-03T23:50:36+00:00
+317619,ZA-0137,small_airport,"Treverton College Airstrip",-29.1944,30.0149,4635,AF,ZA,ZA-NL,"Mooi River",0,,,,,,,0,2016-04-17T12:25:39+00:00
+314230,MWR,small_airport,"Motswari Airport",-24.1903,31.3864,1160,AF,ZA,ZA-MP,"Motswari Private Game Reserve",0,,MWR,,,,,0,2015-04-04T13:08:08+00:00
+323208,ZA-0157,small_airport,"Mutele-Masisi Airport",-22.507196,30.891882,,AF,ZA,ZA-NP,Mutele,0,,,,,,,0,2017-05-13T21:09:26+00:00
+315419,ZA-0131,small_airport,"Nababiep Airport",-29.524,17.781,2830,AF,ZA,ZA-NC,Nababeep,0,,,,,,Nababeep,0,2015-09-13T11:28:46+00:00
+312610,ZA-0116,small_airport,"Pumba air strip",-33.391911,26.346392,,AF,ZA,ZA-EC,"Nelson Mandela Bay",0,,,,http://www.pumbagamereserve.co.za/amenities,,,0,2014-08-07T12:14:00+00:00
+312611,ZA-0117,heliport,"Pumba Helipad",-33.387799,26.410595,,AF,ZA,ZA-EC,"Nelson Mandela Bay",0,,,,http://www.pumbagamereserve.co.za/amenities,,,0,2014-08-07T12:11:31+00:00
+317509,ZA-0135,closed,"Nossob Airport",-25.4316,20.5975,3200,AF,ZA,ZA-NC,"Nossob Rest Camp",0,,,,,,,0,2016-04-10T20:44:32+00:00
+315409,ZA-0126,small_airport,"Monosite Airfield",-31.1227,18.6095,940,AF,ZA,ZA-WC,Nuwerus,0,,,,,,,0,2015-09-12T23:22:24+00:00
+318837,ZA-0143,small_airport,"Orania Airport",-29.816521,24.394959,,AF,ZA,ZA-NC,Orania,0,,,,,,,0,2016-06-17T04:33:26+00:00
+323207,ZA-0156,small_airport,"Pafuri Camp Airstrip",-22.415096,31.213011,,AF,ZA,ZA-NP,Pafuri,0,,,,,,,0,2017-05-13T21:07:39+00:00
+315408,ZA-0125,small_airport,"Papendorp Airport",-31.6736,18.1737,260,AF,ZA,ZA-WC,Papendorp,0,,,,,,,0,2015-09-12T22:59:01+00:00
+308194,FAQF,small_airport,"Pomfret Airport",-25.847700119,23.537300109900002,3817,AF,ZA,ZA-NW,Pomfret,0,FAQF,,,,,,0,2012-12-29T13:02:56+00:00
+41544,ZA-0021,heliport,"Pretoria Central Heliport",-25.65570068359375,28.220600128173828,4087,AF,ZA,ZA-GT,Pretoria,0,,HPR,,,,,0,2008-08-27T07:57:24+00:00
+315404,ZA-0122,small_airport,"Au Beep Flats Airport",-28.1081,16.8936,190,AF,ZA,ZA-NC,Sendelingsdrif,0,,,,,,,0,2015-09-12T17:52:20+00:00
+323205,ZA-0154,small_airport,"Shingwedzi Camp Airstrip",-23.114988,31.427508,,AF,ZA,ZA-NP,Shingwedzi,0,,,,,,,0,2017-05-13T20:03:30+00:00
+317620,ZA-0138,small_airport,"Singita Safari Lodge Airport",-24.801985,31.42194,1365,AF,ZA,ZA-MP,"Singita Safari Lodge",0,,SSX,,,,,0,2018-05-02T02:15:02+00:00
+315410,ZA-0127,small_airport,"Skaapvlei Airport",-31.4996,18.0643,420,AF,ZA,ZA-WC,"Skaapvlei Farmstead",0,,,,,,,0,2015-09-12T23:46:11+00:00
+315421,ZA-0133,small_airport,"Spektakel Airport",-29.6678,17.6008,615,AF,ZA,ZA-NC,Spektakel,0,,,,,,,0,2015-09-13T12:50:22+00:00
+318474,ZA-0139,small_airport,"Tosca Airport",-25.875702,23.962922,,AF,ZA,ZA-NW,Tosca,0,,,,,,,0,2016-06-10T05:03:55+00:00
+46533,FABR,medium_airport,"Barberton Airport",-25.716869,30.97518,2250,AF,ZA,ZA-MP,"Umjindi (Barberton)",0,FABR,,ABR,http://www.barbertonairport.co.za,,"FABN, FABR, bush air, barberton valley, bush pilots, CC Pocock",0,2016-02-28T00:29:45+00:00
+318845,ZA-0150,small_airport,"Van Zylsrus Airport",-26.887344,22.06304,,AF,ZA,ZA-NC,"Van Zylsrus",0,,,,,,,0,2016-06-17T05:52:33+00:00
+315406,ZA-0123,small_airport,"Vanrhynsdorp Airport",-31.5943,18.7468,490,AF,ZA,ZA-WC,Vanrhynsdorp,0,,,,,,,0,2015-09-12T21:15:49+00:00
+318843,ZA-0149,small_airport,"Vosburg Airport",-30.588342,22.894196,,AF,ZA,ZA-NC,Vosburg,0,,,,,,,0,2016-06-17T05:41:53+00:00
+300056,ZA-0037,small_airport,"Benics Airport",-25.8188991547,29.221700668300002,5100,AF,ZA,ZA-MP,Witbank,0,,,,,,"trike, microlight",0,2011-12-05T07:10:16+00:00
+300057,ZA-0106,small_airport,"Benics Airport",-25.8188991547,29.221700668300002,5100,AF,ZA,ZA-MP,Witbank,0,,,,,,"trike, microlight",0,2011-12-05T07:11:21+00:00

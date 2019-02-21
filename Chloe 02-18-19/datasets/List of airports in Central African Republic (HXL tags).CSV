@@ -1,0 +1,48 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2873,FEFF,medium_airport,"Bangui M'Poko International Airport",4.39847993850708,18.518800735473633,1208,AF,CF,CF-MP,Bangui,1,FEFF,BGF,,,http://en.wikipedia.org/wiki/Bangui_M'Poko_International_Airport,,1050,2009-02-13T10:49:53+00:00
+2874,FEFT,medium_airport,"Berbérati Airport",4.2215800285339355,15.786399841308594,1929,AF,CF,CF-HS,Berbérati,0,FEFT,BBT,,,http://en.wikipedia.org/wiki/Berb%C3%A9rati_Airport,,250,2008-06-13T14:30:04+00:00
+31111,FEFA,small_airport,"Alindao Airport",5.016389846801758,21.19969940185547,1470,AF,CF,CF-BK,Alindao,0,FEFA,,,,http://en.wikipedia.org/wiki/Alindao_Airport,,50,2008-06-13T14:30:04+00:00
+30775,FEGM,small_airport,"Bakouma Airport",5.693999767303467,22.801000595092773,1640,AF,CF,CF-MB,Bakouma,0,FEGM,BMF,,,http://en.wikipedia.org/wiki/Bakouma_Airport,,50,2008-06-13T14:30:04+00:00
+30684,FEFM,small_airport,"Bambari Airport",5.846940040588379,20.647499084472656,1549,AF,CF,CF-UK,Bambari,0,FEFM,BBY,,,http://en.wikipedia.org/wiki/Bambari_Airport,,50,2008-06-13T14:30:04+00:00
+31119,FEGB,small_airport,"Bambouli Airport",5.433000087738037,27.216999053955078,2264,AF,CF,CF-HM,Bambouli,0,FEGB,,,,,,50,2008-06-13T14:30:04+00:00
+30703,FEFG,small_airport,"Bangassou Airport",4.784999847412109,22.7810001373291,1706,AF,CF,CF-MB,Bangassou,0,FEFG,BGU,,,http://en.wikipedia.org/wiki/Bangassou_Airport,,50,2008-06-13T14:30:04+00:00
+30800,FEGF,small_airport,"Batangafo Airport",7.314109802246094,18.308799743652344,1378,AF,CF,CF-AC,Batangafo,0,FEGF,BTG,,,http://en.wikipedia.org/wiki/Batangafo_Airport,,50,2008-06-13T14:30:04+00:00
+31687,FEFI,small_airport,"Birao Airport",10.23639965057373,22.716899871826172,1696,AF,CF,CF-VR,Birao,0,FEFI,IRO,,,http://en.wikipedia.org/wiki/Birao_Airport,,50,2009-02-13T10:52:35+00:00
+31120,FEGC,small_airport,"Bocaranga Airport",6.916999816894531,15.616999626159668,3464,AF,CF,CF-OP,Bocaranga,0,FEGC,,,,http://en.wikipedia.org/wiki/Bocaranga_Airport,,50,2008-06-13T14:30:04+00:00
+30794,FEFS,small_airport,"Bossangoa Airport",6.492000102996826,17.429000854492188,1637,AF,CF,CF-AC,Bossangoa,0,FEFS,BSN,,,http://en.wikipedia.org/wiki/Bossangoa_Airport,,50,2008-06-13T14:30:04+00:00
+30695,FEFL,closed,"Bossembélé Airport",5.267002,17.632999,2231,AF,CF,CF-MP,Bossembélé,0,FEFL,,,,http://en.wikipedia.org/wiki/Bossemb%C3%A9l%C3%A9_Airport,BEM,50,2018-02-16T01:41:23+00:00
+30785,FEFO,small_airport,"Bouar Airport",5.958000183105469,15.63700008392334,3360,AF,CF,CF-NM,Bouar,0,FEFO,BOP,,,http://en.wikipedia.org/wiki/Bouar_Airport,,50,2008-06-13T14:30:04+00:00
+30686,FEGU,small_airport,"Bouca Airport",6.517000198364258,18.267000198364258,1532,AF,CF,CF-AC,Bouca,0,FEGU,BCF,,,http://en.wikipedia.org/wiki/Bouca_Airport,,50,2008-06-13T14:30:04+00:00
+30787,FEGZ,small_airport,"Bozoum Airport",6.344170093536377,16.3218994140625,2215,AF,CF,CF-OP,Bozoum,0,FEGZ,BOZ,,,http://en.wikipedia.org/wiki/Bozoum_Airport,,50,2008-06-13T14:30:04+00:00
+30756,FEFR,small_airport,"Bria Airport",6.527780055999756,21.98940086364746,1975,AF,CF,CF-HK,Bria,0,FEFR,BIV,,,http://en.wikipedia.org/wiki/Bria_Airport,,50,2008-06-13T14:30:04+00:00
+30850,FEFC,small_airport,"Carnot Airport",4.936999797821045,15.894000053405762,1985,AF,CF,CF-HS,Carnot,0,FEFC,CRF,,,http://en.wikipedia.org/wiki/Carnot_Airport,,50,2008-06-13T14:30:04+00:00
+31112,FEFD,small_airport,"Damara Airport",4.949999809265137,18.700000762939453,1427,AF,CF,CF-MP,Damara,0,FEFD,,,,,,50,2008-06-13T14:30:04+00:00
+31121,FEGD,small_airport,"Dekoa Airport",6.300000190734863,19.08300018310547,1804,AF,CF,CF-KG,Dekoa,0,FEGD,,,,,,50,2008-06-13T14:30:04+00:00
+31122,FEGG,small_airport,"Gamboula Airport",4.132999897003174,15.149999618530273,2001,AF,CF,CF-HS,Gamboula,0,FEGG,,,,,,50,2008-06-13T14:30:04+00:00
+31123,FEGI,small_airport,"Grimari Airport",5.683000087738037,20.049999237060547,1312,AF,CF,CF-UK,Grimari,0,FEGI,,,,,,50,2008-06-13T14:30:04+00:00
+31116,FEFQ,small_airport,"Kaga-Bandoro Airport",6.982999801635742,19.183000564575195,1476,AF,CF,CF-KB,Kaga-Bandoro,0,FEFQ,,,,,,50,2008-06-13T14:30:04+00:00
+31114,FEFK,small_airport,"Kembé Airport",4.599999904632568,21.867000579833984,1913,AF,CF,CF-BK,Kembé,0,FEFK,,,,,,50,2008-06-13T14:30:04+00:00
+31916,FEGE,small_airport,"M'Boki Airport",5.33301019669,25.931900024399997,1969,AF,CF,CF-HM,Mboki,0,FEGE,MKI,,,http://en.wikipedia.org/wiki/M%27Boki_Airport,,50,2010-02-13T09:18:15+00:00
+31124,FEGL,small_airport,"Gordil Airport",9.581117,21.728172,1427,AF,CF,CF-BB,Melle,0,FEGL,GDI,,,http://en.wikipedia.org/wiki/Gordil_Airport,"Gourdil, Manovo-Gounda St. Floris National Park",50,2019-02-09T22:37:40+00:00
+31113,FEFE,small_airport,"Mobaye Mbanga Airport",4.374650001525879,21.131900787353516,1332,AF,CF,CF-BK,"Mobaye Mbanga",0,FEFE,,,,http://en.wikipedia.org/wiki/Mobaye_Mbanga_Airport,,50,2008-06-13T14:30:04+00:00
+32016,FEFN,small_airport,"N'Délé Airport",8.427206039428711,20.635156631469727,1631,AF,CF,CF-BB,N'Délé,0,FEFN,NDL,,,http://en.wikipedia.org/wiki/N%27D%C3%A9l%C3%A9_Airport,Ndele,50,2009-06-27T22:03:45+00:00
+32083,FEFW,small_airport,"Ouadda Airport",8.010560035705566,22.39859962463379,2461,AF,CF,CF-HK,Ouadda,0,FEFW,ODA,,,http://en.wikipedia.org/wiki/Ouadda_Airport,,50,2008-06-13T14:30:04+00:00
+32084,FEGO,small_airport,"Ouanda Djallé Airport",8.899999618530273,22.783000946044922,1985,AF,CF,CF-VR,"Ouanda Djallé",0,FEGO,ODJ,,,http://en.wikipedia.org/wiki/Ouanda_Djall%C3%A9_Airport,,50,2008-06-13T14:30:04+00:00
+31115,FEFP,small_airport,"Paoua Airport",7.25,16.433000564575195,2037,AF,CF,CF-OP,Paoua,0,FEFP,,,,http://en.wikipedia.org/wiki/Paoua_Airport,,50,2008-06-13T14:30:04+00:00
+32204,FEGR,small_airport,"Rafaï Airport",4.988609790802002,23.927799224853516,1759,AF,CF,CF-MB,Rafaï,0,FEGR,RFA,,,http://en.wikipedia.org/wiki/Rafa%C3%AF_Airport,,50,2008-06-13T14:30:04+00:00
+31117,FEFU,small_airport,"Sibut Airport",5.732999801635742,19.08300018310547,1411,AF,CF,CF-KG,Sibut,0,FEFU,,,,http://en.wikipedia.org/wiki/Sibut_Airport,,50,2008-06-13T14:30:04+00:00
+30626,FEFY,small_airport,"Yalinga Airport",6.519999980926514,23.260000228881836,1975,AF,CF,CF-HK,Yalinga,0,FEFY,AIG,,,http://en.wikipedia.org/wiki/Yalinga_Airport,,50,2008-06-13T14:30:04+00:00
+31676,FEFZ,small_airport,"Zemio Airport",5.050000190734863,25.149999618530273,1995,AF,CF,CF-HM,Zemio,0,FEFZ,IMO,,,http://en.wikipedia.org/wiki/Zemio_Airport,,50,2008-06-13T14:30:04+00:00
+330404,CF-0009,closed,"N'Délé West Airport",8.33457,20.109068,1311,AF,CF,CF-BB,Awakaba,0,,,,,,,0,2019-02-10T10:54:57+00:00
+319208,CF-0001,small_airport,"Bamingui Airport",7.584231,20.171798,,AF,CF,CF-BB,Bamingui,0,,,,,,,0,2016-06-28T10:04:11+00:00
+322351,CF-0002,small_airport,"Bayanga Airport",2.92405,16.265434,,AF,CF,CF-SE,Bayanga,0,,,,,,,0,2017-03-10T19:12:43+00:00
+322354,CF-0004,small_airport,"Boda Airport",4.313039,17.48594,,AF,CF,CF-LB,Boda,0,,,,,,,0,2017-03-10T19:26:47+00:00
+330396,CF-0006,small_airport,"Goro Airport",9.271226,21.195556,1376,AF,CF,CF-BB,Goro,0,,,,,,Gordil,0,2019-02-09T22:35:24+00:00
+330395,GDA,closed,"Gounda Airport",9.316703,21.185,1378,AF,CF,CF-BB,Gounda,0,,GDA,,,https://en.wikipedia.org/wiki/Gounda_Airport,,0,2019-02-09T21:55:58+00:00
+313470,KOL,closed,"Koumala Airport",8.4965,21.2565,2175,AF,CF,CF-BB,Koumala,0,,KOL,,,http://en.wikipedia.org/wiki/Koumala_Airport,,0,2014-12-26T16:32:21+00:00
+330403,CF-0008,closed,"Bekinyon Airstrip",9.017027,19.571412,1252,AF,CF,CF-BB,Njoko,0,,,,,,,0,2019-02-10T09:32:05+00:00
+46207,FEFB,small_airport,"Poste Airport",5.403889,26.487222,2137,AF,CF,CF-HM,Obo,0,FEFB,,,,https://en.wikipedia.org/wiki/Poste_Airport,,0,2018-02-24T09:43:00+00:00
+326491,CF-0005,small_airport,"Obo Airport",5.378512,26.476364,2108,AF,CF,CF-HM,Obo,0,,,,,,,0,2018-02-23T20:50:35+00:00
+330397,CF-0007,small_airport,"Ouandjia Sam Airport",8.524158,23.240274,2625,AF,CF,CF-HK,Ouandja,0,,,,,,,0,2019-02-09T23:42:48+00:00
+322353,CF-0003,closed,"Mausolee Airport",4.044971,18.141415,,AF,CF,CF-LB,Pissa,0,,,,,,,0,2017-03-10T19:25:47+00:00

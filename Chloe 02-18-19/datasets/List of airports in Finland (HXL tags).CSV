@@ -1,0 +1,113 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2307,EFHK,large_airport,"Helsinki Vantaa Airport",60.317199707031,24.963300704956,179,EU,FI,FI-ES,Helsinki,1,EFHK,HEL,,http://www.finavia.fi/en/helsinki-airport,http://en.wikipedia.org/wiki/Helsinki-Vantaa_Airport,,51875,2015-07-30T15:00:21+00:00
+2334,EFOU,medium_airport,"Oulu Airport",64.930099487305,25.354600906372,47,EU,FI,FI-OL,"Oulu / Oulunsalo",1,EFOU,OUL,,https://www.finavia.fi/en/oulu/,http://en.wikipedia.org/wiki/Oulu_Airport,,1050,2015-07-30T17:27:21+00:00
+2347,EFTP,medium_airport,"Tampere-Pirkkala Airport",61.414100646973,23.604400634766,390,EU,FI,FI-LS,"Tampere / Pirkkala",1,EFTP,TMP,,https://www.finavia.fi/en/tampere-pirkkala/,http://en.wikipedia.org/wiki/Tampere-Pirkkala_Airport,,1050,2015-07-30T17:30:18+00:00
+2341,EFRO,medium_airport,"Rovaniemi Airport",66.564796447754,25.830400466919,642,EU,FI,FI-LL,Rovaniemi,1,EFRO,RVN,,http://www.finavia.fi/en/rovaniemi/,http://en.wikipedia.org/wiki/Rovaniemi_Airport,,1000,2015-07-31T13:16:58+00:00
+2349,EFTU,medium_airport,"Turku Airport",60.514099121094,22.262800216675,161,EU,FI,FI-LS,Turku,1,EFTU,TKU,,https://www.finavia.fi/en/turku/,http://en.wikipedia.org/wiki/Turku_Airport,,1050,2015-07-30T17:33:00+00:00
+2325,EFKT,medium_airport,"Kittilä Airport",67.700996398926,24.846799850464,644,EU,FI,FI-LL,Kittilä,1,EFKT,KTT,,http://www.finavia.fi/en/kittila/,http://en.wikipedia.org/wiki/Kittil%C3%A4_Airport,,1050,2016-01-04T17:12:25+00:00
+2351,EFVA,medium_airport,"Vaasa Airport",63.050701141357,21.762199401855,19,EU,FI,FI-LS,Vaasa,1,EFVA,VAA,,http://www.finavia.fi/en/vaasa/,http://en.wikipedia.org/wiki/Vaasa_Airport,,975,2015-07-31T13:07:23+00:00
+2306,EFHF,medium_airport,"Helsinki Malmi Airport",60.254600524902344,25.042800903320312,57,EU,FI,FI-ES,Helsinki,0,EFHF,HEM,,,http://en.wikipedia.org/wiki/Helsinki-Malmi_Airport,,250,2008-07-27T15:23:35+00:00
+2329,EFLP,medium_airport,"Lappeenranta Airport",61.044601,28.144743,349,EU,FI,FI-ES,Lappeenranta,0,EFLP,LPP,,https://www.finavia.fi/en/lappeenranta/,http://en.wikipedia.org/wiki/Lappeenranta_Airport,,975,2016-02-20T10:10:11+00:00
+2314,EFIV,medium_airport,"Ivalo Airport",68.607299804688,27.405300140381,481,EU,FI,FI-LL,Ivalo,1,EFIV,IVL,,http://www.finavia.fi/en/ivalo/,http://en.wikipedia.org/wiki/Ivalo_Airport,,975,2015-07-31T13:10:41+00:00
+2315,EFJO,medium_airport,"Joensuu Airport",62.662899017334,29.607500076294,398,EU,FI,FI-IS,"Joensuu / Liperi",1,EFJO,JOE,,http://www.finavia.fi/en/joensuu/,http://en.wikipedia.org/wiki/Joensuu_Airport,,975,2015-07-30T15:00:43+00:00
+2336,EFPO,medium_airport,"Pori Airport",61.461700439453,21.799999237061,44,EU,FI,FI-LS,Pori,1,EFPO,POR,,http://www.finavia.fi/en/pori/,http://en.wikipedia.org/wiki/Pori_Airport,,975,2015-07-31T13:03:02+00:00
+2326,EFKU,medium_airport,"Kuopio Airport",63.007099151611,27.797800064087,323,EU,FI,FI-IS,"Kuopio / Siilinjärvi",1,EFKU,KUO,,https://www.finavia.fi/en/kuopio/,http://en.wikipedia.org/wiki/Kuopio_Airport,,1050,2015-07-30T17:22:10+00:00
+2330,EFMA,medium_airport,"Mariehamn Airport",60.122200012207,19.898199081421,17,EU,FI,FI-AL,,1,EFMA,MHQ,,http://www.finavia.fi/en/mariehamn/,http://en.wikipedia.org/wiki/Mariehamn_Airport,,975,2015-07-31T13:01:45+00:00
+2316,EFJY,medium_airport,"Jyvaskyla Airport",62.399501800537,25.678300857544,459,EU,FI,FI-LS,"Jyväskylän Maalaiskunta",1,EFJY,JYV,,https://www.finavia.fi/en/jyvaskyla/,http://en.wikipedia.org/wiki/Jyv%C3%A4skyl%C3%A4_Airport,,975,2015-07-30T17:08:58+00:00
+2321,EFKK,medium_airport,"Kokkola-Pietarsaari Airport",63.721199035645,23.143100738525,84,EU,FI,FI-LS,"Kokkola / Kruunupyy",1,EFKK,KOK,,https://www.finavia.fi/en/kokkola-pietarsaari/,https://en.wikipedia.org/wiki/Kokkola-Pietarsaari_Airport,"Kronoby Airport",975,2015-07-30T17:19:07+00:00
+2324,EFKS,medium_airport,"Kuusamo Airport",65.987602233887,29.239400863647,866,EU,FI,FI-OL,Kuusamo,1,EFKS,KAO,,http://www.finavia.fi/en/kuusamo/,http://en.wikipedia.org/wiki/Kuusamo_Airport,,975,2015-07-31T13:15:24+00:00
+2345,EFSI,medium_airport,"Seinäjoki Airport",62.692101,22.8323,302,EU,FI,FI-LS,"Seinäjoki / Ilmajoki",1,EFSI,SJY,,,http://en.wikipedia.org/wiki/Sein%C3%A4joki_Airport,,900,2017-06-18T16:35:22+00:00
+2317,EFKA,medium_airport,"Kauhava Airport",63.127102,23.051399,151,EU,FI,FI-LS,Kauhava,0,EFKA,KAU,,,https://en.wikipedia.org/wiki/Kauhava_Airfield,"Kauhava Air Base",375,2016-02-20T09:49:04+00:00
+2319,EFKI,medium_airport,"Kajaani Airport",64.285499572754,27.692399978638,483,EU,FI,FI-OL,Kajaani,1,EFKI,KAJ,,https://www.finavia.fi/en/kajaani/,http://en.wikipedia.org/wiki/Kajaani_Airport,,975,2015-07-30T17:13:06+00:00
+2318,EFKE,medium_airport,"Kemi-Tornio Airport",65.778701782227,24.582099914551,61,EU,FI,FI-LL,"Kemi / Tornio",1,EFKE,KEM,,http://www.finavia.fi/en/kemi-tornio/,http://en.wikipedia.org/wiki/Kemi-Tornio_Airport,,975,2015-07-31T13:12:20+00:00
+2352,EFVR,medium_airport,"Varkaus Airport",62.171100616455,27.868600845337,286,EU,FI,FI-IS,"Varkaus / Joroinen",1,EFVR,VRK,,http://www.finavia.fi/en/varkaus/,http://en.wikipedia.org/wiki/Varkaus_Airport,,975,2015-07-31T13:08:24+00:00
+27259,EFKG,small_airport,"Kumlinge Airport",60.24689865112305,20.80470085144043,7,EU,FI,FI-AL,,0,EFKG,,,,,,50,2008-06-13T14:30:04+00:00
+2309,EFHN,small_airport,"Hanko Airport",59.848899841308594,23.083599090576172,20,EU,FI,FI-ES,,0,EFHN,,,,,,50,2008-07-27T14:45:44+00:00
+2305,EFHA,medium_airport,"Halli Airport",61.856039,24.786686,479,EU,FI,FI-LS,"Halli / Kuorevesi",0,EFHA,KEV,,,https://en.wikipedia.org/wiki/Halli_Airport,"Halli Air Base",375,2016-02-20T00:11:12+00:00
+2310,EFHV,small_airport,"Hyvinkää Airfield",60.6543998718,24.8810997009,430,EU,FI,FI-ES,Hyvinkää,0,EFHV,HYV,,,http://en.wikipedia.org/wiki/Hyvink%C3%A4%C3%A4_Airfield,,250,2014-11-23T15:07:29+00:00
+2331,EFME,small_airport,"Menkijarvi Airport",62.94670104980469,23.51889991760254,331,EU,FI,FI-LS,,0,EFME,,,,,,50,2008-07-27T14:35:02+00:00
+2343,EFSA,medium_airport,"Savonlinna Airport",61.943099975586,28.945100784302,311,EU,FI,FI-IS,Savonlinna,1,EFSA,SVL,,http://www.finavia.fi/en/savonlinna/,http://en.wikipedia.org/wiki/Savonlinna_Airport,,975,2015-07-31T13:04:32+00:00
+2332,EFMI,medium_airport,"Mikkeli Airport",61.6866,27.201799,329,EU,FI,FI-IS,Mikkeli,0,EFMI,MIK,,http://www.mikkelinlentoasema.fi/en/,http://en.wikipedia.org/wiki/Mikkeli_Airport,,375,2016-05-31T10:14:02+00:00
+2353,EFYL,medium_airport,"Ylivieska Airfield",64.0547222,24.7252778,252,EU,FI,FI-OL,,0,EFYL,YLI,,"http://www.ylivieska.fi/alltypes.asp?d_type=5&menu_id=17643&menupath=16922,17643",http://en.wikipedia.org/wiki/Ylivieska_Airfield,,325,2016-09-06T13:29:10+00:00
+2320,EFKJ,medium_airport,"Kauhajoki Airport",62.4625015259,22.3931007385,407,EU,FI,FI-LS,,0,EFKJ,KHJ,,,http://en.wikipedia.org/wiki/Kauhajoki_Airfield,,250,2011-10-08T08:54:55+00:00
+2327,EFLA,small_airport,"Lahti Vesivehmaa Airport",61.144199,25.693501,502,EU,FI,FI-ES,,0,EFLA,QLF,,,,,50,2016-02-20T10:02:46+00:00
+2333,EFNU,small_airport,"Nummela Airport",60.333900451699996,24.2964000702,367,EU,FI,FI-ES,,0,EFNU,,,,,,50,2012-06-07T20:57:47+00:00
+2342,EFRY,small_airport,"Rayskala Airport",60.74470138549805,24.107799530029297,407,EU,FI,FI-ES,,0,EFRY,,,,,,50,2008-07-27T14:45:05+00:00
+27245,EFAA,small_airport,"Aavahelukka Airport",67.60359954833984,23.97170066833496,738,EU,FI,FI-LL,,0,EFAA,,,,,,50,2008-07-27T14:12:32+00:00
+27266,EFPA,small_airport,"Pokka Airport",68.15022277832031,25.82937240600586,853,EU,FI,FI-LL,,0,EFPA,,,,,,50,2008-07-27T15:55:59+00:00
+2304,EFEU,small_airport,"Eura Airport",61.1161003112793,22.201400756835938,259,EU,FI,FI-LS,,0,EFEU,,,,,,50,2008-07-27T14:39:51+00:00
+2308,EFHM,small_airport,"Hameenkyro Airport",61.689701080322266,23.073699951171875,449,EU,FI,FI-LS,,0,EFHM,,,,,,50,2008-07-27T14:51:03+00:00
+2311,EFIK,small_airport,"Kiikala Airport",60.4625015259,23.6525001526,381,EU,FI,FI-LS,,0,EFIK,,,,,,50,2012-06-07T21:26:32+00:00
+27257,EFKV,small_airport,"Kivijärvi Airport",63.125301361083984,25.12420082092285,502,EU,FI,FI-LS,,0,EFKV,,,,,,50,2008-07-27T14:35:29+00:00
+27271,EFVT,small_airport,"Sulkaharju Airport",63.3978004456,24.0305995941,400,EU,FI,FI-LS,,0,EFVT,,,,,,50,2012-06-07T21:01:42+00:00
+2323,EFKO,small_airport,"Kalajoki Airport",64.22859954833984,23.826400756835938,43,EU,FI,FI-OL,,0,EFKO,,,,,,50,2008-07-27T14:21:55+00:00
+2337,EFPU,small_airport,"Pudasjärvi Airport",65.4021987915,26.946899414100002,397,EU,FI,FI-OL,,0,EFPU,,,http://www.pudasjarvi.fi/vapaa-ajan-palvelut/pudasjarven-ilmailukeskus,http://en.wikipedia.org/wiki/Pudasj%C3%A4rvi_Airfield,,50,2012-06-07T22:08:07+00:00
+2339,EFRH,small_airport,"Raahe Pattijoki Airport",64.6881027222,24.6958007812,118,EU,FI,FI-OL,,0,EFRH,,,,http://en.wikipedia.org/wiki/Raahe-Pattijoki_Airfield,,50,2012-06-07T21:47:18+00:00
+27258,EFKH,small_airport,"Kuhmo Airport",64.11250305175781,29.438600540161133,571,EU,FI,FI-OL,,0,EFKH,,,,,,50,2008-07-27T14:18:51+00:00
+27248,EFFO,small_airport,"Forssa Airport",60.803683,23.650802,325,EU,FI,FI-ES,Forssa,0,EFFO,,,,https://en.wikipedia.org/wiki/Forssa_Airfield,QVE,50,2017-01-07T14:11:39+00:00
+27251,EFHP,small_airport,"Haapavesi Airport",64.11309814453125,25.504199981689453,315,EU,FI,FI-OL,Haapavesi,0,EFHP,,,,,,50,2008-07-27T14:21:31+00:00
+27254,EFJM,small_airport,"Jämijärvi Airport",61.7785987854,22.716100692699996,505,EU,FI,FI-LS,Jämijärvi,0,EFJM,,,,http://en.wikipedia.org/wiki/J%C3%A4mij%C3%A4rvi_Airfield,,50,2014-01-28T14:27:35+00:00
+27264,EFOP,small_airport,"Oripää Airport",60.8763999939,22.7446994781,331,EU,FI,FI-LS,Oripää,0,EFOP,,,,http://en.wikipedia.org/wiki/Orip%C3%A4%C3%A4_Airfield,,50,2011-10-08T18:40:30+00:00
+2338,EFPY,small_airport,"Pyhäsalmi Airport",63.7318992615,25.926300048799998,528,EU,FI,FI-OL,Pyhäjärvi,0,EFPY,,,,http://en.wikipedia.org/wiki/Pyh%C3%A4salmi_Airfield,,50,2012-06-07T21:54:17+00:00
+43021,EFHE,heliport,"Hernesaari Heliport",60.14777755737305,24.9244441986084,7,EU,FI,FI-ES,Helsinki,0,EFHE,,,,http://en.wikipedia.org/wiki/Hernesaari_Heliport,"Hernesaaren helikopterikenttä, Ärtholmens heliport",0,2009-01-09T22:04:21+00:00
+2303,EFET,medium_airport,"Enontekio Airport",68.362602233887,23.424299240112,1005,EU,FI,FI-LL,Enontekio,1,EFET,ENF,,http://www.finavia.fi/en/enontekio/,https://en.wikipedia.org/wiki/Enonteki%C3%B6_Airport,,975,2015-07-31T13:10:06+00:00
+2313,EFIT,medium_airport,"Kitee Airport",62.1661,30.073601,364,EU,FI,FI-IS,,0,EFIT,KTQ,,,https://en.wikipedia.org/wiki/Kitee_Airfield,,250,2016-02-20T00:30:13+00:00
+2346,EFSO,medium_airport,"Sodankyla Airport",67.3949966431,26.6191005707,602,EU,FI,FI-LL,Sodankyla,0,EFSO,SOT,,,http://en.wikipedia.org/wiki/Sodankyl%C3%A4_Airfield,,250,2012-06-07T21:19:23+00:00
+2350,EFUT,medium_airport,"Utti Air Base",60.89640045166,26.938400268555,339,EU,FI,FI-ES,"Utti / Valkeala",0,EFUT,UTI,,,https://en.wikipedia.org/wiki/Utti_Airport,,250,2015-08-16T11:10:33+00:00
+2312,EFIM,small_airport,"Immola Airport",61.24919891357422,28.90369987487793,338,EU,FI,FI-ES,,0,EFIM,,,,,,50,2008-07-27T14:47:12+00:00
+2344,EFSE,small_airport,"Selanpaa Airport",61.062400817871094,26.798900604248047,417,EU,FI,FI-ES,,0,EFSE,,,,,,50,2008-07-27T14:44:12+00:00
+27270,EFNS,small_airport,"Savikko Airport",60.52000045776367,24.83169937133789,233,EU,FI,FI-ES,,0,EFNS,,,,,,50,2008-07-27T14:44:44+00:00
+27273,EFTO,small_airport,"Torbacka Airport",60.079200744628906,24.172199249267578,16,EU,FI,FI-ES,,0,EFTO,,,,,,50,2008-07-27T14:45:36+00:00
+27276,EFWB,small_airport,"Wredeby Airport",60.66360092163086,26.745800018310547,82,EU,FI,FI-ES,,0,EFWB,,,,,,50,2008-07-27T14:43:39+00:00
+2328,EFLN,small_airport,"Lieksa Nurmes Airport",63.51190185546875,29.629199981689453,374,EU,FI,FI-IS,,0,EFLN,,,,,,50,2008-07-27T14:30:47+00:00
+2340,EFRN,small_airport,"Rantasalmi Airport",62.0654983521,28.3565006256,292,EU,FI,FI-IS,,0,EFRN,,,,http://en.wikipedia.org/wiki/Rantasalmi_Airfield,,50,2012-06-07T21:39:28+00:00
+27256,EFRV,small_airport,"Kiuruvesi Airport",63.70560073852539,26.61639976501465,515,EU,FI,FI-IS,,0,EFRV,,,,,,50,2008-07-27T14:31:35+00:00
+27267,EFPN,small_airport,"Punkaharju Airport",61.7289009094,29.3936004639,253,EU,FI,FI-IS,,0,EFPN,,,,http://en.wikipedia.org/wiki/Punkaharju_Airfield,,50,2012-06-07T21:59:06+00:00
+27269,EFRA,small_airport,"Rautavaara Airport",63.4241981506,28.1242008209,476,EU,FI,FI-IS,,0,EFRA,,,,http://en.wikipedia.org/wiki/Rautavaara_Airfield,,50,2012-06-07T21:31:03+00:00
+30308,EFPH,small_airport,"Pyhoselka Airport",62.464698791503906,30.03529930114746,322,EU,FI,FI-IS,,0,EFPH,,,,,,50,2008-07-27T14:30:16+00:00
+30430,EFSJ,closed,"Sonkajarvi Jyrkk Airport",63.819401,27.7694,600,EU,FI,FI-IS,,0,EFSJ,,,,,,50,2016-10-24T05:29:28+00:00
+2322,EFKM,small_airport,"Kemijarvi Airport",66.712898,27.156799,692,EU,FI,FI-LL,,0,EFKM,,,,https://en.wikipedia.org/wiki/Kemij%C3%A4rvi_Airfield,,50,2016-09-29T16:27:42+00:00
+27268,EFRU,small_airport,"Ranua Airport",65.97309875490001,26.365299224900003,541,EU,FI,FI-LL,,0,EFRU,,,,http://en.wikipedia.org/wiki/Ranua_Airfield,,50,2012-06-07T21:34:54+00:00
+29099,EFJP,small_airport,"Jakalapaa Airport",68.7114028930664,25.75279998779297,,EU,FI,FI-LL,,0,EFJP,,,,,,50,2008-07-27T14:48:46+00:00
+29100,EFMP,small_airport,"Martiniiskonpalo Airport",68.6603012084961,25.702899932861328,,EU,FI,FI-LL,,0,EFMP,,,,,,50,2008-07-27T14:12:06+00:00
+2335,EFPI,small_airport,"Piikajarvi Airport",61.245601654052734,22.19339942932129,148,EU,FI,FI-LS,,0,EFPI,,,,,,50,2008-07-27T14:39:42+00:00
+27255,EFKN,small_airport,"Kannus Airport",63.92060089111328,24.086700439453125,338,EU,FI,FI-LS,,0,EFKN,,,,,,50,2008-07-27T14:33:01+00:00
+27275,EFVP,small_airport,"Vampula Airport",61.03969955444336,22.591699600219727,295,EU,FI,FI-LS,,0,EFVP,,,,,,50,2008-07-27T14:40:00+00:00
+29933,EFHI,closed,"Haapamaki Airport",62.255204,24.349478,531,EU,FI,FI-LS,,0,EFHI,,,,,,50,2016-10-23T08:31:30+00:00
+30532,EFVI,small_airport,"Viitasaari Airport",63.1225013733,25.816099166900003,361,EU,FI,FI-LS,,0,EFVI,,,,http://en.wikipedia.org/wiki/Viitasaari_Airfield,,50,2012-06-07T20:54:34+00:00
+27252,EFHL,small_airport,"Hailuoto Airport",64.96690368652344,24.70439910888672,7,EU,FI,FI-OL,,0,EFHL,,,,,,50,2008-07-27T14:23:36+00:00
+27272,EFSU,small_airport,"Suomussalmi Airport",64.8218994141,28.710300445599998,541,EU,FI,FI-OL,,0,EFSU,,,,http://en.wikipedia.org/wiki/Suomussalmi_Airfield,,50,2012-06-07T21:16:11+00:00
+27274,EFVL,small_airport,"Vaala Airport",64.5018997192,26.7600002289,443,EU,FI,FI-OL,,0,EFVL,,,,http://en.wikipedia.org/wiki/Vaala_Airfield,,50,2012-06-07T21:05:57+00:00
+27247,EFAL,small_airport,"Alavus Airport",62.5546989440918,23.573299407958984,407,EU,FI,FI-LS,Alavus,0,EFAL,,,,,,50,2008-07-27T14:34:51+00:00
+27249,EFGE,small_airport,"Genböle Airport",60.08689880371094,22.521900177001953,46,EU,FI,FI-LS,Genböle,0,EFGE,,,,,,50,2008-07-27T14:32:30+00:00
+27250,EFHJ,closed,"Haapajärvi Airport",63.7122,25.395,351,EU,FI,FI-OL,Haapajärvi,0,EFHJ,,,,,,50,2018-05-06T06:46:16+00:00
+27253,EFII,small_airport,"Iisalmi Airport",63.631900787353516,27.12220001220703,384,EU,FI,FI-IS,Iisalmi,0,EFII,,,,,,50,2008-07-27T14:31:28+00:00
+27261,EFKR,small_airport,"Kärsämäki Airport",63.989200592041016,25.743600845336914,348,EU,FI,FI-OL,Kärsämäki,0,EFKR,,,,,,50,2008-07-27T14:55:05+00:00
+27262,EFLL,small_airport,"Lapinlahti Airport",63.3993988037,27.4789009094,328,EU,FI,FI-IS,Lammake,0,EFLL,,,,,,50,2011-09-26T07:34:18+00:00
+27263,EFMN,small_airport,"Mäntsälä Airport",60.5724983215332,25.508899688720703,135,EU,FI,FI-ES,Mäntsälä,0,EFMN,,,,,,50,2008-07-27T14:56:39+00:00
+27246,EFAH,small_airport,"Ahmosuo Airport",64.8953018188,25.752199173,95,EU,FI,FI-OL,Oulu,0,EFAH,,,,http://en.wikipedia.org/wiki/Ahmosuo_Airfield,,50,2012-06-07T22:21:56+00:00
+27260,EFKY,small_airport,"Kymi Airport",60.5713996887207,26.896099090576172,223,EU,FI,FI-ES,Peippola,0,EFKY,,,,,,50,2009-01-15T09:14:11+00:00
+27265,EFPK,small_airport,"Pieksämäki Airport",62.2647018433,27.0027999878,390,EU,FI,FI-IS,Pieksämäki,0,EFPK,,,,http://en.wikipedia.org/wiki/Pieks%C3%A4m%C3%A4ki_Airfield,,50,2012-06-07T22:14:19+00:00
+2348,EFTS,closed,"Teisko Airport",61.7733,24.027,515,EU,FI,FI-LS,Tampere,0,EFTS,,,,,,50,2016-10-24T07:14:43+00:00
+29101,EFVU,small_airport,"Vuotso Airport",68.08719635009766,27.123899459838867,,EU,FI,FI-LL,Vuotso,0,EFVU,,,,,,50,2008-07-27T17:20:08+00:00
+44025,EFEJ,heliport,"Jorvin Hospital Heliport",60.22083282470703,24.686389923095703,75,EU,FI,FI-ES,,0,EFEJ,,,,,,0,2009-04-07T13:13:19+00:00
+44028,EFPL,heliport,"Päijät-Hämeen Central Hospital Heliport",60.991769796,25.569455623599996,561,EU,FI,FI-ES,,0,EFPL,,,,,,0,2012-06-07T20:30:01+00:00
+44029,EFPE,heliport,"Peijaksen Hospital Heliport",60.331111907958984,25.060832977294922,171,EU,FI,FI-ES,,0,EFPE,,,,,,0,2009-04-07T13:13:28+00:00
+44030,EFPJ,heliport,"Kuopion University Hospital Heliport",62.897499084472656,27.648332595825195,400,EU,FI,FI-IS,,0,EFPJ,,,,,,0,2009-04-07T13:13:30+00:00
+316406,FI-0001,small_airport,"Pistohiekan Glider Field",61.5676593,28.0132897,,EU,FI,FI-IS,,0,,,,,,,0,2015-11-21T11:25:29+00:00
+44032,EFEK,heliport,"Kilpisjärvi Heliport",69.0022201538086,20.89638900756836,1584,EU,FI,FI-LL,,0,EFEK,,,,,,0,2009-04-07T13:13:34+00:00
+317995,FI-0004,small_airport,"Ähtärin kevytlentopaikka",62.5134421,24.0682821,,EU,FI,FI-U-A,Ähtäri,0,,,,,,,0,2016-05-22T00:54:58+00:00
+44026,EFHH,heliport,"Kanta-Hämeen Central Hospital Heliport",60.991111755371094,24.4152774810791,440,EU,FI,FI-ES,"Hämeenlinna ",0,EFHH,,,,,,0,2009-04-07T13:13:21+00:00
+44027,EFHY,heliport,"Meilahti Hospital Helipad",60.188909,24.907276,69,EU,FI,FI-ES,Helsinki,0,EFHY,,,,,"Helsingin Yliopistollinen Sairaala, Helsinki University Central Hospital Heliport",0,2016-02-20T13:28:23+00:00
+310896,EFML,small_airport,"Ii Airfield",65.30114387089999,25.416226387,40,EU,FI,FI-OL,Ii,0,EFML,,,http://www.ilmailukerho.fi/Uusi_sivusto_2012/Etusivu.html,,,0,2014-02-05T12:10:53+00:00
+44031,EFJE,heliport,"North Karelia Central Hospital Heliport",62.590832,29.777779,397,EU,FI,FI-IS,Joensuu,0,EFJE,,,,https://fi.wikipedia.org/wiki/Pohjois-Karjalan_keskussairaala,Pohjois-Karjalan_keskussairaala,0,2016-02-20T12:26:43+00:00
+44034,EFJV,heliport,"Central Finland Central Hospital Heliport",62.230361,25.71154,459,EU,FI,FI-LS,Jyväskylä,0,EFJV,,,,,"Keski-Suomen keskussairaala",0,2016-02-20T11:30:35+00:00
+324292,FI-0005,small_airport,"Mänttä - Sassi Airfield",62.028,24.664,,EU,FI,FI-U-A,Mänttä,0,,,,http://sassiin.fi/,,,0,2017-07-03T06:43:34+00:00
+316474,FI-0002,small_airport,"Ummeljoki KW",60.7573195,26.7343134,135,EU,FI,FI-ES,Myllykoski,0,,,,http://www.ummeljoki.com/index.php?p=1_9_Ummeljoki-KW,,,0,2015-12-05T08:04:50+00:00
+317427,FI-0003,small_airport,"Nummijärvi airstrip",62.3086954,22.5188124,558,EU,FI,FI-LS,Nummijärvi,0,,,,,,,0,2016-04-03T12:20:09+00:00
+44038,EFHO,heliport,"Oulun University Hospital Heliport",65.00360870361328,25.520278930664062,43,EU,FI,FI-OL,Oulu,0,EFHO,,,,,,0,2009-04-07T13:13:48+00:00
+44033,EFLR,heliport,"Lapland Central Hospital Heliport",66.491914,25.778312,341,EU,FI,FI-LL,Rovaniemi,0,EFLR,,,,,"Lapin keskussairaala",0,2016-02-20T10:56:28+00:00
+44035,EFHS,heliport,"Seinäjoen Central Hospital Heliport",62.7699187129,22.8224015236,194,EU,FI,FI-LS,Seinäjoen,0,EFHS,,,,,,0,2012-06-07T20:22:58+00:00
+44036,EFPT,heliport,"Tampere University Hospital Heliport",61.50638961791992,23.8125,436,EU,FI,FI-LS,Tampere,0,EFPT,,,,,,0,2009-04-07T13:13:43+00:00
+44037,EFTV,heliport,"Turku University Central Hospital Heliport",60.45111083984375,22.2902774810791,75,EU,FI,FI-LS,Turku,0,EFTV,,,,,,0,2009-04-07T13:13:45+00:00

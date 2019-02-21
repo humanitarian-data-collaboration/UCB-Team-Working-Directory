@@ -1,0 +1,4 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+46548,SM-0002,small_airport,"Aviosuperficie Torraccia",43.948679,12.510188,787,EU,SM,SM-03,Domagnano,0,,,RSM01,,,Torraccia,0,2016-08-01T01:15:55+00:00
+44550,SM-0001,closed,"Borgo Maggiore International Heliport",43.943367,12.445769,,EU,SM,SM-06,"Borgo Maggiore",0,,,,,,,0,2016-01-17T08:04:55+00:00

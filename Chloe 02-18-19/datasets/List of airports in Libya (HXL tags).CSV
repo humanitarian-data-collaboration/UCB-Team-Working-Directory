@@ -1,0 +1,64 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3227,HLLT,large_airport,"Tripoli International Airport",32.6635017395,13.1590003967,263,AF,LY,LY-TB,Tripoli,1,HLLT,TIP,,,http://en.wikipedia.org/wiki/Tripoli_International_Airport,,1050,2009-09-04T09:08:40+00:00
+3223,HLLB,medium_airport,"Benina International Airport",32.096801757799994,20.2695007324,433,AF,LY,LY-BA,Benghazi,1,HLLB,BEN,,,http://en.wikipedia.org/wiki/Benina_International_Airport,,875,2010-08-31T14:16:02+00:00
+3226,HLLS,medium_airport,"Sabha Airport",26.98699951171875,14.47249984741211,1427,AF,LY,LY-SB,Sabha,1,HLLS,SEB,,,http://en.wikipedia.org/wiki/Sabha_Airport,Sebha,825,2008-06-13T14:30:04+00:00
+3224,HLLM,medium_airport,"Mitiga Airport",32.894100189208984,13.276000022888184,36,AF,LY,LY-TB,Tripoli,1,HLLM,MJI,,,http://en.wikipedia.org/wiki/Mitiga_Airport,,800,2008-08-16T08:20:24+00:00
+3221,HLGT,medium_airport,"Ghat Airport",25.1455993652,10.142600059500001,2296,AF,LY,LY-GT,Ghat,1,HLGT,GHT,,,http://en.wikipedia.org/wiki/Ghat_Airport,,800,2010-09-06T17:42:14+00:00
+3219,HLGD,medium_airport,"Gardabya Airport",31.063499450699997,16.5949993134,267,AF,LY,LY-SR,Sirt,1,HLGD,SRX,,,http://en.wikipedia.org/wiki/Gardabya_Airport,Sirte,450,2009-09-04T07:37:24+00:00
+3228,HLMB,medium_airport,"Marsa Brega Airport",30.37809944152832,19.576400756835938,50,AF,LY,LY-WA,,0,HLMB,LMQ,,,,,250,2008-08-03T11:41:52+00:00
+3233,HLZA,small_airport,"Zella 74 Airport",28.58989906311035,17.293899536132812,1085,AF,LY,LY-JU,,0,HLZA,,,,,,50,2008-06-13T14:30:04+00:00
+4588,HL62,small_airport,"Zuetina Airport",30.87019920349121,20.07550048828125,16,AF,LY,LY-WA,,0,HL62,,HL62,,,,50,2008-08-03T11:44:40+00:00
+30587,HLZU,small_airport,"Zueitina Airport",30.875,20.06999969482422,20,AF,LY,LY-WA,,0,HLZU,,,,,,50,2008-08-03T11:42:02+00:00
+31608,HLZG,small_airport,"Oxy A 103 Airport",29.00629997253418,20.786100387573242,318,AF,LY,LY-WA,"Oxy A 103",0,HLZG,,,,,,50,2008-08-03T11:42:00+00:00
+3225,HLLQ,medium_airport,"La Abraq Airport",32.788700103759766,21.96430015563965,2157,AF,LY,LY-JA,"Al Bayda'",1,HLLQ,LAQ,,,http://en.wikipedia.org/wiki/La_Abraq_Airport,Beida,825,2008-06-13T14:30:04+00:00
+3232,HLTD,medium_airport,"Ghadames East Airport",30.15169906616211,9.715310096740723,1122,AF,LY,LY-NL,Ghadames,1,HLTD,LTD,,,http://en.wikipedia.org/wiki/Ghadames_Airport,,800,2008-06-25T14:58:03+00:00
+3222,HLKF,medium_airport,"Kufra Airport",24.178699493408203,23.31399917602539,1367,AF,LY,LY-KF,Kufra,1,HLKF,AKF,,,http://en.wikipedia.org/wiki/Kufra_Airport,,800,2008-06-25T14:56:04+00:00
+31944,LY-MRA,small_airport,"Misratah Airport",32.325000762939,15.0609998703,60,AF,LY,LY-MI,Misratah,1,HLMS,MRA,,,http://en.wikipedia.org/wiki/Misratah_Airport,Misurata,450,2015-10-08T07:48:32+00:00
+32467,HLGN,small_airport,"Gamal Abdel Nasser Airport",31.861,23.907,519,AF,LY,LY-BU,Tobruk,1,HLGN,TOB,,,https://en.wikipedia.org/wiki/Tobruk_Airport,,450,2016-09-29T16:26:20+00:00
+32195,LY-QUB,small_airport,"Ubari Airport",26.5674991608,12.82310009,1387,AF,LY,LY-SH,Ubari,1,HLUB,QUB,,,http://en.wikipedia.org/wiki/Ubari_Airport,,450,2013-09-28T11:30:34+00:00
+4594,HL68,medium_airport,"Al Bumbah North Air Base",32.45289993286133,23.118600845336914,33,AF,LY,LY-DR,,0,,,,,,,250,2008-12-30T09:21:15+00:00
+4582,HL56,medium_airport,"Matan al-Sarra Air Base",21.687700271606445,21.830900192260742,1722,AF,LY,LY-KF,,0,HL56,,HL56,,http://en.wikipedia.org/wiki/Maaten_al-Sarra_Air_Base,,250,2008-06-25T14:54:53+00:00
+4602,HL77,medium_airport,"Okba Ibn Nafa Air Base",32.473400116,11.897899627700001,253,AF,LY,LY-NQ,,0,,,,,,,250,2013-02-07T09:07:56+00:00
+30688,LY-BCQ,medium_airport,"Brak Airport",27.653,14.272,1056,AF,LY,LY-SH,Brak,0,,BCQ,,,https://en.wikipedia.org/wiki/Brak_Airport,Brach,250,2016-06-06T07:51:48+00:00
+4590,HL64,small_airport,"Qaryat Al Karmal Airport",31.97570037841797,20.026899337768555,85,AF,LY,LY-BA,,0,HL64,,HL64,,,,50,2008-06-13T14:30:04+00:00
+4603,HL78,small_airport,"Habit Awlad Muhammad Airport",30.701900482177734,12.484000205993652,2000,AF,LY,LY-JG,,0,HL78,,HL78,,,,50,2008-12-30T09:21:19+00:00
+4606,HL81,small_airport,"Al Hamada Con 66 East Airport",29.531099319458008,12.943699836730957,2090,AF,LY,LY-JG,,0,HL81,,HL81,,,,50,2008-12-30T09:21:21+00:00
+3230,HLON,small_airport,"Hon Airport",29.11009979248047,15.96560001373291,919,AF,LY,LY-JU,,0,HLON,HUQ,,,,,50,2008-06-13T14:30:04+00:00
+4595,HL69,small_airport,"Al Jufra Airport",29.19809913635254,16.000999450683594,846,AF,LY,LY-JU,,0,HL69,,HL69,,,,50,2008-06-13T14:30:04+00:00
+4598,HL72,small_airport,"Waddan Airport",29.1392,16.160299,910,AF,LY,LY-JU,,0,HL72,,HL72,,https://en.wikipedia.org/wiki/Waddan_Airport,,50,2016-04-08T12:09:58+00:00
+4607,HL82,small_airport,"Wadi Buzanad Sw Airport",28.96190071105957,17.58810043334961,381,AF,LY,LY-JU,,0,HL82,,HL82,,,,50,2008-06-13T14:30:04+00:00
+4580,HL54,small_airport,"Beni Walid Airport",31.739200592,13.954000473,985,AF,LY,LY-MI,,0,HL54,,HL54,,,,50,2009-11-19T11:23:49+00:00
+4585,HL59,small_airport,"Al Khadim Airport",31.99850082397461,21.19179916381836,800,AF,LY,LY-MJ,,0,HL59,,HL59,,,,50,2008-12-30T09:21:17+00:00
+4583,HL57,small_airport,"Al Wigh Airport",24.18589973449707,14.53279972076416,1558,AF,LY,LY-MQ,,0,HL57,,HL57,,,,50,2008-06-25T15:01:48+00:00
+4604,HL79,small_airport,"Waw Al Kabir Airport",25.356800079345703,16.809999465942383,1465,AF,LY,LY-MQ,,0,HL79,,HL79,,,,50,2008-06-25T15:02:44+00:00
+4592,HL66,small_airport,"Taminhint Airport",27.240100860595703,14.656299591064453,1325,AF,LY,LY-SB,,0,HL66,,HL66,,,,50,2008-08-03T11:44:46+00:00
+4597,HL71,small_airport,"Bir Umran Airport",26.332399368286133,13.422100067138672,1400,AF,LY,LY-SH,,0,HL71,,HL71,,,,50,2008-12-30T09:21:25+00:00
+3229,HLNF,small_airport,"Ras Lanuf Oil Airport",30.5,18.52720069885254,42,AF,LY,LY-SR,,0,HLNF,,,,,,50,2008-12-30T09:21:32+00:00
+3231,HLRA,small_airport,"Dahra Airport",29.47260093688965,17.934900283813477,1050,AF,LY,LY-SR,,0,HLRA,,,,,,50,2008-12-30T09:21:34+00:00
+4605,HL80,small_airport,"Matratin Airport",30.64299964904785,18.32080078125,100,AF,LY,LY-SR,,0,HL80,,HL80,,,,50,2008-12-30T09:21:38+00:00
+4608,HL83,small_airport,"Nanur Airport",31.7052001953125,14.911600112915039,185,AF,LY,LY-SR,,0,HL83,,HL83,,,,50,2008-12-30T09:21:40+00:00
+29859,HLSD,small_airport,"Essider Airport",30.625,18.351699829101562,20,AF,LY,LY-SR,,0,HLSD,,,,,,50,2008-12-30T09:21:36+00:00
+4579,HL53,small_airport,"Sidi Salih Airport",32.49480056762695,13.29010009765625,490,AF,LY,LY-TB,,0,,,,,,,50,2009-07-02T10:30:19+00:00
+3218,HLFL,small_airport,"Bu Attifel Airport",28.795400619506836,22.080900192260742,161,AF,LY,LY-WA,,0,HLFL,,,,,,50,2008-08-03T11:41:48+00:00
+3220,HLGL,small_airport,"Warehouse 59e Airport",28.638500213623047,21.437999725341797,325,AF,LY,LY-WA,,0,HLGL,,,,,,50,2008-08-03T11:41:50+00:00
+4576,HL50,small_airport,"Zelten Sw New Airport",28.587099075317383,19.30340003967285,550,AF,LY,LY-WA,,0,HL50,,HL50,,,,50,2008-08-03T11:44:33+00:00
+4584,HL58,small_airport,"Agedabia Airport",30.765100479125977,20.1914005279541,50,AF,LY,LY-WA,,0,HL58,,HL58,,,,50,2008-08-03T11:44:36+00:00
+4596,HL70,small_airport,"Al Khuwaymat Airport",27.257299423217773,21.618099212646484,500,AF,LY,LY-WA,,0,HL70,,HL70,,,,50,2008-08-03T11:44:47+00:00
+4609,HL84,small_airport,"Sarir Nw Airport",27.97570037841797,22.35740089416504,330,AF,LY,LY-WA,,0,HL84,,HL84,,,,50,2008-08-03T11:44:51+00:00
+4586,HL60,small_airport,"Al Marj Airport",32.525299072265625,20.875099182128906,950,AF,LY,LY-MJ,"Al Marj",0,,,,,,HL60,50,2009-02-12T15:49:25+00:00
+31600,HLAM,small_airport,"Amal V12 Airport",29.47949981689453,21.122400283813477,145,AF,LY,LY-WA,"Amal V12",0,HLAM,,,,,,50,2008-08-03T11:41:45+00:00
+31601,HLBD,small_airport,"Beda (M-3) Airport",28.503299713134766,19.00279998779297,499,AF,LY,LY-WA,"Beda M3",0,HLBD,,,,,,50,2008-08-19T08:19:17+00:00
+30928,LY-DNF,small_airport,"Martubah Airport",32.54199981689453,22.7450008392334,1235,AF,LY,LY-DR,Derna,0,,DNF,,,,,50,2008-12-30T09:21:13+00:00
+31602,HLNR,small_airport,"Nafurah 1 Airport",29.213199615478516,21.59239959716797,122,AF,LY,LY-WA,"Nafurah 1",0,HLNR,,,,,,50,2008-08-03T11:41:54+00:00
+31604,HLSA,small_airport,"Sarir (C-4) Airport",27.662399291992188,22.50860023498535,400,AF,LY,LY-WA,Sarir,0,HLSA,,,,,,50,2008-08-19T08:17:12+00:00
+31607,HLWA,small_airport,"Warehouse 59A Airport",28.322399139404297,19.93000030517578,488,AF,LY,LY-WA,"Warehouse 59A",0,HLWA,,,,,,50,2008-08-03T11:41:58+00:00
+3234,HLZW,small_airport,"Zwara Airport",32.952301025390625,12.01550006866455,,AF,LY,LY-NQ,Zuwara,0,HLZW,WAX,HL75,,,,50,2008-08-16T08:25:40+00:00
+308251,LY-0003,small_airport,"Gabr Airstrip",29.873888,23.347918,,AF,LY,LY-BU,,0,,,,,,,0,2013-02-06T06:56:38+00:00
+312733,LY-0005,small_airport,"Unknown strip",27.548953,12.820745,,AF,LY,LY-SH,,0,,,,,,,0,2014-08-22T18:43:58+00:00
+44579,LY-0001,small_airport,"Bi'r Zalatan Airport",28.168800354,19.209499359099997,,AF,LY,LY-WA,,0,,,,,,,0,2015-01-23T16:14:54+00:00
+308249,LY-0002,small_airport,"Zelten C6 Airstrip",28.9540104,19.7737706,,AF,LY,LY-WA,,0,,,,,,,0,2013-02-06T05:58:02+00:00
+312731,LY-0004,small_airport,"Wadi Barjuj strip",26.033514,12.928051,,AF,LY,LY-WD,,0,,,,,,,0,2014-08-22T18:20:53+00:00
+328739,LY-0006,closed,"Al Bunbah Airport",32.415435,23.12794,30,AF,LY,LY-DR,"Al Bumbah",0,,,,,,"Al Bunbah, Bombah",0,2018-07-14T15:08:09+00:00
+328740,LY-0007,closed,"Tubruq Airport",32.103124,23.83335,279,AF,LY,LY-BU,Tubruq,0,,,,,,Tobruk,0,2018-07-14T16:26:49+00:00
+323222,HLZN,small_airport,"Alzintan Airport",31.774878,12.25006,2080,AF,LY,LY-JG,Zintan,0,HLZN,ZIS,,,https://en.wikipedia.org/wiki/Alzintan_Airport,,0,2017-05-14T04:53:16+00:00

@@ -1,0 +1,6 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2969,FPST,medium_airport,"São Tomé International Airport",0.3781749904155731,6.7121500968933105,33,AF,ST,ST-S,"São Tomé",1,FPST,TMS,,,http://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport,,825,2008-06-13T14:30:04+00:00
+2968,FPPR,medium_airport,"Principe Airport",1.6629400253295898,7.411739826202393,591,AF,ST,ST-P,,1,FPPR,PCP,,,http://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport,,800,2008-06-13T14:30:04+00:00
+322988,PGP,closed,"Porto Alegre Airport",0.033333,6.533333,,AF,ST,ST-S,"Porto Alegro",0,,PGP,,,,,0,2017-05-03T21:55:31+00:00
+322989,ST-0001,seaplane_base,"Santo Antonio Seaport",1.63777,7.417778,,AF,ST,ST-P,"Santo Antonio",0,,,,,,,0,2017-05-03T22:02:50+00:00

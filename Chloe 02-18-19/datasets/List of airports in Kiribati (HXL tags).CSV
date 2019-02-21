@@ -1,0 +1,24 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5493,PLCH,medium_airport,"Cassidy International Airport",1.9861600399017334,-157.35000610351562,5,OC,KI,KI-L,Banana,1,PLCH,CXI,,,http://en.wikipedia.org/wiki/Cassidy_International_Airport,"Christmas Island",800,2008-06-13T14:30:04+00:00
+4972,NGTA,medium_airport,"Bonriki International Airport",1.3816399574279785,173.14700317382812,9,OC,KI,KI-G,Tarawa,1,NGTA,TRW,,,http://en.wikipedia.org/wiki/Bonriki_International_Airport,,875,2008-07-15T09:00:38+00:00
+32466,PLFA,small_airport,"Tabuaeran Island Airport",3.899440050125122,-159.38900756835938,,OC,KI,KI-L,"Tabuaeran Island",0,PLFA,TNV,,,,"Fanning Island",50,2008-07-15T09:05:55+00:00
+4973,NGTE,medium_airport,"Tabiteuea North Airport",-1.2244700193405151,174.7760009765625,7,OC,KI,KI-G,,0,NGTE,TBF,,,,,250,2008-07-15T09:05:03+00:00
+5426,PCIS,medium_airport,"Canton Island Airport",-2.7681200504300003,-171.710006714,9,OC,KI,KI-P,Abariringa,0,PCIS,CIS,,,http://en.wikipedia.org/wiki/Canton_Island_Airport,"Kanton Island",250,2014-07-20T14:33:54+00:00
+30611,NGAB,small_airport,"Abaiang Airport",1.798609972000122,173.04100036621094,,OC,KI,KI-G,Abaiang,0,NGAB,ABF,,,,,50,2008-07-15T08:57:54+00:00
+30619,NGTB,small_airport,"Abemama Atoll Airport",0.49083301424980164,173.82899475097656,8,OC,KI,KI-G,"Abemama Atoll",0,NGTB,AEA,,,,,50,2008-07-15T08:58:26+00:00
+30628,NGTR,small_airport,"Arorae Island Airport",-2.61611008644104,176.80299377441406,,OC,KI,KI-G,"Arorae Island",0,NGTR,AIS,,,,,50,2008-07-15T08:58:53+00:00
+30696,NGBR,small_airport,"Beru Airport",-1.3547199964523315,176.0070037841797,6,OC,KI,KI-G,Beru,0,NGBR,BEZ,,,,,50,2008-07-15T08:59:44+00:00
+30607,NGUK,small_airport,"Buariki Airport",0.1852779984474182,173.63699340820312,,OC,KI,KI-G,Buariki,0,NGUK,AAK,,,,Tarawa,50,2008-07-15T09:01:42+00:00
+30681,NGTU,small_airport,"Butaritari Atoll Airport",3.08583,172.811005,5,OC,KI,KI-G,"Butaritari Atoll",1,NGTU,BBG,,,https://en.wikipedia.org/wiki/Butaritari_Atoll_Airport,Makin,50,2016-06-06T07:37:59+00:00
+31784,NGKT,small_airport,"Kuria Airport",0.2186110019683838,173.44200134277344,,OC,KI,KI-G,Kuria,0,NGKT,KUC,,,,,50,2008-07-15T09:02:37+00:00
+31928,NGMA,small_airport,"Maiana Airport",1.0036100149154663,173.031005859375,8,OC,KI,KI-G,Maiana,0,NGMA,MNK,,,,,50,2008-07-15T09:02:56+00:00
+31962,NGMN,small_airport,"Makin Island Airport",3.3744399547576904,172.99200439453125,,OC,KI,KI-G,"Makin Island",0,NGMN,MTK,,,,,50,2008-07-15T09:03:39+00:00
+32000,NGMK,small_airport,"Marakei Airport",2.058609962463379,173.27099609375,10,OC,KI,KI-G,Marakei,0,NGMK,MZK,,,,,50,2008-07-15T09:03:56+00:00
+32029,NGNU,small_airport,"Nikunau Airport",-1.31444001198,176.410003662,6,OC,KI,KI-G,Nikunau,0,NGNU,NIG,,,http://en.wikipedia.org/wiki/Nikunau_Airport,,50,2012-06-07T18:25:26+00:00
+32043,NGTO,small_airport,"Nonouti Airport",-0.6397219896316528,174.42799377441406,10,OC,KI,KI-G,Nonouti,0,NGTO,NON,,,,,50,2008-07-15T09:04:30+00:00
+32120,NGON,small_airport,"Onotoa Airport",-1.7961100339889526,175.5260009765625,7,OC,KI,KI-G,Onotoa,0,NGON,OOT,,,,,50,2008-07-15T09:04:45+00:00
+32479,NGTS,small_airport,"Tabiteuea South Airport",-1.4744399785995483,175.06399536132812,,OC,KI,KI-G,"Tabiteuea South",0,NGTS,TSU,,,,,50,2008-07-15T09:05:15+00:00
+32464,NGTM,small_airport,"Tamana Island Airport",-2.485830068588257,175.97000122070312,,OC,KI,KI-G,"Tamana Island",0,NGTM,TMN,,,,,50,2008-07-15T09:06:22+00:00
+323604,KI-0001,closed,"Hawkins Field (Tarawa)",1.356247,172.930108,,OC,KI,KI-G,Tarawa,0,,,,,https://en.wikipedia.org/wiki/Hawkins_Field_(Tarawa),,0,2017-06-03T00:31:10+00:00
+308220,PLWN,small_airport,"Washington Island Airstrip",4.698359,-160.394376,30,OC,KI,KI-L,Teraina,0,PLWN,TNQ,,,,,0,2015-11-29T20:53:17+00:00

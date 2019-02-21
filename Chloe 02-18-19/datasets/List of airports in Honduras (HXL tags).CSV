@@ -1,0 +1,160 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4661,MHLM,medium_airport,"Ramón Villeda Morales International Airport",15.4526,-87.923599,91,NA,HN,HN-CR,"San Pedro Sula",1,MHLM,SAP,,,http://en.wikipedia.org/wiki/Ram%C3%B3n_Villeda_Morales_International_Airport,,800,2017-08-14T22:24:03+00:00
+4666,MHTG,medium_airport,"Toncontín International Airport",14.06089973449707,-87.21720123291016,3294,NA,HN,HN-FM,Tegucigalpa,1,MHTG,TGU,,,http://en.wikipedia.org/wiki/Toncont%C3%ADn_International_Airport,,875,2008-08-23T10:16:35+00:00
+4663,MHRO,medium_airport,"Juan Manuel Galvez International Airport",16.316799,-86.523003,39,NA,HN,HN-IB,"Roatan Island",1,MHRO,RTB,,,http://en.wikipedia.org/wiki/Juan_Manuel_G%C3%A1lvez_International_Airport,"Roatan International",875,2016-06-07T05:41:14+00:00
+4660,MHLC,medium_airport,"Goloson International Airport",15.7425,-86.852997,39,NA,HN,HN-AT,"La Ceiba",1,MHLC,LCE,,,http://en.wikipedia.org/wiki/Golos%C3%B3n_International_Airport,"Hector C Moncada Air Base",875,2016-06-07T05:24:02+00:00
+4664,MHSC,medium_airport,"Coronel Enrique Soto Cano Air Base",14.3824,-87.621201,2061,NA,HN,HN-CM,Comayagua,0,MHSC,XPL,,,https://en.wikipedia.org/wiki/Soto_Cano_Air_Base,"Palmerola Air Base",250,2016-06-07T04:58:08+00:00
+4667,MHTJ,medium_airport,"Trujillo Airport",15.9268,-85.938202,3,NA,HN,HN-CL,Trujillo,0,MHTJ,TJI,,,https://en.wikipedia.org/wiki/Trujillo_Airport,,250,2016-06-07T05:58:23+00:00
+42143,MHVE,small_airport,"Villa Hermosa Airport",14.230278015136719,-88.79944610595703,1280,NA,HN,HN-LE,Coyolillo,0,MHVE,,,,,,50,2008-09-27T10:43:44+00:00
+42047,MHCL,closed,"Colon Airport",14.161944,-88.034447,1240,NA,HN,HN-LP,Marcala,0,MHMA,MRJ,,,https://en.wikipedia.org/wiki/Marcala_Airport,,50,2016-06-07T05:34:38+00:00
+42026,HN-MOR,small_airport,"Mocoron Airport",15.02970027923584,-84.279296875,78,NA,HN,HN-GD,Mocorón,0,,,,,,,50,2008-09-27T10:38:43+00:00
+42113,MHPB,heliport,"Publigraficos Heliport",15.453332901000977,-88.02194213867188,159,NA,HN,HN-CR,"San Pedro Sula",0,MHPB,,,,,,0,2008-09-27T10:43:44+00:00
+30625,MHAH,small_airport,"Ahuas Airport",15.4722,-84.352203,249,NA,HN,HN-GD,Ahuas,0,MHAH,AHS,,,https://en.wikipedia.org/wiki/Ahuas_Airport,,450,2016-06-07T04:27:28+00:00
+32153,MHPL,small_airport,"Puerto Lempira Airport",15.2622,-83.781197,33,NA,HN,HN-GD,"Puerto Lempira",1,MHPL,PEU,,,https://en.wikipedia.org/wiki/Puerto_Lempira_Airport,,450,2016-06-07T05:40:45+00:00
+32522,MHUT,small_airport,"Utila Airport",16.1131,-86.880302,29,NA,HN,HN-IB,"Utila Island",1,MHUT,UII,,,https://en.wikipedia.org/wiki/%C3%9Atila_Airport,,450,2016-06-07T06:01:05+00:00
+4662,MHNJ,medium_airport,"La Laguna Airport",16.4454,-85.906601,49,NA,HN,HN-IB,Guanaja,1,MHNJ,GJA,,,https://en.wikipedia.org/wiki/Guanaja_Airport,,250,2016-06-07T05:03:09+00:00
+4665,MHTE,medium_airport,"Tela Airport",15.7759,-87.4758,7,NA,HN,HN-AT,Tela,0,MHTE,TEA,,,https://en.wikipedia.org/wiki/Tela_Airport,,250,2016-06-07T05:51:44+00:00
+30704,MHBL,small_airport,"Brus Laguna Airport",15.7631,-84.543602,19,NA,HN,HN-GD,"Brus Laguna",0,MHBL,BHG,,,https://en.wikipedia.org/wiki/Brus_Laguna_Airport,,150,2016-06-07T04:29:33+00:00
+35282,MHPC,small_airport,"Palacios Airport",15.955,-84.941391,18,NA,HN,HN-GD,Palacios,0,MHPC,PCH,,,https://en.wikipedia.org/wiki/Palacios_Airport,,150,2016-06-07T05:37:35+00:00
+42120,MHRH,small_airport,"Regional Hamer Airport",15.563332557678223,-86.19139099121094,202,NA,HN,HN-CL,,0,MHRH,,,,,,50,2008-09-27T10:43:44+00:00
+42118,MHRA,small_airport,"Rapaco II Airport",14.07361125946045,-86.91000366210938,645,NA,HN,HN-EP,,0,MHRA,,,,,,50,2008-09-27T10:43:44+00:00
+42032,MHAL,small_airport,"El Alto Airport",14.493332862854004,-87.10639190673828,760,NA,HN,HN-FM,,0,MHAL,,,,,,50,2008-09-27T10:43:44+00:00
+42055,MHEC,small_airport,"El Cubo Airport",14.457777976989746,-87.05860900878906,780,NA,HN,HN-FM,,0,MHEC,,,,,,50,2008-09-27T10:43:44+00:00
+42082,MHJO,small_airport,"La Joya Airport",14.80472183227539,-86.9191665649414,780,NA,HN,HN-FM,,0,MHJO,,,,,,50,2008-09-27T10:43:44+00:00
+42086,MHLF,small_airport,"Flefil Airport",14.423333168029785,-87.11972045898438,810,NA,HN,HN-FM,,0,MHLF,,,,,,50,2008-09-27T10:43:44+00:00
+42088,MHLI,small_airport,"Talanguita Airport",14.487500190734863,-87.17972564697266,760,NA,HN,HN-FM,,0,MHLI,,,,,,50,2008-09-27T10:43:44+00:00
+42049,MHCO,small_airport,"Coco Airport",15.252778053283691,-84.23332977294922,61,NA,HN,HN-GD,,0,MHCO,,,,,,50,2008-09-27T10:43:44+00:00
+42130,MHSX,small_airport,"Sixatigni Airport",15.183610916137695,-84.36972045898438,70,NA,HN,HN-GD,,0,MHSX,,,,,,50,2008-09-27T10:43:44+00:00
+42109,MHNS,small_airport,"Los Llanos Airport",14.210556030273438,-88.02166748046875,1180,NA,HN,HN-LP,,0,MHNS,,,,,,50,2008-09-27T10:43:44+00:00
+42030,MHAC,small_airport,"Acensa Airport",13.243611335754395,-87.34139251708984,42,NA,HN,HN-CH,Acensa,0,MHAC,,,,,,50,2008-09-27T10:43:44+00:00
+42062,MHFD,small_airport,"Finca 12 Airport",15.269721984863281,-87.90277862548828,116,NA,HN,HN-YO,"Agua Blanca",0,MHFD,,,,,,50,2008-09-27T10:43:44+00:00
+42103,MHMP,small_airport,"Marcos Perez Airport",15.286110877990723,-87.8852767944336,115,NA,HN,HN-YO,"Agua Blanca",0,MHMP,,,,,,50,2008-09-27T10:43:44+00:00
+42028,HN-MST,small_airport,"El Tesoro Airport",13.239167213439941,-87.00555419921875,1318,NA,HN,HN-CH,Aguacatal,0,,,,,,,50,2008-09-27T10:43:44+00:00
+42033,MHAM,small_airport,"Amapala Airport",13.284506,-87.617729,40,NA,HN,HN-VA,"Amapala Island",0,MHAM,,,,https://en.wikipedia.org/wiki/Amapala_Airport,,50,2016-06-07T04:29:04+00:00
+42035,MHAP,small_airport,"Apala Airport",14.010832786560059,-86.38916778564453,470,NA,HN,HN-EP,Apala,0,MHAP,,,,,,50,2008-09-27T10:43:44+00:00
+42107,MHNB,small_airport,"Noveno Batallón Airport",14.043299674987793,-86.4207992553711,426,NA,HN,HN-EP,Apala,0,MHNB,,,,,,50,2008-09-27T10:40:05+00:00
+42121,MHRJ,small_airport,"Rancho Jamastran Airport",14.060999870300293,-86.40750122070312,482,NA,HN,HN-EP,Apala,0,MHRJ,,,,,,50,2008-09-27T10:40:21+00:00
+42039,MHAY,small_airport,"Araslaya Airport",15.735278129577637,-84.5433349609375,3,NA,HN,HN-GD,Araslaya,0,MHAY,,,,,,50,2008-09-27T10:43:44+00:00
+42036,MHAR,small_airport,"Archaga Airport",14.2852783203125,-87.22916412353516,875,NA,HN,HN-FM,Archaga,0,MHAR,,,,,,50,2008-09-27T10:43:44+00:00
+42137,MHUC,small_airport,"Auca Airport",14.93722152709961,-83.84416961669922,190,NA,HN,HN-GD,Auca,0,MHUC,,,,,,50,2008-09-27T10:43:44+00:00
+42152,MHZA,small_airport,"Azacualpa Airport",14.256943702697754,-88.39250183105469,1200,NA,HN,HN-IN,Azacualpa,0,MHZA,,,,,,50,2008-09-27T10:43:44+00:00
+42041,MHBA,small_airport,"Barbareta Airport",16.433055877685547,-86.13944244384766,7,NA,HN,HN-IB,"Barbareta Island",0,MHBA,,,,,,50,2008-09-27T10:43:44+00:00
+42112,MHPA,small_airport,"Barra Del Patuca Airport",15.80138874053955,-84.29666900634766,4,NA,HN,HN-GD,"Barra del Patuca",0,MHPA,,,,,,50,2008-09-27T10:43:44+00:00
+42031,MHAG,small_airport,"Sur Agropecuaria Airport",13.25,-87.3580551147461,12,NA,HN,HN-CH,"Buena Vista",0,MHAG,,,,,,50,2008-09-27T10:43:44+00:00
+42114,MHPI,small_airport,"Agropecuaria Piedra De Agua Azul Airport",13.296111106872559,-87.3455581665039,56,NA,HN,HN-CH,"Buena Vista",0,MHPI,,,,,,50,2008-09-27T10:43:44+00:00
+42040,MHAZ,small_airport,"Aserradero Azacualpa Airport",14.433333396911621,-86.08916473388672,370,NA,HN,HN-OL,Cacao,0,MHAZ,,,,,,50,2008-09-27T10:43:44+00:00
+42083,MHJQ,small_airport,"Joya Del Quebracho Airport",14.838889122009277,-86.96221923828125,890,NA,HN,HN-FM,"Caleras/El Triunfo",0,MHJQ,,,,,,50,2008-09-27T10:43:44+00:00
+42138,MHUG,small_airport,"Guanacastal Airport",14.915555953979492,-87.83333587646484,1563,NA,HN,HN-CR,Canchias,0,MHUG,,,,,,50,2008-09-27T10:43:44+00:00
+42085,MHLA,small_airport,"La Alondra Airport",14.108888626098633,-88.53388977050781,1000,NA,HN,HN-LE,Candelaria,0,MHLA,,,,,,50,2008-09-27T10:43:44+00:00
+30810,MHCA,small_airport,"Catacamas Airport",14.916999816894531,-85.9000015258789,1489,NA,HN,HN-OL,Catacamas,0,MHCA,CAA,,,,,50,2008-08-03T11:45:10+00:00
+42066,MHGC,small_airport,"Grupo Carnol Airport",14.838610649108887,-85.86833190917969,378,NA,HN,HN-OL,Catacamas,0,MHGC,,,,,,50,2008-09-27T10:43:44+00:00
+42053,MHCU,small_airport,"Cauquira Airport",15.316667,-83.591667,21,NA,HN,HN-GD,Cauquira,0,MHCU,CDD,,,https://en.wikipedia.org/wiki/Cauquira_Airport,,50,2016-06-07T04:52:45+00:00
+42046,MHCI,small_airport,"Chiquerito Airport",15.831944465637207,-85.02694702148438,30,NA,HN,HN-CL,Chiquerito,0,MHCI,,,,,,50,2008-09-27T10:43:44+00:00
+42048,MHCM,small_airport,"Choloma Airport",14.888333320617676,-88.4044418334961,1100,NA,HN,HN-SB,Choloma,0,MHCM,,,,,,50,2008-09-27T10:43:44+00:00
+42108,MHNC,small_airport,"Choluteca Airport",13.319825,-87.149025,213,NA,HN,HN-CH,Choluteca,0,MHCH,,,,https://en.wikipedia.org/wiki/Choluteca_Airport,,50,2016-06-07T04:55:40+00:00
+42131,MHSZ,small_airport,"Santa Barbara Airport",13.33055591583252,-87.1544418334961,28,NA,HN,HN-CH,Choluteca,0,MHSZ,,,,,,50,2008-09-27T10:43:44+00:00
+42064,MHGA,small_airport,"Chumbagua Airport",15.176667213439941,-88.48999786376953,300,NA,HN,HN-SB,Chumbagua,0,MHGA,,,,,,50,2008-09-27T10:43:44+00:00
+42050,MHCP,small_airport,"Cochino Pequeño Airport",15.95444393157959,-86.49861145019531,1,NA,HN,HN-IB,"Cochino Pequeño Island",0,MHCP,,,,,,50,2008-09-27T10:43:44+00:00
+42043,MHCB,small_airport,"Cocobila Airport",15.888333320617676,-84.75555419921875,2,NA,HN,HN-GD,Cocobila,0,MHCB,,,,,,50,2008-09-27T10:43:44+00:00
+42045,MHCG,small_airport,"Comayagua Airport",14.432299614,-87.6246032715,1980,NA,HN,HN-CM,Comayagua,0,MHCG,,,,,,50,2013-06-27T21:00:02+00:00
+42044,MHCC,small_airport,"Concepción Airport",14.026666641199999,-88.3441696167,560,NA,HN,HN-IN,Concepción,0,,,,,,,50,2013-04-07T04:03:39+00:00
+42124,MHRU,small_airport,"Copán Ruinas Airport",14.914885,-89.007837,2336,NA,HN,HN-CP,"Copán Ruinas",0,MHRU,RUY,,,https://en.wikipedia.org/wiki/Cop%C3%A1n_Ruinas_Airport,,50,2016-06-07T05:43:16+00:00
+42111,MHOT,small_airport,"Ocotales Airport",15.669166564941406,-85.19444274902344,130,NA,HN,HN-CL,Copón,0,MHOT,,,,,,50,2008-09-27T10:43:44+00:00
+42155,HN-0002,small_airport,"Bonito Oriental Airport",15.745400428771973,-85.722900390625,164,NA,HN,HN-CL,Corocito,0,,,,,,,50,2008-09-27T10:40:56+00:00
+42089,MHLJ,small_airport,"Las Lajas Airport",14.894721984863281,-86.57472229003906,1050,NA,HN,HN-OL,Coyoles,0,MHLJ,,,,,,50,2008-09-27T10:43:44+00:00
+42052,MHCS,small_airport,"Coyoles Airport",15.445556,-86.675278,492,NA,HN,HN-YO,Coyoles,0,MHCS,CYL,,,https://en.wikipedia.org/wiki/Coyoles_Airport,,50,2016-06-07T04:58:30+00:00
+42142,MHUY,small_airport,"Cucuyagua Airport",14.626943588256836,-88.87638854980469,805,NA,HN,HN-CP,Cucuyagua,0,MHUY,,,,,,50,2008-09-27T10:43:44+00:00
+42156,HN-0003,small_airport,"Cristo Te Quiere Airport",14.083333015441895,-86.63333129882812,852,NA,HN,HN-EP,Danli,0,,,,,,,50,2008-09-27T10:40:57+00:00
+31906,MHIC,small_airport,"Islas Del Cisne Airport",17.407301,-83.932701,37,NA,HN,HN-IB,"Del Cisne Island",0,MHIC,,,,https://en.wikipedia.org/wiki/Islas_del_Cisne_Airport,,50,2016-06-07T05:23:37+00:00
+42069,MHGR,small_airport,"Sangrelaya Airport",15.969900131225586,-85.08920288085938,3,NA,HN,HN-CL,Donel,0,MHGR,,,,,,50,2008-09-27T10:39:28+00:00
+42096,MHLZ,small_airport,"La Estanzuela Airport",15.016667366027832,-88.80000305175781,2227,NA,HN,HN-CP,"el agua",0,MHLZ,,,,,,50,2008-09-27T10:43:44+00:00
+42067,MHGE,small_airport,"El Aguacate Airport",14.875,-85.776108,1296,NA,HN,HN-OL,"El Aguacate",0,MHGE,,,,https://en.wikipedia.org/wiki/El_Aguacate_Airport,,50,2016-06-07T04:30:07+00:00
+42159,HN-0006,small_airport,"Yodeco Airport",15.183333396911621,-87.06944274902344,700,NA,HN,HN-YO,"El Caulote",0,,,,,,,50,2008-09-27T10:41:00+00:00
+42115,MHPS,small_airport,"Desvio Potrerillos Airport",14.595832824707031,-86.1500015258789,395,NA,HN,HN-OL,"El Encinal",0,MHPS,,,,,,50,2008-09-27T10:43:44+00:00
+42056,MHEI,small_airport,"La America Airport",15.648611068725586,-87.788330078125,53,NA,HN,HN-YO,"El Guanacaste",0,MHEI,,,,,,50,2008-09-27T10:43:44+00:00
+42128,MHSL,small_airport,"San Lorenzo Airport",13.442221641540527,-87.45972442626953,8,NA,HN,HN-VA,"El Hato",0,MHSL,,,,,,50,2008-09-27T10:43:44+00:00
+42025,HN-MOP,small_airport,"Los Pollos Airport",13.0600004196167,-86.9574966430664,126,NA,HN,HN-CH,"El Limón",0,,,,,,,50,2008-09-27T10:38:42+00:00
+42057,MHEL,small_airport,"Barrio El Aterrizaje Airport",13.873056411743164,-86.56055450439453,760,NA,HN,HN-EP,"El Paraiso",0,MHEL,,,,,,50,2008-09-27T10:43:44+00:00
+42157,HN-0004,closed,"El Pentágono Airport",15.583333015442,-87.393058776855,93,NA,HN,HN-AT,"El Retiro",0,MHEP,,,,,,50,2015-08-21T00:04:07+00:00
+42071,MHGY,small_airport,"Guayape Airport",14.784722328186035,-86.86333465576172,765,NA,HN,HN-OL,"El Zapato",0,MHGY,,,,,,50,2008-09-27T10:43:44+00:00
+42029,HN-MUG,small_airport,"Erandique Airport",14.235833,-88.437225,4199,NA,HN,HN-LE,Erandique,0,MHGU,EDQ,,,https://en.wikipedia.org/wiki/Erandique_Airport,"Gualguire Airport",50,2016-06-07T05:02:04+00:00
+42065,MHGB,small_airport,"Guayabillas Airport",14.74666690826416,-87.37527465820312,700,NA,HN,HN-CM,Esquias,0,MHGB,,,,,,50,2008-09-27T10:43:44+00:00
+42117,MHPY,small_airport,"Payasito Airport",15.875832557678223,-85.39694213867188,5,NA,HN,HN-CL,Farallones,0,MHPY,,,,,,50,2008-09-27T10:43:44+00:00
+42061,MHFC,small_airport,"Fort Cay Airport",16.40305519104004,-86.2844467163086,5,NA,HN,HN-IB,"Fort Cay",0,MHFC,,,,,,50,2008-09-27T10:43:44+00:00
+42070,MHGS,small_airport,"Celaque Airport",14.573492,-88.595801,2995,NA,HN,HN-LE,Gracias,0,MHGS,GAC,,,https://en.wikipedia.org/wiki/Celaque_Airport,,50,2016-06-07T05:01:39+00:00
+42024,HN-MIG,small_airport,"Higuerito Central Airport",15.188332557678223,-87.93861389160156,131,NA,HN,HN-CR,Higuerito,0,,,,,,,50,2008-09-27T10:43:44+00:00
+42075,MHHO,small_airport,"Agua Caliente Airport",15.430653,-86.891049,250,NA,HN,HN-YO,Horcones,0,MHHO,,,,,,50,2017-05-05T18:46:15+00:00
+42077,MHIR,small_airport,"Iriona Airport",15.939167022700001,-85.13722229,8,NA,HN,HN-CL,Iriona,0,MHIR,IRN,,,,,50,2014-05-25T14:20:01+00:00
+42081,MHJI,small_airport,"Jicalapa Airport",15.006111,-86.049164,2133,NA,HN,HN-OL,Jicalapa,0,MHJI,GUO,,,https://en.wikipedia.org/wiki/Jicalapa_Airport,,50,2016-06-07T05:00:09+00:00
+42079,MHJC,small_airport,"Jocon Airport",15.290555953979492,-86.91222381591797,490,NA,HN,HN-YO,Jocón,0,MHJC,,,,,,50,2008-09-27T10:43:44+00:00
+42084,MHJU,small_airport,"Jutigalpa airport",14.652600288391113,-86.22029876708984,1314,NA,HN,HN-OL,Jutigalpa,0,MHJU,JUT,,,,,50,2008-09-27T10:39:43+00:00
+42058,MHEN,small_airport,"Aserradero El Encino Airport",14.661944389343262,-86.91500091552734,970,NA,HN,HN-FM,"La Canoa",0,MHEN,,,,,,50,2008-09-27T10:43:44+00:00
+31811,MHLE,small_airport,"La Esperanza Airport",14.291111,-88.175003,5475,NA,HN,HN-IN,"La Esperanza",0,MHLE,LEZ,,,https://en.wikipedia.org/wiki/La_Esperanza_Airport_(Intibuc%C3%A1),,50,2016-06-07T05:24:55+00:00
+42060,MHFA,small_airport,"Finca San Antonio Airport",14.598055839538574,-86.48388671875,646,NA,HN,HN-OL,"La Lima",0,MHFA,,,,,,50,2008-09-27T10:43:44+00:00
+42074,MHHG,small_airport,"Hacienda Galeras Airport",14.598889350891113,-86.46083068847656,618,NA,HN,HN-OL,"La Lima",0,MHHG,,,,,,50,2008-09-27T10:43:44+00:00
+42154,HN-0001,small_airport,"Agropecuaria Lepaguare Airport",14.596943855285645,-86.50749969482422,550,NA,HN,HN-OL,"La Lima",0,,,,,,,50,2008-09-27T10:40:55+00:00
+42078,MHIZ,small_airport,"Izapan Airport",15.9102783203125,-85.17111206054688,8,NA,HN,HN-CL,"La Puerta",0,MHIZ,,,,,,50,2008-09-27T10:43:44+00:00
+42141,MHUO,small_airport,"La Union Airport",14.808055877685547,-88.41999816894531,1000,NA,HN,HN-LE,"La Unión",0,MHUO,,,,,,50,2008-09-27T10:43:44+00:00
+42051,MHCR,small_airport,"Carta Airport",15.033192,-86.692334,2625,NA,HN,HN-OL,"La Unión",0,MHCR,LUI,,,https://en.wikipedia.org/wiki/La_Uni%C3%B3n_Airport_(Honduras),,50,2016-06-07T05:26:24+00:00
+42092,MHLS,small_airport,"Laguna Seca Airport",14.644700050354004,-86.0698013305664,353,NA,HN,HN-OL,"Laguna Seca",0,MHLS,,,,,,50,2008-09-27T10:39:50+00:00
+42095,MHLV,small_airport,"Las Vegas Airport",14.873611450195312,-88.07444763183594,870,NA,HN,HN-SB,"Las Vegas",0,MHLV,,,,,,50,2008-09-27T10:43:44+00:00
+42059,MHEZ,small_airport,"La Esperanza Airport",15.609722,-86.139442,160,NA,HN,HN-CL,Lérida,0,MHEZ,,,,"https://en.wikipedia.org/wiki/La_Esperanza_Airport,_Col%C3%B3n",,50,2016-06-07T05:24:29+00:00
+42090,MHLN,closed,"Limon Airport",15.863332748413,-85.498611450195,3,NA,HN,HN-CL,Limón,0,MHLN,,,,,,50,2016-02-09T08:46:42+00:00
+42100,MHMM,small_airport,"San Antonio Malera Airport",14.671943664550781,-88.25499725341797,670,NA,HN,HN-SB,Malera,0,MHMM,,,,,,50,2008-09-27T10:43:44+00:00
+42116,MHPV,small_airport,"El Porvenir Airport",15.530278,-86.273613,69,NA,HN,HN-CL,Manga,0,MHPV,,,,https://en.wikipedia.org/wiki/El_Porvenir_Airport_(Honduras),,50,2016-06-07T04:59:03+00:00
+42105,MHMT,small_airport,"Manto Airport",14.915555953979492,-86.38166809082031,650,NA,HN,HN-OL,Manto,0,MHMT,,,,,,50,2008-09-27T10:43:44+00:00
+42091,MHLP,small_airport,"Mapulaca Airport",14.034167289733887,-88.62833404541016,170,NA,HN,HN-LE,Mapulaca,0,MHLP,,,,,,50,2008-09-27T10:43:44+00:00
+42076,MHIN,small_airport,"Minas De Oro Airport",14.78861141204834,-87.34972381591797,1000,NA,HN,HN-CM,"Minas de Oro",0,MHIN,,,,,,50,2008-09-27T10:43:44+00:00
+31905,MHDU,small_airport,"Durzona Airport",14.9891,-84.220802,250,NA,HN,HN-GD,Mocorón,0,MHDU,,,,https://en.wikipedia.org/wiki/Mocor%C3%B3n_Airport,,50,2016-06-07T05:35:46+00:00
+42101,MHMN,small_airport,"Monica Airport",15.652999877929688,-87.08769989013672,59,NA,HN,HN-AT,Monica,0,MHMN,,,,,,50,2008-09-27T10:39:59+00:00
+42087,MHLG,small_airport,"La Grecia Airport",13.2147216796875,-87.36360931396484,29,NA,HN,HN-CH,Monjarás,0,MHLG,,,,,,50,2008-09-27T10:43:44+00:00
+42099,MHML,small_airport,"Monte Libano Airport",13.179444313049316,-87.18555450439453,46,NA,HN,HN-CH,"Monte Líbano",0,MHML,,,,,,50,2008-09-27T10:43:44+00:00
+42093,MHLT,small_airport,"Llanos Del Tigre Airport",14.076666831970215,-86.84166717529297,625,NA,HN,HN-EP,Moroceli,0,MHLT,,,,,,50,2008-09-27T10:43:44+00:00
+42106,MHNA,small_airport,"Ciudad Nacaome Airport",13.529443740844727,-87.31416320800781,35,NA,HN,HN-CH,Nacaome,0,MHNA,,,,,,50,2008-09-27T10:43:44+00:00
+42110,MHNV,small_airport,"Nueva Ocotepeque Airport",14.428889,-89.193886,2789,NA,HN,HN-OC,"Nueva Ocotepeque",0,MHNV,,,,https://en.wikipedia.org/wiki/Nueva_Ocotepeque_Airport,,50,2016-06-07T05:36:43+00:00
+42054,MHEA,small_airport,"El Arrayán Airport",15.505556,-86.574722,722,NA,HN,HN-YO,Olanchito,0,MHOA,OAN,,,https://en.wikipedia.org/wiki/El_Array%C3%A1n_Airport,,50,2016-06-07T05:37:07+00:00
+42127,MHSJ,small_airport,"San Jose Airport",13.827777862548828,-86.8102798461914,454,NA,HN,HN-EP,Oropoli,0,MHSJ,,,,,,50,2008-09-27T10:43:44+00:00
+42151,MHYX,small_airport,"Yaxu Airport",15.27750015258789,-83.82027435302734,8,NA,HN,HN-GD,"Puerto Lempira",0,MHYX,,,,,,50,2008-09-27T10:43:44+00:00
+42073,MHHE,small_airport,"La Herradura Airport",14.755000114440918,-86.00416564941406,342,NA,HN,HN-OL,Punuare,0,MHHE,,,,,,50,2008-09-27T10:43:44+00:00
+42125,MHRY,small_airport,"Raya Airport",15.066389083862305,-83.2972183227539,30,NA,HN,HN-GD,Raya,0,MHRY,,,,,,50,2008-09-27T10:43:44+00:00
+42080,MHJE,small_airport,"Nueva Jerusalen Airport",15.878055572509766,-84.72638702392578,5,NA,HN,HN-GD,"Rio Plátano",0,MHJE,,,,,,50,2008-09-27T10:43:44+00:00
+42119,MHRD,small_airport,"Rus Rus II Airport",14.787221908569336,-84.36972045898438,173,NA,HN,HN-GD,"Rus Rus",0,MHRD,,,,,,50,2008-09-27T10:43:44+00:00
+42122,MHRR,small_airport,"Rus Rus I Airport",14.713055610656738,-84.45249938964844,90,NA,HN,HN-GD,"Rus Rus",0,MHRR,,,,,,50,2008-09-27T10:43:44+00:00
+42042,MHBE,small_airport,"San Bernardo Airport",13.101943969726562,-87.1419448852539,14,NA,HN,HN-CH,"San Bernardo",0,MHBE,,,,,,50,2008-09-27T10:43:44+00:00
+42063,MHFN,small_airport,"San Fernando Airport",14.113332748413086,-86.9527816772461,648,NA,HN,HN-FM,"San Fernando",0,MHFN,,,,,,50,2008-09-27T10:43:44+00:00
+42027,HN-MSF,small_airport,"San Francisco De La Paz Airport",14.876943588256836,-86.19139099121094,550,NA,HN,HN-OL,"San Francisco de La Paz",0,,,,,,,50,2008-09-27T10:43:44+00:00
+42034,MHAN,small_airport,"San Luis Airport",14.745833396911621,-87.40528106689453,690,NA,HN,HN-CM,"San Luis",0,MHAN,,,,,,50,2008-09-27T10:43:44+00:00
+42094,MHLU,small_airport,"Luz Y Vida Airport",15.14638900756836,-88.44444274902344,764,NA,HN,HN-SB,"San Luis Pajón",0,MHLU,,,,,,50,2008-09-27T10:43:44+00:00
+42102,MHMO,small_airport,"San Marcos De Ocotepeque Airport",14.413056373596191,-88.95194244384766,961,NA,HN,HN-OC,"San Marcos",0,MHMO,,,,,,50,2008-09-27T10:43:44+00:00
+42135,MHTM,small_airport,"Santa Maria Airport",14.2772216796875,-87.9366683959961,1151,NA,HN,HN-LP,"Santa María",0,MHTM,,,,,,50,2008-09-27T10:43:44+00:00
+42123,MHRS,closed,"Santa Rosa de Copán Airport",14.777889,-88.775021,3564,NA,HN,HN-CP,"Santa Rosa de Copán",0,MHSR,SDH,,,https://en.wikipedia.org/wiki/Santa_Rosa_de_Cop%C3%A1n_Airport,,50,2016-06-07T05:50:52+00:00
+42068,MHGG,small_airport,"Santiago De Puringla Airport",14.367500305175781,-87.91139221191406,960,NA,HN,HN-LP,"Santiago de Puringla",0,MHGG,,,,,,50,2008-09-27T10:43:44+00:00
+42126,MHSI,small_airport,"Sico Airport",15.818611145019531,-85.11444091796875,20,NA,HN,HN-CL,Sico,0,MHSI,,,,,,50,2008-09-27T10:43:44+00:00
+42037,MHAS,small_airport,"Alas Del Socorro Airport",14.593055725097656,-87.8405532836914,1068,NA,HN,HN-CM,Siguatepeque,0,MHAS,,,,,,50,2008-09-27T10:43:44+00:00
+42104,MHMS,small_airport,"Las Marias Airport",15.672778129577637,-84.84471893310547,30,NA,HN,HN-GD,Siksatara,0,MHMS,,,,,,50,2008-09-27T10:43:44+00:00
+42129,MHSN,small_airport,"Sinaloa Airport",15.69333267211914,-85.95527648925781,20,NA,HN,HN-CL,Sinaloa,0,MHSN,,,,,,50,2008-09-27T10:43:44+00:00
+42140,MHUL,small_airport,"Sulaco Airport",14.90719985961914,-87.26339721679688,400,NA,HN,HN-YO,Sulaco,0,MHUL,SCD,,,,,50,2008-09-27T10:40:41+00:00
+42132,MHTA,small_airport,"Tamara Airport",14.180000305175781,-87.3499984741211,1080,NA,HN,HN-FM,Tamara,0,MHTA,,,,,,50,2008-09-27T10:40:33+00:00
+42038,MHAU,small_airport,"Hacienda Ulua Airport",14.717778205871582,-86.57083129882812,710,NA,HN,HN-OL,Tasajeras,0,MHAU,,,,,,50,2008-09-27T10:43:44+00:00
+42134,MHTI,small_airport,"Tipimuratara Airport",15.001111030578613,-83.72222137451172,43,NA,HN,HN-GD,Tipimunatara,0,MHTI,,,,,,50,2008-09-27T10:43:44+00:00
+42136,MHTO,small_airport,"Tocoa Airport",15.659722328186035,-85.9941635131836,37,NA,HN,HN-CL,Tocoa,0,MHTO,,,,,,50,2008-09-27T10:43:44+00:00
+42153,MTRH,small_airport,"Trojes Airport",15.404443740844727,-86.68277740478516,170,NA,HN,HN-YO,Trojes,0,MTRH,,,,,,50,2008-09-27T10:43:44+00:00
+42133,MHTB,small_airport,"La Katabila Airport",15.175000190734863,-83.68222045898438,14,NA,HN,HN-GD,Tuntuntara,0,MHTB,,,,,,50,2008-09-27T10:43:44+00:00
+42139,MHUH,small_airport,"Uhi Airport",15.476099967956543,-83.91130065917969,3,NA,HN,HN-GD,Uhi,0,MHUH,,,,,,50,2008-09-27T10:40:40+00:00
+42098,MHMI,small_airport,"Las Minitas Airport",15.051111221313477,-87.24666595458984,2500,NA,HN,HN-YO,Vallecillo,0,MHMI,,,,,,50,2008-09-27T10:43:44+00:00
+42144,MHVG,small_airport,"Villa Guadalupe Airport",15.04555606842041,-88.30889129638672,400,NA,HN,HN-SB,"Villa Guadalupe",0,MHVG,,,,,,50,2008-09-27T10:43:44+00:00
+42145,MHWA,small_airport,"Wampusirpi I Airport",15.1602783203125,-84.61722564697266,250,NA,HN,HN-GD,Wampusirpi,0,MHWA,,,,,,50,2008-09-27T10:43:44+00:00
+42146,MHWD,small_airport,"Wampusirpi II Airport",15.159167289733887,-84.59833526611328,250,NA,HN,HN-GD,Wampusirpi,0,MHWD,,,,,,50,2008-09-27T10:43:44+00:00
+42147,MHWP,small_airport,"Waplaya Airport",15.213055610656738,-84.06861114501953,43,NA,HN,HN-GD,Waplaya,0,MHWP,,,,,,50,2008-09-27T10:43:44+00:00
+42148,MHWR,small_airport,"Warunta Airport",15.348610877990723,-84.23444366455078,30,NA,HN,HN-GD,Warunta,0,MHWR,,,,,,50,2008-09-27T10:43:44+00:00
+42149,MHWS,small_airport,"Wasma Airport",15.481900215148926,-84.41609954833984,15,NA,HN,HN-GD,Wasma,0,MHWS,,,,,,50,2008-09-27T10:40:50+00:00
+42150,MHWW,small_airport,"Wawina Airport",15.41611099243164,-84.4736099243164,19,NA,HN,HN-GD,Wawina,0,MHWW,,,,,,50,2008-09-27T10:43:44+00:00
+42097,MHMC,heliport,"Hacienda Montecristo Heliport",14.866666793823242,-88.75833129882812,4140,NA,HN,HN-CP,"Hacienda Montecristo",0,MHMC,,,,,,0,2008-09-27T10:43:44+00:00
+313918,LLH,small_airport,"Reginaldo Hammer Airport",15.4422,-87.8988,96,NA,HN,HN-CR,"La Lima",0,,LLH,,,https://en.wikipedia.org/wiki/La_Lima_Airport,"Las Limas Airport",0,2016-06-07T05:33:21+00:00
+318339,MHCT,closed,"Puerto Castilla Airport",16.008354,-85.968149,7,NA,HN,HN-CL,"Puerto Castilla",0,MHCT,,,,https://en.wikipedia.org/wiki/Puerto_Castilla_Airport,,0,2016-06-07T05:40:03+00:00
+42072,MHHC,heliport,"Coratsa  Heliport",15.47249984741211,-87.9941635131836,135,NA,HN,HN-CR,"San Pedro Sula",0,MHHC,,,,,,0,2008-09-27T10:43:44+00:00
+42158,HN-0005,heliport,"Ficohsa Heliport",15.508610725402832,-88.01944732666016,247,NA,HN,HN-CR,"San Pedro Sula",0,,,,,,,0,2008-09-27T10:40:59+00:00
+315215,MHLL,heliport,"Las Lomas Heliport",14.08065,-87.17283,3412,NA,HN,HN-FM,Tegucigalpa,0,MHLL,,MHLL,,,,0,2015-08-21T20:04:03+00:00
+315195,VTA,small_airport,"Victoria Airport",14.9344,-87.394,1200,NA,HN,HN-YO,Victoria,0,,,,,https://en.wikipedia.org/wiki/Victoria_Airport_(Honduras),,0,2016-06-07T05:59:11+00:00
+315202,MHYR,small_airport,"Yoro Airport",15.1275,-87.135,2215,NA,HN,HN-YO,Yoro,0,MHYR,ORO,,,https://en.wikipedia.org/wiki/Yoro_Airport,,0,2016-06-07T06:00:48+00:00

@@ -1,0 +1,25 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2125,DRRN,large_airport,"Diori Hamani International Airport",13.4815,2.18361,732,AF,NE,NE-8,Niamey,1,DRRN,NIM,,,http://en.wikipedia.org/wiki/Diori_Hamani_International_Airport,,875,2019-01-13T13:09:10+00:00
+2130,DRZR,medium_airport,"Zinder Airport",13.779000282287598,8.983759880065918,1516,AF,NE,NE-7,Zinder,1,DRZR,ZND,,,http://en.wikipedia.org/wiki/Zinder_Airport,,875,2008-09-13T06:44:28+00:00
+2127,DRZA,medium_airport,"Mano Dayak International Airport",16.965999603271484,8.000109672546387,1657,AF,NE,NE-1,Agadez,1,DRZA,AJY,,,http://en.wikipedia.org/wiki/Mano_Dayak_International_Airport,,800,2008-09-13T06:41:45+00:00
+42443,DRZL,small_airport,"Arlit Airport",18.7903995514,7.36595010757,1443,AF,NE,NE-1,Arlit,0,DRZL,RLT,,,http://en.wikipedia.org/wiki/Arlit_Airport,,50,2015-05-08T13:09:22+00:00
+2124,DRRM,medium_airport,"Maradi Airport",13.5024995803833,7.1267499923706055,1240,AF,NE,NE-4,Maradi,0,DRRM,MFQ,,,,,250,2008-11-03T16:54:38+00:00
+2126,DRRT,medium_airport,"Tahoua Airport",14.875699996948242,5.265359878540039,1266,AF,NE,NE-5,Tahoua,0,DRRT,THZ,,,,,250,2008-11-03T16:55:40+00:00
+2128,DRZD,small_airport,"Dirkou Airport",18.968700408935547,12.86870002746582,1273,AF,NE,NE-1,,0,DRZD,,,,,,50,2008-06-13T14:30:04+00:00
+42441,DRRI,small_airport,"Bilma Airport",18.68670082092285,12.91919994354248,1715,AF,NE,NE-1,Bilma,0,DRRI,,,,,,50,2008-11-03T16:55:47+00:00
+42447,DRRB,small_airport,"Birni-N'Konni Airport",13.80150032043457,5.2423601150512695,846,AF,NE,NE-5,Birni-N'Konni,0,DRRB,,,,,,50,2008-11-03T16:55:53+00:00
+2129,DRZF,small_airport,"Diffa Airport",13.372900009155273,12.626700401306152,994,AF,NE,NE-2,Diffa,0,DRZF,,,,,,50,2008-11-03T16:54:38+00:00
+30939,DRRC,small_airport,"Dogondoutchi Airport",13.666999816894531,4.099999904632568,961,AF,NE,NE-3,Dogondoutchi,0,DRRC,,,,,,50,2008-11-03T16:54:40+00:00
+30940,DRRD,small_airport,"Dosso Airport",13.0481247896,3.2209682464600005,738,AF,NE,NE-3,Dosso,0,DRRD,,,,,,50,2009-12-10T16:12:01+00:00
+30942,DRRG,small_airport,"Gaya Airport",11.883000373840332,3.433000087738037,662,AF,NE,NE-3,Gaya,0,DRRG,,,,,,50,2008-06-13T14:30:04+00:00
+42442,DRZG,small_airport,"Goure Airport",13.983599662780762,10.274900436401367,1499,AF,NE,NE-7,Goure,0,DRZG,,,,,,50,2008-11-03T16:55:48+00:00
+30946,DRZI,small_airport,"Iferouane Airport",19.066198,8.41496,2162,AF,NE,NE-1,Iferouane,0,DRZI,,,,https://en.wikipedia.org/wiki/Iferouane_Airport,,50,2016-06-29T22:37:42+00:00
+30944,DRRP,small_airport,"La Tapoa Airport",12.482999801635742,2.4000000953674316,722,AF,NE,NE-6,"La Tapoa",0,DRRP,,,,,,50,2008-11-03T16:55:36+00:00
+42444,DRZM,small_airport,"Maine-Soroa Airport",13.205499649047852,12.032299995422363,944,AF,NE,NE-2,Maine-Soroa,0,DRZM,,,,,,50,2008-11-03T16:55:50+00:00
+42445,DRZN,small_airport,"N'Guigmi Airport",14.25100040435791,13.128999710083008,977,AF,NE,NE-2,N'Guigmi,0,DRZN,,,,,,50,2008-11-03T16:55:51+00:00
+30945,DRRU,small_airport,"Ouallam Airport",14.333000183105469,2.0829999446868896,892,AF,NE,NE-6,Ouallam,0,DRRU,,,,,,50,2008-11-03T16:55:38+00:00
+42446,DRZT,small_airport,"Tanout Airport",14.97029972076416,8.891670227050781,1751,AF,NE,NE-7,Tanout,0,DRZT,,,,,,50,2008-11-03T16:55:52+00:00
+30941,DRRE,small_airport,"Tera Airport",13.949999809265137,0.7329999804496765,850,AF,NE,NE-6,Tera,0,DRRE,,,,,,50,2008-11-03T16:55:42+00:00
+30938,DRRA,small_airport,"Tessaoua Airport",13.756968,8.020568,1358,AF,NE,NE-4,Tessaoua,0,DRRA,,,,,,50,2014-11-08T08:41:46+00:00
+30943,DRRL,small_airport,"Tillabery Airport",14.199999809265137,1.4670000076293945,692,AF,NE,NE-6,Tillabery,0,DRRL,,,,,,50,2008-11-03T16:55:46+00:00

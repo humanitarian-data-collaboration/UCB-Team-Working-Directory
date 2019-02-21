@@ -1,0 +1,68 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4951,MYNN,large_airport,"Lynden Pindling International Airport",25.0389995575,-77.46620178219999,16,NA,BS,BS-NP,Nassau,1,MYNN,NAS,,http://www.nas.bs/,http://en.wikipedia.org/wiki/Lynden_Pindling_International_Airport,"Nassau International Airport",1050,2009-12-14T17:33:59+00:00
+4946,MYGF,medium_airport,"Grand Bahama International Airport",26.5587005615,-78.695602417,7,NA,BS,BS-FP,Freeport,1,MYGF,FPO,,,http://en.wikipedia.org/wiki/Grand_Bahama_International_Airport,,1050,2010-08-31T22:53:12+00:00
+4941,MYEH,medium_airport,"North Eleuthera Airport",25.474899292,-76.6835021973,13,NA,BS,BS-HI,"North Eleuthera",1,MYEH,ELH,,,http://en.wikipedia.org/wiki/North_Eleuthera_Airport,,800,2010-08-31T22:54:03+00:00
+4927,MYAM,medium_airport,"Leonard M Thompson International Airport",26.5114,-77.083503,6,NA,BS,BS-MH,"Marsh Harbour",1,MYAM,MHH,,,http://en.wikipedia.org/wiki/Marsh_Harbour_Airport,"Marsh Harbour International",800,2018-01-28T15:37:13+00:00
+4939,MYEF,medium_airport,"Exuma International Airport",23.5625991821,-75.8779983521,9,NA,BS,BS-EX,"George Town",1,MYEF,GGT,,,http://en.wikipedia.org/wiki/Exuma_International_Airport,,800,2010-08-30T09:52:36+00:00
+4942,MYEM,medium_airport,"Governor's Harbour Airport",25.2847003937,-76.3310012817,26,NA,BS,BS-GH,"Governor's Harbour",1,MYEM,GHB,,,http://en.wikipedia.org/wiki/Governor's_Harbour_Airport,,800,2010-09-01T18:31:34+00:00
+4935,MYBS,medium_airport,"South Bimini Airport",25.6998996735,-79.2647018433,10,NA,BS,BS-BI,"South Bimini",1,MYBS,BIM,,,http://en.wikipedia.org/wiki/South_Bimini_Airport,,800,2010-09-02T14:46:30+00:00
+4949,MYLS,medium_airport,"Stella Maris Airport",23.582317,-75.268621,10,NA,BS,BS-LI,"Stella Maris",1,MYLS,SML,,,https://en.wikipedia.org/wiki/Stella_Maris_Airport,,800,2018-09-16T04:21:43+00:00
+4945,MYES,medium_airport,"Staniel Cay Airport",24.169099807739258,-76.43910217285156,5,NA,BS,BS-EX,,0,MYES,TYM,,,,,250,2008-12-19T20:09:40+00:00
+4931,MYAT,medium_airport,"Treasure Cay Airport",26.745300293,-77.3912963867,8,NA,BS,BS-MH,"Treasure Cay",1,MYAT,TCB,,,http://en.wikipedia.org/wiki/Treasure_Cay_Airport,,800,2010-09-01T18:37:15+00:00
+4925,MYAF,medium_airport,"Andros Town Airport",24.697900772094727,-77.79560089111328,5,NA,BS,BS-NB,,0,MYAF,ASD,,,http://en.wikipedia.org/wiki/Andros_Town_International_Airport,,250,2008-12-19T20:09:03+00:00
+4937,MYCB,medium_airport,"New Bight Airport",24.3153,-75.452301,5,NA,BS,BS-CI,"Cat Island",1,MYCB,TBI,,,http://en.wikipedia.org/wiki/New_Bight_Airport,,800,2018-04-26T11:20:27+00:00
+4947,MYIG,medium_airport,"Inagua Airport",20.975000381469727,-73.66690063476562,8,NA,BS,BS-IN,"Matthew Town",1,MYIG,IGA,,,http://en.wikipedia.org/wiki/Inagua_Airport,,800,2008-12-19T20:09:48+00:00
+4944,MYER,medium_airport,"Rock Sound Airport",24.8950787333,-76.1768817902,10,NA,BS,BS-RS,"Rock Sound",0,MYER,RSD,,,http://en.wikipedia.org/wiki/Rock_Sound_International_Airport,,250,2010-09-01T18:32:28+00:00
+4928,MYAN,medium_airport,"San Andros Airport",25.053800582885742,-78.04900360107422,5,NA,BS,BS-NB,"Andros Island",1,MYAN,SAQ,,,http://en.wikipedia.org/wiki/San_Andros_Airport,,800,2008-12-19T20:09:09+00:00
+4954,MYSM,medium_airport,"San Salvador Airport",24.06329917907715,-74.52400207519531,24,NA,BS,BS-SR,"San Salvador",1,MYSM,ZSA,,,http://en.wikipedia.org/wiki/San_Salvador_Airport,,800,2008-12-19T20:09:52+00:00
+35303,BS-NSB,seaplane_base,"Bimini North Seaplane Base",25.767000198364258,-79.25,,NA,BS,BS-BI,Bimini,1,,NSB,,,,,625,2008-07-14T08:45:08+00:00
+4943,MYEN,medium_airport,"Normans Cay Airport",24.59429931640625,-76.82019805908203,8,NA,BS,BS-EX,,0,MYEN,NMC,,,,,250,2008-12-19T20:09:40+00:00
+32181,MYCP,small_airport,"Pitts Town Airport",22.829700469970703,-74.34609985351562,,NA,BS,BS-AC,"Pitts Town",0,MYCP,PWN,,,,,50,2008-12-19T20:09:30+00:00
+4933,MYBC,medium_airport,"Chub Cay Airport",25.41710090637207,-77.88089752197266,5,NA,BS,BS-NB,,1,MYBC,CCZ,,,http://en.wikipedia.org/wiki/Chub_Cay_International_Airport,,800,2008-12-19T20:09:17+00:00
+35304,MYPI,small_airport,"Nassau Paradise Island Airport",25.08300018310547,-77.30000305175781,,NA,BS,BS-NP,Nassau,1,MYPI,PID,,,,,450,2008-12-19T20:09:50+00:00
+4934,MYBG,medium_airport,"Great Harbour Cay Airport",25.7383,-77.840103,18,NA,BS,BS-NB,"Bullocks Harbour",0,MYBG,GHC,,,http://en.wikipedia.org/wiki/Great_Harbour_Cay_Airport,,250,2018-03-17T11:45:29+00:00
+31985,MYCH,small_airport,"Hawks Nest Airport",24.154305,-75.519182,3,NA,BS,BS-CI,"Hawks Nest Creek",0,MYCH,,,http://www.hawks-nest.com/airport/,https://en.wikipedia.org/wiki/Hawks_Nest_Airport,,50,2017-01-16T23:30:54+00:00
+46383,MYEB,small_airport,"Black Point Airstrip",24.089488448799997,-76.3979172707,10,NA,BS,BS-EX,"Black Point",0,MYEB,,,,,,0,2010-04-26T06:13:00+00:00
+4936,MYCA,medium_airport,"Arthur's Town Airport",24.6294,-75.673797,18,NA,BS,BS-CI,"Arthur's Town",1,MYCA,ATC,,,http://en.wikipedia.org/wiki/Arthur's_Town_Airport,,800,2018-03-17T11:30:52+00:00
+4940,MYEG,medium_airport,"George Town Airport",23.4666996002,-75.78170013430001,5,NA,BS,BS-EX,"George Town",0,MYEG,,,,http://en.wikipedia.org/wiki/George_Town_Airport,,800,2010-08-30T10:03:24+00:00
+4932,MYAX,small_airport,"Spanish Cay Airport",26.950300216674805,-77.5438003540039,10,NA,BS,BS-GT,,0,MYAX,,,,,,50,2008-12-19T20:09:15+00:00
+29641,MYAW,small_airport,"Abaco I Walker C Airport",27.266700744628906,-78.39969635009766,10,NA,BS,BS-GT,,0,MYAW,WKR,,,,,50,2008-12-19T20:09:15+00:00
+35349,MYZ2,closed,"Cape Eleuthera Airport",24.7861,-76.2962,9,NA,BS,BS-RS,"Cape Eleuthera",0,MYEC,CEL,,,http://en.wikipedia.org/wiki/Cape_Eleuthera_Airport,MYZ2,50,2014-07-13T14:18:46+00:00
+30866,MYCC,small_airport,"Cat Cay Airport",25.554555,-79.275151,14,NA,BS,BS-BI,"North Cat Cay",0,MYCC,CXY,,https://www.catcayyachtclub.com/club/scripts/library/view_document.asp?NS=IS&DN=AIRPORT,https://en.wikipedia.org/wiki/Cat_Cays_Airport,,50,2018-03-17T11:11:09+00:00
+46382,BS-0005,small_airport,"Farmers Cay Airstrip",23.961371893299997,-76.32620573039999,10,NA,BS,BS-EX,"Little Farmers Cay",0,,,,,,,0,2010-04-26T06:08:02+00:00
+46379,BS-0002,small_airport,"Port Nelson Airstrip",23.651384077699998,-74.84506845470001,,NA,BS,BS-SR,"Port Nelson",0,,,,,,,0,2010-04-26T05:40:03+00:00
+4950,MYMM,medium_airport,"Mayaguana Airport",22.379499,-73.013494,11,NA,BS,BS-MG,"Abrahams Bay",1,MYMM,MYG,,,http://en.wikipedia.org/wiki/Mayaguana_Airport,,800,2018-03-17T11:18:59+00:00
+4926,MYAK,medium_airport,"Congo Town Airport",24.158701,-77.589798,15,NA,BS,BS-KB,Andros,1,MYAK,COX,,,https://en.wikipedia.org/wiki/South_Andros_Airport,"Congotown Airport, South Andros Airport",800,2018-09-16T04:20:45+00:00
+4938,MYCI,medium_airport,"Colonel Hill Airport",22.745599746699998,-74.1824035645,5,NA,BS,BS-AC,"Colonel Hill",1,MYCI,CRI,,,http://en.wikipedia.org/wiki/Colonial_Hill_Airport,"Crooked Island Airport",800,2010-09-01T18:30:22+00:00
+4948,MYLD,medium_airport,"Deadman's Cay Airport",23.1790008545,-75.09359741210001,9,NA,BS,BS-LI,"Deadman's Cay",1,MYLD,LGI,,,http://en.wikipedia.org/wiki/Deadman's_Cay_Airport,,800,2010-09-01T18:31:02+00:00
+4929,MYAP,medium_airport,"Spring Point Airport",22.441799163800003,-73.97090148930002,11,NA,BS,BS-AC,"Spring Point",1,MYAP,AXP,,,,,800,2010-01-04T08:12:40+00:00
+4952,MYRD,medium_airport,"Duncan Town Airport",22.181800842285156,-75.72949981689453,6,NA,BS,BS-RI,,0,MYRD,DCT,,,,,250,2008-12-19T20:09:50+00:00
+4924,MYAB,medium_airport,"Clarence A. Bain Airport",24.287700653076172,-77.68460083007812,19,NA,BS,BS-KB,"Mangrove Cay",0,MYAB,MAY,,,,,250,2008-12-19T20:09:01+00:00
+4930,MYAS,small_airport,"Sandy Point Airport",26.004600524902344,-77.39550018310547,8,NA,BS,BS-SP,,0,MYAS,,,,,,50,2008-12-19T20:09:11+00:00
+4953,MYRP,small_airport,"Rum Cay Airport",23.68440055847168,-74.83619689941406,15,NA,BS,BS-SR,,0,MYRP,RCY,,,,,50,2008-12-19T20:09:50+00:00
+35341,MYX4,small_airport,"Big Whale Cay Airport",25.399599,-77.791,16,NA,BS,BS-NB,"Big Whale Cay",0,MYBW,,,,,MYX4,50,2018-02-17T18:47:51+00:00
+31986,MYCS,small_airport,"Cay Sal Airport",23.696399688720703,-80.32129669189453,3,NA,BS,BS-BI,"Cay Sal",0,MYCS,,,,,,50,2008-12-19T20:09:32+00:00
+35343,MYX5,small_airport,"Cistern Field",25.7787,-77.885201,18,NA,BS,BS-NB,"Cistern Cay",0,MYBT,,,,https://en.wikipedia.org/wiki/Cistern_Field,MYX5,50,2018-02-17T19:54:38+00:00
+31987,MYCX,small_airport,"Cutlass Bay Airport",24.14889907836914,-75.39810180664062,3,NA,BS,BS-CI,"Cutlass Bay",0,MYCX,,,,,,50,2008-12-19T20:09:34+00:00
+35346,MYX8,small_airport,"Darby Island Airport",23.850299835205078,-76.22820281982422,5,NA,BS,BS-EX,"Darby Island",0,MYX8,,MYX8,,,,50,2008-12-19T20:02:37+00:00
+31991,MYGD,small_airport,"Deep Water Cay Airport",26.63170051574707,-77.92169952392578,,NA,BS,BS-HR,"Deep Water Cay",0,MYGD,,,,,,50,2008-12-19T20:09:44+00:00
+31992,MYGM,small_airport,"Auxiliary Airfield",26.6319007874,-78.3591995239,8,NA,BS,BS-HR,"Grand Bahama",0,MYGM,GBI,,,,,50,2013-07-11T20:17:19+00:00
+31990,MYEY,small_airport,"Hog Cay Airport",23.397199630737305,-75.49690246582031,,NA,BS,BS-EX,"Hog Cay",0,MYEY,,,,,,50,2008-12-19T20:09:42+00:00
+31997,MYXD,small_airport,"Leaf Cay Airport",24.149200439453125,-76.46640014648438,,NA,BS,BS-EX,"Leaf Cay",0,MYXD,,,,,,50,2008-12-19T20:09:54+00:00
+31989,MYEL,small_airport,"Lee Stocking Airport",23.77560043334961,-76.10359954833984,,NA,BS,BS-EX,"Lee Stocking",0,MYEL,,,,,,50,2008-12-19T20:09:40+00:00
+35342,MYZ3,small_airport,"Little Whale Cay Berry Islands Airport",25.441799,-77.761703,5,NA,BS,BS-NB,"Little Whale Cay",0,MYBX,,MYZ3,,,,50,2018-02-17T16:13:41+00:00
+35347,MYXC,small_airport,"Hog Key Airport",23.60070037841797,-75.33930206298828,5,NA,BS,BS-LI,"Long Island",0,MYXC,,MYXC,,,,50,2008-12-19T20:02:39+00:00
+35340,MYA0,small_airport,"Moores Island Airport",26.3177,-77.5636,16,NA,BS,BS-SP,"Moore's Island",0,MYAO,,MYAO,,,"Hard Bargain",50,2016-03-21T01:02:55+00:00
+35345,MYX7,small_airport,"Rudder Cut Cay Airport",23.88640022277832,-76.25370025634766,10,NA,BS,BS-EX,"Rudder Cut Cay",0,MYX7,,MYX7,,,,50,2008-12-19T20:02:35+00:00
+35348,MYXH,small_airport,"Sampson Cay Airport",24.215999603271484,-76.47850036621094,8,NA,BS,BS-EX,"Sampson Cay",0,MYXH,,MYXH,,,,50,2008-12-19T20:02:41+00:00
+32679,MYGW,small_airport,"West End Airport",26.685300827,-78.97499847410002,5,NA,BS,BS-FP,"West End",0,MYGW,WTD,,,http://en.wikipedia.org/wiki/West_End_Airport,,50,2013-07-19T06:59:40+00:00
+35344,MYX6,heliport,"Oakes Field-Nassau",25.04050064086914,-77.35150146484375,10,NA,BS,BS-NP,Nassau,0,MYX6,,MYX6,,,,25,2008-12-19T20:02:33+00:00
+46380,BS-0003,small_airport,"Cape Santa Maria Airstrip",23.64932,-75.323918,,NA,BS,BS-LI,,0,MYLM,,,,,,0,2018-02-17T16:16:16+00:00
+326433,MYLR,medium_airport,"Hard Bargain Airport",23.011194,-74.905889,,NA,BS,BS-LI,,0,MYLR,,,,https://en.wikipedia.org/wiki/Hard_Bargain_Airport,,0,2018-02-17T16:20:55+00:00
+309771,BS-0006,closed,"Castaway Cay (Gorda Cay) Airstrip",26.091254,-77.540721,5,NA,BS,BS-U-A,,0,,,MYAG,,https://en.wikipedia.org/wiki/Castaway_Cay,,0,2017-01-09T17:22:21+00:00
+328616,BS-0007,large_airport,"Osman Ibrahim",0,0,,NA,BS,BS-EX,All,0,,,,,,,0,2018-07-03T23:38:53+00:00
+300108,MYCZ,heliport,"AUTEC Heliport",24.709722,-77.7725,37,NA,BS,BS-NB,"Andros Town",0,MYCZ,,NCZ,,https://en.wikipedia.org/wiki/Autec_Heliport,"Atlantic Undersea Test and Evaluation Center",0,2018-02-17T18:27:29+00:00
+46381,BS-0004,small_airport,"Cave Cay Airstrip",23.911301835800003,-76.27444982530001,8,NA,BS,BS-EX,"Cave Cay",0,,,,,,,0,2010-04-26T06:00:44+00:00
+46168,BS-0001,closed,"Fowl Cay Airstrip",24.2707432941,-76.5409862995,,NA,BS,BS-EX,"Fowl Cay",0,,,,,,,0,2010-01-23T09:54:54+00:00
+326434,MYBO,small_airport,"Ocean Cay Airport",25.422916,-79.209471,5,NA,BS,BS-BI,"Ocean Cay",0,MYBO,,,,https://en.wikipedia.org/wiki/Ocean_Cay_Airport,"Sandy Cay",0,2018-02-17T19:12:01+00:00

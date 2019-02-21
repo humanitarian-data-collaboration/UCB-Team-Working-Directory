@@ -1,0 +1,418 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4004,LEBL,large_airport,"Barcelona International Airport",41.2971,2.07846,12,EU,ES,ES-CT,Barcelona,1,LEBL,BCN,,http://www.aena.es/en/barcelona-airport/index.html,https://en.wikipedia.org/wiki/Barcelona%E2%80%93El_Prat_Airport,"El Prat Airport",1020675,2018-09-15T03:30:02+00:00
+4019,LEMD,large_airport,"Adolfo Suárez Madrid–Barajas Airport",40.471926,-3.56264,1998,EU,ES,ES-M,Madrid,1,LEMD,MAD,,http://www.aena.es/en/passengers/passengers.html,https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport,"Leganés, Madrid Barajas International Airport",1041675,2018-09-13T12:25:48+00:00
+4035,LEPA,large_airport,"Palma De Mallorca Airport",39.551700592,2.73881006241,27,EU,ES,ES-PM,"Palma De Mallorca",1,LEPA,PMI,,http://www.aena.es/csee/Satellite?cid=1046276292735&pagename=subHome&Language=EN_GB&SiteName=PMI&c=Page,http://en.wikipedia.org/wiki/Son_Sant_Joan_Airport,"Son Sant Joan Airport, LESJ",51200,2010-08-31T21:55:29+00:00
+4020,LEMG,large_airport,"Málaga Airport",36.67490005493164,-4.499110221862793,53,EU,ES,ES-AN,Málaga,1,LEMG,AGP,,,http://en.wikipedia.org/wiki/M%C3%A1laga_Airport,"Costa del Sol",51275,2009-03-10T12:41:55+00:00
+3081,GCLP,large_airport,"Gran Canaria Airport",27.931900024414062,-15.38659954071045,78,EU,ES,ES-CN,"Gran Canaria Island",1,GCLP,LPA,,http://www.aena.es/csee/Satellite?pagename=subHome&Language=EN_GB&c=Page&SiteName=LPA&cid=1048858940184,http://en.wikipedia.org/wiki/Gran_Canaria_Airport,"Canary Islands, Las Palmas Airport, Gando Airport",1012275,2009-03-10T12:41:08+00:00
+3083,GCTS,large_airport,"Tenerife South Airport",28.044500351,-16.5725002289,209,EU,ES,ES-CN,"Tenerife Island",1,GCTS,TFS,,,http://en.wikipedia.org/wiki/Tenerife_South_Airport,"Canary Islands, Reina Sofía, TCI",1010675,2009-11-01T22:38:14+00:00
+3997,LEAL,large_airport,"Alicante International Airport",38.28219985961914,-0.5581560134887695,142,EU,ES,ES-V,Alicante,1,LEAL,ALC,,http://www.aena.es/csee/Satellite?cid=1049437849176&pagename=subHome&Language=EN_GB&SiteName=ALC&c=Page,http://en.wikipedia.org/wiki/Alicante_Airport,,51150,2009-01-29T20:25:57+00:00
+4010,LEGE,medium_airport,"Girona Airport",41.901000977,2.7605500221,468,EU,ES,ES-GE,Girona,1,LEGE,GRO,,,http://en.wikipedia.org/wiki/Girona-Costa_Brava_Airport,,1050,2015-10-19T09:24:00+00:00
+4049,LEZL,medium_airport,"Sevilla Airport",37.417999267578125,-5.8931097984313965,112,EU,ES,ES-AN,Sevilla,1,LEZL,SVQ,,,http://en.wikipedia.org/wiki/San_Pablo_Airport,,1050,2009-03-10T12:42:06+00:00
+4042,LEVC,medium_airport,"Valencia Airport",39.4893,-0.481625,240,EU,ES,ES-V,Valencia,1,LEVC,VLC,,,http://en.wikipedia.org/wiki/Valencia_Airport,,1050,2017-10-23T02:52:09+00:00
+4013,LEIB,medium_airport,"Ibiza Airport",38.872898101800004,1.3731199502899998,24,EU,ES,ES-PM,Ibiza,1,LEIB,IBZ,,,http://en.wikipedia.org/wiki/Ibiza_Airport,,1050,2010-08-31T21:54:45+00:00
+3082,GCRR,medium_airport,"Lanzarote Airport",28.945499,-13.6052,46,EU,ES,ES-CN,"Lanzarote Island",1,GCRR,ACE,,http://www.aena.es/en/lanzarote-airport/index.html,https://en.wikipedia.org/wiki/Lanzarote_Airport,"Arrecife Airport",1050,2018-09-15T03:37:55+00:00
+4001,LEBB,medium_airport,"Bilbao Airport",43.30110168457031,-2.9106099605560303,138,EU,ES,ES-PV,Bilbao,1,LEBB,BIO,,http://www.aena.es/csee/Satellite?cid=1047658432525&pagename=subHome&Language=EN_GB&SiteName=BIO&c=Page,http://en.wikipedia.org/wiki/Bilbao_Airport,,1050,2008-06-13T14:30:04+00:00
+3077,GCFV,medium_airport,"Fuerteventura Airport",28.452699661254883,-13.863800048828125,85,EU,ES,ES-CN,"Fuerteventura Island",1,GCFV,FUE,,,http://en.wikipedia.org/wiki/El_Matorral_Airport,,1050,2009-03-10T12:41:08+00:00
+3084,GCXO,large_airport,"Tenerife Norte Airport",28.4827003479,-16.3414993286,2076,EU,ES,ES-CN,"Tenerife Island",1,GCXO,TFN,,,http://en.wikipedia.org/wiki/Los_Rodeos_Airport,"Canary Islands, Los Rodeos, TCI",850,2016-01-04T17:23:07+00:00
+4021,LEMH,medium_airport,"Menorca Airport",39.86259841918945,4.218649864196777,302,EU,ES,ES-PM,"Menorca Island",1,LEMH,MAH,,,http://en.wikipedia.org/wiki/Menorca_Airport,,1050,2009-03-10T12:41:55+00:00
+4038,LEST,large_airport,"Santiago de Compostela Airport",42.89630126953125,-8.415140151977539,1213,EU,ES,ES-GA,"Santiago de Compostela",1,LEST,SCQ,,,http://en.wikipedia.org/wiki/Santiago_de_Compostela_Airport,,1275,2008-06-13T14:30:04+00:00
+4015,LEJR,medium_airport,"Jerez Airport",36.744598388671875,-6.060110092163086,93,EU,ES,ES-AN,"Jerez de la Forntera",1,LEJR,XRY,,,http://en.wikipedia.org/wiki/Jerez_Airport,,975,2009-03-10T12:41:55+00:00
+4031,LERS,medium_airport,"Reus Air Base",41.14739990234375,1.1671700477600098,233,EU,ES,ES-CT,Reus,1,LERS,REU,,,http://en.wikipedia.org/wiki/Reus_Airport,,1050,2009-03-10T12:41:57+00:00
+3998,LEAM,medium_airport,"Almería International Airport",36.84389877319336,-2.3701000213623047,70,EU,ES,ES-AN,Almería,1,LEAM,LEI,,http://www.aena.es/csee/Satellite?cid=1048146844127&pagename=subHome&Language=EN_GB&SiteName=LEI&c=Page,http://en.wikipedia.org/wiki/Almer%C3%ADa_International_Airport,,1050,2009-03-10T12:41:19+00:00
+4011,LEGR,medium_airport,"Federico Garcia Lorca Airport",37.18870162963867,-3.777359962463379,1860,EU,ES,ES-AN,Granada,1,LEGR,GRX,,,http://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca_Airport,,1050,2009-03-10T12:41:44+00:00
+4017,LELC,medium_airport,"San Javier Airport",37.775001525878906,-0.8123890161514282,11,EU,ES,ES-MU,"San Javier",1,LELC,MJV,,,http://en.wikipedia.org/wiki/Murcia-San_Javier_Airport,,975,2009-03-10T12:41:55+00:00
+4046,LEVX,medium_airport,"Vigo Airport",42.2318000793457,-8.62677001953125,856,EU,ES,ES-GA,Vigo,1,LEVX,VGO,,,http://en.wikipedia.org/wiki/Vigo-Peinador_Airport,,975,2009-03-10T12:42:06+00:00
+4048,LEZG,medium_airport,"Zaragoza Air Base",41.66619873046875,-1.0415500402450562,863,EU,ES,ES-AR,Zaragoza,1,LEZG,ZAZ,,,http://en.wikipedia.org/wiki/Zaragoza_Airport,,1050,2009-03-10T12:42:06+00:00
+3080,GCLA,large_airport,"La Palma Airport",28.626499,-17.7556,107,EU,ES,ES-CN,"Sta Cruz de la Palma, La Palma Island",1,GCLA,SPC,,,http://en.wikipedia.org/wiki/La_Palma_Airport,,800,2018-11-28T07:34:16+00:00
+4044,LECU,medium_airport,"Cuatro Vientos Airport",40.370701,-3.78514,2269,EU,ES,ES-M,Madrid,0,LECU,ECV,,http://www.enaire.es/csee/Satellite/navegacion-aerea/es/Page/1078418725163/?other=1083158950596&other2=1083857758855#ancla332,http://en.wikipedia.org/wiki/Cuatro_Vientos_Airport,LEVS,250,2017-05-11T11:41:04+00:00
+3999,LEAS,medium_airport,"Asturias Airport",43.5635986328125,-6.0346198081970215,416,EU,ES,ES-O,Ranón,1,LEAS,OVD,,http://www.aena.es/csee/Satellite?cid=1047658435997&pagename=subHome&Language=EN_GB&SiteName=OVD&c=Page,http://en.wikipedia.org/wiki/Asturias_Airport,,1050,2008-08-10T09:21:00+00:00
+4047,LEXJ,medium_airport,"Santander Airport",43.427101135253906,-3.82000994682312,16,EU,ES,ES-S,Santander,1,LEXJ,SDR,,,http://en.wikipedia.org/wiki/Santander_Airport,,975,2009-03-10T12:42:06+00:00
+4037,LESO,medium_airport,"San Sebastian Airport",43.35649871826172,-1.7906099557876587,16,EU,ES,ES-PV,Hondarribia,1,LESO,EAS,,,http://en.wikipedia.org/wiki/San_Sebasti%C3%A1n_Airport,,875,2009-03-10T12:42:01+00:00
+4041,LETO,medium_airport,"Torrejón Airport",40.496700286865234,-3.4458699226379395,2026,EU,ES,ES-M,Madrid,0,LETO,TOJ,,,http://en.wikipedia.org/wiki/Madrid-Torrej%C3%B3n_Airport,,475,2009-03-10T12:42:05+00:00
+4007,LECO,medium_airport,"A Coruña Airport",43.302101,-8.37726,326,EU,ES,ES-GA,Culleredo,1,LECO,LCG,,http://www.aena.es/csee/Satellite?cid=1048146841342&pagename=subHome&SiteName=LCG&c=Page&Language=EN_GB,http://en.wikipedia.org/wiki/A_Coru%C3%B1a_Airport,"The Groyne, La Coruña",1050,2018-02-21T04:22:35+00:00
+4043,LEVD,medium_airport,"Valladolid Airport",41.7061004639,-4.85194015503,2776,EU,ES,ES-CL,Valladolid,1,LEVD,VLL,,,http://en.wikipedia.org/wiki/Valladolid_Airport,,975,2009-12-11T18:02:22+00:00
+29409,LEAP,small_airport,"Ampuriabrava Airport",42.2599983215332,3.1097218990325928,2,EU,ES,ES-CT,Ampuriabraba,0,LEAP,,,,,,50,2009-03-10T12:41:32+00:00
+29760,LECN,small_airport,"Castellon De La Plana Airport",39.9991989136,0.0261109992862,20,EU,ES,ES-V,"Castellón de La Plana",0,LECN,,,http://aeroclubcastellon.com,http://en.wikipedia.org/wiki/Castell%C3%B3n_Airport,CDT,50,2015-09-27T23:39:52+00:00
+29412,LELL,small_airport,"Sabadell Airport",41.52090072631836,2.1050798892974854,485,EU,ES,ES-CT,Sabadell,0,LELL,QSA,,,,,50,2009-03-10T12:41:55+00:00
+4025,LEPP,medium_airport,"Pamplona Airport",42.77000045776367,-1.6463299989700317,1504,EU,ES,ES-NA,Pamplona,1,LEPP,PNA,,,http://en.wikipedia.org/wiki/Pamplona_Airport,,975,2009-03-10T12:41:55+00:00
+38691,LEIG,small_airport,"Igualada/Odena Airport",41.585601806640625,1.653059959411621,1148,EU,ES,ES-CT,Barcelona,0,LEIG,,,http://www10.gencat.net/ptop/AppJava/cat/aerotrans/aerodroms/aerodroms/igualada.jsp,,,50,2009-03-10T12:41:51+00:00
+4003,LEBG,medium_airport,"Burgos Airport",42.357601,-3.62076,2945,EU,ES,ES-CL,Burgos,0,LEBG,RGS,,http://www.aena.es/csee/Satellite?cid=1047546622026&pagename=subHome&Language=EN_GB&SiteName=LEBG&c=Page,http://en.wikipedia.org/wiki/Burgos_Airport,,250,2019-01-22T11:43:50+00:00
+29842,GCLB,small_airport,"El Berriel Aeroc Airport",27.782499313354492,-15.507200241088867,20,EU,ES,ES-CN,"Gran Canaria Island",0,GCLB,,,,,,50,2009-03-10T12:41:08+00:00
+4045,LEVT,medium_airport,"Vitoria/Foronda Airport",42.8828010559082,-2.7244699001312256,1682,EU,ES,ES-PV,Alava,1,LEVT,VIT,,,http://en.wikipedia.org/wiki/Vitoria_Airport,,1050,2009-03-10T12:42:06+00:00
+3093,GEML,medium_airport,"Melilla Airport",35.279800415,-2.9562599659,156,EU,ES,ES-ML,Melilla,1,GEML,MLN,,,http://en.wikipedia.org/wiki/Melilla_Airport,,800,2014-01-16T00:27:49+00:00
+4022,LEMO,medium_airport,"Moron Air Base",37.17490005493164,-5.615940093994141,285,EU,ES,ES-AN,Morón,0,LEMO,OZP,,,http://en.wikipedia.org/wiki/Mor%C3%B3n_Air_Base,,400,2009-08-28T16:46:23+00:00
+4032,LERT,medium_airport,"Rota Naval Station Airport",36.645198822,-6.34946012497,86,EU,ES,ES-AN,Rota,0,LERT,ROZ,,,http://en.wikipedia.org/wiki/Naval_Station_Rota_Spain,,400,2012-12-10T01:54:52+00:00
+4000,LEBA,medium_airport,"Córdoba Airport",37.84199905395508,-4.848879814147949,297,EU,ES,ES-AN,Córdoba,0,LEBA,ODB,,http://www.aena.es/csee/Satellite?cid=1046972065602&pagename=subHome&Language=EN_GB&SiteName=ODB&c=Page,http://en.wikipedia.org/wiki/C%C3%B3rdoba_Airport,,250,2008-06-13T14:30:04+00:00
+4039,LESU,small_airport,"Pirineus - la Seu d'Urgel Airport",42.3386,1.40917,2625,EU,ES,ES-CT,"La Seu d'Urgell Pyrenees and Andorra",1,LESU,LEU,,http://www10.gencat.net/ptop/AppJava/cat/aerotrans/aerodroms/aerodroms/pirineus.jsp,http://en.wikipedia.org/wiki/La_Seu_d'Urgell_Airport,"Montferrer, Castellbò",50,2016-06-03T04:20:32+00:00
+4034,LESB,small_airport,"Son Bonet Airport",39.598899841308594,2.70278000831604,157,EU,ES,ES-PM,"Mallorca Island",0,LESB,,,,http://en.wikipedia.org/wiki/Son_Bonet_Aerodrome,,50,2009-03-10T12:42:01+00:00
+46583,LERL,closed,"Ciudad Real Central Airport",38.8563888889,-3.97,,EU,ES,ES-CM,"Ciudad Real",0,LERL,CQM,,http://www.aeropuertocentralcr.com/,http://en.wikipedia.org/wiki/Ciudad_Real_Central_Airport,,0,2012-10-23T17:10:41+00:00
+43294,LERE,small_airport,"Aeródromo Requena El Rebollar",39.474701,-1.03444,2340,EU,ES,ES-V,Requena,0,LERE,,,http://www.flyrequena.com/index.htm,,,0,2018-10-16T04:40:49+00:00
+45168,ES-0001,small_airport,"Trebujena Airfield",36.858888888900005,-6.13916666667,12,EU,ES,ES-AN,Trebujena,0,LETJ,,,,,,0,2011-08-10T05:42:12+00:00
+4033,LESA,medium_airport,"Salamanca Airport",40.95209884643555,-5.501989841461182,2595,EU,ES,ES-CL,Salamanca,1,LESA,SLM,,,http://en.wikipedia.org/wiki/Salamanca_Airport,,975,2009-03-10T12:42:01+00:00
+4006,LECD,small_airport,"La Cerdanya Airport",42.38639831542969,1.86667001247406,3586,EU,ES,ES-CT,Alp,0,LECD,,,,,,50,2009-03-10T12:41:40+00:00
+4024,LEOC,small_airport,"Ocaña Airport",39.9375,-3.5033299922943115,2405,EU,ES,ES-CM,Toledo,0,LEOC,,,,,,50,2009-03-10T12:41:55+00:00
+34924,LEMX,small_airport,"La Mancha-Toledo Airport",39.56209945678711,-3.2507500648498535,2405,EU,ES,ES-CM,Toledo,0,LEMX,,,,,,50,2008-08-01T08:26:12+00:00
+308328,LEDA,medium_airport,"Lleida-Alguaire Airport",41.728185,0.535023,1170,EU,ES,ES-CT,Lleida,1,LEDA,ILD,,http://www.aeroportlleida.cat/?L=2,http://en.wikipedia.org/wiki/Lleida-Alguaire_Airport,,0,2013-03-09T14:41:11+00:00
+43277,LEJU,small_airport,"La Juliana Airport",37.29499816894531,-6.162499904632568,148,EU,ES,ES-AN,Sevilla,0,LEJU,,,,,,0,2009-08-07T08:54:16+00:00
+43304,LETF,small_airport,"Tomás Fernández Espada Airport",36.8717934415,-5.64877510071,470,EU,ES,ES-AN,Villamartin,1,LETF,,,http://www.fly-pedro.com/en/ad.html,,,0,2011-04-14T15:36:35+00:00
+4005,LEBZ,medium_airport,"Badajoz Airport",38.891300201416016,-6.8213300704956055,609,EU,ES,ES-EX,Badajoz,1,LEBZ,BJZ,,http://www.aena.es/csee/Satellite?cid=1047546622728&pagename=subHome&Language=EN_GB&SiteName=BJZ&c=Page,http://en.wikipedia.org/wiki/Badajoz_Airport,"Talavera La Real Airport",975,2009-03-10T12:41:39+00:00
+35151,GECE,heliport,"Ceuta Heliport",35.892799377441406,-5.306389808654785,8,EU,ES,ES-CE,Ceuta,1,GECE,JCU,,http://www.aena.es/csee/Satellite?cid=1075113413724&pagename=subHome&Language=EN_GB&SiteName=JCU&c=Page,http://en.wikipedia.org/wiki/Ceuta_Heliport,,625,2009-08-06T18:20:47+00:00
+30083,LELO,small_airport,"Logroño-Agoncillo Airport",42.4609534888,-2.32223510742,1161,EU,ES,ES-LO,Logroño,1,LERJ,RJL,,,http://en.wikipedia.org/wiki/Logro%C3%B1o%E2%80%93Agoncillo_Airport,LELO,450,2015-04-30T21:56:33+00:00
+4012,LEGT,medium_airport,"Getafe Air Base",40.29410171508789,-3.723829984664917,2031,EU,ES,ES-M,Getafe,0,LEGT,,,,http://en.wikipedia.org/wiki/Getafe_Air_Base,,300,2009-03-10T12:41:44+00:00
+4027,LERI,medium_airport,"Alcantarilla Air Base",37.951099,-1.23032,250,EU,ES,ES-MU,Alcantarilla,0,LERI,,,,,,250,2016-11-05T04:51:01+00:00
+29410,LECH,closed,"Calamocha Air Base",40.900002,-1.30412,2936,EU,ES,ES-AR,Calamocha,0,,,,,,,50,2016-09-12T11:15:14+00:00
+30367,LECI,small_airport,"Santa Cilia De Jaca Airport",42.569199,-0.727778,2241,EU,ES,ES-AR,Huesca,0,LECI,,,http://www.fly-pyr.es,,,50,2016-11-24T02:37:15+00:00
+30054,LEAX,small_airport,"La Axarquía-Leoni Benabu Airport",36.801666259765625,-4.135556221008301,118,EU,ES,ES-AN,Málaga,0,LEAX,,,,,,50,2009-03-10T12:41:32+00:00
+4036,LESL,small_airport,"San Luis Airport",39.86220169067383,4.25832986831665,197,EU,ES,ES-PM,"Menorca Island",0,LESL,,,,http://en.wikipedia.org/wiki/San_Luis_Aerodrome,,50,2009-03-10T12:42:01+00:00
+30168,LEMU,small_airport,"Muchamiel Airport",38.44060134887,-0.4752779901028,427,EU,ES,ES-V,Muchamiel,0,LEMU,,,http://www.aerodromodemutxamel.es/,https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Muchamiel,,50,2015-11-07T06:38:58+00:00
+4023,LEMR,small_airport,"La Morgal Airport",43.4291992188,-5.8305602073700005,541,EU,ES,ES-O,Oviedo,0,LEMR,,,http://www.aeroclubllanera.com/,http://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_La_Morgal,,50,2011-08-10T06:12:51+00:00
+4029,LERM,small_airport,"Robledillo De Mohernando Airport",40.865299224853516,-3.2477800846099854,3097,EU,ES,ES-CM,"Robledillo De Mohernando",0,LERM,,,,,,50,2009-03-10T12:41:57+00:00
+320512,ES-0069,small_airport,"Air Marugán",40.9111,-4.370917,3068,EU,ES,ES-CL,,0,LEIR,,,,,,0,2016-12-18T01:56:16+00:00
+320423,ES-0058,small_airport,"Vilafranca de Bonany-Es cruce Airfield (Aerodromo Mallorca)",39.576801,3.124647,233,EU,ES,ES-IB,,0,,,,,,,0,2016-09-22T00:34:07+00:00
+320689,ES-0086,small_airport,"Aeródromo forestal Castell de Castells",38.731,-0.14471,3019,EU,ES,ES-V,,0,,,,,,,0,2016-10-07T14:43:57+00:00
+314988,ES-0015,small_airport,"Pozo Cañada",38.798137,-1.726842,2700,EU,ES,ES-AB,Albacete,0,,,,,,,0,2019-01-08T10:59:17+00:00
+300646,AEI,heliport,"Algeciras Heliport",36.12888,-5.441118,98,EU,ES,ES-CA,Algeciras,1,LEAG,AEI,,http://www.aena-aeropuertos.es/csee/Satellite/Helipuerto-Algeciras/en/Algeciras.html,http://en.wikipedia.org/wiki/Algeciras_Heliport,,0,2016-10-23T04:33:20+00:00
+43301,LETA,heliport,"Servei Generals Del Circuit De Catalunya Heliport",41.57400131225586,2.257159948348999,470,EU,ES,ES-CT,Barcelona,0,LETA,,,,,,0,2009-08-07T08:34:24+00:00
+300859,LEDS,medium_airport,"Castellón-Costa Azahar Airport",40.213889,0.073333,1145,EU,ES,ES-CS,"Castellón de la Plana",1,LECH,CDT,,,http://en.wikipedia.org/wiki/Castell%C3%B3n-Costa_Azahar_Airport,,0,2016-12-18T01:58:54+00:00
+308134,RMU,medium_airport,"Región de Murcia International Airport",37.803,-1.125,632,EU,ES,ES-MU,Corvera,0,LEMI,RMU,,,http://en.wikipedia.org/wiki/Murcia-Corvera_Airport,,0,2016-06-09T11:14:29+00:00
+321476,ES-0176,small_airport,"Aeródromo de Guadalix de la SIerra",40.7848296,-3.6397313,2756,EU,ES,ES-M,"El Vellón",0,,,,,,,0,2016-12-12T00:01:25+00:00
+43283,LEMF,small_airport,"Mafé - Gibraleón Airport",37.3643,-6.92094,86,EU,ES,ES-AN,Gibraleón,0,LEMF,,,,,,0,2016-11-05T02:58:10+00:00
+43262,LEGU,small_airport,"Aeródromo de Guadalupe",39.345699,-5.19735,1408,EU,ES,ES-EX,Guadalupe,0,LEGU,,,,,,0,2017-01-03T01:53:00+00:00
+43279,LELT,small_airport,"Lillo Airport",39.71689987182617,-3.3205599784851074,2272,EU,ES,ES-CM,Lillo,0,LELT,,,,,,0,2009-08-07T08:55:59+00:00
+43254,LECT,small_airport,"El Castaño Airport",39.010700225799994,-4.38636016846,2116,EU,ES,ES-CM,Luciana,0,LECT,,,,,,0,2010-12-22T11:09:52+00:00
+43245,LEMT,small_airport,"Casarrubios Del Monte Airport",40.235001,-4.02639,2050,EU,ES,ES-CM,Toledo,0,LEMT,,,,,,0,2017-07-25T10:41:06+00:00
+3996,LEAB,medium_airport,"Albacete-Los Llanos Airport",38.9485015869,-1.8635200262099998,2302,EU,ES,ES-CM,Albacete,1,LEAB,ABC,,http://www.aena.es/csee/Satellite?cid=1046767815090&pagename=subHome&Language=EN_GB&SiteName=LEAB&c=Page,http://en.wikipedia.org/wiki/Albacete_Airport,"Los Llanos Air Base",1050,2011-09-03T02:23:57+00:00
+3079,GCHI,medium_airport,"Hierro Airport",27.814800262451172,-17.887100219726562,103,EU,ES,ES-CN,"El Hierro Island",1,GCHI,VDE,,,http://en.wikipedia.org/wiki/El_Hierro_Airport,,800,2009-03-10T12:41:08+00:00
+3078,GCGM,small_airport,"La Gomera Airport",28.029600143432617,-17.214599609375,716,EU,ES,ES-CN,"Alajero, La Gomera Island",1,GCGM,GMZ,,,,,450,2009-03-10T12:41:08+00:00
+4018,LELN,medium_airport,"Leon Airport",42.5890007019043,-5.65556001663208,3006,EU,ES,ES-CL,León,0,LELN,LEN,,,http://en.wikipedia.org/wiki/Le%C3%B3n_Airport,,300,2009-03-10T12:41:55+00:00
+4009,LEGA,medium_airport,"Armilla Air Base",37.1332016,-3.63568997,2297,EU,ES,ES-AN,Armilla,0,LEGA,,,,,,250,2015-12-04T10:21:34+00:00
+31804,LEAE,closed,"[Duplicate] Alcolea Airport",37.946098,-4.58944,463,EU,ES,ES-AN,Alcolea,0,,,,,,,50,2016-11-06T05:06:45+00:00
+31807,LEHI,small_airport,"Hinojosa del Duque Airport",38.51209,-5.107215,1772,EU,ES,ES-AN,"Hinojosa del Duque",0,LEHI,,,,,,50,2016-11-16T04:13:27+00:00
+4002,LEBE,small_airport,"Beas De Segura Airport",38.27111053466797,-2.9488890171051025,1780,EU,ES,ES-AN,Jaén,0,LEBE,,,,,,50,2009-03-10T12:41:32+00:00
+2641,LE84,small_airport,"Jayena Airfield",36.930698,-3.83538,3654,EU,ES,ES-AN,Jayena,0,,,,,,,50,2017-10-22T01:29:35+00:00
+4040,LETI,small_airport,"El Tietar Airport",40.243900299072266,-4.794439792633057,1401,EU,ES,ES-CM,"La Iglesuela",0,LETI,,,,,,50,2009-03-10T12:42:05+00:00
+31805,LEAT,closed,"Alfes Airport",41.549999,0.65,705,EU,ES,ES-L,"LLeida - Alfes",0,LEAT,,,,,,50,2017-06-17T04:29:20+00:00
+4026,LEPZ,small_airport,"Los Pozuelos De Calatrava Airport",38.9122009277,-4.19111013412,1850,EU,ES,ES-CM,"Los Pozuelos De Calatrava",0,LEPZ,,,,,,50,2010-12-22T11:08:33+00:00
+4030,LERO,small_airport,"Rozas Airport",43.11690139770508,-7.470280170440674,1444,EU,ES,ES-GA,Lugo,0,LERO,,,,,,50,2009-03-10T12:41:57+00:00
+2640,LE83,small_airport,"Aeródromo forestal de Mojados",41.465728,-4.713068,2329,EU,ES,ES-CL,Mojados,0,LEOA,,,,https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Mojados,,50,2018-03-22T23:00:39+00:00
+29967,LEHC,small_airport,"Huesca/Pirineos Airport",42.0760993958,-0.316666990519,1768,EU,ES,ES-AR,"Monflorite/Alcalá del Obispo",0,LEHC,HSK,,,http://en.wikipedia.org/wiki/Huesca%E2%80%93Pirineos_Airport,,50,2014-11-22T22:21:26+00:00
+4008,LEFM,small_airport,"Fuentemilanos Airport",40.888610839799995,-4.23750019073,3307,EU,ES,ES-CL,Segovia,0,LEFM,,,,http://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Fuentemilanos,,50,2013-11-10T03:01:10+00:00
+30383,LETP,small_airport,"Santo Tome Del Puerto Airport",41.204200744628906,-3.594719886779785,3638,EU,ES,ES-CL,Segovia,0,LETP,,,,,,50,2009-03-10T12:42:05+00:00
+31809,LE85,closed,"Tablada Airport",37.3517,-6.01456,26,EU,ES,ES-AN,Sevilla,0,,,,,,,50,2018-07-14T10:30:33+00:00
+38693,LEGY,small_airport,"Garray Airport",41.82310104370117,-2.478610038757324,3360,EU,ES,ES-CL,Soria,0,LEGY,,,,http://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Garray-Soria,,50,2009-03-10T12:41:47+00:00
+4014,LEIZ,small_airport,"La Perdiz - Torre De Juan Abad Airport",38.5130996704,-3.36433005333,2902,EU,ES,ES-CM,"Torre de Juan Abad",0,LEIZ,,,,,,50,2010-12-22T11:07:28+00:00
+4016,LELA,small_airport,"La Calderera Airport",38.74789810180664,-3.5145599842071533,2644,EU,ES,ES-CM,Valdepeñas,0,LELA,,,,,,50,2009-03-10T12:41:55+00:00
+315474,ES-0022,small_airport,"ULM de Dolores",38.1573628,-0.7779122,,EU,ES,ES-A,,0,,,,,,,0,2015-09-18T15:09:02+00:00
+321890,ES-0229,closed,Villena,38.5868201,-0.8559465,1641,EU,ES,ES-A,,0,,,,,,,0,2017-01-20T01:59:11+00:00
+315438,ES-0018,small_airport,AeroSidonia,36.44026,-5.94093,,EU,ES,ES-AN,,0,,,,,,,0,2015-09-16T06:52:25+00:00
+315895,ES-0027,small_airport,"Aerodromo El Judio",37.840394,-4.7096584,,EU,ES,ES-AN,,0,,,,,,,0,2015-10-20T03:39:53+00:00
+320568,ES-0079,small_airport,"Aeródromo La Balanzona",37.9617333333,-4.80705,1969,EU,ES,ES-AN,,0,,,,,,,0,2016-09-28T05:55:43+00:00
+320751,ES-0096,small_airport,Guadix,37.412624,-3.075759,3281,EU,ES,ES-AN,,0,,,,,,Conejo,0,2016-10-12T01:51:17+00:00
+321068,ES-0120,small_airport,"Villafranca de Cordoba",37.9367064,-4.5326323,656,EU,ES,ES-AN,,0,,,,,,,0,2016-11-06T05:55:19+00:00
+321583,ES-0202,small_airport,"Aeródromo de Garrucha",37.197959,-1.830627,52,EU,ES,ES-AN,,0,,,,,,,0,2018-07-08T11:15:06+00:00
+325234,ES-0235,small_airport,"Santiago-Pontones Airstrip",38.0909891,-2.6484287,,EU,ES,ES-AN,,0,,,,,,,0,2017-10-19T04:26:28+00:00
+329228,ES-0243,heliport,"Pitres Heliport",36.932903,-3.3404525,,EU,ES,ES-AN,,0,,,,,,,0,2018-09-10T11:22:11+00:00
+43310,LEVR,heliport,"Vilaller Heliport",42.3046989440918,0.7130560278892517,2870,EU,ES,ES-AR,,0,LEVR,,,,,,0,2009-08-07T08:29:12+00:00
+321339,ES-0144,small_airport,"Aeródromo de Tardienta - Monegros",41.9599129,-0.5434853,1296,EU,ES,ES-AR,,0,,,,,,,0,2016-11-30T11:22:48+00:00
+315436,ES-0016,small_airport,"Club Aernautic Catalunya",41.750278,2.611389,,EU,ES,ES-B,,0,,,,,,,0,2015-09-16T05:05:35+00:00
+326987,ES-0238,small_airport,"El Moral Airstrip",38.4789243,-6.2644815,1496,EU,ES,ES-BA,,0,,,,http://aerodromoelmoral.net/,,,0,2018-04-08T04:31:29+00:00
+321794,ES-0227,closed,"Dima Airfield",43.075701,-2.683326,1936,EU,ES,ES-BI,,0,,,,,,,0,2017-01-11T02:08:11+00:00
+320546,ES-0075,small_airport,"Aeródromo de Navianos de Valverde",41.959145,-5.835035,2395,EU,ES,ES-CL,,0,,,,,,,0,2016-09-27T01:08:02+00:00
+320788,ES-0107,small_airport,"Las Torres de Aliste",41.68315,-6.30767,2749,EU,ES,ES-CL,,0,,,,,,,0,2018-07-08T11:08:12+00:00
+321952,ES-0230,small_airport,"Sotillo de la Andrada",41.27115,-3.63005,722,EU,ES,ES-CL,,0,,,,,,,0,2017-01-25T02:33:08+00:00
+320414,ES-0056,small_airport,"Aerodrómo de la Calderina",39.296287,-3.831152,3281,EU,ES,ES-CM,,0,,,,,,,0,2016-09-21T06:04:22+00:00
+321180,ES-0135,small_airport,Valdepeñas,38.7923092,-3.3715367,2395,EU,ES,ES-CM,,0,,,,,,"Manuel Sanchez",0,2016-11-14T02:38:46+00:00
+329298,ES-0245,small_airport,"Los Yébenes Airstrip",39.5094986,-4.0259661,,EU,ES,ES-CM,,0,,,,,,,0,2018-09-16T02:19:20+00:00
+321439,ES-0167,small_airport,"Club ULM La Llosa",39.7497897,-0.1813464,7,EU,ES,ES-CS,,0,,,,http://clubulmlallosa.com/,,,0,2016-12-09T10:07:18+00:00
+43249,LEBC,heliport,"Costa Brava-Centro Heliport",41.807701110839844,3.037179946899414,42,EU,ES,ES-CT,,0,LEBC,,,,,,0,2009-08-07T07:33:56+00:00
+43269,LEHG,heliport,"Hospital General De Catalunya Heliport",41.47359848022461,2.0425000190734863,385,EU,ES,ES-CT,,0,LEHG,,,,,,0,2009-08-07T08:29:11+00:00
+43292,LEGS,heliport,"Parque De Garraf-Sitges Heliport",41.27389907836914,1.914720058441162,1100,EU,ES,ES-CT,,0,LEGS,,,,,,0,2009-08-07T08:29:12+00:00
+43299,LETM,heliport,"Sant Martí De Sescorts Heliport",42.015499114990234,2.3192501068115234,1672,EU,ES,ES-CT,,0,LETM,,,,,,0,2009-08-07T08:29:12+00:00
+43300,LERV,heliport,"Servei D'Evacuació Del Circuit De Catalunya Heliport",41.571998596191406,2.2620298862457275,406,EU,ES,ES-CT,,0,LERV,,,,,,0,2009-08-07T08:29:12+00:00
+315469,ES-0020,small_airport,"Aeròdrom de Pals",42.0069903,3.1519175,,EU,ES,ES-CT,,0,,,,,,,0,2015-09-18T13:07:00+00:00
+315470,ES-0021,small_airport,"Aeròdrom d'Avinyonet",41.3679849,1.7668666,,EU,ES,ES-CT,,0,,,,,,,0,2015-09-18T13:09:08+00:00
+320708,ES-0089,small_airport,"Alt Camp de Vallmoll",41.249924,1.241474,604,EU,ES,ES-CT,,0,,,,,,Valmoll,0,2016-10-08T05:41:43+00:00
+321064,ES-0116,small_airport,"Ager Altiport",42.02277,0.7491,2625,EU,ES,ES-CT,,0,,,,,,,0,2016-11-06T04:28:40+00:00
+320442,ES-0062,small_airport,"Aeródromo de Royanejos",38.979917,-6.345167,722,EU,ES,ES-EX,,0,,,,,,,0,2016-10-07T14:50:49+00:00
+320690,ES-0087,small_airport,"Don Benito",38.9784666667,-5.866,,EU,ES,ES-EX,,0,,,,,,,0,2016-10-07T14:50:01+00:00
+329201,ES-0241,heliport,"Lires Heliport",42.981544,-9.237198,,EU,ES,ES-GA,,0,,,,,,,0,2018-09-05T04:27:27+00:00
+315868,ES-0026,small_airport,"Camp de Vol de Palafolls",41.687222,2.748056,,EU,ES,ES-GE,,0,,,,,,,0,2015-10-19T09:22:34+00:00
+320424,ES-0059,small_airport,"Aeródrom de Binissalem",39.681743,2.878053,361,EU,ES,ES-IB,,0,,,,,,,0,2016-09-22T00:39:49+00:00
+320425,ES-0060,seaplane_base,"Pollensa Sea Plane Base",39.908121,3.101912,0,EU,ES,ES-IB,,0,LEPO,,,,,,0,2018-03-23T09:35:38+00:00
+320426,ES-0061,small_airport,"Aeródromo de Son Albertí (Llucmajor)",39.410395,2.863864,300,EU,ES,ES-IB,,0,,,,,,,0,2016-09-22T00:52:58+00:00
+321046,ES-0114,small_airport,"Aeródromo ""Puente de Genave""",38.3666778,-2.7941751,1837,EU,ES,ES-J,,0,,,,,,"Hotel Don Juan",0,2016-11-05T01:33:47+00:00
+321557,ES-0192,small_airport,"Aeródromo Tiurana",41.97416,1.257531,2133,EU,ES,ES-L,,0,,,,,,,0,2016-12-18T05:27:52+00:00
+320710,ES-0090,small_airport,"Villamarco UL",42.45175,-5.287083,2800,EU,ES,ES-LE,,0,,,,http://ulmvillamarco.com,,"Ultraligeros Léon",0,2016-10-08T07:29:24+00:00
+320712,ES-0092,small_airport,"Chozas de Abajo",42.497215,-5.682669,2953,EU,ES,ES-LE,,0,,,,,,,0,2016-10-08T08:17:25+00:00
+321362,ES-0146,small_airport,"San Torcuato",42.4791667,-2.8716667,2133,EU,ES,ES-LO,,0,,,,http://escueladevuelo.com,,,0,2016-12-02T01:40:53+00:00
+321381,ES-0148,small_airport,"Aeródromo Villanueva de la Cañada",40.437185,-4.024475,1985,EU,ES,ES-M,,0,,,,,,,0,2016-12-04T05:17:56+00:00
+315969,ES-0028,small_airport,AeroCieza,38.32305,-1.456967,,EU,ES,ES-MU,,0,,,,,,,0,2015-10-23T07:26:49+00:00
+320543,ES-0073,small_airport,"Aeródromo de Caravaca de la Cruz",38.0468,-1.92201,2625,EU,ES,ES-MU,,0,,,,,,,0,2016-09-27T00:49:37+00:00
+315467,ES-0019,small_airport,"Campo de Aviación de Ablitas",42.0032781,-1.6203155,,EU,ES,ES-NA,,0,,,,,,,0,2015-09-18T13:03:34+00:00
+316683,ES-0038,closed,Berbinzana,42.5225,-1.803889,,EU,ES,ES-NA,,0,,,,,,,0,2019-01-07T04:58:49+00:00
+320735,ES-0095,small_airport,"Aeródromo de Tudela",42.109262,-1.686976,778,EU,ES,ES-NA,,0,,,,,,"Aguasalada,Agua Salada",0,2016-10-10T06:06:54+00:00
+43242,LEGV,heliport,"Campo Gaviota Heliport",43.44169998168945,-2.7536098957061768,630,EU,ES,ES-PV,,0,LEGV,,,,,,0,2009-08-06T22:59:23+00:00
+320545,ES-0074,small_airport,"Aeródromo el Maíllo",40.571167,-6.2188167,3396,EU,ES,ES-SA,,0,,,,,,,0,2016-09-27T00:59:35+00:00
+324160,ES-0231,small_airport,"[Duplicate] Aerodromo Forestal de Las Torres de Aliste",41.683056,-6.306389,,EU,ES,ES-U-A,,0,,,,,,,0,2017-06-30T23:48:14+00:00
+315972,ES-0029,small_airport,Fuenterrobles,39.56601,-1.36225,,EU,ES,ES-V,,0,,,,,,,0,2015-10-23T09:11:28+00:00
+321416,ES-0158,small_airport,"Olocau UL",39.675517,-0.548855,680,EU,ES,ES-V,,0,,,,http://www.escuelaultraligero.es/,,,0,2016-12-06T07:04:07+00:00
+329235,ES-0244,small_airport,"Club Fenix ULM",39.657599,-0.811627,,EU,ES,ES-V,,0,,,,,,,0,2018-09-11T06:31:17+00:00
+329338,LEJE,small_airport,"[Duplicate] Aerodromo Juan Espadafor",37.0903,-3.786343,2542,EU,ES,ES-GR,Ácula,0,LEJE,,LEJE,https://guiavfr.enaire.es/#AD/LEJE,,,0,2018-09-26T11:12:39+00:00
+320645,ES-0085,small_airport,"Aeródromo forestal de Ademuz",40.091464,-1.210474,3970,EU,ES,ES-V,Ademuz,0,,,,,,,0,2016-10-04T10:42:21+00:00
+321361,ES-0145,small_airport,"Aeródromo Coscojuela de Sobrarbe",42.3487,0.18613,1788,EU,ES,ES-AR,Ainsa,0,,,,,,,0,2016-12-02T01:13:13+00:00
+43234,LELM,small_airport,"Almansa Airport",38.89500045776367,-1.1131800413131714,2248,EU,ES,ES-CM,Albacete,0,LELM,,,,,,0,2009-08-07T08:36:46+00:00
+43264,LEHE,heliport,"Helicsa Heliport",39.07120132446289,-1.8343499898910522,2226,EU,ES,ES-CM,Albacete,0,LEHE,,,,,,0,2009-08-07T07:46:45+00:00
+321292,ES-0139,small_airport,"Aeroclub Gregal",39.220618,-0.369304,30,EU,ES,ES-V,"Albalat de la Ribera",0,,,,http://volarenvalencia.es,,,0,2016-11-24T05:05:17+00:00
+321293,ES-0140,small_airport,"Albalat de la Ribera",39.2261566,-0.3665835,26,EU,ES,ES-V,"Albalat de la Ribera",0,,,,,,,0,2016-11-24T05:06:56+00:00
+320729,ES-0093,small_airport,"Alcalá de la Jovada Airstrip",38.786461,-0.232382,,EU,ES,ES-V,"Alcalá de la Jovada",0,,,,,,,0,2018-09-01T05:43:09+00:00
+320513,ES-0070,small_airport,"Aeródromo Alcalá del Río",37.553279,-5.980612,144,EU,ES,ES-SE,"Alcalá del Río",0,,,,http://www.aeroilipamagna.com,,"Ilipa Magna",0,2016-09-25T12:13:17+00:00
+319456,ES-0039,small_airport,"Aeródromo de Alcazarén",41.3727778,-4.6958333,2526,EU,ES,ES-CL,Alcazarén,0,,,,http://www.alcazarenvuelo.com,https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Alcazar%C3%A9n,,0,2016-07-13T13:22:55+00:00
+320139,ES-0043,small_airport,"La Montaña ULM",38.80213,-0.3984167,1050,EU,ES,ES-A,"Alcocer de Planes",0,,,,,,,0,2016-09-07T02:28:59+00:00
+321164,ES-0130,small_airport,"Alcocer de Planes",38.7915,-0.3987,,EU,ES,ES-A,"Alcocer de Planes",0,,,,,,,0,2016-11-13T01:57:06+00:00
+321065,ES-0117,small_airport,"Alcolea Airstrip",37.9456192,-4.6154163,463,EU,ES,ES-AN,Alcolea,0,,,,,,,0,2016-11-06T05:04:14+00:00
+321066,ES-0118,small_airport,"Alcolea de Cinca",41.734222,0.10758333,722,EU,ES,ES-HU,"Alcolea de la Cinca",0,,,,http://www.aerocinca.com/index.html,,,0,2016-11-06T05:41:06+00:00
+43265,LEHA,heliport,"Hospital Alcorcón Heliport",40.349702376299994,-3.83819013834,2269,EU,ES,ES-M,Alcorcón,0,LEHA,,,,,,0,2011-10-16T22:03:59+00:00
+321580,ES-0199,small_airport,"Aeródromo de Aldeacentenara",39.5609167,-5.6637222,1772,EU,ES,ES-CC,Aldeacentenara,0,,,,,,,0,2016-12-21T04:37:48+00:00
+320761,ES-0100,small_airport,"Aeródromo de Algodor",39.9004,-3.87338333,1608,EU,ES,ES-CM,"Algodor (Toledo)",0,,,,,,Casarrubias,0,2016-10-12T05:20:08+00:00
+321702,ES-0215,small_airport,"Campo de Vuelo Alhama de Granada",36.996999,-4.103608,3215,EU,ES,ES-AN,"Alhama de Granada",0,,,,,,,0,2017-01-02T06:37:09+00:00
+321741,ES-0223,heliport,"Almagro Helicopter Airbase",38.952096,-3.741126,2067,EU,ES,ES-CR,Almagro,0,,,,,,,0,2017-01-06T03:02:18+00:00
+321529,ES-0190,small_airport,"Aeródromo Almendralejo",38.739954,-6.391888,1034,EU,ES,ES-EX,Almendralejo,0,,,,http://miaeroclub.es,,,0,2016-12-16T03:52:57+00:00
+43296,LESE,small_airport,"San Enrique Airport",38.73080062866211,-4.3130598068237305,2263,EU,ES,ES-CM,"Almodóvar del Campo",0,LESE,,,,,,0,2009-08-07T09:12:27+00:00
+321112,ES-0126,small_airport,"Aires de Doñana",37.25689,-6.562895,213,EU,ES,ES-H,Almonte,0,,,,http://www.aeroclubdehuelva.es/,,,0,2016-11-10T12:44:02+00:00
+321514,ES-0186,small_airport,"Aeródromo de Almorox",40.2116282,-4.386763,1575,EU,ES,ES-CM,Almorox,0,,,,,,,0,2016-12-14T06:40:11+00:00
+320413,ES-0055,small_airport,"Aeródromo de Antequera",37.10165,-4.5625667,1903,EU,ES,ES-AN,Antequera,0,,,,,,,0,2016-09-21T06:00:50+00:00
+324536,ES-0232,small_airport,"Aeródromo del Jarde",28.391185,-13.982968,515,EU,ES,ES-CN,Antigua,0,,,,,,,0,2017-07-24T23:34:46+00:00
+321571,ES-0194,small_airport,"Aeródrome de Arcones",41.11453,-3.73378,,EU,ES,ES-SG,Arcones,0,,,,,,,0,2016-12-20T03:19:31+00:00
+321032,ES-0112,small_airport,"Camaleño-Artañin ULM",43.17817,-4.674958,2523,EU,ES,ES-S,Argüébanes,0,,,,,,,0,2018-07-08T11:45:06+00:00
+321564,ES-0193,small_airport,"Aeroclub Arnao UL",43.5531667,-7.0168,69,EU,ES,ES-O,Arnao,0,,,,,,,0,2016-12-19T08:00:39+00:00
+321661,ES-0213,small_airport,"Campo de Vuelo de Astorga",42.50323,-6.026578,,EU,ES,ES-LE,Astorga,0,LEAT,,,http://campodevueloastorga.es/,,,0,2017-06-12T03:14:20+00:00
+43255,LEEM,small_airport,"El Manantío Airport",38.77750778198242,-6.991124153137207,708,EU,ES,ES-EX,Badajoz,0,LEEM,,,,,,0,2009-08-07T08:49:13+00:00
+43287,LETE,small_airport,"Morante Airport",39.03689956665039,-6.6905598640441895,703,EU,ES,ES-EX,Badajoz,0,LETE,,,,,,0,2009-08-07T09:07:46+00:00
+309925,ES-0011,small_airport,"Chaira Airport",42.23282,-7.6448,1946,EU,ES,ES-OR,"Baños de Molgas",0,,,,,,,0,2013-11-10T10:55:05+00:00
+321719,ES-0220,small_airport,"Campo de Vuelo Bañeres de Mariola",38.671077,-0.631257,3117,EU,ES,ES-A,"Banyeres de Mariola",0,,,,,,,0,2017-01-04T03:04:14+00:00
+321165,ES-0131,small_airport,"Aeroclub de Barbastro",41.994251,0.092153,,EU,ES,ES-AR,Barbastro,0,,,,,,,0,2016-11-13T02:00:06+00:00
+43236,LEPB,heliport,"Autoridad Portuaria de Barcelona Heliport",41.36429977416992,2.1830101013183594,29,EU,ES,ES-CT,Barcelona,0,LEPB,,,,,"Helipuerto de la autoridad portuaria de Barcelona, Port Authority of Barcelona Heliport",0,2009-08-07T07:55:24+00:00
+43248,LEHB,heliport,"Ciudad Sanitaria y Universitaria de Bellvitge Heliport",41.345298767089844,2.107290029525757,35,EU,ES,ES-CT,Barcelona,0,LEHB,,,,,,0,2009-08-07T07:32:23+00:00
+43257,LEPY,heliport,"El Portinyol Heliport",41.583499908447266,2.5607900619506836,200,EU,ES,ES-CT,Barcelona,0,LEPY,,,,,,0,2009-08-07T07:39:57+00:00
+43260,LEFR,heliport,"Fira M2 Heliport",41.35390090942383,2.1291699409484863,34,EU,ES,ES-CT,Barcelona,0,LEFR,,,,,,0,2009-08-07T07:43:04+00:00
+43271,LESP,heliport,"Hospital San Pau Heliport",41.41350173950195,2.1719601154327393,265,EU,ES,ES-CT,Barcelona,0,LESP,,,,,,0,2009-08-07T08:29:11+00:00
+43274,LEJC,heliport,"Hotel Rey Juan Carlos I Heliport",41.38249969482422,2.1091699600219727,287,EU,ES,ES-CT,Barcelona,0,LEJC,,,,,,0,2009-08-07T08:29:12+00:00
+43293,LERA,heliport,"R.A.C.C. Heliport",41.38330078125,2.108330011367798,300,EU,ES,ES-CT,Barcelona,0,LERA,,,,,,0,2009-08-07T08:29:12+00:00
+320515,ES-0072,small_airport,"Aeródromo de Beariz",42.460951,-8.339674,2589,EU,ES,ES-OR,Beariz,0,,,,,,,0,2016-09-25T12:36:01+00:00
+321166,ES-0132,small_airport,"Alats Club Bellvei",41.2443358,1.5632892,302,EU,ES,ES-CT,Bellvei,0,,,,,,,0,2016-11-13T02:05:51+00:00
+321510,ES-0183,small_airport,"Aeródromo Belvis de Monroy",39.8513634,-5.6015255,1017,EU,ES,ES-EX,"Belvis de Monroy",0,,,,,,,0,2016-12-14T05:51:59+00:00
+320707,ES-0088,small_airport,"Aeródromo Benagéber",39.735148,-1.139396,2871,EU,ES,ES-V,Benagéber,0,,,,,,,0,2017-08-26T10:07:29+00:00
+321704,ES-0217,small_airport,"Benejama UL",38.696193,-0.744936,1985,EU,ES,ES-A,Beneixama,0,,,,,,,0,2017-01-02T09:36:59+00:00
+321706,ES-0218,small_airport,"Alto Vinalopó Biar Benejama",38.684431,-0.760295,1936,EU,ES,ES-A,Beneixama,0,,,,,,,0,2017-01-02T11:25:21+00:00
+321479,ES-0179,small_airport,"Aeroclub Balica",38.9185899,-0.3539091,807,EU,ES,ES-A,Benicolet,0,,,,,,,0,2016-12-12T00:27:44+00:00
+329148,ES-0240,heliport,Heliactivo,38.5632993,-0.1511484,,EU,ES,ES-A,Benidorm,0,,,,,,,0,2018-09-01T05:29:00+00:00
+43238,LERG,heliport,"Berga Heliport",42.10559844970703,1.8533300161361694,2300,EU,ES,ES-CT,Berga,0,LERG,,,,,,0,2009-08-06T22:56:11+00:00
+321425,ES-0161,small_airport,"Campo de Vuelo Avial",42.077377,1.840227,2074,EU,ES,ES-CT,Berga,0,,,,,,,0,2016-12-07T00:36:13+00:00
+315661,ES-0023,heliport,"Basa Aérea de Valencia-Bétera",39.62447,-0.472576,414,EU,ES,ES-V,Bétera,0,LEBT,,,,,,0,2018-03-23T09:52:50+00:00
+321082,ES-0121,small_airport,"Aeródromo de Beteta",40.5405752,-2.0768447,4265,EU,ES,ES-CM,Beteta,0,,,,,,,0,2016-11-07T00:12:05+00:00
+320246,ES-0051,small_airport,"Aeródromo de Binéfar",41.853613,0.254904,1312,EU,ES,ES-AR,Binéfar,0,LEBF,,,http://aeroclubbinefar.com,,,0,2017-02-10T07:35:37+00:00
+321478,ES-0178,small_airport,"Aeródromo de Brunete",40.396556,-4.023712,1975,EU,ES,ES-M,Brunete,0,,,,,,,0,2016-12-12T00:18:18+00:00
+309930,ES-0013,small_airport,"Godos Airport",42.5787,-8.6968,45,EU,ES,ES-PO,"Caldas de Reis",0,,,,,,,0,2013-11-10T12:42:47+00:00
+321608,ES-0207,small_airport,"Aeródromo Calzada de Valdunciel",41.07545,-5.7280355,2625,EU,ES,ES-SA,"Calzada de Valdunciel",0,,,,,,,0,2016-12-24T01:43:19+00:00
+321718,ES-0219,small_airport,"Aeródromo de Camarenilla",40.024702,-4.0712017,1742,EU,ES,ES-CM,Camarenilla,0,,,,http://www.volarenavioneta.es,,,0,2017-01-04T02:51:12+00:00
+320752,ES-0097,small_airport,"Aeródromo de Campillos",39.94135,-1.530533,3937,EU,ES,ES-CM,Campillos,0,,,,,,,0,2016-10-12T02:00:35+00:00
+43233,LELH,small_airport,"Alhama De Murcia Airport",37.7489013671875,-1.3021600246429443,669,EU,ES,ES-MU,Cánovas,0,LELH,,,,,,0,2009-08-07T08:35:28+00:00
+320565,ES-0076,small_airport,"AeroVeleta ULM",37.294754,-3.712869,2444,EU,ES,ES-AN,"Caparacena, Granada",0,,,,http://http://aeroveleta.es/,,,0,2016-09-28T05:31:47+00:00
+320137,ES-0041,small_airport,"Aeródromo de Casas de Juan Gil",39.1329131,-1.2636747,,EU,ES,ES-AB,Carcelen,0,,,,,,,0,2016-09-07T02:03:20+00:00
+320411,ES-0053,small_airport,"Base BRICA de Cártama",36.722785,-4.700446,,EU,ES,ES-AN,Cártama,0,,,,,,"BRICA,RioGrande",0,2016-09-21T05:52:18+00:00
+321689,ES-0214,small_airport,"Campo de Vuelo de Caspe",41.2287652,-0.085876,656,EU,ES,ES-Z,Caspe,0,,,,,,,0,2017-01-01T06:26:42+00:00
+321603,ES-0205,small_airport,"Castejón de Sos",42.516675,0.483282,2959,EU,ES,ES-U-A,"Castejón de Sos",0,,,,http://www.aviador.net,,,0,2016-12-23T05:20:52+00:00
+43239,LEBP,heliport,"BP Oil España Heliport",39.95790100097656,-0.011632000096142292,943,EU,ES,ES-V,"Castellón de La Plana",0,LEBP,,,,,,0,2009-08-06T22:57:28+00:00
+321703,ES-0216,small_airport,"Aeròdrom de Cervera",41.687597,1.250494,,EU,ES,ES-L,Cervera,0,,,,,,,0,2017-01-03T04:22:50+00:00
+320775,ES-0103,small_airport,"Cervera de Pisuerga",42.887425,-4.530838,3609,EU,ES,ES-CL,"Cervera de Pisuerga",0,,,,,,,0,2016-10-13T11:51:56+00:00
+321463,ES-0174,small_airport,"Aeródromo de Cillamayor",42.851348,-4.279289,3215,EU,ES,ES-CL,Cillamayor,0,,,,,,,0,2016-12-11T00:38:19+00:00
+324795,ES-0234,small_airport,"Cóbreces Airfield",43.388518,-4.207752,164,EU,ES,ES-S,Cóbreces,0,,,,,,,0,2017-08-26T14:29:33+00:00
+326765,LECV,heliport,"Base Aérea de Colmenar Viejo",40.697296,-3.763255,3264,EU,ES,ES-M,"Colmenar Viejo",0,LECV,,,,,FAMET,0,2018-03-23T11:09:03+00:00
+321477,ES-0177,small_airport,"Aeródromo Coria",39.984617,-6.554554,735,EU,ES,ES-EX,Coria,0,,,,,,,0,2016-12-12T00:10:10+00:00
+43278,LECA,small_airport,"La Nava - Corral De Ayllón Airport",41.41080093383789,-3.4483299255371094,3280,EU,ES,ES-CL,"Corral dev Ayllón",0,LECA,,,,,,0,2009-08-07T08:55:02+00:00
+320711,ES-0091,small_airport,"Base de Bomberos del Amogable",41.861768,-2.949889,3806,EU,ES,ES-CL,Covaleda,0,,,,,,,0,2016-10-08T07:56:50+00:00
+321111,ES-0125,small_airport,"Aeródromo de Villa María",37.9273008,-1.7751475,2740,EU,ES,ES-MU,"Coy (Lorca)",0,,,,,,,0,2016-11-10T12:28:34+00:00
+43246,LEPI,small_airport,"Casas de los Pinos Airport",39.29819869995117,-2.3787200450897217,2370,EU,ES,ES-CM,Cuenca,0,LEPI,,,,,,0,2009-08-07T08:44:21+00:00
+326764,LEEC,heliport,"Base Aérea de El Copero",37.313164,-5.999058,20,EU,ES,ES-SE,"Dos Hermanas",0,LEEC,,,,https://es.wikipedia.org/wiki/El_Copero,,0,2018-03-23T10:33:25+00:00
+43275,LEIU,heliport,"Iurreta Heliport",43.18190002441406,-2.646389961242676,422,EU,ES,ES-PV,Durango,0,LEIU,,,,,,0,2009-08-07T08:29:12+00:00
+321460,ES-0171,small_airport,"Ecija 2 private airfield",37.547469,-5.1762502,574,EU,ES,ES-AN,Ecija,0,,,,,,,0,2016-12-11T00:16:21+00:00
+321461,ES-0172,small_airport,"Aeródromo de Écija",37.5802316,-5.171264,591,EU,ES,ES-AN,Écija,0,,,,,,,0,2016-12-11T00:21:25+00:00
+321555,ES-0191,small_airport,"Aeródromo El Bonillo",38.872328,-2.673034,3183,EU,ES,ES-AB,"El Bonillo",0,,,,,,,0,2016-12-18T00:35:29+00:00
+320471,ES-0065,small_airport,"Aeródromo Aerópolis",40.020804,-4.558266,1509,EU,ES,ES-CM,"El Casar de Escalona",0,,,,,,,0,2018-07-08T13:18:56+00:00
+321518,ES-0188,small_airport,"El Ejido UL",36.7441167,-2.7674833,157,EU,ES,ES-AL,"El Ejido",0,,,,,,,0,2016-12-15T02:41:14+00:00
+315976,ES-0030,small_airport,"Valle Amblés",40.604722,-4.790278,3543,EU,ES,ES-CL,"El Fresno",0,,,,,,"Baixo Miño,El Salobral",0,2015-10-23T10:30:35+00:00
+321427,ES-0162,small_airport,"Aeródromo Loring",40.6602,-3.59489,1903,EU,ES,ES-M,"El Molar",0,,,,http://aerodromo-loring.blogspot.be/,,,0,2016-12-07T08:20:07+00:00
+321462,ES-0173,small_airport,"Aeròdrom Municipal El Pla de Santa María",41.371467,1.30375,1345,EU,ES,ES-T,"El Pla de Santa María",0,,,,,,"Les Escarbones",0,2016-12-19T06:37:23+00:00
+320644,ES-0084,small_airport,"Aeródromo forestal de Enguera",38.9431666667,-0.76915,1903,EU,ES,ES-V,Enguera,0,,,,,,,0,2016-10-04T10:33:54+00:00
+321132,ES-0129,small_airport,"Aeródromo Juan Espadafor",37.0895027778,-3.7883222222,,EU,ES,ES-GR,Escúzar,0,,,,http://aerodromojuanespadafor.com/,,,0,2016-11-11T05:45:38+00:00
+321576,ES-0197,small_airport,"Aeródromo de Espiel",38.2628667,-5.0442,2362,EU,ES,ES-AN,Espiel,0,,,,,,,0,2016-12-21T00:59:46+00:00
+321113,ES-0127,small_airport,"Aeroclub L’Estartit",42.0310336,3.1793314,10,EU,ES,ES-CT,Estartit,0,,,,,,,0,2016-11-10T12:48:40+00:00
+326685,ES-0237,heliport,"Estepona Airfield",36.495633,-5.17816,2033,EU,ES,ES-MA,Estepona,0,,,,,,,0,2018-03-16T16:34:56+00:00
+321475,ES-0175,small_airport,"Aeródromo Naturmaz",42.9814153,-9.0043778,960,EU,ES,ES-GA,Fervenza,0,,,,http://www.naturmaz.com/es/actividades/aire/ultraligeros/actividades/?sec=actividades-ultraligeros,,,0,2016-12-11T23:40:19+00:00
+321442,ES-0170,small_airport,"Aeròdrom de Foixà",42.029933,2.990761,443,EU,ES,ES-CT,Foixà,0,,,,,,,0,2016-12-09T11:28:31+00:00
+320825,ES-0109,small_airport,"Aeròdrom de Folgueroles",41.95289,2.30661,,EU,ES,ES-U-A,Folgueroles,0,,,,,,Osona,0,2016-10-16T00:43:14+00:00
+321441,ES-0169,small_airport,"Aeródromo Fontioso",41.933305,-3.784808,3068,EU,ES,ES-CL,Fontioso,0,,,,,,,0,2016-12-09T11:22:47+00:00
+43295,LEBI,heliport,"Sa Sabina Heliport",38.71659851074219,1.3999600410461426,44,EU,ES,ES-PM,"Formentera Island",0,LEBI,,,,,,0,2009-08-07T08:29:12+00:00
+321728,ES-0222,small_airport,"Pista forestal de Fuencaliente",38.5264323,-4.389622,2674,EU,ES,ES-CM,Fuencaliente,0,,,,,,,0,2017-01-05T05:21:37+00:00
+321508,ES-0181,small_airport,"Aeródromo de Fuente Obejuna",38.281802,-5.40184,2083,EU,ES,ES-AN,"Fuente Obejuna",0,,,,,,"Ela Aviación",0,2016-12-14T05:42:03+00:00
+321517,ES-0187,small_airport,"Aeródromo Fuentealamo",38.7168167,-1.5461667,2690,EU,ES,ES-AB,Fuentealamo,0,,,,,,,0,2016-12-15T02:39:15+00:00
+320168,ES-0048,small_airport,"Aeródromo de Gérgal",37.12557,-2.595571,2559,EU,ES,ES-AL,Gérgal,0,,,,,,,0,2016-09-09T07:03:57+00:00
+43268,LEJT,heliport,"Hospital Doctor Josep Trueta Heliport",41.99789810180664,2.8213999271392822,215,EU,ES,ES-CT,Gerona,0,LEJT,,,,,,0,2009-08-07T08:29:11+00:00
+43256,LEEL,heliport,"El Musel Heliport",43.54973220825195,-5.695445537567139,1,EU,ES,ES-O,Gijón,0,LEEL,,,,,,0,2009-08-07T07:38:26+00:00
+321610,ES-0209,small_airport,"Aeródromo de Griñón",40.2237809995,-3.866911,2198,EU,ES,ES-M,Griñón,0,,,,,,"Aeroclub Dhaguera",0,2016-12-24T02:02:19+00:00
+327564,ES-0239,heliport,"Base de Helicópteros de Guadramiro",41.011168,-6.477604,,EU,ES,ES-SA,Guadramiro,0,,,,,,,0,2018-05-03T09:31:27+00:00
+329206,ES-0242,heliport,"Guillade Heliport",42.170884,-8.43643,,EU,ES,ES-GA,Guillade,0,,,,,,,0,2018-09-07T06:28:55+00:00
+321430,ES-0163,small_airport,Aeroguillena,37.561238,-6.0308241,197,EU,ES,ES-SE,Guillena,0,,,,http://www.aeroguillena.com,,,0,2016-12-07T08:47:37+00:00
+321431,ES-0164,small_airport,"Camp de vol La Puieda",41.9882928,2.2561665,1726,EU,ES,ES-CT,Gurb,0,,,,,,,0,2016-12-07T09:05:44+00:00
+321432,ES-0165,small_airport,"Aeródromo Gurrea de Gállego",42.035333,-0.746295,1116,EU,ES,ES-AR,"Gurrea de Gállego",0,,,,,,,0,2016-12-07T10:00:45+00:00
+309917,ES-0008,small_airport,"Herrera de Pisuerga Airport",42.5923,-4.2902,2958,EU,ES,ES-P,"Herrera de Pisuerga",0,,,,http://www.aeroperfils.com/escuela.html,,,0,2013-11-10T04:26:37+00:00
+321793,ES-0226,small_airport,"Aeródromo forestal de Herrera del Duque",39.2264442,-4.8863799,1394,EU,ES,ES-EX,"Herrera del Duque",0,,,,,,,0,2017-01-11T01:39:20+00:00
+320474,ES-0067,small_airport,"Aeródromo de Hiendelaencina-Alto Rey",41.10826667,-2.9859667,4101,EU,ES,ES-CM,Hiendelaencina,0,,,,,,,0,2016-09-24T05:52:35+00:00
+43237,LENA,small_airport,"Benabarre Airport",42.0228,0.482222,2450,EU,ES,ES-AR,Huesca,0,LENA,,,http://aerodromobenabarre.info,https://es.wikipedia.org/wiki/Aeródromo_de_Benabarre,"Benabarre,",0,2018-03-18T09:07:09+00:00
+43247,LECJ,small_airport,"Castejón de los Monegros Airport",41.6077995300293,-0.21832700073719025,1424,EU,ES,ES-AR,Huesca,0,LECJ,,,,,,0,2009-08-07T08:45:07+00:00
+321083,ES-0122,closed,"Huevar 2",37.386693,-6.250106,69,EU,ES,ES-AN,Huevar,0,,,,,,,0,2019-01-21T07:22:21+00:00
+43244,LECC,heliport,"Cas Curredó Heliport",38.929100036621094,1.4663300514221191,278,EU,ES,ES-PM,"Ibiza Island",0,LECC,,,,,,0,2009-08-07T07:30:24+00:00
+43266,LENM,heliport,"Hospital Can Misses Heliport",38.91749954223633,1.4194400310516357,91,EU,ES,ES-PM,"Ibiza Island",0,LENM,,,,,,0,2009-08-07T08:29:11+00:00
+321222,ES-0138,small_airport,"Isla Cristina Agricultural Airstrip",37.242111,-7.317649,144,EU,ES,ES-H,"Isla Cristina",0,,,,,,,0,2016-11-17T01:41:29+00:00
+321509,ES-0182,small_airport,"Aeródromo de Jaen - Las Infantas",37.908577,-3.800161,1034,EU,ES,ES-AN,Jaen,0,,,,,,,0,2016-12-14T05:44:22+00:00
+315437,ES-0017,small_airport,"Aeroclub Cáceres",39.329167,-6.343611,1350,EU,ES,ES-EX,"La Cervera",0,,,,,,,0,2015-09-16T06:28:16+00:00
+321526,ES-0189,small_airport,"La Gineta UL",39.110988,-2.008452,2270,EU,ES,ES-AB,"La Gineta",0,,,,,,,0,2016-12-16T02:28:15+00:00
+43297,GCGO,heliport,"San Sebastián De La Gomera Heliport",28.097200393676758,-17.102399826049805,1,EU,ES,ES-CN,"La Gomera Island",0,GCGO,,,,,,0,2009-08-07T08:29:12+00:00
+320762,ES-0101,small_airport,"Aeródromo de la Guardia",39.770897,-3.604716,2097,EU,ES,ES-CM,"La Guardia",0,,,,,,,0,2016-10-12T05:24:25+00:00
+321577,ES-0198,small_airport,"Aeródromo de La Vid de Bureba",42.632037,-3.311456,2297,EU,ES,ES-BU,"La Vid de Bureba",0,,,,,,AeroLaVid,0,2016-12-21T01:13:59+00:00
+320643,ES-0083,small_airport,"Aeródromo forestal de La Yesa",39.909035,-0.948624,3675,EU,ES,ES-V,"La Yesa",0,,,,,,,0,2016-10-04T10:28:05+00:00
+321584,ES-0203,small_airport,"Aeródromo Lanzahita UL",40.186112,-4.946256,1329,EU,ES,ES-CL,Lanzahita,0,,,,,,,0,2016-12-21T05:30:30+00:00
+321440,ES-0168,small_airport,"Lebrija UL",36.896138,-6.0393716,131,EU,ES,ES-AN,Lebrija,0,,,,,,,0,2016-12-09T10:41:50+00:00
+43280,LELI,small_airport,"Aeródromo de Linares",38.133211,-3.642554,1033,EU,ES,ES-AN,Linares,0,LELI,,,,https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Linares,,0,2016-12-07T08:41:17+00:00
+321131,ES-0128,small_airport,"Aeròdrom de Llabiá",42.011798,3.089483,,EU,ES,ES-GE,Llabiá,0,,,,,,,0,2016-11-11T05:30:53+00:00
+321438,ES-0166,small_airport,"Aeródromo de Loja",37.1377455,-4.2698489,,EU,ES,ES-AN,Loja,0,,,,,,,0,2016-12-09T06:53:28+00:00
+43311,LEVF,small_airport,"Villaframil Airport",43.5525016784668,-7.087779998779297,80,EU,ES,ES-GA,Lugo,0,LEVF,,,,,,0,2009-08-07T09:17:43+00:00
+320777,ES-0105,small_airport,"Aeródromo de Lumbier",42.66565,-1.3023833,1575,EU,ES,ES-NA,Lumbier,0,,,,,,"Vuelo Lumbier,Gyro Club Pamplona",0,2016-10-13T12:11:01+00:00
+43251,LEDG,heliport,"Dirección General de Tráfico Heliport",40.44929885864258,-3.6461305618286133,2336,EU,ES,ES-M,Madrid,0,LEDG,,,,,,0,2009-08-07T07:36:54+00:00
+43267,LEDO,heliport,"Hospital Doce de Octubre Heliport",40.3747362789,-3.69985252619,1970,EU,ES,ES-M,Madrid,0,LEDO,,,,,,0,2011-10-16T21:49:13+00:00
+43306,LETS,heliport,"Torre Picasso Heliport",40.44982914369999,-3.69314432144,2340,EU,ES,ES-M,Madrid,0,LETS,,,,,,0,2011-10-16T22:01:49+00:00
+299646,ES-0003,heliport,"Banco de España Helipad",40.4179131733,-3.69491994381,,EU,ES,ES-M,Madrid,0,,,,,,"Helipuerto Civil Madrid - Banco de España",0,2011-12-05T06:59:23+00:00
+43282,LEJO,small_airport,"Madrigalejo Del Monte Airport",42.1343994140625,-3.731029987335205,3030,EU,ES,ES-CL,"Madrigalejo Del Monte",0,LEJO,,,,,,0,2009-08-07T08:58:38+00:00
+316061,ES-0033,small_airport,Aerohíspalis,37.3297,-5.722783,150,EU,ES,ES-SE,"Mairena del Alcor",0,,,,,,"Los Alcores",0,2015-10-26T15:55:27+00:00
+43270,LEHM,heliport,"Hospital General De Manresa Heliport",41.720001220703125,1.840559959411621,962,EU,ES,ES-CT,Manresa,0,LEHM,,,,,,0,2009-08-07T08:29:11+00:00
+43284,LEMS,small_airport,"Manresa Airport",41.76530075073242,1.8616700172424316,897,EU,ES,ES-CT,Manresa,0,LEMS,,,,,,0,2009-08-07T09:00:14+00:00
+43288,LENH,heliport,"Nou Hospital De Mataró Heliport",41.56079864501953,2.429719924926758,638,EU,ES,ES-CT,Mataró,0,LENH,,,,,,0,2009-08-07T08:29:12+00:00
+320141,ES-0045,small_airport,"Base Aérea Las Navas",42.953642,-3.473773,,EU,ES,ES-CL,"Medina de Pomar",0,,,,,,,0,2016-09-07T03:42:55+00:00
+43240,LENB,heliport,"Cala'n Blanes Heliport",39.997501373291016,3.8133299350738525,27,EU,ES,ES-PM,"Menorca Island",0,LENB,,,,,,0,2009-08-06T22:58:31+00:00
+321418,ES-0159,small_airport,"Campo de Vuelo Moixent-Mogente",38.817024,-0.833138,1837,EU,ES,ES-V,"Mogente / Moixent",0,,,,,,,0,2016-12-06T10:41:13+00:00
+320753,ES-0098,small_airport,"Moià El Prat",41.800541,2.112188,2264,EU,ES,ES-CT,Moià,0,,,,http://aeroesport.com,,,0,2016-10-12T02:15:21+00:00
+320754,ES-0099,small_airport,"Moià Les Umbertes",41.7868167,2.129783,2231,EU,ES,ES-CT,Moià,0,,,,http://www.volxerpa.com/,,,0,2016-10-12T02:14:00+00:00
+320138,ES-0042,small_airport,"Aeródromo de Las Cañadillas",38.5019808,-2.270097,3675,EU,ES,ES-AB,Molinicos,0,,,,,,,0,2016-09-07T02:19:33+00:00
+321601,ES-0204,small_airport,"Mollerussa UL",41.6122017,0.8541227,984,EU,ES,ES-CT,Mollerussa,0,,,,http://www.clubaeri.net/,,,0,2016-12-23T02:38:42+00:00
+309932,ES-0014,small_airport,"Monforte Airport",42.547,-7.5191,1078,EU,ES,ES-OR,"Monforte de Lemos",0,,,,,,,0,2016-09-28T05:43:36+00:00
+43281,LEMP,small_airport,"Los Martínez Del Puerto Airport",37.8368166667,-1.09766666667,534,EU,ES,ES-MU,Murcia,0,LEMP,,,,,,0,2015-12-04T10:13:11+00:00
+321511,ES-0184,small_airport,"Aeródromo Navalmoral de la Mata",39.91613,-5.53976,951,EU,ES,ES-EX,"Navalmoral de la Mata",0,,,,,,,0,2016-12-14T06:02:06+00:00
+316062,ES-0034,small_airport,AeroNiebla,37.349722,-6.683889,100,EU,ES,ES-H,Niebla,0,,,,http://www.aeroniebla.com,,,0,2016-10-03T02:38:16+00:00
+320787,ES-0106,small_airport,"Olula del Río",37.362538,-2.331969,1860,EU,ES,ES-AN,"Olula del Río",0,,,,,,,0,2018-07-08T11:26:36+00:00
+43289,LEOT,small_airport,"Ontur Airport",38.61690139770508,-1.524999976158142,2200,EU,ES,ES-CM,Ontur,0,LEOT,,,,,,0,2009-08-07T09:08:29+00:00
+320472,ES-0066,small_airport,"Aeródromo Orce",37.73545,-2.36425,3245,EU,ES,ES-AN,Orce,0,,,,,,,0,2016-09-24T05:43:47+00:00
+321413,ES-0157,small_airport,"Aeródromo de Ordis",42.2325,2.8869444,2231,EU,ES,ES-GE,Ordis,0,,,,,,,0,2016-12-06T01:03:38+00:00
+321392,ES-0153,small_airport,"Ororbia Airport",42.822214,-1.735109,1345,EU,ES,ES-NA,Ororbia,0,,,,,,,0,2018-07-08T12:42:50+00:00
+43291,LEOR,heliport,"Parque De Bomberos De Orriols Heliport",42.132198333740234,2.9038898944854736,530,EU,ES,ES-CT,Orriols,0,LEOR,,,,,,0,2009-08-07T08:29:12+00:00
+321633,ES-0211,small_airport,"Campo de Vuelo de Oteo",43.0168667,-3.3120333,2307,EU,ES,ES-CL,Oteo,0,,,,,,,0,2016-12-27T06:20:40+00:00
+315993,LEOS,small_airport,"Aeródromo de los Oteros",42.3330555556,-5.4519444444,2620,EU,ES,ES-LE,"Pajares de Los Oteros",0,LEOS,,,http://www.aerodromolosoteros.com,,,0,2015-10-24T03:22:41+00:00
+43290,LEPR,small_airport,"Palma Del Río Airport",37.715301513671875,-5.213560104370117,408,EU,ES,ES-AN,"Palma del Rio",0,LEPR,,,,,,0,2009-08-07T09:10:33+00:00
+321624,ES-0210,small_airport,"Palma del Rio 2 UL",37.668501,-5.262086,449,EU,ES,ES-AN,"Palma del Rio",0,,,,,,,0,2016-12-26T03:41:30+00:00
+321513,ES-0185,small_airport,"Aeródromo Pelayos de la Presa",40.3720107,-4.3826756,2215,EU,ES,ES-M,"Pelayos de la Presa",0,,,,,,,0,2016-12-14T06:31:24+00:00
+321391,ES-0152,small_airport,"Campo de Aviación de Peralveche",40.6025245,-2.4293518,3937,EU,ES,ES-GU,Peralveche,0,,,,,,,0,2016-12-04T11:58:13+00:00
+321393,ES-0154,small_airport,"Aeródromo de Piedrahita",40.4798546,-5.3606761,3297,EU,ES,ES-CS,Piedrahita,0,,,,,,,0,2016-12-04T12:34:37+00:00
+321742,ES-0224,small_airport,"Campo de Vuelo de Pozorrubio",39.825953,-2.95236,,EU,ES,ES-CU,Pozorrubio,0,,,,,,,0,2017-01-06T03:03:58+00:00
+320566,ES-0077,small_airport,"Aeródromo Pozuelo de Calatrava",38.905198,-3.852635,1847,EU,ES,ES-CM,"Pozuelo de Calatrava",0,,,,,,,0,2016-09-28T05:38:39+00:00
+321759,ES-0225,small_airport,"Aeródromo Forestal ""Puebla de Don Rodrigo""",39.066067,-4.488502,2067,EU,ES,ES-CR,"Puebla de Don Rodrigo",0,,,,,,,0,2017-01-07T06:50:37+00:00
+320149,ES-0047,small_airport,"Aeródromo de Reboira",43.1782148,-7.0494408,,EU,ES,ES-GA,Reboira,0,,,,,,,0,2016-09-07T06:15:51+00:00
+321609,ES-0208,small_airport,"Aeródromo forestal ""Requena 2""",39.4422585,-1.0493454,2740,EU,ES,ES-V,Requena,0,,,,,,,0,2016-12-24T01:47:41+00:00
+43285,LEPS,heliport,"Mas Passamaner Heliport",41.1859016418457,1.1599199771881104,480,EU,ES,ES-CT,Reus,0,LEPS,,,,,,0,2009-08-07T09:10:07+00:00
+320514,ES-0071,small_airport,Ronda,36.73786,-5.114125,2526,EU,ES,ES-AN,Ronda,0,,,,,,ICONA,0,2016-09-25T12:30:51+00:00
+325396,ES-0236,heliport,"Roses Aerial Military Radar Helipad",42.278272,3.233359,,EU,ES,ES-CT,Roses,0,,,,,,,0,2017-11-09T06:11:28+00:00
+321398,ES-0156,small_airport,Ruidera,39.0369546,-2.8946489,,EU,ES,ES-CR,Ruidera,0,,,,,,,0,2016-12-04T23:07:01+00:00
+321727,ES-0221,small_airport,Ruidera2,39.02495,-2.911927,2871,EU,ES,ES-CR,Ruidera,0,,,,,,,0,2017-01-05T05:18:34+00:00
+320478,ES-0068,small_airport,"Aeròdrom de Can Moragues",41.5809865,2.1000828,,EU,ES,ES-B,Sabadell,0,,,,,,,0,2016-09-24T09:05:40+00:00
+299647,ES-0004,heliport,"Huerta Otea Helipad",40.9644624297,-5.68368673325,,EU,ES,ES-SA,Salamanca,0,,,,,,,0,2011-12-05T07:00:40+00:00
+299648,ES-0005,heliport,"Salamanca Fire Station Helipad",40.9793128692,-5.66011816263,,EU,ES,ES-SA,Salamanca,0,,,,,,,0,2011-12-05T07:02:05+00:00
+320443,ES-0063,small_airport,"Aeròdrom del Pla de Bages",41.777586,1.890361,886,EU,ES,ES-CT,Sallent,0,,,,,,,0,2016-09-23T01:29:15+00:00
+316063,ES-0035,small_airport,"Aeroclub Mar Menor",37.845278,-0.881111,289,EU,ES,ES-MU,"San Javier",0,LELG,,,,,"Los Garranchos",0,2018-03-23T08:42:51+00:00
+321329,ES-0142,small_airport,"Aeródromo de San Jeronimo",37.8849318,-4.8515704,525,EU,ES,ES-AN,"San Jeronimo",0,,,,,,,0,2016-11-28T01:17:48+00:00
+320170,ES-0049,small_airport,"Aerodrómo de Sanchidrián",40.89995,-4.609617,2789,EU,ES,ES-AV,Sanchidrián,0,,,,,,,0,2016-09-09T07:20:04+00:00
+43298,LESG,small_airport,"Sangüesa Airport",42.56560134887695,-1.2847199440002441,1297,EU,ES,ES-NA,Sangüesa,0,LESG,,,,,,0,2009-08-07T09:13:15+00:00
+315981,ES-0031,small_airport,"La Segarra Airfield",41.681294,1.414266,2200,EU,ES,ES-L,"Sant Guim de Freixenet",0,,,,,,,0,2017-11-15T22:56:45+00:00
+43241,LECF,small_airport,"Calaf-Sallavinera Airport",41.744202,1.55694,2355,EU,ES,ES-CT,"Sant Pere Sallavinera",0,LECF,,,,https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Calaf-Salavinera,,0,2016-09-09T07:34:21+00:00
+309929,ES-0012,small_airport,"Castriz/Cambe Airfield",43.102502,-8.7617,1210,EU,ES,ES-C,"Santa Comba",0,,,,,,"Aeroclub Cambre",0,2017-08-26T10:27:22+00:00
+321338,ES-0143,small_airport,"Campo de vuelo de Martinamatos",40.099897,-4.293916,1978,EU,ES,ES-CM,"Santa Cruz del Retamar",0,,,,http://www.martinamatos.com/,,,0,2016-11-30T10:40:23+00:00
+320776,ES-0104,small_airport,"Aerodromo El Busto",42.34463,-5.803481,2648,EU,ES,ES-CL,"Santa Maria del Páramo",0,,,,,,"Aeroclub Esparver",0,2016-10-13T12:06:20+00:00
+309915,ES-0006,small_airport,"Rosinos de la Requejada Airport",42.0981,-6.5262,3330,EU,ES,ES-ZA,"Santiago de la Requejada",0,,,,,,,0,2013-11-10T03:30:30+00:00
+43243,LECX,closed,"Campolara Airport",40.903099,-4.52028,3353,EU,ES,ES-CL,Segovia,0,LECX,,,,,,0,2016-12-17T04:31:34+00:00
+320422,ES-0057,small_airport,"Ses Salines (S’Olivó) Airfield",39.346746,3.057199,164,EU,ES,ES-PM,"Ses Salines",0,,,,,,,0,2018-07-08T11:33:28+00:00
+320774,ES-0102,small_airport,"Aerodromo de Sesma",42.425252,-2.027204,1476,EU,ES,ES-NA,Sesma,0,,,,,,,0,2016-12-02T01:06:16+00:00
+43235,LEGC,small_airport,"Altarejos-Guadalcanal Airport",38.17169952392578,-5.739530086517334,1928,EU,ES,ES-AN,Sevilla,0,LEGC,,,,,,0,2009-08-07T08:37:34+00:00
+43259,LEEX,heliport,"Expo 92 Heliport",37.39929962158203,-6.010674953460693,30,EU,ES,ES-AN,Sevilla,0,LEEX,,,,,,0,2009-08-07T07:41:37+00:00
+320636,ES-0082,small_airport,"Aeródromo La Loma",39.4886667,-0.9022167,2789,EU,ES,ES-V,"Siete Aguas",0,,,,,,,0,2016-10-03T08:18:00+00:00
+321218,ES-0136,small_airport,"Aeródromo de Sigüenza",41.044793,-2.629209,3445,EU,ES,ES-CM,Sigüenza,0,,,,http://www.aeroclubseguntino.com/,,,0,2016-11-17T01:04:16+00:00
+320567,ES-0078,small_airport,"Aeródromo de Sober",42.432403,-7.488721,1903,EU,ES,ES-OR,Sober,0,,,,,,,0,2016-09-28T05:41:30+00:00
+320734,ES-0094,small_airport,"Aeródromo de Sonseca",39.693244,-3.933074,2408,EU,ES,ES-CM,Sonseca,0,,,,,,Villaverde,0,2018-07-08T13:01:08+00:00
+316682,ES-0037,small_airport,"Aeroclub Alto Palancia",39.7986111,-0.42,,EU,ES,ES-V,"Sot de Ferrer",0,,,,,,,0,2016-01-14T10:55:53+00:00
+43302,LESS,small_airport,"Sotos Airport",40.204200744628906,-2.143889904022217,3170,EU,ES,ES-CM,Sotos,0,LESS,,,,,,0,2009-08-07T09:14:16+00:00
+315992,ES-0032,small_airport,"Aerodromo de Monteplano",42.4939531,-1.7008017,,EU,ES,ES-NA,Tafalla,0,,,,,,Monteplano,0,2015-10-24T02:51:12+00:00
+321397,ES-0155,small_airport,"Aeródromo Tarancón",40.01248,-2.977939,2379,EU,ES,ES-CM,Tarancón,0,,,,,,,0,2016-12-04T22:58:22+00:00
+43261,LEGD,heliport,"Garidells Heliport",41.21390151977539,1.2415599822998047,434,EU,ES,ES-CT,Tarragona,0,LEGD,,,,,,0,2009-08-07T07:44:09+00:00
+43263,LEMN,heliport,"Heli Montsiá - Amposta Heliport",40.66640090942383,0.5647220015525818,254,EU,ES,ES-CT,Tarragona,0,LEMN,,,,,,0,2009-08-07T07:45:56+00:00
+43273,LEHJ,heliport,"Hospital Universitario Joan XXIII Heliport",41.1255989074707,1.23812997341156,75,EU,ES,ES-CT,Tarragona,0,LEHJ,,,,,,0,2009-08-07T08:29:11+00:00
+43272,GCHU,heliport,"Hospital Universitario De Canarias Heliport",28.456199645996094,-16.29210090637207,1080,EU,ES,ES-CN,"Tenerife Island",0,GCHU,,,,,,0,2009-08-07T08:29:11+00:00
+316427,LETL,medium_airport,"Teruel Airport",40.403,-1.2183,3380,EU,ES,ES-AR,Teruel,0,LETL,TEV,,http://www.aeropuertodeteruel.com/en/,https://en.wikipedia.org/wiki/Teruel_Airport,,0,2015-11-26T07:08:25+00:00
+321574,ES-0196,small_airport,"Aeródromo de Tinajeros",39.09825,-1.72071,2822,EU,ES,ES-AB,Tinajeros,0,,,,,,"Aeroclub Albacete",0,2016-12-21T00:19:20+00:00
+320140,ES-0044,small_airport,"Aeródromo de la Curiscada",43.3330166667,-6.3785,2241,EU,ES,ES-O,Tineo,0,,,,,,Tinéu,0,2016-09-07T03:36:42+00:00
+43303,LETV,heliport,"Tirviá Heliport",42.518798828125,1.2423100471496582,3150,EU,ES,ES-CT,Tirvia,0,LETV,,,,,,0,2009-08-07T08:31:30+00:00
+309916,ES-0007,small_airport,"Torremocha de Jiloca Airport",40.6032,-1.265,3346,EU,ES,ES-TE,"Torremocha de Jiloca",0,,,,,,,0,2013-11-10T04:00:17+00:00
+321093,ES-0123,small_airport,"Aerodrom Tapioles",42.225478,2.615891,787,EU,ES,ES-L,Tortellà,0,,,,,,,0,2016-11-09T02:31:56+00:00
+316065,ES-0036,small_airport,"Aeroclub Totana",37.753083,-1.4487,,EU,ES,ES-MU,Totana,0,,,,,,,0,2015-10-26T16:18:42+00:00
+320148,ES-0046,small_airport,"Aeródromo de Trasmirás",42.0517681,-7.5986285,,EU,ES,ES-GA,Trasmirás,0,,,,,,,0,2016-09-07T06:11:47+00:00
+43307,LETR,heliport,"Tremp Heliport",42.16939926147461,0.8927779793739319,1930,EU,ES,ES-CT,Tremp,0,LETR,,,,,,0,2009-08-07T08:29:12+00:00
+321390,ES-0151,small_airport,"Aeródromo de Treviño",42.7212725,-2.6783924,1969,EU,ES,ES-BU,Treviño,0,,,,,,,0,2016-12-04T11:50:20+00:00
+321875,ES-0228,closed,"Cortijo Grande",37.1351217,-1.9360369,495,EU,ES,ES-AN,Turre,0,,,,,,,0,2017-01-18T01:51:59+00:00
+43308,LEUL,heliport,"Ullastrell-Teresa Vilá Heliport",41.52429962158203,1.9715800285339355,450,EU,ES,ES-CT,Ullastrell,0,LEUL,,,,,,0,2009-08-07T08:29:12+00:00
+321094,ES-0124,small_airport,"Les Planes UL",40.620435,0.479976,425,EU,ES,ES-T,Ulldecona,0,,,,,,,0,2016-12-19T03:07:59+00:00
+321221,ES-0137,small_airport,"Urda Agricultural Airstrip",39.405432,-3.829932,,EU,ES,ES-CM,Urda,0,,,,,,,0,2016-11-17T01:25:10+00:00
+320628,ES-0081,small_airport,"Aeródromo de Utrera",37.153417,-5.798882,131,EU,ES,ES-SE,Utrera,0,,,,,,,0,2016-10-03T10:51:55+00:00
+321660,ES-0212,small_airport,"Hacienda de Orán",37.2000414,-5.8808531,72,EU,ES,ES-SE,Utrero,0,,,,,,,0,2016-12-31T03:47:23+00:00
+321328,ES-0141,small_airport,"Aeródromo de Valdeazores",39.490575,-4.661292,763,EU,ES,ES-CM,Valdeazores,0,,,,,,,0,2016-11-28T00:47:28+00:00
+321178,ES-0133,closed,"Pista forestal Valdecebro",40.353799,-1.013488,3822,EU,ES,ES-TE,Valdecebro,0,,,,,,,0,2018-11-23T05:53:22+00:00
+321179,ES-0134,small_airport,"Aeródromo de Valdelaguna",40.15787,-3.38066,2549,EU,ES,ES-M,Valdelaguna,0,,,,,,,0,2016-11-14T02:21:19+00:00
+321572,ES-0195,small_airport,"Pista Forestal Valdelamusa",37.7763167,-6.8826667,1135,EU,ES,ES-H,Valdelamusa,0,,,,,,,0,2016-12-20T04:34:51+00:00
+321036,ES-0113,closed,"Aeródromo de La Lora",42.769601,-3.953427,3510,EU,ES,ES-S,Valderredible,0,,,,,,,0,2018-07-08T12:14:28+00:00
+321383,ES-0150,small_airport,"Aeródromo Valdetorres",38.942651,-6.127169,,EU,ES,ES-EX,Valdetorres,0,,,,,,,0,2016-12-04T05:31:16+00:00
+43253,LEVB,small_airport,"El Carrascal Airport",41.82469940185547,-4.893060207366943,2788,EU,ES,ES-CL,Valladolid,0,LEVB,,,,,,0,2009-08-07T08:47:30+00:00
+43286,LETC,small_airport,"Matilla De Los Caños Airport",41.530601501464844,-4.925000190734863,2300,EU,ES,ES-CL,Valladolid,0,LETC,,,,,,0,2009-08-07T09:05:33+00:00
+43305,LETZ,small_airport,"Torozos Airport",41.785301208496094,-4.864729881286621,2784,EU,ES,ES-CL,Valladolid,0,LETZ,,,,,,0,2009-08-07T09:16:41+00:00
+320824,ES-0108,small_airport,"Campo de Vuelo Casimiro Patiño",38.705783,-6.9997499994,820,EU,ES,ES-EX,"Valverde de Leganés",0,,,,,,,0,2016-11-28T01:16:00+00:00
+320627,ES-0080,small_airport,"Aeródromo de Valverde del Camino",37.5056,-6.70245,810,EU,ES,ES-AN,"Valverde del Camino",0,,,,,,,0,2016-10-03T02:31:54+00:00
+321382,ES-0149,small_airport,"Aeródromo de Velada",40.01051,-4.946316,1427,EU,ES,ES-CM,Velada,0,,,,,,"El Baldío, Mejorada",0,2016-12-19T02:55:35+00:00
+315715,ES-0024,small_airport,"Ultralight Aeroclub Müller",37.26076,-1.85236,,EU,ES,ES-AN,Vera,0,,,,,,,0,2015-10-10T03:58:53+00:00
+43309,LEVH,heliport,"Vielha Heliport",42.70439910888672,0.7969459891319275,3200,EU,ES,ES-CT,Vielha,0,LEVH,,,,,,0,2009-08-07T08:29:12+00:00
+321047,ES-0115,small_airport,"Aeròdrom de Viladamat",42.142843,3.051141,,EU,ES,ES-GE,Viladamat,0,,,,,,,0,2016-11-05T02:06:28+00:00
+43252,LEEV,small_airport,"E. Castellanos-Villacastín Airport",40.78390121459961,-4.462779998779297,3637,EU,ES,ES-CL,Villacastin,0,LEEV,,,,,,0,2009-08-07T08:46:28+00:00
+320185,ES-0050,small_airport,"Aeródromo de Villaconejos",40.0969757,-3.5083487,,EU,ES,ES-M,Villaconejos,0,,,,,,,0,2016-09-10T05:58:20+00:00
+321607,ES-0206,small_airport,"Aeródromo privado ""Villamartin2""",36.827132,-5.603212,476,EU,ES,ES-AN,Villamartin,0,,,,,,,0,2016-12-24T04:37:52+00:00
+320412,ES-0054,small_airport,"Aerodromo de Villanueva de Gallego",41.7856,-0.8480333,,EU,ES,ES-AR,"Villanueva de Gallego",0,,,,,,,0,2016-09-21T05:57:49+00:00
+321030,ES-0111,small_airport,"Aeródromo Villanueva del Pardillo",40.5001069999,-3.9920997,,EU,ES,ES-M,"Villanueva del Pardillo",0,,,,,,,0,2016-11-04T02:54:45+00:00
+321067,ES-0119,small_airport,"Campo de vuelo de Villanueva del Trabuco",37.0634284,-4.3303351,2123,EU,ES,ES-AN,"Villanueva del Trabuco",0,,,,,,,0,2016-11-06T05:45:38+00:00
+324773,ES-0233,small_airport,"Aeródromo Forestal ""La Fonfría""",42.3466117,-2.9109476,,EU,ES,ES-LO,Villarejo,0,,,,,,,0,2017-08-23T12:01:24+00:00
+321029,ES-0110,small_airport,"Aeródromo de Córdoba-Villarrubia",37.8367253,-4.8964369,,EU,ES,ES-AN,Villarrubia,0,,,,,,,0,2016-11-04T02:44:26+00:00
+321380,ES-0147,small_airport,"Villaumbrales UL",42.095282,-4.595404,2658,EU,ES,ES-P,Villaumbrales,0,,,,,,"Liberty Air",0,2016-12-04T04:58:06+00:00
+309918,ES-0009,small_airport,"Villoldo Airport",42.2655,-4.6479,2700,EU,ES,ES-P,Villoldo,0,,,,,,,0,2013-11-10T04:49:41+00:00
+298473,ES-0002,small_airport,"Vinaròs Airfield",40.519722222,0.390277778,364,EU,ES,ES-CS,Vinaròs,0,,,,http://www.aeroclubmaestrat.com,,"aeroclub maestrat, aerodrom vinaros, aeroclub vinaros, camp de vol vinaros",0,2011-05-29T21:59:34+00:00
+43258,LEVI,small_airport,"Viso del Marqués Airport",38.5055999756,-3.4261500835399996,2672,EU,ES,ES-CM,"Viso del Marqués",0,LEVI,,,,,,0,2010-12-22T11:06:17+00:00
+320444,ES-0064,small_airport,"Aerodromo Vistabella del Maestrat",40.33185,-0.300633,2953,EU,ES,ES-CS,"Vistabella del Maestrat",0,,,,,,,0,2016-09-23T01:44:02+00:00
+320272,ES-0052,small_airport,"Aeródromo de Viver",39.95398,-0.623243,,EU,ES,ES-CS,Viver,0,,,,,,,0,2016-09-14T01:36:00+00:00
+43250,LEPV,heliport,"Costa Norte-Puerto de Viveiro-Celeiro Heliport",43.674800872802734,-7.5952301025390625,13,EU,ES,ES-GA,Vivero,0,LEPV,,,,,,0,2009-08-07T07:55:16+00:00
+321581,ES-0200,small_airport,"Campo de Vuelo de Xaraco",39.025781,-0.2077532,23,EU,ES,ES-V,Xeraco,0,,,,,,,0,2016-12-21T05:02:38+00:00
+309923,ES-0010,small_airport,"Xinzo de Limia Airport",42.1045,-7.7118,2024,EU,ES,ES-OR,"Xinzo de Limia",0,,,,,,,0,2013-11-10T10:08:49+00:00
+321419,ES-0160,small_airport,"Campo de Vuelo Yecla",38.58759,-1.105,,EU,ES,ES-MU,Yecla,0,,,,,,,0,2016-12-06T11:10:21+00:00
+321575,LEVE,small_airport,"Aeródromo Virgen de La Estrella",38.4205555556,-6.3569444444,1837,EU,ES,ES-BA,Zafra,0,LEVE,,,,,,0,2016-12-21T00:42:42+00:00
+320136,ES-0040,small_airport,"Zalduendo ULM",42.873599,-2.337437,1936,EU,ES,ES-PV,Zalduondo,0,,,,,,,0,2016-09-07T01:56:34+00:00
+321497,ES-0180,small_airport,"Aeródromo de Zalla - Forestal",43.186232,-3.1206308,1641,EU,ES,ES-BI,Zalla,0,,,,,,,0,2016-12-13T01:05:38+00:00
+321582,ES-0201,small_airport,Cogullada,41.691623,-0.85157,673,EU,ES,ES-Z,Zaragoza,0,,,,,,,0,2016-12-21T05:12:49+00:00

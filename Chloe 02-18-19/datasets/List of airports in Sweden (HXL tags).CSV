@@ -1,0 +1,226 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2701,ESSA,large_airport,"Stockholm-Arlanda Airport",59.651901245117,17.918600082397,137,EU,SE,SE-AB,Stockholm,1,ESSA,ARN,,http://www.swedavia.se/arlanda/,http://en.wikipedia.org/wiki/Stockholm-Arlanda_Airport,,1019975,2015-07-28T21:54:56+00:00
+2648,ESGG,large_airport,"Gothenburg-Landvetter Airport",57.662799835205,12.279800415039,506,EU,SE,SE-Q,Gothenburg,1,ESGG,GOT,,https://www.swedavia.com/landvetter/,http://en.wikipedia.org/wiki/Gothenburg-Landvetter_Airport,Göteborg-Landvetter,1275,2015-07-30T15:03:17+00:00
+2660,ESKN,medium_airport,"Stockholm Skavsta Airport",58.78860092163086,16.912200927734375,140,EU,SE,SE-D,"Stockholm / Nyköping",1,ESKN,NYO,,,http://en.wikipedia.org/wiki/Stockholm-Skavsta_Airport,,1050,2008-07-13T14:17:54+00:00
+2702,ESSB,medium_airport,"Stockholm-Bromma Airport",59.354400634765625,17.941699981689453,47,EU,SE,SE-AB,Stockholm,1,ESSB,BMA,,,http://en.wikipedia.org/wiki/Stockholm-Bromma_Airport,,1050,2008-07-13T14:22:15+00:00
+2669,ESMS,large_airport,"Malmö Sturup Airport",55.536305364,13.376197814900001,236,EU,SE,SE-M,Malmö,1,ESMS,MMX,,http://www.swedavia.com/malmo/,http://en.wikipedia.org/wiki/Malm%C3%B6_Airport,,1275,2012-04-02T10:55:30+00:00
+2652,ESGP,medium_airport,"Gothenburg City Airport",57.7747,11.8704,59,EU,SE,SE-Q,Gothenburg,0,ESGP,GSE,,http://www.goteborgairport.se/,http://en.wikipedia.org/wiki/Gothenburg_City_Airport,"Säve Airport, Göteborg City Airport",975,2019-01-11T11:11:03+00:00
+2689,ESNU,medium_airport,"Umeå Airport",63.791801452637,20.282800674438,24,EU,SE,SE-AC,Umeå,1,ESNU,UME,,https://www.swedavia.com/umea/,http://en.wikipedia.org/wiki/Ume%C3%A5_Airport,,1050,2015-07-30T15:00:58+00:00
+2706,ESSL,medium_airport,"Linköping City Airport",58.4062004089,15.680500030500001,172,EU,SE,SE-E,Linköping,1,ESSL,LPI,,http://www.linkopingsflygplats.se/,http://en.wikipedia.org/wiki/Link%C3%B6ping_SAAB_Airport,,1050,2013-07-08T13:40:53+00:00
+2697,ESPA,large_airport,"Luleå Airport",65.543800354004,22.121999740601,65,EU,SE,SE-BD,Luleå,1,ESPA,LLA,,https://www.swedavia.com/lulea/,http://en.wikipedia.org/wiki/Lule%C3%A5_Airport,"Kallax Air Base",1050,2015-07-30T15:01:43+00:00
+2685,ESNQ,medium_airport,"Kiruna Airport",67.821998596191,20.336799621582,1508,EU,SE,SE-BD,Kiruna,1,ESNQ,KRN,,https://www.swedavia.com/kiruna/,http://en.wikipedia.org/wiki/Kiruna_Airport,,975,2015-11-02T10:19:48+00:00
+2710,ESSV,medium_airport,"Visby Airport",57.662799835205,18.346200942993,164,EU,SE,SE-I,Visby,1,ESSV,VBY,,https://www.swedavia.com/visby/,http://en.wikipedia.org/wiki/Visby_Airport,,975,2015-07-30T15:01:17+00:00
+2668,ESMQ,medium_airport,"Kalmar Airport",56.68550109863281,16.287599563598633,17,EU,SE,SE-H,,1,ESMQ,KLR,,,http://en.wikipedia.org/wiki/Kalmar_Airport,,975,2008-06-13T14:30:04+00:00
+2696,ESOW,medium_airport,"Stockholm Västerås Airport",59.58940124511719,16.63360023498535,21,EU,SE,SE-U,"Stockholm / Västerås",1,ESOW,VST,,,http://en.wikipedia.org/wiki/Stockholm-V%C3%A4ster%C3%A5s_Airport,,975,2008-07-13T14:18:48+00:00
+29358,ESNZ,medium_airport,"Åre Östersund Airport",63.194400787354,14.50030040741,1233,EU,SE,SE-Z,Östersund,1,ESNZ,OSD,,https://www.swedavia.com/ostersund/,https://en.wikipedia.org/wiki/%C3%85re_%C3%96stersund_Airport,"F4 Frösön Air Base, ESPC",800,2015-07-30T15:02:10+00:00
+2682,ESNN,medium_airport,"Sundsvall-Härnösand Airport",62.528099060058594,17.443899154663086,16,EU,SE,SE-Y,"Sundsvall/ Härnösand",1,ESNN,SDL,,,http://en.wikipedia.org/wiki/Sundsvall-H%C3%A4rn%C3%B6sand_Airport,,1050,2008-07-13T14:24:11+00:00
+2646,ESDF,medium_airport,"Ronneby Airport",56.266700744629,15.265000343323,191,EU,SE,SE-K,,1,ESDF,RNB,,https://www.swedavia.com/ronneby/,http://en.wikipedia.org/wiki/Ronneby_Airport,,975,2015-07-30T15:02:33+00:00
+2711,ESTA,medium_airport,"Ängelholm-Helsingborg Airport",56.29610061645508,12.847100257873535,68,EU,SE,SE-M,Ängelholm,1,ESTA,AGH,,http://www.lfv.se/templates/LFV_AirportStartPage____4777.aspx,http://en.wikipedia.org/wiki/%C3%84ngelholm-Helsingborg_Airport,"ESDB, Ängelholm Air Base",975,2008-06-14T14:34:32+00:00
+2707,ESSP,medium_airport,"Norrköping Airport",58.586299896240234,16.250600814819336,32,EU,SE,SE-E,Norrköping,1,ESSP,NRK,,,http://en.wikipedia.org/wiki/Norrk%C3%B6ping_Airport,Kungsangen,975,2008-06-13T14:30:04+00:00
+2708,ESST,medium_airport,"Torsby Airport",60.1576004028,12.991299629199998,393,EU,SE,SE-S,,1,ESST,TYF,,http://www.torsbyflygplats.se,http://en.wikipedia.org/wiki/Torsby_Airport,,925,2012-03-21T07:45:30+00:00
+2661,ESKV,small_airport,"Arvika Airport",59.675899505615234,12.639399528503418,237,EU,SE,SE-S,,0,ESKV,,,,,,50,2008-06-13T14:30:04+00:00
+2695,ESOK,medium_airport,"Karlstad Airport",59.444698333699996,13.337400436400001,352,EU,SE,SE-S,Karlstad,1,ESOK,KSD,,,http://en.wikipedia.org/wiki/Karlstad_Airport,,1050,2010-09-01T13:23:40+00:00
+2693,ESOE,medium_airport,"Örebro Airport",59.22370147705078,15.038000106811523,188,EU,SE,SE-T,Örebro,1,ESOE,ORB,,,http://en.wikipedia.org/wiki/%C3%96rebro_Airport,,1050,2008-07-13T14:34:13+00:00
+29367,ESSI,small_airport,"Visingsö Airport",58.0984001159668,14.402600288391113,,EU,SE,SE-F,Visingsö,0,ESSI,,,,,,50,2008-08-13T15:30:26+00:00
+2676,ESNG,medium_airport,"Gällivare Airport",67.13240051269531,20.814599990844727,1027,EU,SE,SE-BD,Gällivare,1,ESNG,GEV,,,http://en.wikipedia.org/wiki/G%C3%A4llivare_Airport,,975,2008-07-13T07:53:05+00:00
+2687,ESNS,medium_airport,"Skellefteå Airport",64.62480163574219,21.076900482177734,157,EU,SE,SE-AC,Skellefteå,1,ESNS,SFT,,,http://en.wikipedia.org/wiki/Skellefte%C3%A5_Airport,,975,2008-07-13T14:16:04+00:00
+29346,ESMH,small_airport,"Höganäs Airport",56.1847991943,12.576100349399999,21,EU,SE,SE-M,Höganäs,0,ESMH,,,,,,50,2012-03-09T09:21:56+00:00
+29328,ESGS,small_airport,"Näsinge Airport",59.0167999268,11.3437004089,115,EU,SE,SE-Q,Strömstad,0,ESGS,,,,,,50,2010-05-12T02:17:23+00:00
+2703,ESSD,medium_airport,"Borlange Airport",60.422000885009766,15.515199661254883,503,EU,SE,SE-W,,1,ESSD,BLE,,,http://en.wikipedia.org/wiki/Borl%C3%A4nge_Airport,,975,2008-06-13T14:30:04+00:00
+2649,ESGJ,medium_airport,"Jönköping Airport",57.757598876953125,14.068699836730957,741,EU,SE,SE-F,Jönköping,1,ESGJ,JKG,,http://www.lfv.se/templates/LFV_AirportStartPage____1672.aspx,http://en.wikipedia.org/wiki/J%C3%B6nk%C3%B6ping_Airport,,975,2008-06-15T20:19:48+00:00
+2664,ESMK,medium_airport,"Kristianstad Airport",55.92169952392578,14.08549976348877,76,EU,SE,SE-M,Kristianstad,1,ESMK,KID,,,http://en.wikipedia.org/wiki/Kristianstad_Airport,,975,2008-06-15T17:21:50+00:00
+2659,ESKM,medium_airport,"Mora Airport",60.957901,14.5114,634,EU,SE,SE-W,Mora,1,ESKM,MXX,,,http://en.wikipedia.org/wiki/Mora-Siljan_Airport,,975,2018-07-05T07:04:34+00:00
+2654,ESGT,medium_airport,"Trollhättan-Vänersborg Airport",58.31809997558594,12.345000267028809,137,EU,SE,SE-Q,Trollhättan,1,ESGT,THN,,,http://en.wikipedia.org/wiki/Trollh%C3%A4ttan-V%C3%A4nersborg_Airport,,975,2008-06-15T20:16:10+00:00
+29392,ESVS,small_airport,"Siljansnäs Airport",60.7850990295,14.8271999359,611,EU,SE,SE-W,Siljansnäs,0,ESVS,,,http://www.siljansnasfk.com,http://sv.wikipedia.org/wiki/Siljan_airpark,,50,2011-04-27T06:26:56+00:00
+2694,ESOH,medium_airport,"Hagfors Airport",60.02009963989258,13.578900337219238,474,EU,SE,SE-S,,1,ESOH,HFS,,,http://en.wikipedia.org/wiki/Hagfors_Airport,,925,2008-06-13T14:30:04+00:00
+2691,ESNX,medium_airport,"Arvidsjaur Airport",65.59030151367188,19.28190040588379,1245,EU,SE,SE-BD,Arvidsjaur,1,ESNX,AJR,,,http://en.wikipedia.org/wiki/Arvidsjaur_Airport,,1050,2008-08-10T09:18:35+00:00
+2672,ESMX,medium_airport,"Växjö Kronoberg Airport",56.929100036621094,14.727999687194824,610,EU,SE,SE-G,Växjö,1,ESMX,VXO,,,http://en.wikipedia.org/wiki/V%C3%A4xj%C3%B6_Airport,,1050,2008-06-13T14:30:04+00:00
+2683,ESNO,medium_airport,"Örnsköldsvik Airport",63.40829849243164,18.989999771118164,354,EU,SE,SE-Y,Örnsköldsvik,1,ESNO,OER,,,http://en.wikipedia.org/wiki/%C3%96rnsk%C3%B6ldsvik_Airport,,975,2008-07-13T14:34:51+00:00
+2651,ESGL,small_airport,"Lidköping-Hovby Airport",58.4655,13.1744,200,EU,SE,SE-Q,Lidköping,0,ESGL,LDK,,http://www.lidkopingairport.com/,http://en.wikipedia.org/wiki/Lidk%C3%B6ping-Hovby_Airport,,325,2018-07-05T05:47:33+00:00
+29370,ESSX,small_airport,"Johannisberg Airport",59.575801849365234,16.50320053100586,,EU,SE,SE-U,Västerås,0,ESSX,,,,,,50,2008-08-13T15:33:07+00:00
+2679,ESNK,medium_airport,"Kramfors Sollefteå Airport",63.04859924316406,17.76889991760254,34,EU,SE,SE-Y,"Kramfors / Sollefteå",1,ESNK,KRF,,,http://en.wikipedia.org/wiki/Kramfors_Airport,,1050,2008-07-13T08:38:48+00:00
+2716,ESUT,medium_airport,"Hemavan Airport",65.80609893798828,15.082799911499023,1503,EU,SE,SE-AC,,1,ESUT,HMV,,,http://en.wikipedia.org/wiki/Hemavan_Airport,,975,2008-06-13T14:30:04+00:00
+2670,ESMT,medium_airport,"Halmstad Airport",56.69110107421875,12.820199966430664,101,EU,SE,SE-N,Halmstad,1,ESMT,HAD,,,http://en.wikipedia.org/wiki/Halmstad_Airport,,975,2008-06-15T18:42:16+00:00
+2709,ESSU,medium_airport,"Eskilstuna Airport",59.35110092163086,16.70840072631836,139,EU,SE,SE-D,Eskilstuna,0,ESSU,EKT,,,,,325,2008-07-13T07:47:22+00:00
+2712,ESTL,medium_airport,"Ljungbyhed Airport",56.082801818847656,13.212499618530273,140,EU,SE,SE-M,Ljungbyhed,0,ESTL,,,,,,300,2008-06-15T17:24:39+00:00
+2658,ESKK,medium_airport,"Karlskoga Airport",59.34590148925781,14.49590015411377,400,EU,SE,SE-T,,0,ESKK,KSK,,,,,250,2008-06-13T14:30:04+00:00
+2700,ESQO,small_airport,"Arboga Airport",59.386600494384766,15.924099922180176,33,EU,SE,SE-U,,0,ESQO,,,,,,50,2008-06-13T14:30:04+00:00
+29326,ESGI,small_airport,"Alingsås Airport",57.949798583984375,12.57800006866455,,EU,SE,SE-Q,Alingsås,0,ESGI,,,,,,50,2008-07-14T08:45:09+00:00
+29323,ESGE,small_airport,"Viared Airport",57.69559860229492,12.84280014038086,,EU,SE,SE-Q,Borås,0,ESGE,,,,,,50,2008-07-14T08:45:09+00:00
+29345,ESMF,small_airport,"Fagerhult Airport",56.3879013062,13.4706001282,378,EU,SE,SE-M,Fagerhult,0,ESMF,,,,,,50,2012-03-14T11:11:21+00:00
+2665,ESML,small_airport,"Landskrona Airport",55.94599914550781,12.869999885559082,194,EU,SE,SE-M,Landskrona,0,ESML,,,,,,50,2008-06-15T17:26:48+00:00
+2663,ESMG,small_airport,"Feringe Airport",56.9502983093,13.921699523900001,538,EU,SE,SE-G,Ljungby,0,ESMG,,,http://www.feringefk.se/,,,50,2012-04-10T04:50:06+00:00
+29365,ESSG,small_airport,"Ludvika Airport",60.08829879760742,15.096400260925293,,EU,SE,SE-W,Ludvika,0,ESSG,,,,,,50,2008-07-14T08:45:10+00:00
+29364,ESSE,small_airport,"Skå-Edeby Airport",59.34510040283203,17.74049949645996,,EU,SE,SE-AB,Stockholm,0,ESSE,,,,,,50,2008-07-14T08:45:10+00:00
+30525,ESTT,small_airport,"Vellinge Airfield",55.3912021148,13.0221033096,12,EU,SE,SE-M,Vellinge,0,ESTT,,,http://www.estt.se/front/,http://en.wikipedia.org/wiki/Vellinge_Airport,"Vellinge/Söderslätt Airfield",50,2012-03-13T10:23:47+00:00
+30439,ESCN,closed,"Stockholm Tullinge Airport",59.17940139770508,17.907800674438477,180,EU,SE,SE-AB,Stockholm,0,ESCN,,,,,,1,2008-08-13T15:36:09+00:00
+2705,ESSK,medium_airport,"Gävle Sandviken Airport",60.593299865722656,16.951400756835938,224,EU,SE,SE-X,"Gävle / Sandviken",0,ESSK,GVX,,,,,375,2008-07-13T07:53:46+00:00
+2653,ESGR,medium_airport,"Skövde Airport",58.45640182495117,13.972700119018555,324,EU,SE,SE-Q,Skövde,0,ESGR,KVB,,,,,375,2008-06-15T20:21:57+00:00
+2645,ESCM,small_airport,"Uppsala Airport",59.897300720214844,17.588600158691406,68,EU,SE,SE-C,,0,ESCM,,,,http://en.wikipedia.org/wiki/%C3%84rna,,50,2008-06-13T14:30:04+00:00
+29333,ESKC,small_airport,"Sundbro Airport",59.922698974609375,17.536800384521484,,EU,SE,SE-C,,0,ESKC,,,,,,50,2008-07-14T08:45:09+00:00
+42719,SE-0002,small_airport,Stegeborg,58.43551254272461,16.607379913330078,7,EU,SE,SE-E,,0,,,,http://www.stegeborg.se/flygfalt.html,,,50,2008-12-06T10:42:07+00:00
+29340,ESKU,small_airport,"Sunne Airport",59.860198974609375,13.112899780273438,,EU,SE,SE-S,,0,ESKU,,,,,,50,2008-07-14T08:45:10+00:00
+29739,ESVB,small_airport,"Bunge Private Airport",57.849700927734375,19.03499984741211,69,EU,SE,SE-I,Bunge,0,ESVB,,,,,,50,2008-06-15T20:54:00+00:00
+29334,ESKD,small_airport,"Dala Järna Airport",60.55609893798828,14.377099990844727,,EU,SE,SE-W,"Dala Järna",0,ESKD,,,,,,50,2008-08-13T15:19:44+00:00
+2650,ESGK,small_airport,"Falköping Airport",58.1697998046875,13.587800025939941,785,EU,SE,SE-Q,Falköping,0,ESGK,,,,,,50,2008-06-15T20:18:45+00:00
+29869,ESTF,small_airport,"Fjällbacka Anra Airport",58.630008697509766,11.314458847045898,10,EU,SE,SE-Q,Fjällbacka,0,ESTF,,,,,,50,2008-07-13T07:50:45+00:00
+29311,ESFA,small_airport,"Hässleholm Bokeberg Airfield",56.134407,13.875647,105,EU,SE,SE-M,Hässleholm,0,ESFA,,,http://www.hlmfk.se,,,50,2016-10-30T06:17:20+00:00
+29375,ESUE,small_airport,"Idre Airport",61.86970138549805,12.689399719238281,,EU,SE,SE-W,Idre,0,ESUE,IDB,,,,,50,2008-08-13T15:18:24+00:00
+29391,ESVQ,small_airport,"Köping Airport",59.52750015258789,15.96969985961914,,EU,SE,SE-U,Köping,0,ESVQ,,,,,,50,2008-08-13T15:32:44+00:00
+30091,ESMN,closed,"Lund Airport",55.6843986511,13.210800170899999,79,EU,SE,SE-M,Lund,0,ESMN,,,http://www.lundsflygklubb.se/,http://en.wikipedia.org/wiki/Lund_Airport,"Hasslanda Airport",50,2012-03-09T07:11:11+00:00
+29331,ESGY,small_airport,"Säffle Airport",59.09120178222656,12.958600044250488,,EU,SE,SE-S,Säffle,0,ESGY,,,,,,50,2008-07-14T08:45:09+00:00
+2657,ESKB,closed,"Barkarby Airport",59.4144743644,17.8821372986,50,EU,SE,SE-AB,Stockholm,0,ESKB,,,,http://en.wikipedia.org/wiki/Barkarby_Airport,,50,2010-08-30T17:36:39+00:00
+29372,ESTO,closed,"Tomelilla Airport",55.543300628699996,14.0009002686,,EU,SE,SE-M,Tomelilla,0,ESTO,,,,,,50,2012-03-09T03:06:46+00:00
+29320,ESGA,small_airport,"Backamo Airport",58.17720031738281,11.97350025177002,,EU,SE,SE-Q,Uddevalla,0,ESGA,,,,,,50,2008-07-14T08:45:09+00:00
+29371,ESSZ,small_airport,"Vängsö Airport",59.10110092163086,17.21109962463379,,EU,SE,SE-D,Vängsö,0,ESSZ,,,,,,50,2008-08-13T15:34:53+00:00
+29330,ESGV,small_airport,"Varberg Getterön airfield",57.1245994568,12.228300094600002,5,EU,SE,SE-N,Varberg,0,ESGV,,,,,,50,2010-05-12T02:41:04+00:00
+2713,ESUD,medium_airport,"Storuman Airport",64.96089935302734,17.69659996032715,915,EU,SE,SE-AC,,1,ESUD,SQO,,,http://en.wikipedia.org/wiki/Storuman_Airport,,975,2008-06-13T14:30:04+00:00
+2704,ESSF,small_airport,"Hultsfred Airport",57.525799,15.8233,366,EU,SE,SE-H,,1,ESSF,HLF,,,https://en.wikipedia.org/wiki/Hultsfred_Airport,,975,2018-09-16T04:32:34+00:00
+2690,ESNV,medium_airport,"Vilhelmina Airport",64.5791015625,16.833599090576172,1140,EU,SE,SE-AC,,1,ESNV,VHM,,,http://en.wikipedia.org/wiki/Vilhelmina_Airport,,925,2008-06-13T14:30:04+00:00
+2675,ESND,medium_airport,"Sveg Airport",62.04779815673828,14.422900199890137,1178,EU,SE,SE-Z,,1,ESND,EVG,,,http://en.wikipedia.org/wiki/Sveg_Airport,,825,2008-06-13T14:30:04+00:00
+2692,ESNY,medium_airport,"Söderhamn Airport",61.26150131225586,17.09910011291504,88,EU,SE,SE-X,Söderhamn,0,ESNY,SOO,,,,,375,2008-07-13T14:24:56+00:00
+2714,ESUK,small_airport,"Kalixfors Airport",67.76480102539062,20.257200241088867,1549,EU,SE,SE-BD,,0,ESUK,,,,,,50,2008-06-13T14:30:04+00:00
+42718,SE-0001,small_airport,"Trosa Troslanda airfield",58.8986167908,17.4984741211,30,EU,SE,SE-D,,0,,,,http://www.trosaflygklubb.se/,,,50,2012-03-15T09:40:53+00:00
+2686,ESNR,small_airport,"Orsa Airport",61.189998626708984,14.712599754333496,683,EU,SE,SE-W,,0,ESNR,,,,,,50,2008-06-13T14:30:04+00:00
+29321,ESGC,small_airport,"Ålleberg Airport",58.134498596191406,13.60260009765625,,EU,SE,SE-Q,Ålleberg,0,ESGC,,,,,,50,2008-07-14T08:45:09+00:00
+2667,ESMP,small_airport,"Anderstorp Airport",57.264198303222656,13.59939956665039,507,EU,SE,SE-F,Anderstorp,0,ESMP,,,,,,50,2008-06-15T20:20:43+00:00
+29374,ESUB,small_airport,"Arbrå Airport",61.51250076293945,16.372499465942383,,EU,SE,SE-X,Arbrå,0,ESUB,,,,,,50,2008-08-13T15:22:44+00:00
+29386,ESVA,small_airport,"Avesta Airport",60.18040084838867,16.122800827026367,,EU,SE,SE-W,Avesta,0,ESVA,,,,,,50,2008-07-14T08:45:10+00:00
+42720,SE-0003,small_airport,Bollnäs,61.356201171875,16.328800201416016,270,EU,SE,SE-X,Bollnäs,0,,,,http://www.bollnasflygklubb.se/flygf%C3%A4ltsinformation2,,,50,2008-12-30T14:07:23+00:00
+29342,ESMB,small_airport,"Borglanda Airport",56.8629989624,16.6560993195,118,EU,SE,SE-H,Borglanda,0,ESMB,,,http://www.borglanda.se,,Öland,50,2012-03-14T10:50:46+00:00
+29387,ESVG,small_airport,"Gagnef Airport",60.551700592041016,15.081600189208984,,EU,SE,SE-W,Djurås,0,ESVG,,,,,,50,2008-08-13T15:20:43+00:00
+29336,ESKH,small_airport,"Ekshärad Airport",60.15480041503906,13.528599739074707,,EU,SE,SE-S,Ekshärad,0,ESKH,,,,,,50,2008-08-13T15:25:48+00:00
+29363,ESSC,small_airport,"Ekeby Airport",59.3838996887207,16.4419002532959,,EU,SE,SE-D,Eskilstuna,0,ESSC,,,,,,50,2008-08-13T15:33:59+00:00
+29344,ESME,small_airport,"Eslöv Airport",55.848300933800004,13.328300476099999,296,EU,SE,SE-M,Eslöv,0,ESME,,,,http://sv.wikipedia.org/wiki/Esl%C3%B6vs_flygplats,,50,2010-09-22T04:28:43+00:00
+29324,ESGF,small_airport,"Morup Airport",56.97129821777344,12.389100074768066,,EU,SE,SE-N,Falkenberg,0,ESGF,,,,,,50,2008-07-14T08:45:09+00:00
+29904,ESGN,small_airport,"Brännebrona Airport",58.5786018371582,13.610600471496582,259,EU,SE,SE-Q,Götene,0,ESGN,,,,,,50,2008-06-15T20:34:20+00:00
+29335,ESKG,small_airport,"Gryttjom Airport",60.2869987487793,17.42169952392578,,EU,SE,SE-C,Gryttjom,0,ESKG,,,,,,50,2008-07-14T08:45:10+00:00
+29388,ESVH,small_airport,"Hällefors Airport",59.867401123046875,14.42389965057373,,EU,SE,SE-T,Hällefors,0,ESVH,,,,,,50,2008-08-13T15:28:34+00:00
+29325,ESGH,small_airport,"Herrljunga Airport",58.029300689697266,13.108200073242188,,EU,SE,SE-Q,Herrljunga,0,ESGH,,,,,,50,2008-07-14T08:45:09+00:00
+30015,ESSQ,closed,"Karlstad South Airport",59.359199523899996,13.4660997391,148,EU,SE,SE-S,Karlstad,0,ESSQ,,,,,,50,2012-06-19T08:04:34+00:00
+29389,ESVK,small_airport,"Katrineholm Airport",59.022300720214844,16.220300674438477,,EU,SE,SE-D,Katrineholm,0,ESVK,,,,,,50,2008-08-13T15:35:26+00:00
+29366,ESSH,small_airport,"Laxå Airport",58.97869873046875,14.666199684143066,,EU,SE,SE-T,Laxå,0,ESSH,,,,,,50,2008-07-14T08:45:10+00:00
+29368,ESSM,small_airport,"Brattforshede Airport",59.6083984375,13.912300109863281,,EU,SE,SE-S,Lindfors,0,ESSM,,,,,,50,2008-08-13T15:26:56+00:00
+29390,ESVM,small_airport,"Skinnlanda Airport",60.65879821777344,13.72659969329834,,EU,SE,SE-W,Malung,0,ESVM,,,,,,50,2008-08-13T15:39:39+00:00
+29337,ESKO,small_airport,"Munkfors Airport",59.79880142211914,13.490699768066406,,EU,SE,SE-S,Munkfors,0,ESKO,,,,,,50,2008-08-13T15:26:21+00:00
+30191,ESSN,small_airport,"Norrtälje Airport",59.7327995300293,18.696399688720703,39,EU,SE,SE-AB,Norrtälje,0,ESSN,,,,,,50,2008-06-15T20:42:07+00:00
+31020,ESCY,closed,"Nyge Airport",58.7456016541,17.0489006042,7,EU,SE,SE-D,Nyköping,0,ESCY,,,,,,50,2010-08-30T17:38:50+00:00
+29327,ESGM,small_airport,"Öresten Airport",57.4453010559082,12.64900016784668,,EU,SE,SE-Q,Öresten,0,ESGM,,,,,"Oreste Airport",50,2008-07-14T08:45:09+00:00
+29352,ESMY,small_airport,"Smålandsstenar Smålanda Airport",57.168598175,13.440199852,540,EU,SE,SE-F,Smålandsstenar,0,ESMY,,,,,,50,2012-03-15T09:24:14+00:00
+29354,ESNB,small_airport,"Sollefteå Airport",63.171199798583984,16.985200881958008,,EU,SE,SE-Y,Sollefteå,0,ESNB,,,,,,50,2008-08-13T15:15:01+00:00
+29347,ESMI,small_airport,"Sjöbo/Sövde Airport",55.598201751699996,13.6746997833,118,EU,SE,SE-M,Sövdeborg,0,ESMI,,,http://www.sjoboflyg.se/esmi.php,,,50,2010-09-22T05:03:12+00:00
+29322,ESGD,small_airport,"Bämmelshed Airport",58.19179916381836,13.995699882507324,,EU,SE,SE-Q,Tidaholm,0,ESGD,,,,,,50,2008-07-14T08:45:09+00:00
+29339,ESKT,closed,"Tierp Air Base",60.345001220703,17.421899795532,,EU,SE,SE-C,Tierp,0,ESKT,,,,,,50,2016-01-27T11:04:25+00:00
+29329,ESGU,small_airport,"Rörkärr Airport",58.36759948730469,11.775400161743164,,EU,SE,SE-Q,Uddevalla,0,ESGU,,,,,,50,2008-07-14T08:45:09+00:00
+315918,SE-0009,small_airport,"Flygfältet Långtora",59.746288,17.144863,,EU,SE,SE-U,,0,ESVL,,,,,,0,2017-06-20T16:37:23+00:00
+46509,SE-0004,small_airport,Norberg,60.107157287899994,15.950399637199999,,EU,SE,SE-W,,0,,,,,,,0,2010-08-30T04:45:50+00:00
+299971,SE-0005,small_airport,"Åre / Molanda",63.3283291729,13.425722122199998,1047,EU,SE,SE-Z,,0,,,,,,,0,2011-11-22T17:19:36+00:00
+2680,ESNL,medium_airport,"Lycksele Airport",64.54830169677734,18.71619987487793,705,EU,SE,SE-AC,,1,ESNL,LYC,,,http://en.wikipedia.org/wiki/Lycksele_Airport,,1050,2008-06-13T14:30:04+00:00
+2666,ESMO,small_airport,"Oskarshamn Airport",57.350498,16.497999,96,EU,SE,SE-H,,1,ESMO,OSK,,,https://en.wikipedia.org/wiki/Oskarshamn_Airport,,925,2018-09-13T13:16:48+00:00
+2715,ESUP,medium_airport,"Pajala Airport",67.24559783935547,23.068899154663086,542,EU,SE,SE-BD,,0,ESUP,PJA,,,http://en.wikipedia.org/wiki/Pajala_Airport,,325,2008-06-13T14:30:04+00:00
+29361,ESPJ,closed,"Hede Air Base",65.838302612305,21.468799591064,,EU,SE,SE-BD,,0,ESPJ,,,,,,250,2016-01-27T11:01:23+00:00
+29373,ESUA,closed,"Åmsele Air Base",64.570602416992,19.314100265503,,EU,SE,SE-AC,Åmsele,0,ESUA,,,,,,250,2016-01-27T11:04:55+00:00
+29341,ESKX,medium_airport,"Björkvik Air Base",58.79079818725586,16.571199417114258,,EU,SE,SE-D,Björkvik,0,ESKX,,,,,,250,2008-08-13T15:38:51+00:00
+29376,ESUF,closed,"Fällfors Air Base",65.107597351074,20.761100769043,,EU,SE,SE-AC,Fällfors,0,ESUF,,,,,,250,2016-01-27T11:00:45+00:00
+29356,ESNF,closed,"Färila Air Base",61.897998809814,15.705300331116,,EU,SE,SE-X,Färila,0,ESNF,,,,,,250,2016-01-27T11:01:51+00:00
+2677,ESNH,closed,"Hudiksvall Airport",61.7681007385,17.0806999207,95,EU,SE,SE-X,Hudiksvall,0,ESNH,HUV,,,,,250,2010-12-29T19:48:44+00:00
+29357,ESNI,closed,"Kubbe Air Base",63.632499694824,17.936000823975,,EU,SE,SE-Y,Kubbe,0,ESNI,,,,,,250,2016-01-27T11:03:25+00:00
+2643,ESCF,medium_airport,"Malmen Air Base",58.40230178833008,15.525699615478516,308,EU,SE,SE-E,Linköping,0,ESCF,,,,,,250,2008-06-15T20:31:13+00:00
+2644,ESCK,closed,"Bråvalla Air Base",58.61090087890625,16.103599548339844,90,EU,SE,SE-E,Norrköping,0,ESCK,,,,,,250,2009-01-20T06:39:07+00:00
+2647,ESFR,medium_airport,"Råda Air Base",58.49810028076172,13.053199768066406,230,EU,SE,SE-Q,Råda,0,ESFR,,,,,,250,2008-07-13T08:45:29+00:00
+2656,ESIB,medium_airport,"Såtenäs Air Base",58.42639923095703,12.714400291442871,181,EU,SE,SE-Q,Såtenäs,0,ESIB,,,,,,250,2008-06-15T20:26:16+00:00
+29318,ESFU,closed,"Urasa Air Base",56.6814002991,14.946700096099999,,EU,SE,SE-G,Växjö,0,ESFU,,,,http://sv.wikipedia.org/wiki/Ur%C3%A5sa_flygbas,,250,2012-03-09T09:34:34+00:00
+29338,ESKS,closed,"Strängnäs Air Base",59.31380081176758,17.109100341796875,,EU,SE,SE-D,Strängnäs,0,ESKS,,,http://www.bunkertours.se/mh/strangnas57.html,,,200,2008-12-06T09:36:46+00:00
+2678,ESNJ,small_airport,"Jokkmokk Airport",66.49620056152344,20.147199630737305,904,EU,SE,SE-BD,,0,ESNJ,,,,,,50,2008-06-13T14:30:04+00:00
+2671,ESMV,small_airport,"Hagshult Air Base",57.292198,14.1372,556,EU,SE,SE-F,,0,ESMV,,,http://www.flygklubb.se/medlem/index.cfm?klubb=001&user=999&password=demo,https://sv.wikipedia.org/wiki/Hagshult_flygbas,,50,2017-08-05T19:01:22+00:00
+2688,ESNT,closed,"Sättna Airport",62.4814,17.002899,886,EU,SE,SE-Y,,0,ESNT,,,,,,50,2016-11-01T11:52:50+00:00
+2673,ESNA,small_airport,"Hallviken Airport",63.73830032348633,15.45829963684082,1119,EU,SE,SE-Z,,0,ESNA,,,,,,50,2008-06-13T14:30:04+00:00
+2681,ESNM,small_airport,"Optand Airport",63.12860107421875,14.802800178527832,1236,EU,SE,SE-Z,,0,ESNM,,,,,,50,2008-06-13T14:30:04+00:00
+29350,ESMU,small_airport,"Möckeln Airport",56.570701599100005,14.166500091600001,480,EU,SE,SE-G,Älmhult,0,ESMU,,,,,,50,2012-03-09T09:42:04+00:00
+29384,ESUV,small_airport,"Älvsbyn Airport",65.64569854736328,21.061100006103516,,EU,SE,SE-BD,Älvsbyn,0,ESUV,,,,,Alvsby,50,2008-08-13T15:06:30+00:00
+29379,ESUJ,small_airport,"Tälje Airport",62.56529998779297,15.834699630737305,,EU,SE,SE-Y,Ånge,0,ESUJ,,,,,,50,2008-08-13T15:15:21+00:00
+29383,ESUS,small_airport,"Åsele Airport",64.15910339355469,17.27429962158203,,EU,SE,SE-AC,Åsele,0,ESUS,,,,,,50,2008-08-13T15:11:19+00:00
+29362,ESQP,heliport,"Berga Heliport",59.0702018738,18.1170005798,,EU,SE,SE-AB,"Berga Naval Base",0,ESQP,,,,,,50,2016-01-19T19:25:49+00:00
+29360,ESPG,closed,"Boden Army Air Base",65.810302734375,21.691299438477,,EU,SE,SE-BD,Boden,0,ESPG,,,,,,50,2016-01-27T10:58:37+00:00
+29319,ESFY,closed,"Byholma Air Base",56.7834014893,13.6014003754,,EU,SE,SE-G,Byholma,0,ESFY,,,,http://sv.wikipedia.org/wiki/Byholma_flygbas,,50,2012-03-09T09:38:08+00:00
+29385,ESUY,small_airport,"Edsby Airport",61.387001037597656,15.833399772644043,,EU,SE,SE-X,Edsbyn,0,ESUY,,,,,,50,2008-08-13T15:23:13+00:00
+29343,ESMC,small_airport,"Ränneslätt Airport",57.670600891099994,14.9429998398,720,EU,SE,SE-F,Eksjö,0,ESMC,,,http://norrasmalandsfk.se,,,50,2012-03-14T11:01:47+00:00
+2662,ESMA,closed,"Emmaboda Airfield",56.610802,15.6048,442,EU,SE,SE-H,Emmaboda,0,ESMA,,,,,,50,2016-10-31T10:19:49+00:00
+29377,ESUG,small_airport,"Gargnäs Airport",65.3052978515625,17.975500106811523,,EU,SE,SE-AC,Gargnäs,0,ESUG,,,,,,50,2008-08-13T15:11:03+00:00
+29332,ESKA,small_airport,"Gimo Air Base",60.1328010559082,18.104900360107422,,EU,SE,SE-C,Gimo,0,ESKA,,,,,,50,2008-07-14T08:45:09+00:00
+29909,ESUO,small_airport,"Graftavallen Airport",63.04169845581055,14.001399993896484,1640,EU,SE,SE-Z,Graftavallen,0,ESUO,,,,,,50,2008-08-13T15:17:11+00:00
+29920,ESTG,closed,"Grönhögen Airport",56.275002,16.42,10,EU,SE,SE-H,Grönhögen,0,ESTG,,,,,Öland,50,2016-11-02T00:35:49+00:00
+29378,ESUH,small_airport,"Myran Airport",62.632469177246094,17.981700897216797,,EU,SE,SE-Y,Härnösand,0,ESUH,,,,,,50,2008-08-13T15:15:55+00:00
+29312,ESFH,closed,"Hasslosa Air Base",58.409698486328,13.26309967041,,EU,SE,SE-Q,Hasslosa,0,ESFH,,,,,,50,2016-01-27T11:02:27+00:00
+2674,ESNC,small_airport,"Hedlanda Airport",62.40890121459999,13.747200012199999,1460,EU,SE,SE-Z,Hede,0,ESNC,,,,http://sv.wikipedia.org/wiki/Hedlanda_flygplats,,50,2010-02-26T08:57:08+00:00
+29348,ESMJ,small_airport,"Kågeröd Airport",55.9947013855,13.0509004593,276,EU,SE,SE-M,Kågeröd,0,ESMJ,,,,,,50,2012-03-09T09:23:18+00:00
+2655,ESIA,small_airport,"Karlsborg Air Base",58.51380157470703,14.507100105285645,308,EU,SE,SE-Q,Karlsborg,0,ESIA,,,,,,50,2008-06-15T20:32:31+00:00
+29313,ESFI,closed,"Knislinge Air Base",56.18719863889999,14.136300087,,EU,SE,SE-M,Knislinge,0,ESFI,,,,,,50,2012-03-09T07:15:20+00:00
+29316,ESFQ,closed,"Kosta Air Base",56.8445014954,15.4527997971,,EU,SE,SE-G,Kosta,0,ESFQ,,,,http://sv.wikipedia.org/wiki/Kosta_flygbas,,50,2016-01-27T11:02:56+00:00
+29380,ESUL,small_airport,"Ljusdal Airport",61.81700134277344,16.00429916381836,,EU,SE,SE-X,Ljusdal,0,ESUL,,,,,,50,2008-08-13T15:22:31+00:00
+30129,ESUI,small_airport,"Mellansel Airport",63.39830017089844,18.32830047607422,269,EU,SE,SE-Y,Mellansel,0,ESUI,,,,,,50,2008-08-13T15:14:24+00:00
+29381,ESUM,small_airport,"Mohed Airport",61.29119873046875,16.84630012512207,,EU,SE,SE-X,Mohed,0,ESUM,,,,,,50,2008-08-13T15:23:35+00:00
+29315,ESFM,closed,"Moholm Air Base",58.5975,14.1109,,EU,SE,SE-Q,Moholm,0,ESFM,,,,http://sv.wikipedia.org/Moholm-Bällefors_flygbas,,50,2016-10-31T02:32:48+00:00
+29353,ESMZ,small_airport,"Ölanda Airport",57.3282356084,17.0505237579,27,EU,SE,SE-H,Ölanda,0,ESMZ,,,http://www.ölanda.se/,,Öland,50,2012-03-14T11:14:14+00:00
+29355,ESNE,small_airport,"Överkalix Airport",66.52870178222656,22.350000381469727,,EU,SE,SE-BD,Överkalix,0,ESNE,,,,,Ylikainuu,50,2008-07-14T08:45:10+00:00
+2684,ESNP,small_airport,"Piteå Airport",65.39830017089844,21.260799407958984,43,EU,SE,SE-BD,Piteå,0,ESNP,,,,,,50,2008-07-13T08:44:49+00:00
+29317,ESFS,small_airport,"Sandvik Airport",57.06809997558594,16.861299514770508,,EU,SE,SE-H,Sandvik,0,ESFS,,,,,Öland,50,2008-07-14T08:45:09+00:00
+29382,ESUR,small_airport,"Ramsele Airport",63.490299224853516,16.483400344848633,,EU,SE,SE-Y,Sollefteå,0,ESUR,,,,,,50,2008-08-13T15:13:00+00:00
+29359,ESOL,small_airport,"Lemstanas Airport",60.58789825439453,16.58679962158203,,EU,SE,SE-X,Storvik,0,ESOL,,,,,,50,2008-08-13T15:40:10+00:00
+29349,ESMR,closed,"Trelleborg Airport",55.3833007812,13.0310001373,,EU,SE,SE-M,Trelleborg,0,ESMR,,,,,"Maglarp Airport",50,2012-03-09T07:09:04+00:00
+30522,ESGO,small_airport,"Vårgårda Airport",58.039398193359375,12.788900375366211,328,EU,SE,SE-Q,Vårgårda,0,ESGO,,,,,,50,2008-06-15T20:11:24+00:00
+29369,ESSW,small_airport,"Västervik Airport",57.779998779296875,16.52359962463379,,EU,SE,SE-H,Västervik,0,ESSW,VVK,,,,,50,2008-07-14T08:45:10+00:00
+2699,ESPE,small_airport,"Vidsel Air Base",65.87529754638672,20.149900436401367,597,EU,SE,SE-BD,Vidsel,0,ESPE,,,,,,50,2008-07-13T14:26:46+00:00
+29938,ESMD,closed,"Hässleholm Vankivar Airport",56.18470001220703,13.750300407409668,180,EU,SE,SE-M,Hässleholm,0,ESMD,,,,,,1,2008-06-14T17:29:03+00:00
+29314,ESFJ,closed,"Sjöbo Air Base",55.64899826049805,13.626099586486816,,EU,SE,SE-M,Sjöbo,0,ESFJ,,,,,,1,2008-07-14T08:45:09+00:00
+29351,ESMW,closed,"Tingsryd Airport",56.53310012817383,14.964099884033203,,EU,SE,SE-G,Tingsryd,0,ESMW,,,,,,1,2008-07-14T08:45:10+00:00
+316386,SE-0010,small_airport,"Vallentuna flygfält",59.5417862,18.0386607,,EU,SE,SE-AB,,0,,,,,,,0,2015-11-18T12:23:41+00:00
+316407,SE-0011,seaplane_base,"Täby Sjöflygklubb",59.448046,18.136212,,EU,SE,SE-AB,,0,,,,http://www.tsk.nu,,,0,2015-11-21T11:45:46+00:00
+316849,SE-0018,small_airport,"Frölunda Airfield",59.45837,17.71065,,EU,SE,SE-AB,,0,,,,,,,0,2016-01-27T10:53:49+00:00
+328612,SE-0050,heliport,"Myttinge Heliport",59.394406,18.4707801,,EU,SE,SE-AB,,0,,,,,,,0,2018-07-03T05:07:53+00:00
+323345,SE-0033,closed,"Vindeln Flygfält",64.2676824,19.6187966,,EU,SE,SE-AC,,0,,,,,,,0,2017-05-21T01:37:29+00:00
+316456,SE-0012,heliport,"Kvikkjokk Heliport",66.9418987,17.7391567,,EU,SE,SE-BD,,0,,,,,,,0,2015-12-02T10:21:11+00:00
+323670,SE-0040,small_airport,"Kokhedsfältet Airstrip",66.1504889,21.0352497,,EU,SE,SE-BD,,0,,,,,,,0,2017-06-08T02:46:11+00:00
+323801,SE-0043,closed,Junosuando,67.4211943,22.3986822,,EU,SE,SE-BD,,0,,,,,,,0,2017-06-12T03:21:19+00:00
+329158,SE-0053,heliport,"Esrange Heliport",67.8920296,21.0855448,,EU,SE,SE-BD,,0,,,,,,,0,2018-09-02T01:56:52+00:00
+329832,SE-0054,heliport,"Ritsem Heliport",67.7169666,17.4794345,,EU,SE,SE-BD,,0,,,,,,,0,2018-12-14T04:25:38+00:00
+320951,SE-0026,small_airport,"Finspångs flygfält",58.73342,15.603996,,EU,SE,SE-E,,0,,,,http://gliding.se,,"Linköpings Segelflygklubb",0,2018-07-21T07:43:44+00:00
+301001,SE-0007,small_airport,"Staffanstorp Bjällerup Field",55.658778215299996,13.2649612427,,EU,SE,SE-M,,0,,,,,,,0,2012-03-21T08:34:21+00:00
+325550,SE-0048,small_airport,"Duvhed flygfält UL",57.443448,12.164868,,EU,SE,SE-N,,0,,,,,,,0,2017-11-20T14:15:37+00:00
+314590,SE-0008,small_airport,"Kattleberg Airport",57.98004,12.14489,,EU,SE,SE-Q,,0,,,,,,,0,2015-05-20T16:21:07+00:00
+322241,SE-0027,small_airport,"Flygebyns hoppövningsfält",58.6033945,14.4544131,,EU,SE,SE-Q,,0,,,,,,,0,2017-02-25T01:18:05+00:00
+316457,SE-0013,small_airport,Ovansjö,62.2356284,17.3848248,,EU,SE,SE-Y,,0,,,,,,,0,2015-12-02T10:46:21+00:00
+320916,SE-0023,small_airport,"Baggböle Airstrip",62.1908112,17.2688212,,EU,SE,SE-Y,,0,,,,,,,0,2016-10-25T15:17:11+00:00
+325119,SE-0047,small_airport,"Åviken Fly Camp",63.2127778,18.7491667,,EU,SE,SE-Y,,0,,,,,,,0,2017-10-07T02:00:15+00:00
+316462,SE-0014,small_airport,Ålåsen,63.8656982,14.608111,,EU,SE,SE-Z,,0,,,,,,,0,2015-12-04T11:37:34+00:00
+316483,SE-0015,small_airport,"Orrlanda Flygfält",63.0928328,14.4414464,,EU,SE,SE-Z,,0,,,,,,,0,2015-12-07T10:59:17+00:00
+320942,SE-0025,small_airport,"Flykälens flygfält",63.8671458,15.0391201,,EU,SE,SE-Z,,0,,,,,,,0,2016-10-28T04:43:01+00:00
+320917,SE-0024,small_airport,"Älvdalens flygklubb",61.2139663,14.043191,,EU,SE,SE-W,Älvdalen,0,,,,http://www.alvdalsflyg.se,,,0,2016-10-25T15:24:16+00:00
+300948,SE-0006,small_airport,"Alvesta Smålanda Airfield",56.925822,14.542294,450,EU,SE,SE-G,Alvesta,0,,,,http://www.smalanda.se/,,,0,2019-01-03T06:07:07+00:00
+320296,SE-0021,small_airport,"Finnskoga/Backa flygplats",60.553495,13.102787,,EU,SE,SE-S,Backa,0,,,,,,,0,2018-07-21T07:40:22+00:00
+328694,SE-0052,small_airport,"Bergs Airstrip",62.7788937,14.4059394,,EU,SE,SE-Z,Berg,0,,,,,,,0,2018-07-07T12:36:21+00:00
+323060,SE-0028,small_airport,"Charlottenberg Airstrip",59.8942235,12.2722539,,EU,SE,SE-S,Charlottenberg,0,,,,,,,0,2017-05-07T03:52:50+00:00
+328677,SE-0051,small_airport,"Degerfors Grenlanda Airport",59.102878,14.300332,375,EU,SE,SE-T,Degerfors,0,,,,,,,0,2018-07-05T23:48:47+00:00
+323061,SE-0029,small_airport,"Dorotea flygfält",64.2645686,16.4899441,,EU,SE,SE-AC,Dorotea,0,,,,,,,0,2017-05-07T03:55:28+00:00
+316544,SE-0017,small_airport,"Frostlanda flygfält",64.4820531,14.1044967,,EU,SE,SE-Z,Gäddede,0,,,,,,Frostlanda,0,2015-12-13T13:37:31+00:00
+324727,SE-0046,small_airport,"Gimo gräsfält",60.1770224,18.1941428,,EU,SE,SE-C,Gimo,0,,,,,,,0,2017-08-14T01:44:12+00:00
+323121,SE-0031,small_airport,"Kolåsens flygfält",63.764233,12.909206,,EU,SE,SE-Z,Kolåsen,0,,,,,,,0,2018-07-21T07:45:39+00:00
+300955,ESEM,heliport,"Lund Hospital Heliport",55.711812312300005,13.1986892223,352,EU,SE,SE-M,Lund,0,ESEM,,,,,,0,2012-03-15T12:37:12+00:00
+323351,SE-0034,closed,"Malå flygfält",65.2133586,18.6844303,,EU,SE,SE-AC,Malå,0,,,,,,,0,2017-05-21T03:25:07+00:00
+323412,SE-0035,small_airport,Överlanda,62.958041,18.047853,,EU,SE,SE-Y,Överlanda,0,,,,,,,0,2017-05-24T02:31:42+00:00
+323800,SE-0042,small_airport,"Pålsträsket Airstrip",65.639347,21.231589,,EU,SE,SE-BD,Pålsträsk,0,,,,,,,0,2017-06-12T03:18:23+00:00
+323298,SE-0032,small_airport,"Porjus flygfält",66.963289,19.833215,1281,EU,SE,SE-BD,Porjus,0,,,,,,,0,2017-06-04T10:11:31+00:00
+323062,SE-0030,small_airport,"Finlanda Flygfält",63.9118865,16.3228905,,EU,SE,SE-Z,Rossön,0,,,,,,,0,2017-05-07T03:58:39+00:00
+324583,SE-0045,small_airport,"Sala flygfält",59.8951254,16.6301461,,EU,SE,SE-U,Sala,0,,,,,,,0,2017-07-29T00:52:36+00:00
+316498,SE-0016,small_airport,"Sälens Flygplats",61.1590918,12.8406755,,EU,SE,SE-W,Sälen,0,,,,,,,0,2015-12-08T14:49:37+00:00
+323741,SE-0041,closed,"Satter Airstrip",66.88023,21.91066,,EU,SE,SE-BD,Satter,0,,,,,,,0,2017-06-10T02:17:38+00:00
+319198,SE-0019,heliport,"Karolinska Universitetssjukhuset Helipad",59.351108,18.035162,,EU,SE,SE-AB,Solna,0,,,,,,,0,2016-06-28T09:27:51+00:00
+323647,SE-0038,closed,"Stalons flygfält",64.950554,15.826759,,EU,SE,SE-AC,Stalon,0,,,,,,,0,2017-06-05T18:10:42+00:00
+323638,SE-0037,closed,Storberg,65.4881278,18.9268684,,EU,SE,SE-BD,Storberg,0,,,,,,,0,2017-06-04T02:25:16+00:00
+323633,SE-0036,closed,Suddesjaur,65.913351,19.1643,1130,EU,SE,SE-BD,Suddesjaur,0,,,,,,,0,2017-06-04T10:21:57+00:00
+320294,SE-0020,small_airport,"Bänkås Hoppfält",62.389086,17.452807,,EU,SE,SE-Y,Sundsvall,0,,,,,,"Sundsvalls Fallskärmsklubb",0,2018-07-21T07:39:28+00:00
+327325,SE-0049,small_airport,"Timmele Airfield",57.872988,13.430448,,EU,SE,SE-Q,Timmele,0,,,,,,,0,2018-04-24T13:45:08+00:00
+323669,SE-0039,small_airport,"Tjautjasjaure Airstrip",67.3275684,20.7439752,,EU,SE,SE-BD,Tjautjas,0,,,,,,,0,2017-06-08T02:42:11+00:00
+320848,SE-0022,small_airport,"Vassunda Private Airfield",59.7216732,17.7199959,,EU,SE,SE-U,Vassunda,0,,,,,,,0,2016-10-19T02:40:26+00:00
+323849,SE-0044,small_airport,"Vuollerim Airstrip",66.4344129,20.6340556,,EU,SE,SE-BD,Vuollerim,0,,,,,,,0,2017-06-14T03:06:14+00:00

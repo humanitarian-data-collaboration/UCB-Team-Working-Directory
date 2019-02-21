@@ -1,0 +1,14 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3095,GFLL,large_airport,"Lungi International Airport",8.61644,-13.1955,84,AF,SL,SL-N,Freetown,1,GFLL,FNA,,http://www.freetownairport.com/,http://en.wikipedia.org/wiki/Lungi_International_Airport,,875,2019-01-13T13:04:44+00:00
+301111,SL-0001,heliport,"Mammy Yoko Heliport",8.49231124864,-13.2884573936,,AF,SL,SL-W,,0,,,JMY,,,,0,2013-06-22T14:59:29+00:00
+31728,GFBO,medium_airport,"Bo Airport",7.944399833679199,-11.76099967956543,328,AF,SL,SL-S,Bo,1,GFBO,KBS,,,http://en.wikipedia.org/wiki/Bo_Airport,,550,2009-02-08T22:03:22+00:00
+31741,GFKE,medium_airport,"Kenema Airport",7.891290187835693,-11.176600456237793,485,AF,SL,SL-E,Kenema,1,GFKE,KEN,,,http://en.wikipedia.org/wiki/Kenema_Airport,,550,2009-01-29T12:21:50+00:00
+32689,GFYE,medium_airport,"Yengema Airport",8.610469818115234,-11.04539966583252,1300,AF,SL,SL-E,Yengema,1,GFYE,WYE,,,http://en.wikipedia.org/wiki/Yengema_Airport,,550,2009-02-08T22:05:49+00:00
+30799,GFBN,medium_airport,"Sherbro International Airport",7.5324201583862305,-12.518899917602539,14,AF,SL,SL-S,Bonthe,1,GFBN,BTE,,,http://en.wikipedia.org/wiki/Sherbro_International_Airport,"Bonthe Airport",350,2009-02-08T22:04:37+00:00
+31525,GFHA,small_airport,"Hastings Airport",8.397130012512207,-13.12909984588623,60,AF,SL,SL-W,Freetown,0,GFHA,HGS,,,http://en.wikipedia.org/wiki/Hastings_Airport,,50,2009-01-29T12:15:33+00:00
+31517,GFGK,small_airport,"Gbangbatok Airport",7.767000198364258,-12.383000373840332,75,AF,SL,SL-S,Gbangbatok,0,GFGK,GBK,,,http://en.wikipedia.org/wiki/Gbangbatok_Airport,,50,2009-01-29T12:19:54+00:00
+31721,GFKB,small_airport,"Kabala Airport",9.638322913429999,-11.5155601501,1012,AF,SL,SL-N,Kabala,0,GFKB,KBA,,,http://en.wikipedia.org/wiki/Kabala_Airport,,50,2010-04-14T10:30:29+00:00
+31526,GFTO,small_airport,"Tongo Airport",8.217000007629395,-11.067000389099121,750,AF,SL,SL-E,Tongo,0,GFTO,,,,,,50,2008-08-03T11:41:11+00:00
+308901,SL-0002,heliport,"RSLAF Cockerill Barracks",8.473990571760002,-13.2776427269,,AF,SL,SL-W,,0,,,,,,,0,2013-06-22T15:00:46+00:00
+308902,SL-0003,heliport,"UN Aviation Heliport",8.48768473679,-13.288103342100001,,AF,SL,SL-W,,0,,,,,,,0,2013-06-22T15:00:55+00:00

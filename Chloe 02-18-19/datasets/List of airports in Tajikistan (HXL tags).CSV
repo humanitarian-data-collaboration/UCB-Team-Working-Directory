@@ -1,0 +1,17 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+26385,UTDD,medium_airport,"Dushanbe Airport",38.543300628699996,68.8249969482,2575,AS,TJ,TJ-RR,Dushanbe,1,UTDD,DYU,,,http://en.wikipedia.org/wiki/Dushanbe_Airport,,875,2012-01-02T11:53:35+00:00
+26386,UTDL,medium_airport,"Khudzhand Airport",40.21540069580078,69.6947021484375,1450,AS,TJ,TJ-SU,Khudzhand,1,UTDL,LBD,,,http://en.wikipedia.org/wiki/Khudzhand_Airport,"Khodjend, Khodzhent, Leninabad, Khujand",875,2008-06-13T14:30:04+00:00
+6372,UT1B,small_airport,"Moskovskiy Pyandzh Airport",37.64039993286133,69.64659881591797,1624,AS,TJ,TJ-KT,Ak-Mazar,0,,,,,,UT1B,50,2009-04-01T18:32:22+00:00
+6375,TJ-UT45,medium_airport,"Gissar Air Base",38.512298584,68.67250061040001,2379,AS,TJ,TJ-RR,Dushanbe,0,,,,,http://en.wikipedia.org/wiki/Gissar_Air_Base,"UT45, Душанбе, Stalinabad",50,2012-01-02T11:58:00+00:00
+6371,UT1A,small_airport,"Isfara Airport",40.120601654052734,70.67520141601562,2814,AS,TJ,TJ-SU,Isfara,0,,,,,http://en.wikipedia.org/wiki/Isfara_Airport,UT1A,50,2009-04-01T17:21:20+00:00
+6373,UT1C,small_airport,"Khorog Airport",37.502222,71.513333,6700,AS,TJ,TJ-GB,Khorog,0,UTOD,,,,http://en.wikipedia.org/wiki/Khorog_Airport,UT1C,50,2012-08-04T23:16:40+00:00
+6377,UTDK,medium_airport,"Kulob Airport",37.98809814453125,69.80500030517578,2293,AS,TJ,TJ-KT,Kulyab,1,UTDK,TJU,,,http://en.wikipedia.org/wiki/Kulob_Airport,,50,2009-04-01T18:29:49+00:00
+32556,UTDT,medium_airport,"Qurghonteppa International Airport",37.86640167236328,68.86470031738281,1473,AS,TJ,TJ-KT,Kurgan-Tyube,1,UTDT,KQT,,,http://en.wikipedia.org/wiki/Qurghonteppa_International_Airport,Kurgan-Tube,50,2009-04-01T18:33:17+00:00
+6374,TJ-UT44,small_airport,"Murghab Airport",38.190399169921875,74.02469635009766,11962,AS,TJ,TJ-GB,Murghab,0,,,,,,"UT44, Murgab, Мурғоб, مرغاب",50,2009-04-01T17:40:06+00:00
+6376,TJ-UT46,medium_airport,"Farkhor Air Base",37.46979904169999,69.3807983398,1450,AS,TJ,TJ-KT,Parkhar,0,,,,,http://en.wikipedia.org/wiki/Farkhor_Air_Base,"Parkhar South Airport, UT46",50,2009-11-22T11:50:16+00:00
+300330,TJ-0003,small_airport,"Ayni Airport",39.405555555599996,68.5227777778,4655,AS,TJ,TJ-SU,Ayni,0,,,,,,,0,2012-01-02T12:28:07+00:00
+44404,TJ-0002,small_airport,"Dusti Airfield",37.369998931884766,68.68399810791016,,AS,TJ,TJ-KT,Dusti,0,,,,,,"Аэродром Дусти",0,2009-04-28T18:59:29+00:00
+44385,TJ-0001,small_airport,"Dzhirgatal Airport",39.22999954223633,71.21499633789062,,AS,TJ,TJ-RR,Dzhirgatal,0,,,,,,"Аэропорт Джиргаталь",0,2009-04-24T13:25:14+00:00
+300332,TJ-0005,small_airport,"Garm Airport",39.0038888889,70.2902777778,4280,AS,TJ,TJ-RR,Garm,0,,,,,,,0,2012-01-02T13:00:26+00:00
+300331,TJ-0004,small_airport,"Penjikent Airport",39.482222222199994,67.6055555556,3400,AS,TJ,TJ-SU,Panjakent,0,,,,,,,0,2012-01-02T12:47:04+00:00

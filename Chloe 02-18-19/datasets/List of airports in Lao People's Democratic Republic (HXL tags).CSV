@@ -1,0 +1,22 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+26588,VLVT,medium_airport,"Wattay International Airport",17.988300323500003,102.56300354,564,AS,LA,LA-VT,Vientiane,1,VLVT,VTE,,http://www.vientianeairport.com/,http://en.wikipedia.org/wiki/Wattay_International_Airport,,1000,2010-09-02T14:55:21+00:00
+26583,VLLB,medium_airport,"Luang Phabang International Airport",19.897300720214844,102.16100311279297,955,AS,LA,LA-LP,"Luang Phabang",1,VLLB,LPQ,,,http://en.wikipedia.org/wiki/Luang_Prabang_International_Airport,,800,2008-12-19T20:12:01+00:00
+26584,VLPS,medium_airport,"Pakse International Airport",15.132100105285645,105.78099822998047,351,AS,LA,LA-CH,Pakse,1,VLPS,PKZ,,,http://en.wikipedia.org/wiki/Pakse_Airport,,800,2008-07-11T08:52:49+00:00
+26585,VLPV,small_airport,"Phonesavanh Airport",19.45490074157715,103.21800231933594,3628,AS,LA,LA-XI,,0,VLPV,,,,,,50,2008-06-13T14:30:04+00:00
+32741,VLSB,small_airport,"Sayaboury Airport",19.2436,101.7093,962,AS,LA,LA-XA,Sainyabuli,1,VLSB,ZBY,,,http://en.wikipedia.org/wiki/Sayaboury_Airport,,50,2014-06-21T15:43:56+00:00
+26582,VLHS,small_airport,"Ban Huoeisay Airport",20.2572994232,100.43699646,1380,AS,LA,LA-BK,"Huay Xai",1,VLHS,HOE,,,http://en.wikipedia.org/wiki/Ban_Huoeisay_Airport,"Ban Houayxay, Ban Houei Sai, Ban Huay Xai, ສະໜາມບິນບໍ່ແກ້ວ,",450,2014-11-16T13:11:47+00:00
+31868,VLLN,small_airport,"Luang Namtha Airport",20.966999,101.400002,1968,AS,LA,LA-LM,"Luang Namtha",1,VLLN,LXG,,,https://en.wikipedia.org/wiki/Louang_Namtha_Airport,,450,2018-09-16T03:34:00+00:00
+32582,VLOS,small_airport,"Oudomsay Airport",20.68269920349121,101.99400329589844,1804,AS,LA,LA-OU,Oudomsay,1,VLOS,ODY,,,http://en.wikipedia.org/wiki/Oudomsay_Airport,,450,2008-08-03T11:51:19+00:00
+32703,VLXK,small_airport,"Xieng Khouang Airport",19.450001,103.157997,3445,AS,LA,LA-XI,"Xieng Khouang",1,VLXK,XKH,,,https://en.wikipedia.org/wiki/Xieng_Khouang_Airport,,450,2018-09-15T16:05:45+00:00
+26587,VLSN,medium_airport,"Sam Neua Airport",20.418399810791016,104.06700134277344,3281,AS,LA,LA-HO,,0,VLSN,NEU,,,,,250,2008-06-13T14:30:04+00:00
+26586,VLSK,medium_airport,"Savannakhet Airport",16.55660057067871,104.76000213623047,509,AS,LA,LA-SV,,0,VLSK,ZVK,,,http://en.wikipedia.org/wiki/Savannakhet_Airport,,250,2008-12-19T20:12:05+00:00
+30647,VLAP,small_airport,"Attopeu Airport",14.814715357,106.821699142,344,AS,LA,LA-AT,Attopeu,0,VLAP,AOU,,,,,50,2011-11-26T12:29:46+00:00
+32585,VLSV,small_airport,"Saravane Airport",15.709439207700001,106.410698891,574,AS,LA,LA-SL,Saravane,0,VLSV,VNA,,,,,50,2010-03-17T17:06:01+00:00
+32445,VLTK,small_airport,"Thakhek Airport",17.399999618530273,104.80000305175781,449,AS,LA,LA-KH,Thakhek,0,VLTK,THK,,,,,50,2008-12-19T20:12:09+00:00
+299996,LA-0003,closed,"Muang Ou Tai",22.1219444444,101.799166667,2314,AS,LA,LA-PH,,0,,,,,,,0,2011-11-26T11:14:52+00:00
+44414,LA-0002,closed,"Long Tieng Airfield",19.10700035095215,102.92400360107422,,AS,LA,LA-XI,,0,,,,,http://en.wikipedia.org/wiki/Long_Tieng,"Long Chieng Airfield, Long Cheng Airfield, Long Chen Airfield, Lima Site 20A Airfield, Lima Site 98 Airfield, LS 20A Airfield, LS 98 Airfield",0,2009-04-30T15:05:10+00:00
+299997,LA-0004,closed,"Muang Souy Airfield",19.5238888889,102.889166667,3721,AS,LA,LA-XI,"Muang Souy",0,,,,,,"Moung Soui",0,2011-11-26T14:01:05+00:00
+301254,PCQ,small_airport,"Boun Neau Airport",21.6475,101.9,3050,AS,LA,LA-PH,Phongsaly,0,VLFL,PCQ,,,,"Baun Neua, Bounneua, Bun Nua, Boun Nua",0,2015-10-07T01:28:44+00:00
+44413,LA-0001,closed,"LS 6 Airfield",18.924999,102.450996,,AS,LA,LA-VI,"Vang Vieng",0,,,,,,"Lima Site 6 Airfield",0,2016-02-17T17:53:54+00:00
+317828,VLXL,small_airport,"Xienglom Airport",19.6203,100.815332,1830,AS,LA,LA-BK,Xienglom,0,VLXL,XIE,,,https://pl.wikipedia.org/wiki/Port_lotniczy_Xienglom,,0,2016-05-08T19:45:36+00:00

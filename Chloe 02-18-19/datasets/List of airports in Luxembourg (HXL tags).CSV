@@ -1,0 +1,12 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2563,ELLX,large_airport,"Luxembourg-Findel International Airport",49.6233333,6.2044444,1234,EU,LU,LU-L,Luxembourg,1,ELLX,LUX,,http://www.lux-airport.lu/en/,http://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport,,1275,2016-08-22T00:56:12+00:00
+31003,ELUS,small_airport,"Useldange Glider",49.7686004639,5.96555995941,928,EU,LU,LU-D,Useldange,0,ELUS,,,http://www.clvv.lu/index.php?locale=en&l1=elus1&menu=li6,,,50,2015-10-16T14:01:19+00:00
+30188,ELNT,small_airport,"Noertrange Airfield",49.981098,5.91778,1522,EU,LU,LU-D,Winseler,0,ELNT,,,http://www.geocities.com/CapeCanaveral/Lab/3407/noertran.html,,,50,2018-11-11T04:12:52+00:00
+43765,LU-0003,heliport,"Centre Hospitalier de Luxembourg Helipad",49.619279,6.102534,1079,EU,LU,LU-L,Luxembourg,0,ELLC,,,,,,0,2017-06-20T16:14:11+00:00
+43767,LU-0005,heliport,"Clinique Ste-Thérèse heliport",49.60340626789999,6.1291050910900005,1001,EU,LU,LU-L,Luxembourg,0,,,,,,,0,2009-09-08T07:42:42+00:00
+43768,LU-0006,heliport,"Hôpital Kirchberg heliport",49.632616,6.177118,1220,EU,LU,LU-L,Luxembourg,0,ELLK,,,,,,0,2017-06-20T16:16:36+00:00
+43764,LU-0002,closed,"Medernach / Kitzebour ULM",49.7891998291,6.24110984802,1171,EU,LU,LU-D,Medernach,0,ELMD,,,http://www.aeroplume.lu/,,,0,2016-02-05T19:46:03+00:00
+324609,LU-0007,closed,"Erase Me 2",0,0.1,,EU,LU,LU-L,,0,,,,,,,0,2017-11-26T09:17:28+00:00
+43766,LU-0004,heliport,"Centre Hospitalier Emile Mayrisch Heliport",49.500911,5.982146,971,EU,LU,LU-L,Esch-Sur-Alzette,0,ELEA,,,,,,0,2017-06-20T15:57:56+00:00
+43763,LU-0001,heliport,"Ettelbruck heliport",49.85432,6.094475,666,EU,LU,LU-D,Ettelbruck,0,ELET,,,,,,0,2017-06-20T16:07:04+00:00

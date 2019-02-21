@@ -1,0 +1,65 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+6384,TJSJ,large_airport,"Luis Munoz Marin International Airport",18.4393997192,-66.0018005371,9,NA,PR,PR-U-A,"San Juan",1,TJSJ,SJU,SJU,,http://en.wikipedia.org/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn_International_Airport,"Isla Verde",1012275,2013-08-29T11:26:26+00:00
+6381,TJIG,medium_airport,"Fernando Luis Ribas Dominicci Airport",18.45680046081543,-66.09809875488281,10,NA,PR,PR-U-A,"San Juan",1,TJIG,SIG,SIG,,http://en.wikipedia.org/wiki/Fernando_Luis_Ribas_Dominicci_Airport,"Isla Grande",800,2008-10-17T20:07:18+00:00
+6379,TJBQ,medium_airport,"Rafael Hernandez Airport",18.49489974975586,-67.12940216064453,237,NA,PR,PR-U-A,Aguadilla,1,TJBQ,BQN,BQN,,http://en.wikipedia.org/wiki/Rafael_Hern%C3%A1ndez_Airport,"Ramey, TJFF",875,2008-10-17T20:07:16+00:00
+6385,TJVQ,small_airport,"Antonio Rivera Rodriguez Airport",18.1347999573,-65.493598938,49,NA,PR,PR-U-A,"Vieques Island",0,TJVQ,VQS,VQS,,http://en.wikipedia.org/wiki/Antonio_Rivera_Rodr%C3%ADguez_Airport,,50,2012-11-22T01:28:35+00:00
+42321,TJRV,small_airport,"José Aponte de la Torre Airport",18.245300293,-65.6434020996,38,NA,PR,PR-U-A,Ceiba,1,TJRV,NRR,RVR,,http://en.wikipedia.org/wiki/Jos%C3%A9_Aponte_de_la_Torre_Airport,"Formerly Roosevelt Roads Naval Air Station, Formerly NRR, Formerly TJNR",50,2015-12-19T23:27:05+00:00
+42320,TJCP,small_airport,"Benjamin Rivera Noriega Airport",18.313289,-65.304324,49,NA,PR,PR-U-A,"Culebra Island",0,TJCP,CPX,CPX,,http://en.wikipedia.org/wiki/Benjam%C3%ADn_Rivera_Noriega_Airport,"Culebra Airport",50,2010-02-21T12:01:27+00:00
+24223,PR20,small_airport,"Adjuntas Airport",18.1802,-66.756897,2340,NA,PR,PR-U-A,Adjuntas,0,PR20,,PR20,,,,50,2016-07-31T13:18:48+00:00
+6382,TJMZ,medium_airport,"Eugenio Maria De Hostos Airport",18.255699157714844,-67.14849853515625,28,NA,PR,PR-U-A,Mayaguez,1,TJMZ,MAZ,MAZ,,http://en.wikipedia.org/wiki/Eugenio_Mar%C3%ADa_de_Hostos_Airport,,875,2008-06-13T14:30:04+00:00
+6383,TJPS,medium_airport,"Mercedita Airport",18.00830078125,-66.56300354003906,29,NA,PR,PR-U-A,Ponce,1,TJPS,PSE,PSE,,http://en.wikipedia.org/wiki/Mercedita_Airport,,875,2008-06-13T14:30:04+00:00
+6378,TJAB,medium_airport,"Antonio Nery Juarbe Pol Airport",18.4500007629,-66.6753005981,23,NA,PR,PR-U-A,Arecibo,0,TJAB,ARE,ABO,,http://en.wikipedia.org/wiki/Antonio_(Nery)_Juarbe_Pol_Airport,,250,2012-06-17T19:03:18+00:00
+6380,TJFA,medium_airport,"Diego Jimenez Torres Airport",18.308900833129883,-65.66190338134766,64,NA,PR,PR-U-A,Fajardo,0,TJFA,FAJ,X95,,http://en.wikipedia.org/wiki/Diego_Jim%C3%A9nez_Torres_Airport,,250,2008-06-13T14:30:04+00:00
+42317,PR-HUC,small_airport,"Humacao Airport",18.1380996704,-65.8013000488,33,NA,PR,PR-U-A,Humacao,0,,HUC,X63,,http://en.wikipedia.org/wiki/Humacao_Airport,,50,2010-01-04T07:15:05+00:00
+24236,PR34,seaplane_base,"San Juan Seaplane Base",18.457799911499997,-66.1211013794,10,NA,PR,PR-U-A,"San Juan",1,PR34,,PR34,,,,25,2012-09-12T01:25:19+00:00
+308018,PR-0005,closed,"[DELETE] Areopuerto Internacional Michael Gonzalez Figueroa",17.9578321023,-66.8408203125,9,NA,PR,PR-U-A,Adjuntas,1,,,,,,,0,2012-11-23T09:22:15+00:00
+42324,PR-0003,small_airport,"Labadle Airport",18.448699951171875,-67.0625991821289,540,NA,PR,PR-U-A,Aceitunas,0,,,,,,,50,2008-10-17T20:07:22+00:00
+24227,PR24,small_airport,"Cullingford Field",17.97640037536621,-67.1707992553711,14,NA,PR,PR-U-A,Boqueron,0,PR24,,PR24,,,,50,2008-11-13T11:53:06+00:00
+5496,PR10,small_airport,"Boqueron Airport",18.010700225830078,-67.14129638671875,3,NA,PR,PR-U-A,"Cabo Rojo",0,PR10,,PR10,,,,50,2008-06-13T14:30:04+00:00
+42316,PR-DDP,closed,"Dorado Beach Airport",18.4649657136,-66.295580864,75,NA,PR,PR-U-A,Dorado,0,,DDP,,,,,50,2012-11-17T15:35:46+00:00
+42325,PR25,small_airport,"Lajas Airpark",18.0125007629,-67.0691986084,30,NA,PR,PR-U-A,Lajas,0,,,PR25,,,,50,2010-02-21T12:14:43+00:00
+24212,PR07,small_airport,"Boqueron Airport",18.201900482177734,-65.83910369873047,373,NA,PR,PR-U-A,"Las Piedras",0,PR07,,PR07,,,,50,2008-11-13T11:52:35+00:00
+42322,PR-0001,small_airport,"Mona Airport",18.075300216674805,-67.93099975585938,1,NA,PR,PR-U-A,"Mona Island",0,,,,,,,50,2008-10-17T20:07:20+00:00
+42318,PR-PPD,closed,"Palmas del Mar Airstrip",18.086200714111,-65.796501159668,100,NA,PR,PR-U-A,"Palmas del Mar",0,,PPD,,,,,50,2015-08-18T13:59:02+00:00
+26134,X64,small_airport,"Patillas Airport",17.982200622558594,-66.01930236816406,10,NA,PR,PR-U-A,Patillas,0,X64,,X64,,http://en.wikipedia.org/wiki/Patillas_Airport,,50,2008-11-13T11:53:34+00:00
+42323,PR-0002,small_airport,"Fort Allen Airport",18.008399963378906,-66.50669860839844,31,NA,PR,PR-U-A,"Potala Pastillo",0,,,,,,,50,2008-10-17T20:07:21+00:00
+5497,PR27,small_airport,"Santa Isabel Airport",17.963199615478516,-66.39119720458984,27,NA,PR,PR-U-A,"Santa Isabel",0,PR27,,PR27,,,,50,2008-10-17T20:07:16+00:00
+6680,02PR,small_airport,"Cuylers Airport",18.45330047607422,-66.36689758300781,15,NA,PR,PR-U-A,"Vega Baja",0,02PR,,02PR,,,,50,2008-11-13T11:52:15+00:00
+42319,TJCG,closed,"Vieques Airport",18.115800857500002,-65.4226989746,19,NA,PR,PR-U-A,"Vieques Island",0,TJCG,VQS,,,,,50,2012-11-23T08:47:37+00:00
+24226,PR23,heliport,"Baxter-Aibonito Heliport",18.139699935913086,-66.26629638671875,1836,NA,PR,PR-U-A,Aibonito,0,PR23,,PR23,,,,25,2008-11-13T11:53:04+00:00
+24235,PR33,heliport,"Bayamon Regional Hospital Heliport",18.36750030517578,-66.15380096435547,110,NA,PR,PR-U-A,Bayamon,0,PR33,,PR33,,,,25,2008-11-13T11:53:22+00:00
+24238,PR53,heliport,"Sabanera Heliport",18.190799713134766,-66.12079620361328,1350,NA,PR,PR-U-A,Cidra,0,PR53,,PR53,,,,25,2008-11-13T11:53:28+00:00
+24211,PR06,heliport,"Hill Heliport",18.299999237060547,-65.2833023071289,80,NA,PR,PR-U-A,Culebra,0,PR06,,PR06,,,,25,2008-11-13T11:52:33+00:00
+24209,PR03,seaplane_base,"Fajardo Harbor Seaplane Base",18.33970069885254,-65.62460327148438,,NA,PR,PR-U-A,Fajardo,0,PR03,,PR03,,,,25,2008-11-13T11:52:29+00:00
+24229,PR26,heliport,"Villa Marina Heliport",18.331300735473633,-65.63289642333984,15,NA,PR,PR-U-A,Fajardo,0,PR26,,PR26,,,,25,2008-11-13T11:53:10+00:00
+8626,1PR3,heliport,"San Patricio Heliport",18.406099319458008,-66.10600280761719,157,NA,PR,PR-U-A,Guaynabo,0,1PR3,,1PR3,,,,25,2008-11-13T11:52:19+00:00
+24224,PR21,heliport,"Fort Buchanan Heliport",18.415000915527344,-66.13189697265625,33,NA,PR,PR-U-A,Guaynabo,0,PR21,,PR21,,,,25,2008-11-13T11:53:00+00:00
+24239,PR68,heliport,"Mora Development Corp Heliport",18.415300369262695,-66.07579803466797,50,NA,PR,PR-U-A,"Hato Rey",0,PR68,,PR68,,,,25,2008-11-13T11:53:30+00:00
+24210,PR04,heliport,"Squibb Heliport",18.148799896240234,-65.7938003540039,16,NA,PR,PR-U-A,Humacao,0,PR04,,PR04,,,,25,2008-11-13T11:52:31+00:00
+24230,PR28,heliport,"R.H. Heliport",18.494199752807617,-67.02420043945312,24,NA,PR,PR-U-A,Isabela,0,PR28,,PR28,,,,25,2008-11-13T11:53:12+00:00
+24218,PR14,heliport,"Orama-Iayuya Heliport",18.21109962463379,-66.62930297851562,1463,NA,PR,PR-U-A,Jayuya,0,PR14,,PR14,,,,25,2008-11-13T11:52:48+00:00
+24219,PR15,heliport,"Parguera Heliport",17.975000381469727,-67.04440307617188,32,NA,PR,PR-U-A,Lajas,0,PR15,,PR15,,,,25,2008-11-13T11:52:50+00:00
+24234,PR32,heliport,"Hospital Alejandro Otero Lopez Heliport",18.4335994720459,-66.48359680175781,116,NA,PR,PR-U-A,Manati,0,PR32,,PR32,,,,25,2008-11-13T11:53:20+00:00
+24214,PR09,heliport,"Sabalos Ward Heliport",18.17609977722168,-67.14669799804688,34,NA,PR,PR-U-A,Mayaguez,0,PR09,,PR09,,,,25,2008-11-13T11:52:39+00:00
+24231,PR29,heliport,"Villamil-Mayaguez Mall Heliport",18.158899307250977,-67.14640045166016,82,NA,PR,PR-U-A,Mayaguez,0,,,,,,PR29,25,2009-08-27T09:58:32+00:00
+24222,PR19,heliport,"Orocovis Health Center Heliport",18.226600646972656,-66.39430236816406,1717,NA,PR,PR-U-A,Orocovis,0,PR19,,PR19,,,,25,2008-11-13T11:52:56+00:00
+24215,PR11,heliport,"Rexach Office Building Heliport",18.415199279785156,-66.12680053710938,60,NA,PR,PR-U-A,"Puerto Nuevo",0,PR11,,PR11,,,,25,2008-11-13T11:52:41+00:00
+9222,28PR,heliport,"La Concepcion Hospital Heliport",18.108699798583984,-67.03939819335938,120,NA,PR,PR-U-A,"San German",0,28PR,,28PR,,,,25,2008-11-13T11:52:21+00:00
+24213,PR08,heliport,"Baxter-San German Heliport",18.08609962463379,-67.02799987792969,211,NA,PR,PR-U-A,"San German",0,PR08,,PR08,,,,25,2008-11-13T11:52:37+00:00
+7793,12PR,heliport,"Villamil-304 Ponce De Leon Heliport",18.42259979248047,-66.05699920654297,148,NA,PR,PR-U-A,"San Juan",0,12PR,,12PR,,,,25,2008-11-13T11:52:17+00:00
+24207,PR01,heliport,"Hato Rey Heliport",18.419200897216797,-66.05670166015625,35,NA,PR,PR-U-A,"San Juan",0,PR01,,PR01,,,,25,2008-11-13T11:52:25+00:00
+24216,PR12,heliport,"State Government Number One Heliport",18.449399948120117,-66.06659698486328,269,NA,PR,PR-U-A,"San Juan",0,PR12,,PR12,,,,25,2008-11-13T11:52:43+00:00
+24217,PR13,heliport,"Insular Government Number Two Heliport",18.417400360107422,-66.07769775390625,168,NA,PR,PR-U-A,"San Juan",0,PR13,,PR13,,,,25,2008-11-13T11:52:46+00:00
+24220,PR16,heliport,"Banco Popular Center Heliport",18.427400588989258,-66.05879974365234,215,NA,PR,PR-U-A,"San Juan",0,PR16,,PR16,,,,25,2008-11-13T11:52:52+00:00
+24221,PR17,heliport,"Prasa-Barbosa Heliport",18.414100646972656,-66.0438003540039,163,NA,PR,PR-U-A,"San Juan",0,PR17,,PR17,,,,25,2008-11-13T11:52:54+00:00
+24225,PR22,heliport,"Public Buildings Authority Heliport",18.449199676513672,-66.06639862060547,81,NA,PR,PR-U-A,"San Juan",0,PR22,,PR22,,,,25,2008-11-13T11:53:02+00:00
+24232,PR30,heliport,"Prtc Office Building Heliport",18.411100387573242,-66.10160064697266,175,NA,PR,PR-U-A,"San Juan",0,PR30,,PR30,,,,25,2008-11-13T11:53:16+00:00
+24233,PR31,heliport,"San Juan Steam Plant Heliport",18.427995681762695,-66.10551452636719,60,NA,PR,PR-U-A,"San Juan",0,PR31,,PR31,,,,25,2009-07-01T18:09:25+00:00
+24237,PR42,heliport,"Empresas Diaz-Rio Pedras Heliport",18.395299911499023,-66.05139923095703,154,NA,PR,PR-U-A,"San Juan",0,PR42,,PR42,,,,25,2008-11-13T11:53:26+00:00
+24208,PR02,heliport,"Prasa-La Plata Heliport",18.352500915527344,-66.23639678955078,361,NA,PR,PR-U-A,"Toa Alta",0,PR02,,PR02,,,,25,2008-11-13T11:52:27+00:00
+330562,PR-0006,large_airport,SJU,0,0,,NA,PR,PR-U-A,,1,,,,,,,0,2019-02-16T18:30:26+00:00
+46121,2PR2,heliport,"Caribbean Constr Main Office Heliport",18.314792,-66.093517,311,NA,PR,PR-U-A,Guaynabo,0,2PR2,,2PR2,,,,0,2010-01-04T07:41:52+00:00
+308020,TMJG,closed,"Aeropuerto Internacional Islas Michael",16.2146745882,-66.884765625,9,NA,PR,PR-U-A,Michael,1,,,MJG,,,,0,2014-07-17T01:33:33+00:00
+300788,PR-0004,closed,"Salinas Airport",17.970482,-66.266021,43,NA,PR,PR-U-A,Salinas,1,,,,,,,0,2012-11-17T15:10:00+00:00
+46122,PR99,heliport,"Puerto Heliport",18.395556,-66.073611,129,NA,PR,PR-U-A,"San Juan",0,PR99,,PR99,,,,0,2010-01-04T07:49:27+00:00

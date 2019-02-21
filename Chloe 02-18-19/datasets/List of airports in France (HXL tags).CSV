@@ -1,0 +1,851 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+4185,LFPG,large_airport,"Charles de Gaulle International Airport",49.012798,2.55,392,EU,FR,FR-J,Paris,1,LFPG,CDG,,http://www.aeroportsdeparis.fr/,https://en.wikipedia.org/wiki/Charles_de_Gaulle_Airport,"PAR, Aéroport Roissy-Charles de Gaulle, Roissy Airport",1127475,2018-09-15T03:23:45+00:00
+4189,LFPO,large_airport,"Paris-Orly Airport",48.7233333,2.3794444,291,EU,FR,FR-J,Paris,1,LFPO,ORY,,,http://en.wikipedia.org/wiki/Orly_Airport_(Paris),PAR,1032775,2016-10-02T05:09:17+00:00
+4156,LFMN,large_airport,"Nice-Côte d'Azur Airport",43.6584014893,7.215869903560001,12,EU,FR,FR-U,Nice,1,LFMN,NCE,,,http://en.wikipedia.org/wiki/C%C3%B4te_d'Azur_International_Airport,,51475,2010-08-31T21:55:57+00:00
+4155,LFML,large_airport,"Marseille Provence Airport",43.439271922,5.22142410278,74,EU,FR,FR-U,Marseille,1,LFML,MRS,,,http://en.wikipedia.org/wiki/Marseille_Provence_Airport,,1375,2011-12-17T07:33:34+00:00
+4070,LFBO,large_airport,"Toulouse-Blagnac Airport",43.629101,1.36382,499,EU,FR,FR-N,Toulouse/Blagnac,1,LFBO,TLS,,http://www.toulouse.aeroport.fr/,http://en.wikipedia.org/wiki/Toulouse_Blagnac_International_Airport,,1675,2016-07-17T15:22:33+00:00
+4137,LFLL,large_airport,"Lyon Saint-Exupéry Airport",45.725556,5.081111,821,EU,FR,FR-V,Lyon,1,LFLL,LYS,,https://www.lyonaeroports.com/,http://en.wikipedia.org/wiki/Saint-Exup%C3%A9ry_International_Airport,,975,2018-02-11T14:28:31+00:00
+4226,LFSB,large_airport,"EuroAirport Basel-Mulhouse-Freiburg Airport",47.59,7.5291667,885,EU,FR,FR-A,Bâle/Mulhouse,1,LFSB,BSL,,http://www.euroairport.com/,http://en.wikipedia.org/wiki/EuroAirport_Basel-Mulhouse-Freiburg,"MLH, EAP",1050,2016-07-17T09:43:06+00:00
+4060,LFBD,large_airport,"Bordeaux-Mérignac Airport",44.828300476100004,-0.715556025505,162,EU,FR,FR-B,Bordeaux/Mérignac,1,LFBD,BOD,,,http://en.wikipedia.org/wiki/Bordeaux%E2%80%93M%C3%A9rignac_Airport,,1275,2015-02-17T14:06:02+00:00
+4169,LFOB,medium_airport,"Paris Beauvais Tillé Airport",49.45439910888672,2.1127800941467285,359,EU,FR,FR-S,Beauvais/Tillé,1,LFOB,BVA,,,http://en.wikipedia.org/wiki/Paris_Beauvais_Till%C3%A9_Airport,,975,2008-06-13T14:30:04+00:00
+4183,LFPB,medium_airport,"Paris-Le Bourget Airport",48.969398498535156,2.441390037536621,218,EU,FR,FR-J,Paris,0,LFPB,LBG,,http://www.aeroportsdeparis.fr/,http://en.wikipedia.org/wiki/Le_Bourget_Airport,PAR,275,2008-06-13T14:30:04+00:00
+4221,LFRS,medium_airport,"Nantes Atlantique Airport",47.153198242200006,-1.61073005199,90,EU,FR,FR-R,Nantes,1,LFRS,NTE,,,http://en.wikipedia.org/wiki/Nantes_Atlantique_Airport,,1050,2010-08-31T21:50:59+00:00
+4161,LFMT,medium_airport,"Montpellier-Méditerranée Airport",43.57619857788086,3.96301007270813,17,EU,FR,FR-K,Montpellier/Méditerranée,1,LFMT,MPL,,,http://en.wikipedia.org/wiki/Montpellier_-_M%C3%A9diterran%C3%A9e_Airport,,975,2008-06-13T14:30:04+00:00
+4238,LFST,medium_airport,"Strasbourg Airport",48.538299560546875,7.628230094909668,505,EU,FR,FR-A,Strasbourg,1,LFST,SXB,,http://www.strasbourg.aeroport.fr/E/index.php,http://en.wikipedia.org/wiki/Strasbourg_Airport,"BA 124",1050,2008-06-13T14:30:04+00:00
+4202,LFQQ,medium_airport,"Lille-Lesquin Airport",50.563332,3.086886,157,EU,FR,FR-O,Lille/Lesquin,1,LFQQ,LIL,,,http://en.wikipedia.org/wiki/Lille_Lesquin_International_Airport,,1050,2016-09-25T07:55:47+00:00
+4055,LFAT,medium_airport,"Le Touquet-Côte d'Opale Airport",50.517398834228516,1.6205899715423584,36,EU,FR,FR-O,"Le Touquet-Paris-Plage",0,LFAT,LTQ,,,,,525,2008-06-13T14:30:04+00:00
+4148,LFLY,medium_airport,"Lyon-Bron Airport",45.72719955444336,4.944270133972168,659,EU,FR,FR-V,Lyon/Bron,0,LFLY,LYN,,,,,475,2008-06-13T14:30:04+00:00
+4151,LFMD,medium_airport,"Cannes-Mandelieu Airport",43.542,6.95348,13,EU,FR,FR-U,Cannes/Mandelieu,1,LFMD,CEQ,,https://www.cannes.aeroport.fr/,https://en.wikipedia.org/wiki/Cannes_%E2%80%93_Mandelieu_Airport,,875,2018-09-13T12:36:26+00:00
+4154,LFMK,medium_airport,"Carcassonne Airport",43.215999603271484,2.3063199520111084,433,EU,FR,FR-K,Carcassonne/Salvaza,1,LFMK,CCF,,,http://en.wikipedia.org/wiki/Carcassonne_Salvaza_Airport,,975,2008-06-13T14:30:04+00:00
+4131,LFLB,medium_airport,"Chambéry-Savoie Airport",45.638099670410156,5.880229949951172,779,EU,FR,FR-V,Chambéry/Aix-les-Bains,1,LFLB,CMF,,,http://en.wikipedia.org/wiki/Chamb%C3%A9ry_Airport,,1050,2008-06-13T14:30:04+00:00
+4064,LFBH,medium_airport,"La Rochelle-Île de Ré Airport",46.17919921875,-1.1952799558639526,74,EU,FR,FR-T,"La Rochelle/Île de Ré",1,LFBH,LRH,,,http://en.wikipedia.org/wiki/La_Rochelle_-_%C3%8Ele_de_R%C3%A9_Airport,"Laleu Airport",975,2008-06-13T14:30:04+00:00
+4163,LFMV,medium_airport,"Avignon-Caumont Airport",43.90729904174805,4.901830196380615,124,EU,FR,FR-U,Avignon/Caumont,1,LFMV,AVN,,,http://en.wikipedia.org/wiki/Avignon_-_Caumont_Airport,,1050,2008-06-13T14:30:04+00:00
+4123,LFKB,medium_airport,"Bastia-Poretta Airport",42.55270004272461,9.48373031616211,26,EU,FR,FR-H,Bastia/Poretta,1,LFKB,BIA,,,http://en.wikipedia.org/wiki/Bastia_-_Poretta_Airport,,1050,2008-09-11T04:28:46+00:00
+4158,LFMP,medium_airport,"Perpignan-Rivesaltes (Llabanère) Airport",42.74039840698242,2.8706700801849365,144,EU,FR,FR-K,Perpignan/Rivesaltes,1,LFMP,PGF,,,http://en.wikipedia.org/wiki/Perpignan_-_Rivesaltes_Airport,,1050,2008-06-13T14:30:04+00:00
+4142,LFLS,medium_airport,"Grenoble-Isère Airport",45.36289978027344,5.329370021820068,1302,EU,FR,FR-V,Grenoble/Saint-Geoirs,1,LFLS,GNB,,,http://en.wikipedia.org/wiki/Grenoble-Is%C3%A8re_Airport,,1050,2008-06-13T14:30:04+00:00
+4218,LFRN,medium_airport,"Rennes-Saint-Jacques Airport",48.069499969499994,-1.73478996754,124,EU,FR,FR-E,Rennes/Saint-Jacques,1,LFRN,RNS,,http://www.rennes.aeroport.fr/,http://en.wikipedia.org/wiki/Rennes_-_Saint-Jacques_Airport,,1050,2013-10-27T04:32:23+00:00
+4126,LFKJ,medium_airport,"Ajaccio-Napoléon Bonaparte Airport",41.92359924316406,8.8029203414917,18,EU,FR,FR-H,"Ajaccio/Napoléon Bonaparte",1,LFKJ,AJA,,,http://en.wikipedia.org/wiki/Ajaccio_-_Campo_dell'Oro_Airport,,975,2008-10-06T13:37:21+00:00
+4124,LFKC,medium_airport,"Calvi-Sainte-Catherine Airport",42.5244444,8.7930556,209,EU,FR,FR-H,Calvi/Sainte-Catherine,1,LFKC,CLY,,,http://en.wikipedia.org/wiki/Calvi_-_Sainte-Catherine_Airport,,875,2016-10-07T13:41:48+00:00
+4141,LFLP,medium_airport,"Annecy-Haute-Savoie-Mont Blanc Airport",45.9308333,6.1063889,1521,EU,FR,FR-V,Annecy/Meythet,1,LFLP,NCY,,,http://en.wikipedia.org/wiki/Annecy_-_Haute-Savoie_-_Mont_Blanc_Airport,,975,2016-10-01T01:25:49+00:00
+4179,LFOT,medium_airport,"Tours-Val-de-Loire Airport",47.4322013855,0.727605998516,357,EU,FR,FR-F,"Tours/Val de Loire (Loire Valley)",1,LFOT,TUF,,http://www.tours.aeroport.fr/index_en.php,http://en.wikipedia.org/wiki/Tours_Loire_Valley_Airport,,1275,2014-01-15T13:24:47+00:00
+4132,LFLC,medium_airport,"Clermont-Ferrand Auvergne Airport",45.7867012024,3.1691699028,1090,EU,FR,FR-C,Clermont-Ferrand/Auvergne,1,LFLC,CFE,,,http://en.wikipedia.org/wiki/Clermont-Ferrand_Auvergne_Airport,,975,2015-05-06T19:12:46+00:00
+4125,LFKF,medium_airport,"Figari Sud-Corse Airport",41.5005989074707,9.097780227661133,87,EU,FR,FR-H,"Figari Sud-Corse",1,LFKF,FSC,,,http://en.wikipedia.org/wiki/Figari_Sud-Corse_Airport,,975,2008-09-11T04:32:17+00:00
+4241,LFTH,medium_airport,"Toulon-Hyères Airport",43.0973014832,6.14602994919,7,EU,FR,FR-U,"Toulon/Hyères/Le Palyvestre",1,LFTH,TLN,,http://toulon-hyeres.aeroport.fr/,http://en.wikipedia.org/wiki/Toulon-Hy%C3%A8res_Airport,,800,2014-02-18T23:07:50+00:00
+4211,LFRG,medium_airport,"Deauville-Saint-Gatien Airport",49.3652992249,0.154305994511,479,EU,FR,FR-P,Deauville,0,LFRG,DOL,,,http://en.wikipedia.org/wiki/Deauville_-_Saint-Gatien_Airport,,375,2010-08-31T21:51:42+00:00
+4050,LFAC,medium_airport,"Calais-Dunkerque Airport",50.962100982666016,1.954759955406189,12,EU,FR,FR-O,Calais/Dunkerque,0,LFAC,CQF,,,,Dunkirk,325,2008-06-13T14:30:04+00:00
+28927,LFLG,small_airport,"Grenoble Le Versoud Airport",45.219200134277344,5.849720001220703,722,EU,FR,FR-V,Bourges,0,LFLG,,,,,,50,2008-07-31T23:15:58+00:00
+4061,LFBE,medium_airport,"Bergerac-Roumanière Airport",44.82529830932617,0.5186110138893127,171,EU,FR,FR-B,Bergerac/Roumanière,1,LFBE,EGC,,,http://en.wikipedia.org/wiki/Bergerac-Roumani%C3%A8re_Airport,,975,2008-06-13T14:30:04+00:00
+4067,LFBL,medium_airport,"Limoges Airport",45.86280059814453,1.1794400215148926,1300,EU,FR,FR-L,Limoges/Bellegarde,1,LFBL,LIG,,,http://en.wikipedia.org/wiki/Limoges_-_Bellegarde_Airport,,975,2008-06-13T14:30:04+00:00
+4208,LFRD,medium_airport,"Dinard-Pleurtuit-Saint-Malo Airport",48.58769989013672,-2.0799601078033447,219,EU,FR,FR-E,Dinard/Pleurtuit/Saint-Malo,1,LFRD,DNR,,,http://en.wikipedia.org/wiki/Dinard_-_Pleurtuit_-_Saint-Malo_Airport,,1050,2008-07-31T23:06:46+00:00
+4065,LFBI,medium_airport,"Poitiers-Biard Airport",46.58769989013672,0.30666598677635193,423,EU,FR,FR-T,Poitiers/Biard,1,LFBI,PIS,,,http://en.wikipedia.org/wiki/Poitiers_-_Biard_Airport,,975,2008-06-13T14:30:04+00:00
+4188,LFPN,medium_airport,"Toussus-le-Noble Airport",48.75189971923828,2.1061899662017822,538,EU,FR,FR-J,Toussus-le-Noble,0,LFPN,TNF,,,,,575,2008-06-13T14:30:04+00:00
+4193,LFQB,medium_airport,"Troyes-Barberey Airport",48.322102,4.0167,388,EU,FR,FR-G,Troyes/Barberey,0,LFQB,,,http://www.troyes.aeroport.fr/,https://en.wikipedia.org/wiki/Troyes_%E2%80%93_Barberey_Airport,QYR,375,2017-01-07T14:54:39+00:00
+4077,LFBZ,medium_airport,"Biarritz-Anglet-Bayonne Airport",43.4683333,-1.5311111,245,EU,FR,FR-B,Biarritz/Anglet/Bayonne,1,LFBZ,BIQ,,,http://en.wikipedia.org/wiki/Biarritz_-_Anglet_-_Bayonne_Airport,,1050,2016-09-30T06:18:02+00:00
+4071,LFBP,medium_airport,"Pau Pyrénées Airport",43.380001068115234,-0.41861099004745483,616,EU,FR,FR-B,"Pau/Pyrénées (Uzein)",1,LFBP,PUF,,,http://en.wikipedia.org/wiki/Pau_Pyr%C3%A9n%C3%A9es_Airport,,975,2008-06-13T14:30:04+00:00
+4190,LFPT,medium_airport,"Pontoise - Cormeilles-en-Vexin Airport",49.096667,2.040833,325,EU,FR,FR-J,Cormeilles-en-Vexin,1,LFPT,POX,,,https://en.wikipedia.org/wiki/Pontoise_%E2%80%93_Cormeilles_Aerodrome,,525,2018-09-13T12:39:47+00:00
+4136,LFLI,medium_airport,"Annemasse Airport",46.1920013428,6.268390178680001,1620,EU,FR,FR-V,Annemasse,0,LFLI,QNJ,,http://www.caa.asso.fr/,,,250,2012-12-13T10:57:21+00:00
+4206,LFRB,medium_airport,"Brest Bretagne Airport",48.447898864746094,-4.418540000915527,325,EU,FR,FR-E,Brest/Guipavas,1,LFRB,BES,,,http://en.wikipedia.org/wiki/Brest_Bretagne_Airport,,1050,2008-06-13T14:30:04+00:00
+4242,LFTW,medium_airport,"Nîmes-Arles-Camargue Airport",43.75740051269531,4.4163498878479,309,EU,FR,FR-K,Nîmes/Garons,1,LFTW,FNI,,,http://en.wikipedia.org/wiki/N%C3%AEmes-Arles-Camargue_Airport,,1050,2008-06-13T14:30:04+00:00
+4152,LFMH,medium_airport,"Saint-Étienne-Bouthéon Airport",45.54059982299805,4.296390056610107,1325,EU,FR,FR-V,Saint-Étienne/Bouthéon,1,LFMH,EBU,,,http://en.wikipedia.org/wiki/Saint-%C3%89tienne_-_Bouth%C3%A9on_Airport,,1050,2008-06-13T14:30:04+00:00
+4162,LFMU,medium_airport,"Béziers-Vias Airport",43.32350158691406,3.3538999557495117,56,EU,FR,FR-K,Béziers/Vias,1,LFMU,BZR,,,http://en.wikipedia.org/wiki/B%C3%A9ziers-Agde-Vias_Airport,,975,2008-06-13T14:30:04+00:00
+4127,LFKO,small_airport,"Propriano Airport",41.66059875488281,8.889749526977539,13,EU,FR,FR-H,Propriano,0,LFKO,PRP,,,,,50,2008-09-11T04:31:48+00:00
+4215,LFRK,medium_airport,"Caen-Carpiquet Airport",49.173301696777344,-0.44999998807907104,256,EU,FR,FR-P,Caen/Carpiquet,1,LFRK,CFR,,,http://en.wikipedia.org/wiki/Caen_-_Carpiquet_Airport,,975,2008-06-13T14:30:04+00:00
+4073,LFBT,medium_airport,"Tarbes-Lourdes-Pyrénées Airport",43.1786994934082,-0.006438999902456999,1260,EU,FR,FR-N,Tarbes/Lourdes/Pyrénées,1,LFBT,LDE,,,http://en.wikipedia.org/wiki/Tarbes-Lourdes-Pyr%C3%A9n%C3%A9es_Airport,,975,2008-06-13T14:30:04+00:00
+4104,LFGA,medium_airport,"Colmar-Houssen Airport",48.109901428222656,7.359010219573975,628,EU,FR,FR-A,Colmar/Houssen,0,LFGA,CMR,,,,,325,2008-06-13T14:30:04+00:00
+4159,LFMQ,medium_airport,"Le Castellet Airport",43.252498626708984,5.785190105438232,1391,EU,FR,FR-U,"Le Castellet",0,LFMQ,CTT,,,,,250,2008-06-13T14:30:04+00:00
+4197,LFQG,medium_airport,"Nevers-Fourchambault Airport",47.002601623535156,3.1133298873901367,602,EU,FR,FR-D,Nevers/Fourchambault,0,LFQG,NVS,,,,,250,2008-06-13T14:30:04+00:00
+28488,LFLJ,small_airport,"Courchevel Airport",45.39670181274414,6.6347198486328125,6588,EU,FR,FR-V,Courcheval,0,LFLJ,CVF,,,,,50,2008-06-13T14:30:04+00:00
+28981,LFPZ,small_airport,"Saint-Cyr-l'École Airport",48.8114013671875,2.0747199058532715,371,EU,FR,FR-J,Villacoublay,0,LFPZ,,,,,,50,2008-06-13T14:30:04+00:00
+4107,LFGJ,medium_airport,"Dole-Tavaux Airport",47.042686,5.435061,645,EU,FR,FR-I,Dole/Tavaux,0,LFGJ,DLE,,,,,575,2016-09-30T06:03:05+00:00
+4228,LFSD,medium_airport,"Dijon-Bourgogne Airport",47.268902,5.09,726,EU,FR,FR-D,Dijon/Longvic,1,LFSD,DIJ,,http://www.aeroport.dijon.cci.fr/,https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Dijon-Bourgogne,"BA 102",375,2018-05-24T20:08:02+00:00
+4144,LFLU,medium_airport,"Valence-Chabeuil Airport",44.9216,4.9699,525,EU,FR,FR-V,Valence/Chabeuil,0,LFLU,VAF,,http://www.valenceaeroport.fr,https://en.wikipedia.org/wiki/Valence-Chabeuil_Airport,,325,2016-11-20T21:58:40+00:00
+28938,LFNA,small_airport,"Gap - Tallard Airfield",44.455002,6.03778,1986,EU,FR,FR-U,,0,LFNA,GAT,,,,,50,2018-04-02T01:11:34+00:00
+4167,LFNH,small_airport,"Carpentras Airport",44.02980041503906,5.078060150146484,394,EU,FR,FR-U,Carpentras,0,LFNH,,,,,,50,2008-06-13T14:30:04+00:00
+28887,LFHM,small_airport,"Megève Airport",45.82080078125,6.652219772338867,4823,EU,FR,FR-V,Verdun,0,LFHM,MVV,,,,,50,2008-07-31T23:14:56+00:00
+28942,LFNF,small_airport,"Aérodrome de Vinon",43.737801,5.78417,902,EU,FR,FR-U,Vinon-sur-Verdon,0,LFNF,,,,https://fr.wikipedia.org/wiki/Liste_des_a%C3%A9rodromes_en_France,,50,2017-03-12T14:53:16+00:00
+4220,LFRQ,medium_airport,"Quimper-Cornouaille Airport",47.974998474121094,-4.167789936065674,297,EU,FR,FR-E,Quimper/Pluguffan,1,LFRQ,UIP,,,http://en.wikipedia.org/wiki/Quimper_-_Cornouaille_Airport,,975,2008-06-13T14:30:04+00:00
+4177,LFOP,medium_airport,"Rouen Airport",49.38420104980469,1.1748000383377075,512,EU,FR,FR-Q,"Rouen/Vallée de Seine",1,LFOP,URO,,,http://en.wikipedia.org/wiki/Rouen_Airport,,975,2008-06-13T14:30:04+00:00
+4176,LFOK,medium_airport,"Châlons-Vatry Airport",48.7733333333,4.206111111,587,EU,FR,FR-G,Vatry,0,LFOK,XCR,,,,,850,2018-01-13T06:01:11+00:00
+4225,LFRZ,medium_airport,"Saint-Nazaire-Montoir Airport",47.3105556,-2.1566667,13,EU,FR,FR-R,Saint-Nazaire/Montoir,0,LFRZ,SNR,,,,,575,2016-10-03T10:31:58+00:00
+4234,LFSN,medium_airport,"Nancy-Essey Airport",48.692100524902344,6.230460166931152,751,EU,FR,FR-M,Nancy/Essey,0,LFSN,ENC,,,,,475,2008-06-13T14:30:04+00:00
+4130,LFLA,medium_airport,"Auxerre-Branches Airport",47.85020065307617,3.497109889984131,523,EU,FR,FR-D,Auxerre/Branches,0,LFLA,AUF,,,,,325,2008-06-13T14:30:04+00:00
+4138,LFLM,medium_airport,"Mâcon-Charnay Airport",46.295101,4.79577,728,EU,FR,FR-D,Mâcon/Charnay,0,LFLM,,,,,,250,2016-11-14T11:47:38+00:00
+4166,LFNB,medium_airport,"Mende-Brenoux Airfield",44.502102,3.53282,3362,EU,FR,FR-K,Mende/Brénoux,0,LFNB,MEN,,,,,250,2019-02-18T06:11:51+00:00
+4113,LFHS,small_airport,"Bourg-Ceyzériat Airport",46.20090103149414,5.292029857635498,857,EU,FR,FR-V,Bourg/Ceyzériat,0,LFHS,,,,http://en.wikipedia.org/wiki/Bourg_-_Ceyz%C3%A9riat_Airport,,50,2008-06-13T14:30:04+00:00
+28862,LFGI,small_airport,"Dijon Darois Airport",47.38690185546875,4.948060035705566,1585,EU,FR,FR-D,Colmar,0,LFGI,,,,,,50,2008-07-31T22:42:55+00:00
+28943,LFNG,small_airport,"Montpellier Candillargues Airport",43.61029815673828,4.070280075073242,5,EU,FR,FR-K,Mende,0,LFNG,,,,,,50,2008-07-31T23:16:15+00:00
+28975,LFPL,small_airport,"Lognes Emerainville Airport",48.821028,2.625967,359,EU,FR,FR-J,Paris,0,LFPL,,,,,,50,2015-02-21T03:42:46+00:00
+4083,LFCL,small_airport,"Toulouse-Lasbordes Airport",43.58610153198242,1.499169945716858,459,EU,FR,FR-N,Toulouse/Lasbordes,0,LFCL,,,,http://en.wikipedia.org/wiki/Toulouse_-_Lasbordes_Airport,,50,2008-06-13T14:30:04+00:00
+28881,LFHF,small_airport,"Ruoms Airport",44.4453010559082,4.333889961242676,361,EU,FR,FR-V,Verdun,0,LFHF,,,,,,50,2008-07-31T23:14:47+00:00
+4086,LFCR,medium_airport,"Rodez-Marcillac Airport",44.407901763916016,2.4826700687408447,1910,EU,FR,FR-N,Rodez/Marcillac,1,LFCR,RDZ,,,http://en.wikipedia.org/wiki/Rodez-Marcillac_Airport,,1050,2008-06-13T14:30:04+00:00
+4146,LFLW,medium_airport,"Aurillac Airport",44.89139938354492,2.4219400882720947,2096,EU,FR,FR-C,Aurillac,1,LFLW,AUR,,,http://en.wikipedia.org/wiki/Aurillac_Airport,,975,2008-06-13T14:30:04+00:00
+4237,LFSR,closed,"Reims-Champagne (BA 112) Air Base",49.310001,4.05,312,EU,FR,FR-G,Reims/Champagne,0,LFSR,RHE,,,,,975,2016-10-01T12:58:12+00:00
+4243,LFTZ,small_airport,"La Môle Airport",43.205399,6.482,59,EU,FR,FR-U,"La Môle",1,LFTZ,LTT,,,https://en.wikipedia.org/wiki/La_M%C3%B4le_%E2%80%93_Saint-Tropez_Airport,,450,2018-09-15T16:21:52+00:00
+4145,LFLV,medium_airport,"Vichy-Charmeil Airport",46.169700622558594,3.4037399291992188,817,EU,FR,FR-C,Vichy/Charmeil,0,LFLV,VHY,,,,,375,2008-06-13T14:30:04+00:00
+4174,LFOI,medium_airport,Abbeville,50.143501,1.831891,220,EU,FR,FR-S,Abbeville,0,LFOI,XAB,,,https://fr.wikipedia.org/wiki/Aérodrome_d'Abbeville,"XAB, Aérodrome d'Abbeville",250,2017-09-16T15:25:13+00:00
+28930,LFLR,small_airport,"Aérodrome de Saint-Rambert-d'Albon",45.2561,4.82583,509,EU,FR,FR-V,,0,LFLR,,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saint-Rambert-d'Albon,,50,2017-03-12T14:54:33+00:00
+4149,LFMA,small_airport,"Aix-en-Provence (BA 114) Airport",43.5056,5.36778,367,EU,FR,FR-U,"Aix Les Milles",0,LFMA,,,,,,50,2016-10-14T03:35:17+00:00
+28916,LFKA,small_airport,"Albertville Airport",45.627201,6.32972,1033,EU,FR,FR-V,Albertville,0,LFKA,,,,http://en.wikipedia.org/wiki/Albertville_Aerodrome,,50,2018-09-21T03:58:43+00:00
+28929,LFLQ,small_airport,"Montélimar - Ancône Airport",44.583599,4.74056,240,EU,FR,FR-V,Annecy,0,LFLQ,,,,,,50,2016-10-29T05:12:59+00:00
+4200,LFQM,small_airport,"Besançon-La Vèze Airport",47.2066,6.083681,1271,EU,FR,FR-I,"Besançon/La Vèze",0,LFQM,,,,http://en.wikipedia.org/wiki/Besan%C3%A7on_%E2%80%93_La_V%C3%A8ze_Aerodrome,QBQ,50,2016-10-29T16:31:30+00:00
+28928,LFLK,small_airport,"Oyonnax-Arbent Airport",46.27920150756836,5.667500019073486,1755,EU,FR,FR-V,Chalon,0,LFLK,,,,,,50,2008-06-20T08:21:35+00:00
+4134,LFLE,small_airport,"Chambéry-Challes-les-Eaux Airport",45.5611000061,5.975759983060001,973,EU,FR,FR-V,Chambéry/Challes-les-Eaux,0,LFLE,,,,http://en.wikipedia.org/wiki/Chamb%C3%A9ry_Aerodrome,,50,2011-10-06T20:53:14+00:00
+4240,LFTF,small_airport,"Cuers-Pierrefeu Airport",43.247798919677734,6.126699924468994,266,EU,FR,FR-U,Cuers/Pierrefeu,0,LFTF,,,,,,50,2008-06-13T14:30:04+00:00
+28830,LFEQ,small_airport,"Quiberon Airport",47.482200622558594,-3.0999999046325684,37,EU,FR,FR-E,Pontivy,0,LFEQ,,,,,,50,2008-07-31T22:41:57+00:00
+4182,LFOZ,small_airport,"Orléans-Saint-Denis-de-l'Hôtel Airport",47.8969,2.16333,396,EU,FR,FR-F,Saint-Denis-de-l'Hôtel,0,LFOZ,,,,,,50,2016-06-02T09:03:30+00:00
+4114,LFHV,small_airport,"Villefranche-Tarare Airport",45.919983,4.634931,1076,EU,FR,FR-V,Villefranche/Tarare,0,LFHV,,,,http://en.wikipedia.org/wiki/Villefranche_-_Tarare_Airport,,50,2012-07-22T08:44:26+00:00
+4120,LFJL,medium_airport,"Metz-Nancy-Lorraine Airport",48.9821014404,6.25131988525,870,EU,FR,FR-M,"Metz / Nancy",1,LFJL,ETZ,,,http://en.wikipedia.org/wiki/Metz-Nancy-Lorraine_Airport,,1050,2011-12-29T12:00:36+00:00
+4058,LFBA,medium_airport,"Agen-La Garenne Airport",44.17470169067383,0.5905560255050659,204,EU,FR,FR-B,"Agen/La Garenne",1,LFBA,AGF,,,http://en.wikipedia.org/wiki/Agen_-_La_Garenne_Aerodrome,,975,2008-06-13T14:30:04+00:00
+4207,LFRC,medium_airport,"Cherbourg-Maupertus Airport",49.65010070800781,-1.4702800512313843,459,EU,FR,FR-P,Cherbourg/Maupertus,1,LFRC,CER,,,http://en.wikipedia.org/wiki/Cherbourg_-_Maupertus_Airport,,975,2008-06-13T14:30:04+00:00
+4219,LFRO,medium_airport,"Lannion-Côte de Granit Airport",48.754398,-3.47166,290,EU,FR,FR-E,Lannion,1,LFRO,LAI,,http://www.lannion.aeroport.fr,https://en.wikipedia.org/wiki/Lannion_%E2%80%93_C%C3%B4te_de_Granit_Airport,"Servel Airport",975,2018-09-13T12:49:10+00:00
+4173,LFOH,medium_airport,"Le Havre Octeville Airport",49.53390121459961,0.08805599808692932,313,EU,FR,FR-Q,"Le Havre/Octeville",1,LFOH,LEH,,,http://en.wikipedia.org/wiki/Le_Havre_Octeville_Airport,,975,2008-06-13T14:30:04+00:00
+4082,LFCK,medium_airport,"Castres-Mazamet Airport",43.55630111694336,2.289180040359497,788,EU,FR,FR-N,Castres/Mazamet,1,LFCK,DCM,,,http://en.wikipedia.org/wiki/Castres-Mazamet_Airport,,925,2008-06-13T14:30:04+00:00
+4230,LFSG,medium_airport,"Épinal-Mirecourt Airport",48.325001,6.06998,1084,EU,FR,FR-M,Épinal/Mirecourt,1,LFSG,EPL,,http://www.epinal-mirecourt.aeroport.fr,https://en.wikipedia.org/wiki/%C3%89pinal_%E2%80%93_Mirecourt_Airport,,925,2018-09-13T12:50:31+00:00
+4066,LFBK,medium_airport,"Montluçon-Guéret Airport",46.222599029541016,2.363960027694702,1497,EU,FR,FR-L,Montluçon/Guéret,0,LFBK,MCU,,,,,575,2008-06-13T14:30:04+00:00
+4204,LFQV,medium_airport,"Charleville-Mézières Airport",49.78390121459961,4.647079944610596,492,EU,FR,FR-G,Charleville-Mézières,0,LFQV,XCZ,,,,,475,2008-06-13T14:30:04+00:00
+4147,LFLX,medium_airport,"Châteauroux-Déols ""Marcel Dassault"" Airport",46.860278,1.721111,529,EU,FR,FR-F,Châteauroux/Déols,0,LFLX,CHR,,,http://en.wikipedia.org/wiki/Ch%C3%A2teauroux-D%C3%A9ols_%22Marcel_Dassault%22_Airport,,475,2019-01-16T00:16:49+00:00
+4222,LFRT,medium_airport,"Saint-Brieuc-Armor Airport",48.5378,-2.85444,453,EU,FR,FR-E,Saint-Brieuc/Armor,0,LFRT,SBK,,,https://en.wikipedia.org/wiki/Saint-Brieuc_%E2%80%93_Armor_Airport,,300,2016-09-29T16:30:53+00:00
+4217,LFRM,medium_airport,"Le Mans-Arnage Airport",47.94860076904297,0.20166699588298798,194,EU,FR,FR-R,"Le Mans/Arnage",0,LFRM,LME,,,,,275,2008-06-13T14:30:04+00:00
+4160,LFMS,medium_airport,"Alès-Deaux Airport",44.069698,4.14212,668,EU,FR,FR-K,Alès/Deaux,0,LFMS,,,,,,250,2016-10-27T23:28:51+00:00
+4110,LFHO,medium_airport,"Aubenas-Ardèche Méridional Airport",44.544203,4.372192,923,EU,FR,FR-V,"Aubenas/Ardèche Méridional",0,LFHO,OBS,,,https://en.wikipedia.org/w/index.php?title=Aubenas_-_Ard%C3%A8che_M%C3%A9ridional_Aerodrome&redirect=no,,250,2018-05-24T17:38:35+00:00
+4178,LFOQ,medium_airport,"Blois-Le Breuil Airport",47.678502,1.20884,398,EU,FR,FR-F,"Blois/Le Breuil",0,LFOQ,,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Blois_-_Le_Breuil,XBQ,250,2016-10-28T14:24:47+00:00
+4078,LFCC,medium_airport,"Cahors-Lalbenque Airport",44.35139846801758,1.4752800464630127,912,EU,FR,FR-N,Cahors/Lalbenque,0,LFCC,ZAO,,,,,250,2008-06-13T14:30:04+00:00
+4181,LFOV,medium_airport,"Laval-Entrammes Airport",48.03139877319336,-0.7429860234260559,330,EU,FR,FR-R,Laval/Entrammes,0,LFOV,LVA,,,,,250,2008-06-13T14:30:04+00:00
+4140,LFLO,medium_airport,"Roanne-Renaison Airport",46.05830001831055,4.001389980316162,1106,EU,FR,FR-V,Roanne/Renaison,0,LFLO,RNE,,,,,250,2008-06-13T14:30:04+00:00
+28857,LFGC,small_airport,"Strasbourg Neuhof Airfield",48.554401,7.77806,456,EU,FR,FR-A,,0,LFGC,,,,,,50,2019-02-18T11:34:34+00:00
+28999,LFSJ,small_airport,"Sédan Douzy Airfield",49.659698,5.03778,512,EU,FR,FR-G,,0,LFSJ,,,,,,50,2018-04-02T01:13:40+00:00
+28953,LFNU,small_airport,"Uzès Airfield",44.084702,4.39528,886,EU,FR,FR-K,,0,LFNU,,,,,,50,2019-02-18T08:05:31+00:00
+28924,LFKX,small_airport,"Méribel Altiport",45.407003,6.577942,5636,EU,FR,FR-V,,0,LFKX,MFX,,,,,50,2016-10-25T05:08:45+00:00
+28937,LFMX,small_airport,"Château-Arnoux-Saint-Auban Airport",44.060001373291016,5.991390228271484,1509,EU,FR,FR-U,Avignon,0,LFMX,,,,,,50,2008-06-20T08:34:45+00:00
+4129,LFKT,small_airport,"Corte Airport",42.29359817504883,9.193059921264648,1132,EU,FR,FR-H,Corte,0,LFKT,,,,,,50,2008-09-11T04:30:04+00:00
+28819,LFEB,small_airport,"Dinan - Trélivan Airport",48.444400787353516,-2.1013898849487305,394,EU,FR,FR-E,Dinan,0,LFEB,,,,http://fr.wikipedia.org/wiki/A%C3%A9roport_de_Dinan_-_Tr%C3%A9livan,,50,2009-06-06T12:19:44+00:00
+4085,LFCQ,small_airport,"Graulhet-Montdragon Airport",43.77109909057617,2.0108299255371094,581,EU,FR,FR-N,Graulhet/Montdragon,0,LFCQ,,,,,,50,2008-06-13T14:30:04+00:00
+28891,LFHU,small_airport,"Altiport L'Alpe d'Huez - Henri GIRAUD",45.088299,6.08472,6102,EU,FR,FR-V,"L'Alpe d'Huez",0,LFHU,AHZ,,,https://fr.wikipedia.org/wiki/Altiport_de_l'Alpe_d'Huez,,50,2017-03-12T14:51:29+00:00
+28964,LFOO,small_airport,"Les Sables-d'Olonne Talmont Airport",46.476898193359375,-1.7227799892425537,105,EU,FR,FR-R,"Les Sables-d'Olonne",0,LFOO,LSO,,,,Talmon-Saint-Hilaire,50,2008-06-13T14:30:04+00:00
+28908,LFJD,small_airport,"Corlier Airport",46.03969955444336,5.4969401359558105,2762,EU,FR,FR-V,Moulins,0,LFJD,,,,,,50,2008-06-20T08:20:51+00:00
+28786,LFBS,small_airport,"Biscarrosse Parentis Airport",44.36940002441406,-1.130560040473938,98,EU,FR,FR-B,Muret,0,LFBS,,,,,,50,2008-07-31T22:40:32+00:00
+28974,LFPH,small_airport,"Chelles le Pin Airport",48.89780044555664,2.6075000762939453,207,EU,FR,FR-J,Paris,0,LFPH,,,,,,50,2008-07-31T23:28:23+00:00
+4236,LFSP,small_airport,"Pontarlier Airport",46.90399932861328,6.3273701667785645,2683,EU,FR,FR-I,Pontarlier,0,LFSP,,,,,,50,2008-06-13T14:30:04+00:00
+28879,LFHD,small_airport,"Pierrelatte Airport",44.39889907836914,4.71806001663208,197,EU,FR,FR-V,Verdun,0,LFHD,,,,,,50,2008-06-20T08:09:29+00:00
+4111,LFHP,medium_airport,"Le Puy-Loudes Airport",45.0806999206543,3.762890100479126,2731,EU,FR,FR-C,"Le Puy/Loudes",1,LFHP,LPY,,,http://en.wikipedia.org/wiki/Le_Puy_-_Loudes_Airport,,975,2008-06-13T14:30:04+00:00
+4212,LFRH,medium_airport,"Lorient South Brittany (Bretagne Sud) Airport",47.76060104370117,-3.440000057220459,160,EU,FR,FR-E,Lorient/Lann/Bihoué,1,LFRH,LRT,,,http://en.wikipedia.org/wiki/Lorient_South_Brittany_Airport,,975,2008-06-13T14:30:04+00:00
+4101,LFEY,medium_airport,"Île d'Yeu Airport",46.71860122680664,-2.3911099433898926,79,EU,FR,FR-R,"Île d'Yeu",1,LFEY,IDY,,,http://en.wikipedia.org/wiki/%C3%8Ele_d'Yeu_Aerodrome,,800,2008-06-13T14:30:04+00:00
+4139,LFLN,medium_airport,"Saint-Yan Airport",46.412498474121094,4.0132598876953125,796,EU,FR,FR-D,Saint-Yan,0,LFLN,SYT,,,,,575,2008-06-13T14:30:04+00:00
+4213,LFRI,medium_airport,"La Roche-sur-Yon Airport",46.701900482177734,-1.3786300420761108,299,EU,FR,FR-R,"La Roche-sur-Yon/Les Ajoncs",0,LFRI,EDM,,,,,375,2008-06-13T14:30:04+00:00
+4081,LFCI,medium_airport,"Albi-Le Séquestre Airport",43.91389846801758,2.1130599975585938,564,EU,FR,FR-N,"Albi/Le Séquestre",0,LFCI,LBI,,,,,325,2008-06-13T14:30:04+00:00
+4203,LFQT,medium_airport,"Merville-Calonne Airport",50.61840057373047,2.642240047454834,61,EU,FR,FR-O,Merville/Calonne,0,LFQT,HZB,,,,,325,2008-06-13T14:30:04+00:00
+4164,LFMY,medium_airport,"Salon-de-Provence (BA 701) Air Base",43.60639953613281,5.109250068664551,195,EU,FR,FR-U,Salon,0,LFMY,,,,,,300,2008-06-13T14:30:04+00:00
+4246,LFXA,medium_airport,"Ambérieu Air Base (BA 278)",45.987301,5.32844,823,EU,FR,FR-V,Ambérieu,0,LFXA,,,,http://en.wikipedia.org/wiki/Amb%C3%A9rieu-en-Bugey_Air_Base,,250,2016-09-03T05:15:28+00:00
+4057,LFAY,medium_airport,"Amiens-Glisy Airport",49.873004,2.387074,208,EU,FR,FR-S,Amiens/Glisy,0,LFAY,,,,,QAM,250,2017-01-07T12:06:31+00:00
+4093,LFDH,medium_airport,"Auch-Lamothe Airport",43.687801,0.601667,411,EU,FR,FR-N,Auch/Lamothe,0,LFDH,,,"http://www.auchaeroport.fr/ (dead link as of 17-sep-2017)",https://fr.wikipedia.org/wiki/Aéroport_Auch_-_Gers,,250,2017-09-17T04:19:50+00:00
+4135,LFLH,medium_airport,"Chalon-Champforgeuil Airport",46.82609939575195,4.817629814147949,623,EU,FR,FR-D,Chalon/Champforgueil,0,LFLH,,,,http://en.wikipedia.org/wiki/Chalon_-_Champforgeuil_Airport,,250,2008-06-13T14:30:04+00:00
+4199,LFQJ,medium_airport,"Maubeuge-Élesmes Airport",50.31050109863281,4.033120155334473,452,EU,FR,FR-O,Maubeuge/Élesmes,0,LFQJ,XME,,,,,250,2008-06-13T14:30:04+00:00
+4069,LFBN,medium_airport,"Niort-Souché Airport",46.313477,-0.394529,203,EU,FR,FR-T,Niort/Souché,0,LFBN,NIT,,,,,250,2016-09-30T06:21:51+00:00
+4171,LFOD,medium_airport,"Saumur-Saint-Florent Airport",47.256802,-0.115142,269,EU,FR,FR-R,Saumur/Saint-Florent,0,LFOD,,,,,,250,2016-10-29T05:10:40+00:00
+4109,LFGW,medium_airport,"Verdun-Le Rozelier Airfield",49.122398,5.46905,1230,EU,FR,FR-M,Verdun,0,LFGW,,,,,Smmedieu,250,2016-10-30T06:20:14+00:00
+28823,LFEI,small_airport,"Briare Chatillon Airport",47.614399,2.78194,539,EU,FR,FR-F,,0,LFEI,,,,,,50,2016-11-12T07:23:59+00:00
+28772,LFAE,small_airport,"Eu Mers Le Treport Airfield",50.069199,1.42667,328,EU,FR,FR-S,,0,LFAE,,,,,,50,2018-04-02T00:58:06+00:00
+28796,LFCP,small_airport,"Pons Avy Airport",45.57,-0.515,115,EU,FR,FR-T,,0,LFCP,,,,,,50,2016-11-09T10:05:27+00:00
+29019,LFXR,closed,"Rochefort Soubise Airfield",45.930801,-0.995278,13,EU,FR,FR-T,,0,LFXR,,,,,,50,2018-04-02T00:51:07+00:00
+28793,LFCJ,small_airport,"Jonzac Neulles Airport",45.48419952392578,-0.42138901352882385,128,EU,FR,FR-T,Albi,0,LFCJ,,,,,,50,2008-07-31T22:40:45+00:00
+28933,LFMF,small_airport,"Fayence Airport",43.6088981628418,6.702779769897461,741,EU,FR,FR-U,Cannes,0,LFMF,,,,,,50,2008-07-31T23:16:04+00:00
+28936,LFMW,small_airport,"Castelnaudary Villeneuve Airport",43.312199,1.92111,551,EU,FR,FR-K,"Castelnaudary Villeneuve",0,LFMW,,,,,,50,2016-10-26T08:40:18+00:00
+28963,LFON,small_airport,"Dreux Vernouillet Airport",48.70669937133789,1.362779974937439,443,EU,FR,FR-F,Chalons,0,LFON,,,,,,50,2008-07-31T23:16:47+00:00
+28972,LFPE,small_airport,"Meaux Esbly Airport",48.927799224853516,2.835279941558838,217,EU,FR,FR-J,Creil,0,LFPE,,,,,,50,2008-07-31T23:17:02+00:00
+28971,LFPD,small_airport,"Bernay – St Martin Airport",49.102798461899994,0.566667020321,554,EU,FR,FR-Q,Creil,0,LFPD,XBX,,,,,50,2013-07-07T01:10:26+00:00
+28998,LFSE,small_airport,"Épinal Dogneville Airport",48.21189880371094,6.449170112609863,1040,EU,FR,FR-M,Dijon,0,LFSE,,,,,,50,2008-07-31T23:17:53+00:00
+28968,LFOX,small_airport,"Étampes Mondésir Airport",48.381901,2.07528,494,EU,FR,FR-J,Guillerval,0,LFOX,,,,,,50,2016-06-02T08:52:28+00:00
+4231,LFSH,small_airport,"Haguenau Airport",48.7943000793,7.81760978699,491,EU,FR,FR-A,Haguenau,0,LFSH,,,,http://en.wikipedia.org/wiki/Haguenau_Airport,,50,2012-11-10T12:06:22+00:00
+28935,LFMR,small_airport,"Barcelonnette - Saint-Pons Airport",44.387198,6.609186,3714,EU,FR,FR-U,"Le Castellet",0,LFMR,BAE,,,https://en.wikipedia.org/wiki/Barcelonnette_%E2%80%93_Saint-Pons_Airport,,50,2016-06-06T07:29:52+00:00
+4165,LFMZ,small_airport,"Lézignan-Corbières Airport",43.17580032348633,2.7341699600219727,207,EU,FR,FR-K,Lézignan-Corbières,0,LFMZ,,,,,,50,2008-06-13T14:30:04+00:00
+4194,LFQC,small_airport,"Lunéville-Croismare Airport",48.593299865722656,6.543459892272949,790,EU,FR,FR-M,Lunéville/Croismare,0,LFQC,,,,,,50,2008-06-13T14:30:04+00:00
+28939,LFNC,small_airport,"Mont-Dauphin - St-Crépin Airport",44.701698,6.60028,2963,EU,FR,FR-U,Mende,0,LFNC,SCP,,http://www.stcrepin-aero.com/,,,50,2017-02-11T16:34:28+00:00
+28941,LFNE,small_airport,"Salon Eyguières Airport",43.65829849243164,5.013609886169434,246,EU,FR,FR-U,Mende,0,LFNE,,,,,,50,2008-07-31T23:16:11+00:00
+4084,LFCM,small_airport,"Millau-Larzac Airport",43.98929977416992,3.183000087738037,2606,EU,FR,FR-N,Millau/Larzac,0,LFCM,,,,,,50,2008-06-13T14:30:04+00:00
+28910,LFJF,small_airport,"Aubenasson Airport",44.69449996948242,5.1511101722717285,810,EU,FR,FR-V,Moulins,0,LFJF,,,,,,50,2008-06-20T08:05:47+00:00
+4115,LFHY,small_airport,"Moulins-Montbeugny Airport",46.53459930419922,3.423719882965088,915,EU,FR,FR-C,Moulins/Montbeugny,0,LFHY,,,,http://en.wikipedia.org/wiki/Moulins_-_Montbeugny_Airport,,50,2008-06-13T14:30:04+00:00
+4072,LFBR,small_airport,"Muret-Lherm Airport",43.44889831542969,1.2633299827575684,622,EU,FR,FR-N,Muret/Lherm,0,LFBR,,,,,,50,2008-06-13T14:30:04+00:00
+28932,LFME,small_airport,"Nîmes Courbessac Airport",43.853901,4.41361,197,EU,FR,FR-K,Nîmes,0,LFME,,,,,,50,2018-09-18T11:49:59+00:00
+28970,LFPA,small_airport,"Persan Beaumont Airport",49.16579818725586,2.3130600452423096,148,EU,FR,FR-J,Orleans,0,LFPA,,,,,,50,2008-07-31T23:16:58+00:00
+28976,LFPP,small_airport,"Le Plessis Belleville Airport",49.11000061035156,2.7380599975585938,387,EU,FR,FR-S,Paris,0,LFPP,,,,,,50,2008-07-31T23:17:11+00:00
+28826,LFEL,small_airport,"Le Blanc Airport",46.62080001831055,1.087499976158142,377,EU,FR,FR-F,Pontivy,0,LFEL,,,,,,50,2008-07-31T22:41:47+00:00
+4192,LFQA,small_airport,"Reims-Prunay Airport",49.20869827270508,4.156579971313477,313,EU,FR,FR-G,Reims/Prunay,0,LFQA,,,,,,50,2008-06-13T14:30:04+00:00
+28801,LFDC,small_airport,"Montendre Marcillac Airport",45.27439880371094,-0.45222198963165283,148,EU,FR,FR-B,Royan,0,LFDC,,,,,,50,2008-07-31T22:41:00+00:00
+29004,LFSW,small_airport,"Épernay Plivot Airport",49.00529861450195,4.086939811706543,289,EU,FR,FR-G,Strasbourg,0,LFSW,,,,,,50,2008-07-31T23:18:06+00:00
+28820,LFEC,small_airport,"Ouessant Airport",48.463199615478516,-5.06358003616333,142,EU,FR,FR-E,Ushant,0,LFEC,,,,,,50,2008-07-28T07:22:03+00:00
+28880,LFHE,small_airport,"Romans - Saint-Paul Airport",45.06610107421875,5.103330135345459,594,EU,FR,FR-V,Verdun,0,LFHE,,,,,,50,2008-06-20T08:04:06+00:00
+28888,LFHN,small_airport,"Bellegarde-Vouvray Airport",46.12419891357422,5.80610990524292,1624,EU,FR,FR-V,Verdun,0,LFHN,,,,,,50,2008-06-20T08:14:00+00:00
+28979,LFPX,small_airport,"Chavenay Villepreux Airport",48.84360122680664,1.9822200536727905,426,EU,FR,FR-J,Villacoublay,0,LFPX,,,,,,50,2008-07-31T23:17:19+00:00
+311396,FR-0321,medium_airport,"Brive Souillac Airport",45.039722,1.485556,1016,EU,FR,FR-L,,1,LFSL,BVE,,http://aeroport-brive-vallee-dordogne.com/,http://en.wikipedia.org/wiki/Brive%E2%80%93Souillac_Airport,"Brive Vallee de la Dordogne",0,2016-05-27T11:06:57+00:00
+4074,LFBU,medium_airport,"Angoulême-Brie-Champniers Airport",45.72919845581055,0.22145600616931915,436,EU,FR,FR-T,Angoulême/Brie/Champniers,1,LFBU,ANG,,,http://en.wikipedia.org/wiki/Angoul%C3%AAme_-_Brie_-_Champniers_Airport,,925,2008-06-13T14:30:04+00:00
+35155,FR-JCA,heliport,"Croisette Heliport",43.5359992980957,7.037360191345215,,EU,FR,FR-U,Cannes,1,,JCA,,,,"Palm Beach",625,2008-07-31T22:40:02+00:00
+4191,LFPV,medium_airport,"Villacoublay-Vélizy (BA 107) Air Base",48.7741667,2.1916667,584,EU,FR,FR-J,Villacoublay/Vélizy,0,LFPV,VIY,,,http://en.wikipedia.org/wiki/V%C3%A9lizy_%E2%80%93_Villacoublay_Air_Base,,599,2016-10-03T10:38:32+00:00
+4229,LFSF,closed,"Metz-Frescaty (BA 128) Air Base",49.071701,6.13167,629,EU,FR,FR-M,Metz/Frescaty,0,LFSF,MZM,,,,,575,2017-03-04T03:17:40+00:00
+4059,LFBC,medium_airport,"Cazaux (BA 120) Air Base",44.53329849243164,-1.125,84,EU,FR,FR-B,"Cazaux (La Teste-de-Buch)",0,LFBC,,,,,,500,2008-06-13T14:30:04+00:00
+4201,LFQP,medium_airport,"Phalsbourg-Bourscheid Air Base",48.7680556,7.205,1017,EU,FR,FR-M,Phalsbourg/Bourscheid,0,LFQP,,,,,,450,2016-10-03T10:36:10+00:00
+4175,LFOJ,medium_airport,"Orléans-Bricy (BA 123) Air Base",47.9878005981,1.7605600357100002,412,EU,FR,FR-F,Orléans/Bricy,0,LFOJ,ORE,,,http://en.wikipedia.org/wiki/Orl%C3%A9ans_-_Bricy_Air_Base,,375,2009-12-11T18:11:50+00:00
+4076,LFBX,medium_airport,"Périgueux-Bassillac Airport",45.19810104370117,0.815555989742279,328,EU,FR,FR-B,Périgueux/Bassillac,0,LFBX,PGX,,,,,325,2008-06-13T14:30:04+00:00
+4097,LFDN,medium_airport,"Rochefort-Saint-Agnant (BA 721) Airport",45.88779830932617,-0.9830560088157654,60,EU,FR,FR-T,Rochefort/Saint-Agnant,0,LFDN,RCO,,,,,325,2008-06-13T14:30:04+00:00
+4150,LFMC,medium_airport,"Le Luc-Le Cannet Airport",43.384700775146484,6.387139797210693,265,EU,FR,FR-U,"Le Luc/Le Cannet",0,LFMC,,,,,,300,2008-06-13T14:30:04+00:00
+4235,LFSO,medium_airport,"Nancy-Ochey (BA 133) Air Base",48.583099365234375,5.954999923706055,1106,EU,FR,FR-M,Nancy/Ochey,0,LFSO,,,,,,300,2008-06-13T14:30:04+00:00
+4080,LFCH,medium_airport,"Arcachon-La Teste-de-Buch Airport",44.596401,-1.11083,49,EU,FR,FR-B,"Arcachon/La Teste-de-Buch",0,LFCH,,,,http://en.wikipedia.org/wiki/Arcachon_-_La_Teste-de-Buch_Airport,,250,2016-10-27T23:26:09+00:00
+4106,LFGF,medium_airport,"Beaune-Challanges Airport",47.005901,4.89342,656,EU,FR,FR-D,Beaune/Challanges,0,LFGF,,,,,,250,2016-10-28T05:12:38+00:00
+4133,LFLD,medium_airport,"Bourges Airport",47.058101654052734,2.3702800273895264,529,EU,FR,FR-F,Bourges,0,LFLD,BOU,,,,,250,2008-06-13T14:30:04+00:00
+4210,LFRF,medium_airport,"Granville Airport",48.88309860229492,-1.564170002937317,45,EU,FR,FR-P,Granville,0,LFRF,GFR,,,,,250,2008-06-13T14:30:04+00:00
+4209,LFRE,medium_airport,"La Baule-Escoublac Airport",47.289398193359375,-2.3463900089263916,105,EU,FR,FR-R,"La Baule-Escoublac",0,LFRE,LBY,,,,,250,2008-06-13T14:30:04+00:00
+4094,LFDI,medium_airport,"Libourne-Artigues-de-Lussac Airport",44.982498,-0.134722,157,EU,FR,FR-B,Libourne/Artigues-de-Lussac,0,LFDI,,,,,,250,2016-10-28T06:06:24+00:00
+4092,LFDB,medium_airport,"Montauban Airport",44.025699615478516,1.3780399560928345,351,EU,FR,FR-N,Montauban,0,LFDB,XMW,,,,,250,2008-06-13T14:30:04+00:00
+4223,LFRU,medium_airport,"Morlaix-Ploujean Airport",48.6031990051,-3.81577992439,272,EU,FR,FR-E,Morlaix/Ploujean,0,LFRU,MXN,,,http://en.wikipedia.org/wiki/Morlaix_%E2%80%93_Ploujean_Airport,,250,2012-11-22T14:36:10+00:00
+4089,LFCY,medium_airport,"Royan-Médis Airport",45.62810134887695,-0.9725000262260437,72,EU,FR,FR-T,Royan/Médis,0,LFCY,RYN,,,,,250,2008-06-13T14:30:04+00:00
+4056,LFAV,medium_airport,"Valenciennes-Denain Airport",50.325801849365234,3.4612600803375244,177,EU,FR,FR-O,Valenciennes/Denain,0,LFAV,XVS,,,,,250,2008-06-13T14:30:04+00:00
+4224,LFRV,medium_airport,"Vannes-Meucon Airport",47.72330093383789,-2.718559980392456,446,EU,FR,FR-E,Vannes/Meucon,0,LFRV,VNE,,,,,250,2008-06-13T14:30:04+00:00
+4205,LFQW,medium_airport,"Vesoul-Frotey Airport",47.6376,6.20392,1249,EU,FR,FR-I,Vesoul/Frotey,0,LFQW,,,,,,250,2016-10-30T06:18:48+00:00
+28811,LFDS,small_airport,"Sarlat Domme Airfield",44.793301,1.24472,978,EU,FR,FR-B,,0,LFDS,,,,,,50,2016-11-11T04:31:40+00:00
+28854,LFFX,small_airport,"Tournus Cuisery Airfield",46.562801,4.97667,682,EU,FR,FR-D,,0,LFFX,,,,,,50,2019-02-18T02:33:31+00:00
+28867,LFGP,small_airport,"St Florentin Cheu Airfield",47.98019,3.775583,351,EU,FR,FR-D,,0,LFGP,,,,,,50,2016-11-14T05:24:31+00:00
+29017,LFXM,closed,"Mourmelon Air Base",49.111401,4.36694,387,EU,FR,FR-G,,0,LFXM,,,,,,50,2018-08-04T09:22:37+00:00
+28863,LFGL,small_airport,"Lons Le Saulnier Courlaoux Airfield",46.676102,5.47111,761,EU,FR,FR-I,,0,LFGL,,,,,,50,2016-11-14T05:01:42+00:00
+28940,LFND,closed,"Pont St Esprit Airfield",44.269402,4.65333,144,EU,FR,FR-K,,0,LFND,,,,,,50,2016-11-14T11:58:14+00:00
+29027,LFYS,small_airport,"Ste Léocadie Airfield",42.447201,2.01083,4331,EU,FR,FR-K,,0,LFYS,,,,,,50,2018-04-02T00:36:52+00:00
+28835,LFEX,small_airport,"Nancy Azelot Airfield",48.5928,6.24111,961,EU,FR,FR-M,,0,LFEX,,,,,,50,2019-02-18T02:32:48+00:00
+28836,LFEZ,small_airport,"Nancy Malzeville Glider Field",48.7244,6.20778,1253,EU,FR,FR-M,,0,LFEZ,,,,,,50,2016-11-14T07:03:05+00:00
+28871,LFGT,small_airport,"Sarrebourg Buhl Airfield",48.717087,7.074805,873,EU,FR,FR-M,,0,LFGT,,,,,,50,2016-11-15T03:15:17+00:00
+28872,LFGU,small_airport,"Sarreguemines Neunkirch Airfield",49.128101,7.10833,853,EU,FR,FR-M,,0,LFGU,,,,,,50,2016-11-15T03:14:29+00:00
+28873,LFGV,closed,"Thionville Yutz Airport",49.354698,6.20139,518,EU,FR,FR-M,,0,LFGV,,,,,,50,2016-11-15T03:13:56+00:00
+28775,LFAK,small_airport,"Dunkerque les Moeres Airfield",51.0406,2.55028,-3,EU,FR,FR-O,,0,LFAK,,,,,Dunkirk,50,2018-04-02T01:05:00+00:00
+28839,LFFD,small_airport,"St André De L'eure Airfield",48.898602,1.25056,489,EU,FR,FR-Q,,0,LFFD,,,,,,50,2019-02-18T03:18:34+00:00
+28771,LFAD,small_airport,"Compiègne Margny Airfield",49.434399,2.80611,315,EU,FR,FR-S,,0,LFAD,,,,,,50,2018-04-02T00:57:24+00:00
+28842,LFFH,small_airport,"Château-Thierry - Belleau Airfield",49.0672,3.35694,728,EU,FR,FR-S,,0,LFFH,,,,,,50,2019-02-18T05:46:46+00:00
+28808,LFDP,small_airport,"St Pierre d'Oléron Airfield",45.959202,-1.31611,20,EU,FR,FR-T,,0,LFDP,,,http://ac.oleron.free.fr,,,50,2017-03-05T14:53:49+00:00
+28814,LFDV,small_airport,"Couhé Vérac Airfield",46.2728,0.190556,499,EU,FR,FR-T,,0,LFDV,,,,,,50,2016-11-11T04:29:07+00:00
+28954,LFNV,small_airport,"Valréas Visan Airfield",44.336899,4.90806,472,EU,FR,FR-U,,0,LFNV,,,,,,50,2019-02-18T08:05:02+00:00
+28909,LFJE,small_airport,"Altiport de La Motte Chalancon",44.4958,5.40285,2887,EU,FR,FR-V,,0,LFJE,,,,,,50,2016-11-14T11:07:48+00:00
+28921,LFKL,small_airport,"Lyon Brindas Airport",45.7117,4.69778,1040,EU,FR,FR-V,,0,LFKL,,,,,,50,2018-04-02T00:23:35+00:00
+28923,LFKP,small_airport,"La Tour Du Pin Airfield",45.560001,5.38472,1050,EU,FR,FR-V,,0,LFKP,,,,,,50,2018-04-02T01:10:45+00:00
+4091,LFDA,small_airport,"Aire-sur-l'Adour Airport",43.70940017700195,-0.245278000831604,259,EU,FR,FR-B,Aire-sur-Adour,0,LFDA,,,,,,50,2008-06-13T14:30:04+00:00
+4054,LFAQ,small_airport,"Albert-Bray Airport",49.9715003967,2.69765996933,364,EU,FR,FR-S,Albert/Bray,0,LFAQ,BYF,,,http://en.wikipedia.org/wiki/Albert_%E2%80%93_Picardie_Airport,,50,2012-02-22T01:29:01+00:00
+4102,LFFI,small_airport,"Ancenis Airport",47.40810012817383,-1.1775000095367432,111,EU,FR,FR-R,Ancenis,0,LFFI,,,,,,50,2008-06-13T14:30:04+00:00
+28790,LFCD,small_airport,"Andernos Les Bains Airport",44.7561,-1.06333,66,EU,FR,FR-B,Andernos-les-Bains,0,LFCD,,,,,,50,2018-08-27T04:47:07+00:00
+28914,LFJS,small_airport,"Soissons - Courmelles Airport",49.34579849243164,3.284169912338257,509,EU,FR,FR-S,Angers,0,LFJS,,,,,,50,2008-06-20T08:27:04+00:00
+28996,LFRW,small_airport,"Avranches Le Val St Père Airport",48.661701,-1.40444,26,EU,FR,FR-P,Avranches,0,LFRW,,,,,,50,2016-08-23T07:54:29+00:00
+28789,LFCB,small_airport,"Bagnères De Luchon Airport",42.79999923706055,0.6000000238418579,2028,EU,FR,FR-N,Biarritz,0,LFCB,,,,,,50,2008-07-31T22:40:38+00:00
+28788,LFCA,small_airport,"Châtellerault Airport",46.781399,0.551944,207,EU,FR,FR-T,Biarritz,0,LFCA,,,,,,50,2016-10-28T05:07:47+00:00
+28966,LFOS,small_airport,"St Valéry Vittefleur Airport",49.83610153198242,0.6549999713897705,272,EU,FR,FR-Q,Blois,0,LFOS,,,,,,50,2008-07-31T23:16:52+00:00
+28918,LFKE,small_airport,"Saint-Jean-en-Royans Airport",45.027801513671875,5.309999942779541,866,EU,FR,FR-V,Calvi,0,LFKE,,,,,,50,2008-06-20T08:03:08+00:00
+28984,LFQK,small_airport,"Châlons Ecury Sur Coole Airport",48.90610122680664,4.354169845581055,319,EU,FR,FR-G,Cambrai,0,LFQK,,,,,,50,2008-07-31T23:17:26+00:00
+28961,LFOL,small_airport,"L'aigle St Michel Airport",48.759700775146484,0.6591669917106628,787,EU,FR,FR-P,Chalons,0,LFOL,,,,,,50,2008-07-31T23:16:43+00:00
+28992,LFQY,small_airport,"Saverne Steinbourg Airport",48.75419998168945,7.426390171051025,630,EU,FR,FR-A,Charleville-Mezieres,0,LFQY,,,,,,50,2008-07-31T23:17:41+00:00
+28965,LFOR,small_airport,"Chartres – Métropole Airport",48.4589,1.52389,509,EU,FR,FR-F,"Chartres / Champhol",0,LFOR,,,,http://en.wikipedia.org/wiki/Chartres_%E2%80%93_Champhol_Aerodrome,"Champhol, A-40",50,2016-10-26T12:50:18+00:00
+28770,LFAB,small_airport,"St Aubin Airport",49.88249969482422,1.085279941558838,344,EU,FR,FR-Q,Dieppe,0,LFAB,DPE,,,,,50,2008-07-31T22:40:04+00:00
+28959,LFOF,small_airport,"Alençon Valframbert Airport",48.447498,0.109167,479,EU,FR,FR-P,Evreux,0,LFOF,,,,,,50,2016-10-27T23:28:06+00:00
+28919,LFKG,small_airport,"Ghisonaccia Alzitone Airport",42.05500030517578,9.40194034576416,177,EU,FR,FR-H,"Figari/Sud Corse",0,LFKG,,,,,,50,2008-07-31T23:15:45+00:00
+29011,LFTU,closed,"Fréjus Airport",43.4175,6.7357,33,EU,FR,FR-U,Fréjus,0,LFTU,FRJ,,,http://en.wikipedia.org/wiki/Frejus_Airport,,50,2014-09-18T22:15:58+00:00
+28804,LFDG,small_airport,"Gaillac Lisle Sur Tarn Airport",43.88389968869999,1.87556004524,446,EU,FR,FR-N,Gaillac,0,LFDG,,,,,,50,2014-02-04T08:02:40+00:00
+29007,LFTN,small_airport,"La Grand'combe Airport",44.24440002441406,4.0122199058532715,1647,EU,FR,FR-K,Hyeres,0,LFTN,,,,,,50,2008-07-31T23:18:11+00:00
+29008,LFTP,small_airport,"Puimoisson Airport",43.86889,6.16278,2523,EU,FR,FR-U,Hyeres,0,LFTP,,,http://www.puivolavoile.com/?lang=en,,,50,2018-03-10T11:50:30+00:00
+30241,LFPI,heliport,"Paris Issy-les-Moulineaux Heliport",48.83330154418945,2.272779941558838,112,EU,FR,FR-J,Issy-les-Moulineaux,0,LFPI,JDP,,,,,50,2009-03-14T19:28:36+00:00
+4108,LFGK,small_airport,"Joigny Airport",47.9921989440918,3.3922200202941895,732,EU,FR,FR-D,Joigny,0,LFGK,,,,,,50,2008-06-13T14:30:04+00:00
+28931,LFLZ,small_airport,"Feurs Chambéon Airport",45.7036018371582,4.201109886169434,1096,EU,FR,FR-V,Lyon,0,LFLZ,,,,,,50,2008-07-31T23:16:00+00:00
+4096,LFDM,small_airport,"Marmande-Virazeil Airport",44.4989013671875,0.20051400363445282,105,EU,FR,FR-B,Marmande/Virazeil,0,LFDM,,,,,,50,2008-06-13T14:30:04+00:00
+28990,LFQU,small_airport,"Sarre Union Airport",48.95140075683594,7.077779769897461,837,EU,FR,FR-A,Merville,0,LFQU,,,,,,50,2008-07-31T23:17:37+00:00
+4090,LFCZ,small_airport,"Mimizan Airport",44.145928,-1.16432,164,EU,FR,FR-B,Mimizan,0,LFCZ,,,,,,50,2016-07-24T01:48:30+00:00
+28784,LFAX,small_airport,"Mortagne Au Perche Airport",48.540298,0.533889,886,EU,FR,FR-P,Mortagne,0,LFAX,,,,,,50,2016-06-02T08:57:51+00:00
+28901,LFIP,small_airport,"Peyresourde Balestas Airport",42.79690170288086,0.43555599451065063,5190,EU,FR,FR-N,Moulins,0,LFIP,,,,,,50,2008-07-31T23:15:20+00:00
+28897,LFIH,small_airport,"Chalais Airport",45.26810073852539,0.016944000497460365,285,EU,FR,FR-T,Moulins,0,LFIH,,,,,,50,2008-07-31T23:15:11+00:00
+28906,LFIY,small_airport,"St Jean D'angély Airport",45.966400146484375,-0.5252779722213745,246,EU,FR,FR-T,Moulins,0,LFIY,,,,,,50,2008-07-31T23:15:30+00:00
+28912,LFJI,small_airport,"Marennes Le Bournet Airport",45.82500076293945,-1.0766700506210327,16,EU,FR,FR-T,Moulins,0,LFJI,,,,,,50,2008-07-31T23:15:35+00:00
+28894,LFHZ,small_airport,"Sallanches Airport",45.95389938354492,6.639170169830322,1755,EU,FR,FR-V,Moulins,0,LFHZ,,,,,,50,2008-07-31T23:15:05+00:00
+4105,LFGB,small_airport,"Mulhouse-Habsheim Airport",47.74129867553711,7.4322099685668945,788,EU,FR,FR-A,Mulhouse/Habsheim,0,LFGB,,,,,,50,2008-06-13T14:30:04+00:00
+4052,LFAI,small_airport,"Nangis-Les Loges Airport",48.59619903564453,3.0067899227142334,428,EU,FR,FR-J,"Nangis/Les Loges",0,LFAI,,,,,,50,2008-06-13T14:30:04+00:00
+28805,LFDK,small_airport,"Soulac Sur Mer Airport",45.494998931884766,-1.0822199583053589,7,EU,FR,FR-B,Pamiers,0,LFDK,,,,,,50,2008-07-31T22:41:08+00:00
+28977,LFPQ,small_airport,"Fontenay Trésigny Airport",48.70719909667969,2.904439926147461,371,EU,FR,FR-J,Paris,0,LFPQ,,,,,,50,2008-07-31T23:17:13+00:00
+2988,LF51,small_airport,"Aérodrome du Plan-de-Dieu - Orange",44.18,4.91889,305,EU,FR,FR-U,Plan-de-Dieu,0,,,LF8451,http://www.aeroclubduplandedieu.fr,,,50,2017-05-02T12:04:52+00:00
+28785,LFBJ,small_airport,"St Junien Airport",45.90330123901367,0.9200000166893005,902,EU,FR,FR-L,Poitiers,0,LFBJ,,,,,,50,2008-07-31T22:40:30+00:00
+28828,LFEN,small_airport,"Tours Sorigny Airport",47.26750183105469,0.7011110186576843,299,EU,FR,FR-F,Pontivy,0,LFEN,,,,,,50,2008-07-31T22:41:51+00:00
+28829,LFEP,small_airport,"Pouilly Maconge Airport",47.221401,4.56111,1411,EU,FR,FR-D,Pouilly,0,LFEP,,,,,,50,2016-11-12T07:23:31+00:00
+28952,LFNT,small_airport,"Avignon Pujaut Airport",43.996899,4.75556,148,EU,FR,FR-K,Pujaut,0,LFNT,,,,,,50,2018-10-01T03:56:45+00:00
+28484,LFER,small_airport,"Redon Bains-sur-Oust Airport",47.69940185546875,-2.036669969558716,223,EU,FR,FR-E,Redon,0,LFER,,,,,,50,2008-06-13T14:30:04+00:00
+28898,LFIK,small_airport,"Aérodrome de Ribérac-Tourette",45.238667,0.264798,351,EU,FR,FR-B,Ribérac,0,LFIK,,,,,,50,2016-11-14T10:41:06+00:00
+28816,LFDX,small_airport,"Fumel Montayral Airport",44.463600158691406,1.0077799558639526,692,EU,FR,FR-B,Rochefort,0,LFDX,,,,,,50,2008-07-31T22:41:28+00:00
+28817,LFDY,small_airport,"Bordeaux Yvrac Airport",44.877201080322266,-0.47916701436042786,240,EU,FR,FR-B,Rochefort,0,LFDY,,,,,,50,2008-07-31T22:41:30+00:00
+28818,LFEA,small_airport,"Belle Ile Airport",47.326698303222656,-3.1983299255371094,171,EU,FR,FR-E,Rochefort,0,LFEA,,,,,,50,2008-07-31T22:41:34+00:00
+28803,LFDF,small_airport,"Ste Foy La Grande Airport",44.853599548339844,0.1766670048236847,282,EU,FR,FR-B,Royan,0,LFDF,,,,,,50,2008-07-31T22:41:04+00:00
+28802,LFDE,small_airport,"Égletons Airport",45.4213981628418,2.06889009475708,1857,EU,FR,FR-L,Royan,0,LFDE,,,,,,50,2008-07-31T22:41:02+00:00
+28986,LFQN,small_airport,"Saint Omer Wizernes Airfield",50.7294444,2.2358333,249,EU,FR,FR-O,"Saint Omer",0,LFQN,,,,,,50,2016-12-08T23:39:10+00:00
+4112,LFHQ,small_airport,"Saint-Flour-Coltines Airport",45.07640075683594,2.99360990524292,3218,EU,FR,FR-C,Saint-Flour/Coltines,0,LFHQ,,,,,,50,2008-06-13T14:30:04+00:00
+28868,LFGQ,small_airport,"Semur En Auxois Airfield",47.481899,4.34417,1053,EU,FR,FR-D,"Semur En Auxois",0,LFGQ,,,,,,50,2016-09-12T08:44:47+00:00
+28997,LFSA,small_airport,"Besançon–Thise Airport",47.274700164799995,6.084169864650001,807,EU,FR,FR-I,"St Nazaire",0,LFSA,,,,http://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Besan%C3%A7on_-_Thise,,50,2013-07-07T00:40:07+00:00
+29020,LFXU,small_airport,"Les Mureaux Airport",48.99829864501953,1.9427800178527832,89,EU,FR,FR-J,"St Pierre I",0,LFXU,,,,,,50,2008-07-31T23:18:32+00:00
+29014,LFXG,closed,"Bitche Army Air Base",49.06007,7.45009,984,EU,FR,FR-M,"St Pierre I",0,LFXG,,,,,,50,2018-04-02T00:49:15+00:00
+29012,LFXB,small_airport,"Saintes Thénac Airport",45.701900482177734,-0.6361110210418701,118,EU,FR,FR-T,"St Pierre I",0,LFXB,,,,,,50,2008-07-31T23:18:19+00:00
+29003,LFSV,small_airport,"Pont St Vincent Airport",48.60139846801758,6.057779788970947,1306,EU,FR,FR-M,Strasbourg,0,LFSV,,,,,,50,2008-07-31T23:18:04+00:00
+28831,LFET,small_airport,"Til Châtel Airfield",47.547501,5.21194,938,EU,FR,FR-D,"Til Châtel",0,LFET,,,,,,50,2016-11-15T03:18:52+00:00
+28876,LFGZ,small_airport,"Nuits St Georges Airport",47.14310073852539,4.969170093536377,797,EU,FR,FR-D,Verdun,0,LFGZ,,,,,,50,2008-07-31T23:14:43+00:00
+28874,LFGX,small_airport,"Champagnole Crotenay Airport",46.764400482177734,5.82082986831665,1745,EU,FR,FR-I,Verdun,0,LFGX,,,,,,50,2008-07-31T23:14:39+00:00
+28878,LFHC,small_airport,"Pérouges - Meximieux Airport",45.86970138549805,5.187220096588135,702,EU,FR,FR-V,Verdun,0,LFHC,,,,,,50,2008-06-20T08:22:51+00:00
+28883,LFHH,small_airport,"Vienne Reventin Airport",45.464199,4.82944,719,EU,FR,FR-V,Verdun,0,LFHH,,,,,,50,2016-10-29T05:03:14+00:00
+28884,LFHI,small_airport,"Morestel Airport",45.687801361083984,5.453609943389893,804,EU,FR,FR-V,Verdun,0,LFHI,,,,,,50,2008-07-31T23:14:52+00:00
+4088,LFCW,small_airport,"Villeneuve-sur-Lot Airport",44.39690017700195,0.7588890194892883,190,EU,FR,FR-B,Villeneuve-sur-Lot,0,LFCW,,,,,,50,2008-06-13T14:30:04+00:00
+329110,FR-0374,small_airport,"Corbonod-Seyssel Private",45.9618,5.8178,1175,EU,FR,FR-U-A,,0,,,LF0151,,,,0,2018-08-26T13:16:35+00:00
+43582,FR-0242,small_airport,"Saint Rémy de Maurienne",45.376718,6.27692,1399,EU,FR,FR-V,,0,LFKR,,,,,,0,2018-04-02T00:54:00+00:00
+43408,FR-0068,heliport,"Centre Hospitalier Heliport",49.76250076293945,4.697500228881836,579,EU,FR,FR-G,"Charleville Mezieres",0,,,,,,,0,2009-03-14T19:27:19+00:00
+43596,FR-0254,small_airport,"Cipieres Alpes Dazur Airport",43.77777862548828,6.9069437980651855,3789,EU,FR,FR-U,Cipieres,0,,,,,,,0,2009-03-14T20:31:07+00:00
+43597,FR-0255,small_airport,"Clamensane Airport",44.313889,6.074444,2933,EU,FR,FR-U,Clamensane,0,,,,,,,0,2015-07-17T09:53:10+00:00
+43573,FR-0233,heliport,"Hôtel Royal Heliport",46.39666748046875,6.595555782318115,1540,EU,FR,FR-V,Evian-les-Bains,0,,,,,,,0,2009-03-14T19:33:31+00:00
+43637,FR-0295,small_airport,"Chateau de Montmeilleur",44.793611,5.761667,2789,EU,FR,FR-V,Mens,0,LFKK,,,,,Montmeilleur,0,2017-05-02T11:53:38+00:00
+43438,FR-0098,small_airport,Narbonne,43.194168,3.051667,10,EU,FR,FR-K,Narbonne,0,LFNN,,,,,,0,2017-05-02T11:55:14+00:00
+43626,FR-0284,small_airport,"Isola 2000 Airport",44.17166519165039,7.163055896759033,8202,EU,FR,FR-U,"Saint Sauveur de Tinee",0,,,,,,,0,2009-03-14T20:32:16+00:00
+43644,FR-0302,small_airport,"Praz Sauge Et Pre Vernay Airport",45.18888854980469,6.253056049346924,5958,EU,FR,FR-V,"St Jean D'Arves",0,,,,,,,0,2009-03-14T20:32:58+00:00
+43646,FR-0304,small_airport,"St Roch Mayeres Airport",45.95000076293945,6.586111068725586,5118,EU,FR,FR-V,"St Roch",0,,,,,,,0,2009-03-14T20:33:03+00:00
+43574,FR-0234,heliport,"La Daille Heliport",45.45722198486328,6.967778205871582,5912,EU,FR,FR-V,"Val D'Isere",0,,,,,,,0,2009-03-14T19:33:33+00:00
+4075,LFBV,closed,"Brive-La Roche Airport",45.150799,1.469202,379,EU,FR,FR-L,Brive-la-Gaillarde,0,LFBV,,,,http://en.wikipedia.org/wiki/Brive_-_La_Roche_Airport,BVE,1375,2016-06-30T00:35:20+00:00
+4168,LFOA,large_airport,"Avord (BA 702) Air Base",47.053299,2.6325,580,EU,FR,FR-F,Avord,0,LFOA,,,,https://en.wikipedia.org/wiki/Avord_Air_Base,,850,2016-05-31T09:37:29+00:00
+4121,LFJR,medium_airport,"Angers-Loire Airport",47.560299,-0.312222,194,EU,FR,FR-R,Angers/Marcé,1,LFJR,ANE,,,https://en.wikipedia.org/wiki/Angers_–_Loire_Airport,,800,2018-09-16T04:23:55+00:00
+4068,LFBM,medium_airport,"Mont-de-Marsan (BA 118) Air Base",43.911701,-0.5075,203,EU,FR,FR-B,Mont-de-Marsan,0,LFBM,,,,,,599,2016-10-29T05:13:42+00:00
+4172,LFOE,medium_airport,"Évreux-Fauville (BA 105) Air Base",49.02870178222656,1.2198599576950073,464,EU,FR,FR-Q,Évreux/Fauville,0,LFOE,EVX,,,,,575,2008-06-13T14:30:04+00:00
+4239,LFSX,medium_airport,"Luxeuil-Saint-Sauveur (BA 116) Air Base",47.7830556,6.36416667,913,EU,FR,FR-I,Luxeuil/Saint-Sauveur,0,LFSX,,,,,,500,2016-10-03T10:20:03+00:00
+4187,LFPM,medium_airport,"Melun-Villaroche Air Base",48.604698181152344,2.6711199283599854,302,EU,FR,FR-J,Melun/Villaroche,0,LFPM,,,,,,500,2008-06-13T14:30:04+00:00
+4153,LFMI,medium_airport,"Istres Le Tubé/Istres Air Base (BA 125) Airport",43.522701,4.92384,82,EU,FR,FR-U,"Istres/Le Tubé",0,LFMI,,,,,"Istres Air Base",475,2016-10-26T08:24:34+00:00
+4157,LFMO,medium_airport,"Orange-Caritat (BA 115) Air Base",44.140499114990234,4.866720199584961,197,EU,FR,FR-U,Orange/Caritat,0,LFMO,XOG,,,http://en.wikipedia.org/wiki/Orange-Caritat_Air_Base,,475,2008-06-13T14:30:04+00:00
+4198,LFQI,closed,"Cambrai-Épinoy (BA 103) Air Base",50.221802,3.15424,257,EU,FR,FR-O,Cambrai/Épinoy,0,LFQI,,,,,,375,2016-11-15T05:31:28+00:00
+4063,LFBG,medium_airport,"Cognac-Châteaubernard (BA 709) Air Base",45.65829849243164,-0.3174999952316284,102,EU,FR,FR-T,Cognac/Châteaubernard,0,LFBG,CNG,,,,,375,2008-06-13T14:30:04+00:00
+4184,LFPC,medium_airport,"Creil Air Base",49.253501892089844,2.5191400051116943,291,EU,FR,FR-S,Creil,0,LFPC,CSF,,,,"BA 110",375,2008-06-13T14:30:04+00:00
+4214,LFRJ,medium_airport,"Landivisiau Air Base",48.53030014038086,-4.151639938354492,348,EU,FR,FR-E,Landivisiau,0,LFRJ,LDV,,,,,375,2008-06-13T14:30:04+00:00
+4227,LFSC,closed,"Colmar-Meyenheim Air Base",47.922000885,7.39967012405,693,EU,FR,FR-A,Colmar/Meyenheim,0,LFSC,,,,,"BA 132",300,2013-11-10T03:02:25+00:00
+4232,LFSI,medium_airport,"Saint-Dizier-Robinson (BA 113) Air Base",48.63600158691406,4.899419784545898,458,EU,FR,FR-G,Saint-Dizier/Robinson,0,LFSI,,,,,,300,2008-06-13T14:30:04+00:00
+4062,LFBF,medium_airport,"Toulouse-Francazal (BA 101) Air Base",43.54560089111328,1.3674999475479126,535,EU,FR,FR-N,Toulouse/Francazal,0,LFBF,,,,,,300,2008-06-13T14:30:04+00:00
+29028,LFYT,closed,"Saint-Simon - Clastres Air Base",49.757542,3.21598,295,EU,FR,FR-S,,0,LFYT,,,,https://en.wikipedia.org/wiki/Saint-Simon_%E2%80%93_Clastres_Air_Base,,250,2018-04-02T00:35:58+00:00
+4170,LFOC,medium_airport,"Châteaudun (BA 279) Air Base",48.058102,1.37662,433,EU,FR,FR-F,Châteaudun,0,LFOC,,,,,,250,2016-11-15T06:18:58+00:00
+4180,LFOU,medium_airport,"Cholet Le Pontreau Airport",47.08209991455078,-0.8770639896392822,443,EU,FR,FR-R,"Cholet/Le Pontreau",0,LFOU,CET,,,,,250,2008-06-13T14:30:04+00:00
+4195,LFQE,medium_airport,"Étain-Rouvres Air Base",49.226898193359375,5.672220230102539,770,EU,FR,FR-M,Étain/Rouvres,0,LFQE,,,,,,250,2008-07-13T21:58:18+00:00
+4216,LFRL,medium_airport,"Lanvéoc-Poulmic Air Base",48.281700134277344,-4.4450201988220215,287,EU,FR,FR-E,Lanvéoc/Poulmic,0,LFRL,,,,,,250,2008-07-13T21:58:18+00:00
+4233,LFSM,medium_airport,"Montbéliard-Courcelles Airfield",47.487,6.79054,1041,EU,FR,FR-I,Montbéliard/Courcelles,0,LFSM,,,,,,250,2016-11-15T11:42:15+00:00
+4051,LFAG,medium_airport,"Péronne-Saint-Quentin Airport",49.8685,3.02958,295,EU,FR,FR-S,Péronne/Saint-Quentin,0,LFAG,,,,,,250,2016-10-29T05:11:54+00:00
+4079,LFCG,medium_airport,"Saint-Girons-Antichan Airport",43.0078010559082,1.1031500101089478,1368,EU,FR,FR-N,Saint-Girons/Antichan,0,LFCG,,,,,,250,2008-06-13T14:30:04+00:00
+4128,LFKS,medium_airport,"Solenzara (BA 126) Air Base",41.924400329589844,9.406000137329102,28,EU,FR,FR-H,Solenzara,0,LFKS,SOZ,,,,,250,2008-09-11T04:31:15+00:00
+28834,LFEW,small_airport,"Saulieu Liernais Airfield",47.239399,4.26583,1722,EU,FR,FR-D,,0,LFEW,,,,,,50,2016-11-14T07:03:47+00:00
+28864,LFGM,small_airport,"Montceau Les Mines Airfield",46.604198,4.33389,1030,EU,FR,FR-D,,0,LFGM,,,,,,50,2016-11-14T05:02:16+00:00
+28865,LFGN,small_airport,"Paray Le Monial Airfield",46.466381,4.133798,997,EU,FR,FR-D,,0,LFGN,,,,,,50,2016-11-14T05:03:11+00:00
+28866,LFGO,small_airport,"Pont Sur Yonne Airfield",48.289172,3.247912,236,EU,FR,FR-D,,0,LFGO,,,,,,50,2016-11-14T05:03:59+00:00
+28983,LFQH,small_airport,"Châtillon Sur Seine Airfield",47.843924,4.580045,905,EU,FR,FR-D,,0,LFQH,,,,,,50,2016-11-15T05:44:14+00:00
+30438,LFEO,closed,"St Malo St Serva Airfield",48.613602,-1.97361,151,EU,FR,FR-E,,0,LFEO,,,,,,50,2016-11-12T07:38:56+00:00
+28822,LFEG,small_airport,"Argenton Sur Creuse Airfield",46.596901,1.6025,663,EU,FR,FR-F,,0,LFEG,,,,,,50,2018-04-02T01:08:17+00:00
+28824,LFEJ,small_airport,"Châteauroux Villers Airfield",46.8419,1.62111,541,EU,FR,FR-F,,0,LFEJ,,,,,,50,2018-04-02T01:08:48+00:00
+28825,LFEK,small_airport,"Issoudun Le Fay Airfield",46.888599,2.04139,531,EU,FR,FR-F,,0,LFEK,,,,,,50,2018-04-02T01:09:28+00:00
+28845,LFFL,small_airport,"Bailleau Armenonville Airfield",48.5158,1.64,509,EU,FR,FR-F,,0,LFFL,,,,,,50,2019-02-18T03:16:30+00:00
+28846,LFFM,closed,"Lamotte Beuvron Airfield",47.6567,1.98917,413,EU,FR,FR-F,,0,LFFM,,,,,,50,2019-02-18T03:14:47+00:00
+28847,LFFP,small_airport,"Pithiviers Airfield",48.1572,2.1925,384,EU,FR,FR-F,,0,LFFP,,,,,,50,2019-02-18T03:15:21+00:00
+28851,LFFU,small_airport,"Châteauneuf Sur Cher Airfield",46.871101,2.37694,551,EU,FR,FR-F,,0,LFFU,,,,,,50,2019-02-18T05:48:11+00:00
+28852,LFFV,small_airport,"Vierzon Méreau Airfield",47.194698,2.06667,430,EU,FR,FR-F,,0,LFFV,,,,http://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Vierzon_-_M%C3%A9reau,,50,2019-02-18T05:48:38+00:00
+29026,LFYR,small_airport,"Romorantin Pruniers Airfield",47.317543,1.691036,289,EU,FR,FR-F,,0,LFYR,,,,,,50,2018-04-02T00:38:16+00:00
+28779,LFAP,small_airport,"Rethel Airfield",49.481899,4.36472,410,EU,FR,FR-G,,0,LFAP,,,,,,50,2018-04-02T01:06:03+00:00
+28843,LFFJ,small_airport,"Joinville Mussey Airfield",48.386101,5.145,1024,EU,FR,FR-G,,0,LFFJ,,,,,,50,2019-02-18T03:17:57+00:00
+28849,LFFR,small_airport,"Bar Sur Seine Airfield",48.066898,4.41361,938,EU,FR,FR-G,,0,LFFR,,,,,,50,2019-02-18T03:17:03+00:00
+29025,LFYM,closed,"Marigny Le Grand Air Base",48.66,3.83389,329,EU,FR,FR-G,,0,LFYM,,,,,,50,2018-04-02T00:38:50+00:00
+29777,LFSY,small_airport,"Cessey Baigneux les Juifs Airfield",47.609722,4.6175,1175,EU,FR,FR-G,,0,LFSY,,,,,,50,2018-04-02T01:19:17+00:00
+28858,LFGD,closed,"Arbois Airfield",46.919998,5.76,876,EU,FR,FR-I,,0,LFGD,,,,,,50,2016-11-14T05:25:06+00:00
+28926,LFKZ,closed,"Aérodrome de St Claude Pratz",46.388901,5.77222,2051,EU,FR,FR-I,,0,LFKZ,,,,,,50,2016-11-14T11:30:37+00:00
+29015,LFXH,closed,"Le Valdahon Air Base",47.166698,6.35,2067,EU,FR,FR-I,,0,,,,,,,50,2016-11-16T02:23:19+00:00
+29024,LFYL,closed,"Lure Malbouhans Air Base",47.7047,6.54583,1040,EU,FR,FR-I,,0,LFYL,,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Lure_-_Malbouhans,,50,2018-04-02T00:39:09+00:00
+28837,LFFB,small_airport,"Buno Bonnevaux Airfield",48.351101,2.42556,420,EU,FR,FR-J,,0,LFFB,,,,,,50,2016-11-14T07:04:14+00:00
+28838,LFFC,small_airport,"Mantes Chérence Airfield",49.078899,1.68972,512,EU,FR,FR-J,,0,LFFC,,,,,,50,2016-11-14T07:04:48+00:00
+28840,LFFE,small_airport,"Enghien Moisselles Airfield",49.046398,2.35306,335,EU,FR,FR-J,,0,LFFE,,,,,,50,2019-02-18T05:43:53+00:00
+28841,LFFG,small_airport,"La Ferté Gaucher Airfield",48.755798,3.27667,538,EU,FR,FR-J,,0,LFFG,,,,,,50,2019-02-18T05:46:09+00:00
+28848,LFFQ,small_airport,"La Ferté Alais Airfield",48.498652,2.338867,453,EU,FR,FR-J,,0,LFFQ,,,,,,50,2016-11-14T04:22:06+00:00
+28947,LFNO,small_airport,"Florac Ste Enimie Airfield",44.2864,3.46667,3054,EU,FR,FR-K,,0,LFNO,,,,,,50,2019-02-18T08:08:27+00:00
+28948,LFNP,closed,"Pézenas Nizas Airfield",43.505798,3.41361,322,EU,FR,FR-K,,0,LFNP,,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_P%C3%A9zenas_-_Nizas,,50,2019-02-18T08:07:54+00:00
+28949,LFNQ,small_airport,"Mont Louis La Quillane Airfield",42.543598,2.12,5610,EU,FR,FR-K,,0,LFNQ,,,,,,50,2019-02-18T08:06:53+00:00
+28955,LFNW,small_airport,"Puivert Airfield",42.9114,2.05611,1608,EU,FR,FR-K,,0,LFNW,,,,,,50,2019-02-18T08:04:02+00:00
+28956,LFNX,small_airport,"Bédarieux La Tour Airfield",43.6408,3.14556,1237,EU,FR,FR-K,,0,LFNX,,,,,,50,2019-02-18T08:03:33+00:00
+28850,LFFT,small_airport,"Neufchâteau Airfield",48.362499,5.72139,1224,EU,FR,FR-M,,0,LFFT,,,,,,50,2019-02-18T05:47:26+00:00
+28869,LFGR,small_airport,"Doncourt Les Conflans Airfield",49.152802,5.93278,804,EU,FR,FR-M,,0,LFGR,,,,,,50,2016-11-15T03:16:07+00:00
+28870,LFGS,small_airport,"Longuyon Villette Airfield",49.484402,5.57278,1148,EU,FR,FR-M,,0,LFGS,,,,,,50,2016-11-15T03:15:41+00:00
+28993,LFQZ,small_airport,"Dieuze Guéblange Airport",48.775299,6.71528,722,EU,FR,FR-M,,0,LFQZ,,,,,,50,2016-11-15T11:35:00+00:00
+29005,LFSZ,closed,"Vittel Champ De Course Airfield",48.2239,5.93528,1076,EU,FR,FR-M,,0,LFSZ,,,,,,50,2018-04-02T01:15:04+00:00
+29013,LFXC,closed,"Vittel (Auzainvilliers) Airfield",48.2286,5.84302,,EU,FR,FR-M,,0,LFXC,,,,,,50,2016-11-16T05:22:55+00:00
+29023,LFYK,small_airport,"Marville Montmédy Airfield",49.459202,5.4025,909,EU,FR,FR-M,,0,LFYK,,,,,,50,2016-11-15T11:43:52+00:00
+28794,LFCN,small_airport,"Nogaro Airport",43.769699,-0.032778,302,EU,FR,FR-N,,0,LFCN,,,,,,50,2016-11-09T10:05:54+00:00
+28989,LFQS,small_airport,"Vitry en Artois Airfield",50.338299,2.99333,174,EU,FR,FR-O,,0,LFQS,,,,,,50,2016-11-16T05:24:08+00:00
+29021,LFYG,small_airport,"Cambrai Niergnies Airfield",50.142502,3.265,312,EU,FR,FR-O,,0,LFYG,,,,,,50,2018-04-02T00:48:50+00:00
+28774,LFAJ,small_airport,"Argentan Airfield",48.710602,0.003889,581,EU,FR,FR-P,,0,LFAJ,,,,,,50,2018-04-02T01:04:22+00:00
+28778,LFAN,closed,"Conde/Noireau Airport",48.891701,-0.501944,833,EU,FR,FR-P,,0,LFAN,,,,,,50,2015-11-07T04:56:15+00:00
+28855,LFFY,small_airport,"Étrépagny Airfield",49.306099,1.63861,308,EU,FR,FR-Q,,0,LFFY,,,,,,50,2019-02-18T02:34:01+00:00
+28844,LFFK,small_airport,"Fontenay Le Comte Airfield",46.441399,-0.792778,85,EU,FR,FR-R,,0,LFFK,,,,,,50,2019-02-18T03:15:58+00:00
+28853,LFFW,small_airport,"Montaigu St Georges Airfield",46.933102,-1.32556,184,EU,FR,FR-R,,0,LFFW,,,,,,50,2019-02-18T02:34:33+00:00
+29009,LFTQ,small_airport,"Châteaubriant Pouancé Airfield",47.739562,-1.189519,322,EU,FR,FR-R,,0,LFTQ,,,,,,50,2016-11-15T12:07:36+00:00
+28780,LFAR,small_airport,"Montdidier Airfield",49.6731,2.56917,358,EU,FR,FR-S,,0,LFAR,,,,,,50,2016-11-24T02:59:13+00:00
+28815,LFDW,small_airport,"Chauvigny Airfield",46.583599,0.6425,440,EU,FR,FR-T,,0,LFDW,,,,,,50,2016-11-11T04:28:40+00:00
+28950,LFNR,small_airport,"Berre La Fare Airfield",43.5378,5.17833,108,EU,FR,FR-U,,0,LFNR,,,,,,50,2019-02-18T08:06:12+00:00
+28957,LFNY,small_airport,"St Etienne En Devoluy Airfield",44.6689,5.90611,6201,EU,FR,FR-U,,0,LFNY,,,,,,50,2019-02-18T06:24:18+00:00
+28958,LFNZ,small_airport,"Le Mazet De Romanin Airfield",43.768902,4.89361,387,EU,FR,FR-U,,0,LFNZ,,,,,,50,2019-02-18T06:12:30+00:00
+28922,LFKM,small_airport,"St Galmier Airfield",45.607201,4.30583,1266,EU,FR,FR-V,,0,LFKM,,,,,,50,2018-03-31T02:27:32+00:00
+28925,LFKY,small_airport,"Belley - Peyrieu Airport",45.695,5.69278,738,EU,FR,FR-V,,0,LFKY,,,,,,50,2018-04-02T00:23:55+00:00
+28821,LFEF,small_airport,"Amboise Dierre Airport",47.3414,0.9425,180,EU,FR,FR-F,Amboise,0,LFEF,,,http://www.ailestourangelles.fr/en/,,,50,2018-05-21T15:16:42+00:00
+28915,LFJT,small_airport,"Tours Le Louroux Airport",47.150001525878906,0.7127779722213745,413,EU,FR,FR-F,Angers,0,LFJT,,,,,,50,2008-07-31T23:15:39+00:00
+28994,LFRA,closed,"Angers Avrille Airport",47.499199,-0.572778,187,EU,FR,FR-R,Angers,0,LFRA,,,,,,50,2016-04-18T15:15:58+00:00
+28944,LFNJ,small_airport,"Aspres-sur-Buëch Airport",44.518902,5.7375,2726,EU,FR,FR-U,"Aspres sur Buëch",0,LFNJ,,,,,,50,2016-11-10T01:06:07+00:00
+4099,LFEH,small_airport,"Aubigny-sur-Nère Airport",47.480556,2.394167,630,EU,FR,FR-F,Aubigny-sur-Nère,0,LFEH,,,,,,50,2016-07-17T09:13:07+00:00
+4196,LFQF,small_airport,"Autun-Bellevue Airport",46.96730041503906,4.260570049285889,997,EU,FR,FR-D,Autun/Bellevue,0,LFQF,,,,,,50,2008-06-13T14:30:04+00:00
+4053,LFAO,small_airport,"Bagnoles-de-l'Orne-Couterne Airport",48.545799255371094,-0.38744398951530457,718,EU,FR,FR-P,Bagnoles-de-l'Orne/Couterne,0,LFAO,,,,,,50,2008-06-13T14:30:04+00:00
+28832,LFEU,small_airport,"Bar Le Duc Airfield",48.868301,5.18583,909,EU,FR,FR-M,"Bar Le Duc",0,LFEU,,,,,,50,2016-11-15T03:19:28+00:00
+30786,LFSQ,closed,"Fontaine Airport",47.655601501465,7.0108299255371,1208,EU,FR,FR-I,Belfort,0,LFSQ,BOR,,,,,50,2015-10-03T13:06:32+00:00
+28777,LFAM,small_airport,"Berck sur Mer Airport",50.4231,1.59194,30,EU,FR,FR-O,"Berck sur Mer",0,LFAM,,,,,,50,2016-05-20T10:04:36+00:00
+28987,LFQO,small_airport,"Lille/Marcq-en-Baroeul Airport",50.687198638916016,3.0755600929260254,69,EU,FR,FR-O,Besancon,0,LFQO,,,,,,50,2008-07-31T23:25:34+00:00
+28807,LFDO,closed,"Bordeaux Souge Air Base",44.851093,-0.805493,135,EU,FR,FR-B,Bordeaux,0,LFDO,,,,,,50,2016-11-11T04:48:08+00:00
+28797,LFCS,small_airport,"Bordeaux Léognan Saucats Airport",44.700298,-0.595556,190,EU,FR,FR-B,Bordeaux-Saucats,0,LFCS,,,,,,50,2016-07-04T10:25:25+00:00
+28890,LFHT,small_airport,"Ambert Le Poyet Airport",45.51689910888672,3.7463901042938232,1847,EU,FR,FR-C,Bourg,0,LFHT,,,,,,50,2008-07-31T23:15:00+00:00
+4103,LFFN,small_airport,"Brienne-le-Château Airport",48.4297981262207,4.48222017288208,381,EU,FR,FR-G,Brienne-le-Château,0,LFFN,,,,,,50,2008-06-13T14:30:04+00:00
+28889,LFHR,small_airport,"Brioude Beaumont Airport",45.3250007629,3.35916996002,1483,EU,FR,FR-C,Brioude,0,LFHR,,,,,,50,2015-05-03T15:59:48+00:00
+29022,LFYH,closed,"Broyes-lès-Pesmes Air Base",47.332932,5.513494,682,EU,FR,FR-I,Broye-Aubigney-Montseugny,0,LFYH,,,,,,50,2016-09-12T12:01:05+00:00
+28791,LFCE,small_airport,"Guéret St Laurent Airport",46.179199,1.95833,1207,EU,FR,FR-L,Cahors,0,LFCE,,,,,,50,2016-11-09T05:34:44+00:00
+28792,LFCF,small_airport,"Figeac Livernon Airport",44.673301696777344,1.7891700267791748,1086,EU,FR,FR-N,Cahors,0,LFCF,,,,,,50,2008-07-31T22:40:43+00:00
+28781,LFAS,small_airport,"Falaise Airport",48.92720031738281,-0.14472199976444244,512,EU,FR,FR-P,Calais-Dunkerque,0,LFAS,,,,,,50,2008-07-31T22:40:23+00:00
+28917,LFKD,small_airport,"Sollières Sardières Airport",45.25640106201172,6.801390171051025,4255,EU,FR,FR-V,Calvi,0,LFKD,,,,,,50,2008-07-31T23:15:43+00:00
+28985,LFQL,small_airport,"Lens Benifontaine Airport",50.466400146484375,2.8197200298309326,167,EU,FR,FR-O,Cambrai,0,LFQL,,,,,,50,2008-07-31T23:17:28+00:00
+28934,LFMG,small_airport,"Montagne Noire Airport",43.407501220703125,1.990280032157898,1470,EU,FR,FR-K,Cannes,0,LFMG,,,,,,50,2008-07-31T23:16:05+00:00
+4117,LFIG,small_airport,"Cassagnes-Bégonhès Airport",44.177799224853516,2.515000104904175,2024,EU,FR,FR-N,Cassagnes-Bégonhès,0,LFIG,,,,,,50,2008-06-13T14:30:04+00:00
+28962,LFOM,small_airport,"Lessay Airport",49.20309829711914,-1.5066699981689453,92,EU,FR,FR-P,Chalons,0,LFOM,,,,,,50,2008-07-31T23:16:45+00:00
+2989,LF52,small_airport,Chambley,49.025501251221,5.876070022583,866,EU,FR,FR-M,Chambley,0,LFJY,,,,,,50,2015-09-15T02:47:25+00:00
+28991,LFQX,small_airport,"Juvancourt Airport",48.1150016784668,4.82082986831665,1145,EU,FR,FR-G,Charleville-Mezieres,0,LFQX,,,,,,50,2008-07-31T23:17:39+00:00
+4118,LFJA,small_airport,"Chaumont-Semoutiers Airport",48.0863,5.04902,1001,EU,FR,FR-G,Chaumont/Semoutiers,0,LFJA,,,,http://en.wikipedia.org/wiki/Chaumont-Semoutiers_Air_Base,,50,2016-10-28T05:06:46+00:00
+28859,LFGE,small_airport,"Avallon Airport",47.50310134887695,3.899440050125122,781,EU,FR,FR-D,Colmar,0,LFGE,,,,,,50,2008-07-31T22:42:50+00:00
+28861,LFGH,small_airport,"Cosne Sur Loire Airport",47.360599517822266,2.9194400310516357,581,EU,FR,FR-D,Colmar,0,LFGH,,,,,,50,2008-07-31T22:42:53+00:00
+28860,LFGG,small_airport,"Belfort Chaux Airport",47.70220184326172,6.832499980926514,1368,EU,FR,FR-I,Colmar,0,LFGG,,,,,,50,2008-07-31T22:42:52+00:00
+31813,LFDZ,closed,"Condat-Sur-Vezere Airport",45.099998,1.217,499,EU,FR,FR-B,Condat-Sur-Vezere,0,LFDZ,,,,,,50,2016-11-12T07:51:30+00:00
+4186,LFPK,small_airport,"Coulommiers-Voisins Airport",48.83769989013672,3.016119956970215,470,EU,FR,FR-J,Coulommiers/Voisins,0,LFPK,,,,,,50,2008-06-13T14:30:04+00:00
+28973,LFPF,small_airport,"Beynes Thiverval Airport",48.84360122680664,1.9088900089263916,371,EU,FR,FR-J,Creil,0,LFPF,,,,,,50,2008-07-31T23:17:04+00:00
+4247,LFYD,closed,"Damblain Air Base",48.0863,5.66406,1280,EU,FR,FR-M,Damblain,0,LFYD,,,,,,50,2017-04-22T11:24:35+00:00
+28960,LFOG,small_airport,"Flers Saint Paul Airport",48.752498626708984,-0.5894439816474915,656,EU,FR,FR-P,Evreux,0,LFOG,,,,,,50,2008-07-31T23:16:41+00:00
+28920,LFKH,small_airport,"St Jean D'avelanne Airport",45.516700744628906,5.680560111999512,968,EU,FR,FR-V,"Figari/Sud Corse",0,LFKH,,,,,,50,2008-07-31T23:15:47+00:00
+28833,LFEV,small_airport,"Gray St Adrien Airfield",47.432023,5.619518,679,EU,FR,FR-I,"Gray St Adrien",0,LFEV,,,,,,50,2016-11-15T03:20:19+00:00
+29018,LFXQ,small_airport,"Coëtquidan Air Base",47.94660186767578,-2.1923000812530518,,EU,FR,FR-E,Guer,0,LFXQ,,,,,,50,2008-07-14T08:45:10+00:00
+4100,LFES,small_airport,"Guiscriff Scaer Airport",48.0525016784668,-3.664720058441162,574,EU,FR,FR-E,Guiscriff,0,LFES,,,,,,50,2008-06-13T14:30:04+00:00
+29929,LFPR,closed,"Guyancourt Airport",48.76029968261719,2.0625,541,EU,FR,FR-J,Guyancourt,0,LFPR,,,,http://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Guyancourt,,50,2009-01-08T08:19:10+00:00
+29006,LFTM,small_airport,"Serres - La Bâtie-Montsaléon Airport",44.45830154418945,5.728330135345459,2345,EU,FR,FR-U,Hyeres,0,LFTM,,,,,,50,2008-06-20T08:40:01+00:00
+29010,LFTR,heliport,"Toulon Navy Air Base",43.082699,5.93382,,EU,FR,FR-U,Hyeres,0,LFTR,,,,,"CCMAR, CCMAR Mediterranee",50,2016-08-22T06:00:25+00:00
+28877,LFHA,small_airport,"Issoire Le Broc Airport",45.5149993896,3.26749992371,1240,EU,FR,FR-C,Issoire,0,LFHA,,,,,,50,2015-05-03T12:27:45+00:00
+28776,LFAL,small_airport,"La Flèche Thorée Les Pins Airport",47.6927778,0.0019444444000044,120,EU,FR,FR-R,"La Flèche",0,LFAL,,,http://www.aeroclublafleche.fr/,,,50,2016-04-27T12:15:25+00:00
+28773,LFAF,small_airport,"Laon - Chambry Airfield",49.595798,3.63167,256,EU,FR,FR-S,Laon,0,LFAF,,,,,,50,2018-04-02T00:58:46+00:00
+28969,LFOY,small_airport,"Le Havre St Romain Airport",49.544700622558594,0.36111098527908325,423,EU,FR,FR-Q,Laval,0,LFOY,,,,,,50,2008-07-31T23:16:56+00:00
+28967,LFOW,small_airport,"Saint-Quentin - Roupy Airport",49.816898345947266,3.206670045852661,325,EU,FR,FR-S,Laval,0,LFOW,,,,,,50,2008-06-20T08:25:15+00:00
+28782,LFAU,small_airport,"Vauville Airport",49.62419891357422,-1.8291699886322021,456,EU,FR,FR-P,"Le Touquet",0,LFAU,,,,,,50,2008-07-31T22:40:25+00:00
+28988,LFQR,closed,"Romilly Sur Seine Airport",48.500598907471,3.7633299827575,267,EU,FR,FR-G,Lille,0,LFQR,,,,,,50,2015-09-08T09:18:46+00:00
+4122,LFJU,small_airport,"Lurcy-Lévis Airport",46.713600158691406,2.9458999633789062,746,EU,FR,FR-C,Lurcy-Lévis,0,LFJU,,,,,,50,2008-06-13T14:30:04+00:00
+4119,LFJB,small_airport,"Mauléon Airport",46.902801513671875,-0.6977779865264893,576,EU,FR,FR-T,Mauléon,0,LFJB,,,,,,50,2008-06-13T14:30:04+00:00
+28945,LFNL,small_airport,"St Martin De Londres Airport",43.80080032348633,3.7825000286102295,597,EU,FR,FR-K,Mende,0,LFNL,,,,,,50,2008-07-31T23:16:17+00:00
+28951,LFNS,small_airport,"Aérodrome de Sistéron-Vaumeilh",44.286331,5.928993,1772,EU,FR,FR-U,Mende,0,LFNS,,,http://www.aerodrome-sisteron.com,,,50,2017-07-21T05:15:01+00:00
+28913,LFJM,closed,"Chailley Airport",48.080715,3.71423721,,EU,FR,FR-D,Metz-Nancy/Lorraine,0,LFJM,,,,,,50,2015-11-13T15:10:34+00:00
+28795,LFCO,small_airport,"Oloron Herrere Airport",43.16469955444336,-0.5602779984474182,984,EU,FR,FR-B,Millau,0,LFCO,,,,,,50,2008-07-31T22:40:49+00:00
+31814,LFIO,closed,"Montaudran Airport",43.568901062,1.48082995415,482,EU,FR,FR-N,Montaudran,0,LFIO,,,,,,50,2012-01-02T17:03:44+00:00
+4143,LFLT,small_airport,"Montluçon-Domérat Airport",46.352501,2.57049,771,EU,FR,FR-C,Montluçon/Domérat,0,LFLT,,,,,,50,2016-10-25T05:12:31+00:00
+28895,LFIB,small_airport,"Belvès St Pardoux Airport",44.782501220703125,0.9588890075683594,791,EU,FR,FR-B,Moulins,0,LFIB,,,,,,50,2008-07-31T23:15:07+00:00
+28899,LFIL,small_airport,"Rion Des Landes Airport",43.91579818725586,-0.949167013168335,256,EU,FR,FR-B,Moulins,0,LFIL,,,,,,50,2008-07-31T23:15:15+00:00
+28904,LFIV,small_airport,"Vendays Montalivet Airport",45.38059997558594,-1.1158299446105957,16,EU,FR,FR-B,Moulins,0,LFIV,,,,,,50,2008-07-31T23:15:26+00:00
+28905,LFIX,small_airport,"Itxassou Airport",43.337501525878906,-1.42221999168396,607,EU,FR,FR-B,Moulins,0,LFIX,,,,,,50,2008-07-31T23:15:28+00:00
+28907,LFJC,small_airport,"Clamecy Airport",47.43830108642578,3.5086100101470947,713,EU,FR,FR-D,Moulins,0,LFJC,,,,,,50,2008-07-31T23:15:32+00:00
+28896,LFID,small_airport,"Condom Valence Sur Baise Airport",43.910301208496094,0.3872219920158386,444,EU,FR,FR-N,Moulins,0,LFID,,,,,,50,2008-07-31T23:15:09+00:00
+28900,LFIM,small_airport,"St Gaudens Montrejeau Airport",43.10860061645508,0.620278000831604,1325,EU,FR,FR-N,Moulins,0,LFIM,,,,,,50,2008-07-31T23:15:17+00:00
+28902,LFIR,small_airport,"Revel Montgey Airport",43.48139953613281,1.9800000190734863,643,EU,FR,FR-N,Moulins,0,LFIR,,,,,,50,2008-07-31T23:15:22+00:00
+28903,LFIT,small_airport,"Toulouse Bourg St Bernard Airport",43.61220169067383,1.7252800464630127,525,EU,FR,FR-N,Moulins,0,LFIT,,,,,,50,2008-07-31T23:15:24+00:00
+28911,LFJH,small_airport,"Cazeres Palaminy Airport",43.20220184326172,1.051110029220581,811,EU,FR,FR-N,Moulins,0,LFJH,,,,,,50,2008-07-31T23:15:33+00:00
+32756,LF34,closed,"Moussoulens Air Base",43.279701,2.20885,,EU,FR,FR-K,Moussoulens,0,,,LF34,,,,50,2016-09-13T00:04:32+00:00
+28806,LFDL,small_airport,"Loudun Airport",47.037200927734375,0.10138899832963943,315,EU,FR,FR-T,Pamiers,0,LFDL,,,,,,50,2008-07-31T22:41:10+00:00
+4095,LFDJ,small_airport,"Pamiers-Les Pujols Airport",43.090599060058594,1.69582998752594,1115,EU,FR,FR-N,"Pamiers/Les Pujols",0,LFDJ,,,,,,50,2008-06-13T14:30:04+00:00
+28787,LFBY,small_airport,"Dax Seyresse Airport",43.68920135498047,-1.0688899755477905,106,EU,FR,FR-B,Perigueux,0,LFBY,XDA,,,,,50,2008-07-31T22:40:34+00:00
+4098,LFED,small_airport,"Pontivy Airport",48.05849838256836,-2.92182993888855,407,EU,FR,FR-E,Pontivy,0,LFED,,,,,,50,2008-06-13T14:30:04+00:00
+28827,LFEM,small_airport,"Montargis Vimory Airport",47.960601806640625,2.6858301162719727,308,EU,FR,FR-F,Pontivy,0,LFEM,,,,,,50,2008-07-31T22:41:49+00:00
+28978,LFPU,small_airport,"Moret Episy Airport",48.34189987182617,2.7994399070739746,253,EU,FR,FR-J,Pontoise,0,LFPU,,,,,,50,2008-07-31T23:17:17+00:00
+28995,LFRP,small_airport,"Ploërmel Loyat Airport",48.00279998779297,-2.3772199153900146,236,EU,FR,FR-E,Rennes,0,LFRP,,,,,,50,2008-07-31T23:17:47+00:00
+28810,LFDR,small_airport,"La Réole Floudes Airport",44.56809997558594,-0.05611100047826767,43,EU,FR,FR-B,Rochefort,0,LFDR,,,,,,50,2008-07-31T22:41:17+00:00
+28813,LFDU,small_airport,"Lesparre St Laurent Medoc Airport",45.19779968261719,-0.8822219967842102,105,EU,FR,FR-B,Rochefort,0,LFDU,,,,,,50,2008-07-31T22:41:23+00:00
+28809,LFDQ,small_airport,"Castelnau Magnoac Airport",43.27939987182617,0.5216670036315918,984,EU,FR,FR-N,Rochefort,0,LFDQ,,,,,,50,2008-07-31T22:41:15+00:00
+28799,LFCV,small_airport,"Villefranche De Rouergue Airport",44.369998931884766,2.028059959411621,1096,EU,FR,FR-N,Rodez,0,LFCV,,,,,,50,2008-07-31T22:40:56+00:00
+28800,LFCX,small_airport,"Castelsarrasin Moissac Airport",44.08689880371094,1.1283299922943115,243,EU,FR,FR-N,Rodez,0,LFCX,,,,,,50,2008-07-31T22:40:58+00:00
+28798,LFCT,small_airport,"Thouars Airport",46.96189880371094,-0.1527779996395111,341,EU,FR,FR-T,Rodez,0,LFCT,,,,,,50,2008-07-31T22:40:55+00:00
+4116,LFIF,small_airport,"Saint-Affrique-Belmont Airport",43.823299407958984,2.7452800273895264,1686,EU,FR,FR-N,Saint-Affrique/Belmont,0,LFIF,,,,,,50,2008-06-13T14:30:04+00:00
+29016,LFXI,closed,"Apt St Christol Air Base",44.058234,5.494654,2736,EU,FR,FR-U,Saint-Christol,0,LFXI,,,,https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_200_Apt-Saint-Christol,Base_aérienne_200,50,2016-12-03T09:32:07+00:00
+28856,LFFZ,small_airport,"Sézanne St Rémy Airfield",48.710602,3.76417,354,EU,FR,FR-G,Sézanne,0,LFFZ,,,,,,50,2016-11-15T03:17:25+00:00
+31812,LFAH,closed,"Soissons-Cuffies Airport",49.4000015259,3.3169999122599996,138,EU,FR,FR-S,Soissons-Cuffies,0,LFAH,,,,,,50,2013-12-25T18:47:07+00:00
+2987,LF50,small_airport,"Aérodrome privé de Soucelles",47.580399,-0.412269,255,EU,FR,FR-R,Soucelles,0,,,LF4925,,,Angers,50,2017-05-02T12:01:27+00:00
+29000,LFSK,small_airport,"Vitry Le François Vauclerc Airport",48.70330047607422,4.6844401359558105,410,EU,FR,FR-G,"St Dizier",0,LFSK,,,,,,50,2008-07-31T23:17:56+00:00
+29001,LFSL,closed,"Toul Rosières Air Base",48.780001,5.980003,936,EU,FR,FR-M,"St Dizier",0,,,,,,LFSL,50,2018-05-11T23:56:20+00:00
+29002,LFSU,small_airport,"Langres Rolampont Airport",47.965599060058594,5.295000076293945,1378,EU,FR,FR-G,Strasbourg,0,LFSU,,,,,,50,2008-07-31T23:18:02+00:00
+28812,LFDT,small_airport,"Aérodrome de Tarbes Laloubère",43.216099,0.078611,1076,EU,FR,FR-N,Tarbes,0,LFDT,,,,,,50,2016-11-11T04:30:29+00:00
+28982,LFQD,small_airport,"Arras Roclincourt Airport",50.32389831542969,2.8027799129486084,338,EU,FR,FR-O,Troyes,0,LFQD,,,,,,50,2008-07-31T23:17:22+00:00
+4087,LFCU,small_airport,"Ussel-Thalamy Airport",45.534698486328125,2.4238901138305664,2428,EU,FR,FR-L,Ussel/Thalamy,0,LFCU,,,,,,50,2008-06-13T14:30:04+00:00
+28875,LFGY,small_airport,"St Dié Remomeix Airport",48.2672004699707,7.008609771728516,1184,EU,FR,FR-M,Verdun,0,LFGY,,,,,,50,2008-07-31T23:14:41+00:00
+28882,LFHG,small_airport,"St Chamond L'horme Airport",45.493099212646484,4.535560131072998,1296,EU,FR,FR-V,Verdun,0,LFHG,,,,,,50,2008-07-31T23:14:48+00:00
+28885,LFHJ,small_airport,"Lyon Corbas Airport",45.65420150756836,4.913609981536865,650,EU,FR,FR-V,Verdun,0,LFHJ,,,,,,50,2008-07-31T23:14:54+00:00
+28886,LFHL,small_airport,"Langogne - Lespéron Airport",44.70640182495117,3.8883299827575684,3330,EU,FR,FR-V,Verdun,0,LFHL,,,,,,50,2008-06-20T08:42:02+00:00
+28980,LFPY,closed,"Brétigny sur Orge Air Base",48.5961,2.33222,270,EU,FR,FR-J,Villacoublay,0,LFPY,,,,,,50,2016-11-15T05:59:03+00:00
+28893,LFHX,small_airport,"Lapalisse - Périgny Airport",46.2538986206,3.58860993385,1040,EU,FR,FR-C,Villefranche,0,LFHX,,,,http://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Lapalisse_-_P%C3%A9rigny,,50,2013-06-12T00:31:41+00:00
+28892,LFHW,small_airport,"Belleville Villié Morgon Airport",46.142799377441406,4.714719772338867,705,EU,FR,FR-V,Villefranche,0,LFHW,,,,,,50,2008-07-31T23:15:03+00:00
+28783,LFAW,small_airport,"Aérodrome de Villerupt",49.4114,5.89056,1299,EU,FR,FR-M,Villerupt,0,LFAW,,,,,,50,2016-11-24T02:04:36+00:00
+315958,FR-0331,small_airport,"Base ULM de Javerlhac",45.5538174591,0.5585002899,,EU,FR,FR-B,,0,,,,,,,0,2015-10-22T17:30:32+00:00
+315968,FR-0334,small_airport,"Verneuil en Bourbonnais",46.359444,3.268056,,EU,FR,FR-C,,0,,,LF0354,,,,0,2016-10-21T04:26:37+00:00
+315957,FR-0330,small_airport,"Base ULM de Kerfot",48.723882,-3.027055,,EU,FR,FR-E,,0,,,LF2221,,,,0,2018-12-31T03:58:52+00:00
+321209,FR-0347,small_airport,"Base ULM de Mellac",47.9115647,-3.5677212,,EU,FR,FR-E,,0,,,,,,,0,2016-11-15T20:45:00+00:00
+329135,FR-0377,closed,"Laon-Couvron Air Base",49.6330564,3.5425026,,EU,FR,FR-G,,0,,,,,https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_de_Laon-Couvron,,0,2018-08-30T05:38:14+00:00
+316142,FR-0335,small_airport,"Doucier ULM",46.663693,5.761492,1735,EU,FR,FR-I,,0,,,LF3951,http://www.alize-ulm.com,,,0,2016-10-22T17:26:29+00:00
+326702,FR-0371,small_airport,"Fromissard ULM",44.003856,1.229357,,EU,FR,FR-K,,0,,,,,,,0,2018-03-17T09:12:19+00:00
+315461,FR-0323,small_airport,"Mont sur Meurthe",48.5438226,6.4419119,,EU,FR,FR-M,,0,,,,,,,0,2015-09-18T11:47:51+00:00
+316187,FR-0340,small_airport,"Ramonchamp ULM",47.895556,6.755278,1893,EU,FR,FR-M,,0,,,LF8851,,,,0,2016-10-23T04:36:58+00:00
+316146,FR-0337,small_airport,"Cabrerets ULM",44.51415,1.592503,1177,EU,FR,FR-N,,0,,,LF4629,,,,0,2016-10-22T17:27:25+00:00
+316147,FR-0338,small_airport,"Biguès Carlucet ULM",44.744167,1.618333,,EU,FR,FR-N,,0,,,LF4630,,,,0,2016-10-22T17:27:42+00:00
+322202,FR-0360,seaplane_base,"Base Hydro-ULM du Barrage de Pareloup",44.207865,2.722807,2635,EU,FR,FR-N,,0,,,LF1255,,,,0,2017-02-19T05:57:06+00:00
+329129,FR-0376,closed,"Aerodrome d'Esperce",43.316192,1.404468,,EU,FR,FR-N,,0,,,,,,,0,2018-08-29T04:45:29+00:00
+315430,LFIS,small_airport,"Saint Inglevert",50.8826083032,1.73575687832,,EU,FR,FR-O,,0,LFIS,,,,,,0,2015-09-15T02:41:17+00:00
+315606,FR-0324,small_airport,"Verchocq Airpark",50.541124,2.033945,,EU,FR,FR-O,,0,,,LF6252,http://www.aero-delahaye.com,,"Aero Delahaye,",0,2016-10-22T17:28:53+00:00
+315432,LFSS,small_airport,"Saint Sulpice des Landes",47.7916667,-1.643611,,EU,FR,FR-R,,0,LFSS,,,,,,0,2015-09-15T03:15:14+00:00
+316145,FR-0336,closed,"Plessé ULM",47.52591,-1.841293,131,EU,FR,FR-R,,0,,,LF4422,,,,0,2018-03-14T09:39:55+00:00
+316148,FR-0339,small_airport,"Saint Sigismond ULM",47.439444,-0.935833,,EU,FR,FR-R,,0,,,LF4923,,,,0,2016-10-21T07:33:54+00:00
+315955,FR-0328,small_airport,"ULM La Flamengrie",50.0002501,3.94482,,EU,FR,FR-S,,0,,,,,,,0,2015-10-22T14:54:51+00:00
+315736,FR-0326,small_airport,"Base ULM de Saint Maurice",45.96559,0.7394783,755,EU,FR,FR-T,,0,,,,,,,0,2015-10-11T12:34:16+00:00
+321891,FR-0348,small_airport,"La Motte du Caire Glider Field",44.32286,6.03128556,2132,EU,FR,FR-U,,0,,,LF0431,,,,0,2017-01-20T03:11:03+00:00
+322154,FR-0356,small_airport,"Seyne les Alpes Glider Field",44.341944,6.372778,3937,EU,FR,FR-U,,0,,,LF0430,,,,0,2017-06-07T15:10:11+00:00
+328585,FR-0372,heliport,"Ile du Levant Helicopter Base",43.021514,6.460228,,EU,FR,FR-U,,0,,,,,,,0,2018-06-30T04:54:32+00:00
+329036,FR-0373,closed,"Base ULM de Meyrargues",43.6527318,5.5252254,,EU,FR,FR-U,,0,,,,,,,0,2018-08-18T05:40:06+00:00
+322121,FR-0353,small_airport,"Base Ulm du Val de l'Ailette",49.5674427,3.230307,184,EU,FR,FR-U-A,,0,,,LF0259,,,,0,2017-02-12T06:26:12+00:00
+325311,FR-0362,closed,"Erase Me 25",0,-0.7,,EU,FR,FR-U-A,,0,,,,,,,0,2017-11-26T09:44:47+00:00
+326250,FR-0367,closed,"Ulmodrome des Landes",44.9442152,1.6467425,,EU,FR,FR-U-A,,0,,,,,,,0,2018-01-27T05:12:18+00:00
+326251,FR-0368,closed,"Buzet sur Tarn",43.7681465,1.6042597,,EU,FR,FR-U-A,,0,,,,,,,0,2018-01-27T05:13:32+00:00
+315954,FR-0327,small_airport,"Crottet-Le Bief ULM",46.285127,4.88604,597,EU,FR,FR-V,,0,,,LF0152,,,,0,2016-10-21T04:25:52+00:00
+315959,FR-0332,small_airport,"Club ULM Haut Doubs",47.177725,6.813583,,EU,FR,FR-V,,0,,,LF2553,,,,0,2016-10-22T17:26:06+00:00
+329117,FR-0375,heliport,"Mont Blanc Hélicoptères",45.57524,6.83133,,EU,FR,FR-V,,0,,,,,,,0,2018-08-27T07:31:24+00:00
+43508,FR-0168,heliport,"Centre Hospitalier Heliport",50.10166549682617,1.8313889503479004,82,EU,FR,FR-S,Abbeville,0,,,,,,,0,2009-03-14T19:30:59+00:00
+315629,FR-0325,closed,"Aire sur la Lys Airfield",50.6232,2.4161,75,EU,FR,FR-O,Aire-sur-la-Lys,0,,,LF6222,,,LF6222,0,2016-10-22T17:28:09+00:00
+43527,FR-0187,heliport,"Centre Hospitalier Heliport",43.53472137451172,5.4422221183776855,728,EU,FR,FR-U,"Aix En Provence",0,,,,,,,0,2009-03-14T19:31:47+00:00
+43569,FR-0229,heliport,"Hôtel Ariana Heliport",45.67388916015625,5.908888816833496,810,EU,FR,FR-V,Aix-Les-Bains,0,,,,,,,0,2009-03-14T19:33:22+00:00
+43552,FR-0212,heliport,"Centre Hospitalier Heliport",45.6694450378418,6.368610858917236,1100,EU,FR,FR-V,Albertville,0,,,,,,,0,2009-03-14T19:32:43+00:00
+43562,FR-0222,heliport,"Crs Alpes Heliport",45.656944274902344,6.376111030578613,1084,EU,FR,FR-V,Albertville,0,,,,,,,0,2009-03-14T19:33:06+00:00
+43479,FR-0139,heliport,"Centre Hospitalier Heliport",48.42527770996094,0.08388900011777878,443,EU,FR,FR-P,Alencon,0,,,,,,,0,2009-03-14T19:29:55+00:00
+43588,FR-0246,small_airport,"Altisurface d'Aleu",42.900002,1.275,3445,EU,FR,FR-N,Aleu,0,,,LF0921,,,,0,2017-02-13T07:50:38+00:00
+322162,FR-0357,seaplane_base,"Base Hydro-ULM d'Amance",48.3508333333,4.505,430,EU,FR,FR-G,Amance,0,,,LF1056,,,,0,2017-02-15T00:57:16+00:00
+43514,FR-0174,heliport,"Centre Hospitalier Sud Heliport",49.872779846191406,2.2536110877990723,199,EU,FR,FR-S,Amiens,0,,,,,,,0,2009-03-14T19:31:12+00:00
+308839,FR-0315,heliport,"Centre Hospitalier Universitaire Nord Heliport",49.906744,2.295928,162,EU,FR,FR-S,Amiens,0,,,,,,,0,2013-06-10T00:33:27+00:00
+43396,FR-0056,heliport,"Centre Hospitalier de l'agglomeration Montargeoise Heliport",47.996665954589844,2.774444103240967,353,EU,FR,FR-F,Amilly,0,,,,,,,0,2009-03-14T19:26:54+00:00
+43584,FR-0244,heliport,"Societe des Eaux Minerales D'Evian Heliport",46.39083480834961,6.511943817138672,1271,EU,FR,FR-V,Amphion,0,,,,,,,0,2009-03-14T19:33:56+00:00
+43645,FR-0303,small_airport,"Quatre Veziaux Airport",42.8922233581543,0.29972198605537415,5643,EU,FR,FR-N,Ancizan,0,,,,,,,0,2009-03-14T20:33:01+00:00
+43501,FR-0161,heliport,"Centre Hospitalier Heliport",47.49027633666992,-0.5541669726371765,149,EU,FR,FR-R,Angers,0,,,,,,,0,2009-03-14T19:30:43+00:00
+43520,FR-0180,heliport,"Centre Hospitalier Heliport",45.6341667175293,0.1177780032157898,151,EU,FR,FR-T,Angouleme,0,,,,,,,0,2009-03-14T19:31:27+00:00
+43555,FR-0215,heliport,"Centre Hospitalier Heliport",45.89555740356445,6.131667137145996,1591,EU,FR,FR-V,Annecy,0,,,,,,,0,2009-03-14T19:32:50+00:00
+43554,FR-0214,heliport,"Centre Hospitalier Heliport",45.241668701171875,4.665832996368408,1364,EU,FR,FR-V,Annonay,0,,,,,,,0,2009-03-14T19:32:48+00:00
+43539,FR-0199,heliport,"Port Vauban Heliport",43.58805465698242,7.1322221755981445,22,EU,FR,FR-U,Antibes,0,,,,,,,0,2009-03-14T19:32:14+00:00
+43360,FR-0020,heliport,"Escary Heliport",43.12120819091797,-0.7424910068511963,1076,EU,FR,FR-B,Aramits,0,,,,,,,0,2009-03-14T19:25:41+00:00
+43480,FR-0140,heliport,"Centre Hospitalier Heliport",48.746665954589844,-0.017777999863028526,596,EU,FR,FR-P,Argentan,0,,,,,,,0,2009-03-14T19:29:58+00:00
+43589,FR-0247,small_airport,"Artigues Airstrip",43.076942,0.001944,2428,EU,FR,FR-N,Artigues,0,,,LF6527,,,,0,2016-08-25T16:30:39+00:00
+43545,FR-0205,heliport,"Zi Les Paluds Heliport",43.28666687011719,5.603888988494873,379,EU,FR,FR-U,Aubagne,0,,,,,,,0,2009-03-14T19:32:27+00:00
+43549,FR-0209,heliport,"Centre Hospitalier Heliport",44.614166259765625,4.397500038146973,731,EU,FR,FR-V,Aubenas,0,,,,,,,0,2009-03-14T19:32:36+00:00
+326075,FR-0364,closed,"Aerodrome de Aubiet",43.6332139,0.7639122,,EU,FR,FR-K,Aubiet,0,,,,,,,0,2018-01-07T04:24:23+00:00
+43456,FR-0116,heliport,"Centre Hospitalier Heliport",43.63138961791992,0.5733330249786377,597,EU,FR,FR-N,Auch,0,,,,,,,0,2009-03-14T19:29:06+00:00
+43423,FR-0083,heliport,"Centre Hospitalier Intercommunal Robert Boulanger Heliport",48.9555549621582,2.5208330154418945,190,EU,FR,FR-J,"Aulnay Sous Bois",0,,,,,,,0,2009-03-14T19:27:53+00:00
+43631,FR-0289,small_airport,"La Serre D'aulon Altiport",42.836109,0.272222,6562,EU,FR,FR-N,Aulon,0,,,LF6525,,,,0,2019-01-21T06:52:43+00:00
+43374,FR-0034,heliport,"Centre Hospitalier Heliport",47.804443359375,3.5577778816223145,528,EU,FR,FR-D,Auxerre,0,,,,,,,0,2009-03-14T19:26:09+00:00
+43526,FR-0186,heliport,"Centre Hospitalier Heliport",43.9202766418457,4.79888916015625,69,EU,FR,FR-U,Avignon,0,,,,,,,0,2009-03-14T19:31:45+00:00
+43640,FR-0298,small_airport,"Morzine Avoriaz Airport",46.190277099609375,6.762499809265137,5709,EU,FR,FR-V,"Avoriaz ",0,,,,,,,0,2009-03-14T20:32:49+00:00
+43475,FR-0135,heliport,"Avranches Heliport",48.692501068115234,-1.342221975326538,36,EU,FR,FR-P,Avranches,0,,,,,,,0,2009-03-14T19:29:47+00:00
+43455,FR-0115,heliport,"Arbouix Heliport",43.002777099609375,-0.08333300054073334,1312,EU,FR,FR-N,Ayros,0,,,,,,,0,2009-03-14T19:29:04+00:00
+43594,FR-0252,small_airport,"Cap De Pouy Airport",42.78472137451172,0.5450000166893005,5905,EU,FR,FR-N,Bagneres-de-Luchon,0,,,,,,,0,2009-03-14T20:31:03+00:00
+43595,FR-0253,small_airport,"Castillon De La Laquette Airport",42.89555740356445,0.10055600106716156,5413,EU,FR,FR-N,Bareges,0,,,,,,,0,2009-03-14T20:31:05+00:00
+43351,FR-0011,heliport,"Centre Hospitalier De La Côte Basque Heliport",43.483055114746094,-1.4777779579162598,75,EU,FR,FR-B,Bayonne,0,,,,,,,0,2009-03-14T19:25:24+00:00
+308840,FR-0316,heliport,"Centre Hospitalier Heliport",49.449339,2.068497,301,EU,FR,FR-S,Beauvais,0,,,,,,,0,2013-06-10T01:13:40+00:00
+43498,FR-0158,small_airport,Beauvoir-Sur-Mer,46.89014816,-2.088155984,10,EU,FR,FR-R,Beauvoir-Sur-Mer,0,LFFO,,,,,,0,2015-09-15T03:03:37+00:00
+43465,FR-0125,heliport,"Centre Hospitalier Heliport",50.418331146240234,1.5641670227050781,42,EU,FR,FR-O,Berck-Sur-Mer,0,,,,,,,0,2009-03-14T19:29:25+00:00
+43418,FR-0078,heliport,"Hôpital Jean Minjoz Heliport",47.225833892822266,5.96416711807251,934,EU,FR,FR-I,Besancon,0,,,,,,,0,2009-03-14T19:27:43+00:00
+43435,FR-0095,heliport,"Hôpital Montimaran Heliport",43.34138870239258,3.255000114440918,176,EU,FR,FR-K,Beziers,0,,,,,,,0,2009-03-14T19:28:19+00:00
+43358,FR-0018,heliport,"Centre Hospitalier Saint Nicolas De Blay Heliport",45.135780334472656,-0.6595829725265503,81,EU,FR,FR-B,Blaye,0,,,,,,,0,2009-03-14T19:25:37+00:00
+43398,FR-0058,heliport,"Centre Hospitalier Heliport",47.60472106933594,1.3424999713897705,355,EU,FR,FR-F,Blois,0,,,,,,,0,2009-03-14T19:26:59+00:00
+43472,FR-0132,heliport,"Polyclinique Heliport",50.37540817260742,2.9097089767456055,203,EU,FR,FR-O,"Bois Bernard",0,,,,,,,0,2009-03-14T19:29:40+00:00
+43364,FR-0024,heliport,"Pellegrin Centre Hospitalier Heliport",44.82749938964844,-0.6044440269470215,344,EU,FR,FR-B,Bordeaux,0,,,,,,,0,2009-03-14T19:25:49+00:00
+43367,FR-0027,heliport,"Robert Piqué Hôpital Militaire Heliport",44.79999923706055,-0.574167013168335,62,EU,FR,FR-B,Bordeaux,0,,,,,,,0,2009-03-14T19:25:55+00:00
+43623,FR-0281,small_airport,"Hautacam Airport",42.99388885498047,-0.029167000204324722,5512,EU,FR,FR-N,Bordes,0,,,,,,,0,2009-03-14T20:32:09+00:00
+43464,FR-0124,heliport,"Boulogne Sur Mer Centre Hospitalier Heliport",50.72305679321289,1.6288889646530151,279,EU,FR,FR-O,"Boulogne Sur Mer",0,,,,,,,0,2009-03-14T19:29:23+00:00
+43444,FR-0104,heliport,"Centre Hospitalier Heliport",45.95500183105469,1.7513890266418457,1476,EU,FR,FR-L,Bourganeuf,0,,,,,,,0,2009-03-14T19:28:37+00:00
+43399,FR-0059,heliport,"Centre Hospitalier Heliport",47.08416748046875,2.4352779388427734,445,EU,FR,FR-F,Bourges,0,,,,,,,0,2009-03-14T19:27:01+00:00
+43386,FR-0046,heliport,"Amirauté Heliport",48.38055419921875,-4.491666793823242,8,EU,FR,FR-E,Brest,0,,,,,,,0,2009-03-14T19:26:33+00:00
+43393,FR-0053,heliport,"La Cavale Blanche Centre Hospitalier Heliport",48.40353012084961,-4.529566764831543,121,EU,FR,FR-E,Brest,0,,,,,,,0,2009-03-14T19:26:48+00:00
+43528,FR-0188,heliport,"Centre Hospitalier Heliport",44.90638732910156,6.632778167724609,4372,EU,FR,FR-U,Briancon,0,,,,,,,0,2009-03-14T19:31:50+00:00
+43533,FR-0193,heliport,"Hôpital Jean Marcel Heliport",43.40305709838867,6.066389083862305,753,EU,FR,FR-U,Brignoles,0,,,,,,,0,2009-03-14T19:32:00+00:00
+43601,FR-0259,small_airport,"Col De Cenise Airport",46.02083206176758,6.449999809265137,5656,EU,FR,FR-V,Brison,0,,,,,,,0,2009-03-14T20:31:18+00:00
+43441,FR-0101,heliport,"Brive-La Gaillarde Centre Hospitalier Heliport",45.1702766418457,1.5341670513153076,522,EU,FR,FR-L,"Brive-La Gaillarde",0,,,,,,,0,2009-03-14T19:28:31+00:00
+320251,FR-0344,closed,"[Duplicate] Broyes-lès-Pesmes Air Base",47.33478,5.51415,682,EU,FR,FR-I,Broye-Aubigney-Montseugny,0,,,LFYH,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Broyes-l%C3%A8s-Pesmes,,0,2016-09-12T12:02:06+00:00
+43476,FR-0136,heliport,"Centre Hospitalie Heliport",49.20628356933594,-0.3550119996070862,220,EU,FR,FR-P,Caen,0,,,,,,,0,2009-03-14T19:29:49+00:00
+43540,FR-0200,heliport,"Quai Du Large Heliport",43.545112,7.01713,10,EU,FR,FR-U,Cannes,0,LFTL,,,,,,0,2018-04-15T04:51:36+00:00
+43434,FR-0094,heliport,"Gayraud Centre Hospitalier Heliport",43.19111251831055,2.341110944747925,475,EU,FR,FR-K,Carcassonne,0,,,,,,,0,2009-03-14T19:28:17+00:00
+43525,FR-0185,heliport,"Centre De Secours Heliport",44.04666519165039,5.0258331298828125,285,EU,FR,FR-U,Carpentras,0,,,,,,,0,2009-03-14T19:31:43+00:00
+315458,FR-0322,small_airport,"Col de Lèques",43.86661,6.463966,,EU,FR,FR-U,Castellane,0,,,,,,,0,2016-02-11T08:58:58+00:00
+43457,FR-0117,heliport,"Centre Hospitalier Heliport",43.60388946533203,2.2391669750213623,642,EU,FR,FR-N,Castres,0,,,,,,,0,2009-03-14T19:29:08+00:00
+43625,FR-0283,small_airport,"Honteyde Airport",42.837223052978516,0.5022220015525818,6234,EU,FR,FR-N,Cathevieille,0,,,,,,,0,2009-03-14T20:32:13+00:00
+43433,FR-0093,heliport,"Centre Medical du Cap Peyrefite  Heliport",42.45888900756836,3.1600000858306885,50,EU,FR,FR-K,Cerbere,0,,,,,,,0,2009-03-14T19:28:14+00:00
+322152,FR-0354,balloonport,"Cérizols Balloonport",43.128889,1.069444,1312,EU,FR,FR-N,Cérizols,0,,,LF0926,http://www.ballon-bleu-horizon.fr/,,,0,2018-02-16T10:36:29+00:00
+43580,FR-0240,heliport,"Relais Du Soleil Heliport",44.90972137451172,5.022500038146973,724,EU,FR,FR-V,Chabeuil,0,,,,,,,0,2009-03-14T19:33:47+00:00
+43504,FR-0164,heliport,"Challans Heliport",46.853729248046875,-1.8305690288543701,130,EU,FR,FR-R,Challans,0,,,,,,,0,2009-03-14T19:30:50+00:00
+43605,FR-0263,small_airport,"Col Du Beal Airport",45.679168701171875,3.788888931274414,4823,EU,FR,FR-V,Chalmazel,0,,,,,,,0,2009-03-14T20:31:28+00:00
+43405,FR-0065,heliport,"Centre Hospitalier Heliport",48.9738883972168,4.369443893432617,304,EU,FR,FR-G,Chalons-En-Champagne,0,,,,,,,0,2009-03-14T19:27:13+00:00
+43383,FR-0043,heliport,"Centre Hospitalier W. Morey Heliport",46.7783317565918,4.859167098999023,631,EU,FR,FR-D,Chalons-Sur-Saone,0,,,,,,,0,2009-03-14T19:26:28+00:00
+43551,FR-0211,heliport,"Centre Hospitalier Heliport",45.56416702270508,5.913332939147949,1047,EU,FR,FR-V,Chambery,0,,,,,,,0,2009-03-14T19:32:41+00:00
+43558,FR-0218,heliport,"Centre Hospitalier Heliport",45.91444396972656,6.863056182861328,3399,EU,FR,FR-V,Chamonix,0,,,,,,,0,2009-03-14T19:32:57+00:00
+43561,FR-0221,heliport,"Croix De Lognan Heliport",45.970001220703125,6.944444179534912,6368,EU,FR,FR-V,Chamonix,0,,,,,,,0,2009-03-14T19:33:03+00:00
+43579,FR-0239,heliport,"Refuge Du Requin Heliport",45.88472366333008,6.930555820465088,8255,EU,FR,FR-V,Chamonix,0,,,,,,,0,2009-03-14T19:33:45+00:00
+43583,FR-0243,heliport,"Sécurité Heliport",45.93888854980469,6.8958330154418945,3532,EU,FR,FR-V,Chamonix,0,,,,,,,0,2009-03-14T19:33:54+00:00
+43612,FR-0270,small_airport,"Glacier d'Argentière Altiport",45.941666,7,9350,EU,FR,FR-V,Chamonix,0,,,LF7422,,,,0,2019-02-18T03:23:46+00:00
+43617,FR-0275,small_airport,"Glacier de Talèfre Altiport",45.908333,6.983333,9121,EU,FR,FR-V,Chamonix,0,,,LF7423,,,,0,2019-02-18T03:26:13+00:00
+43618,FR-0276,small_airport,"Glacier Du Dome Du Gouter Airport",45.84583282470703,6.849999904632568,0,EU,FR,FR-V,Chamonix,0,,,,,,,0,2009-03-14T20:31:57+00:00
+43619,FR-0277,small_airport,"Glacier Du Tacul Altiport",45.891666,6.9375,7382,EU,FR,FR-V,Chamonix,0,,,,,,,0,2016-11-12T08:03:37+00:00
+43620,FR-0278,small_airport,"Glacier Du Tour Airport",45.983333587646484,7,10170,EU,FR,FR-V,Chamonix,0,,,,,,,0,2009-03-14T20:32:02+00:00
+43614,FR-0272,small_airport,"Glacier De La Chiaupe Airport",45.491668701171875,6.775000095367432,10170,EU,FR,FR-V,Champagny,0,,,,,,,0,2009-03-14T20:31:48+00:00
+43401,FR-0061,heliport,"Centre Hospitalier Heliport",48.41999816894531,1.504721999168396,488,EU,FR,FR-F,Chartres,0,,,,,,,0,2009-03-14T19:27:05+00:00
+43394,FR-0054,heliport,"Mairie Heliport",48.20277786254883,-3.8205559253692627,495,EU,FR,FR-E,"Chateauneuf Du Faou",0,,,,,,,0,2009-03-14T19:26:50+00:00
+43402,FR-0062,heliport,"Centre Hospitalier Heliport",46.799442291259766,1.6974999904632568,558,EU,FR,FR-F,Chateauroux,0,,,,,,,0,2009-03-14T19:27:07+00:00
+43521,FR-0181,heliport,"Centre Hospitalier Heliport",46.83416748046875,0.5555559992790222,275,EU,FR,FR-T,Chatellerault,0,,,,,,,0,2009-03-14T19:31:29+00:00
+43377,FR-0037,heliport,"Centre Hospitalier Heliport",47.862220764160156,4.558055877685547,792,EU,FR,FR-D,"Chatillon Sur Seine",0,,,,,,,0,2009-03-14T19:26:15+00:00
+43511,FR-0171,heliport,"Centre Hospitalier Heliport",49.6261100769043,3.237499952316284,180,EU,FR,FR-S,Chauny,0,,,,,,,0,2009-03-14T19:31:05+00:00
+43474,FR-0134,heliport,"Arsenal-Premar Heliport",49.65388870239258,-1.6399999856948853,26,EU,FR,FR-P,Cherbourg,0,,,,,,,0,2009-03-14T19:29:44+00:00
+43477,FR-0137,heliport,"Centre Hospitalier Heliport",49.63888931274414,-1.611111044883728,62,EU,FR,FR-P,Cherbourg,0,,,,,,,0,2009-03-14T19:29:51+00:00
+43499,FR-0159,heliport,"Centre Hospitalier Cholet Heliport",47.04222106933594,-0.8958330154418945,351,EU,FR,FR-R,Cholet,0,,,,,,,0,2009-03-14T19:30:39+00:00
+43410,FR-0070,heliport,"Centre Vinicole Heliport",49.02333450317383,3.984999895095825,466,EU,FR,FR-G,Chouilly,0,,,,,,,0,2009-03-14T19:27:23+00:00
+43593,FR-0251,small_airport,"Cap De Barres Airport",42.86305618286133,0.5152779817581177,5798,EU,FR,FR-N,Cires,0,,,,,,,0,2009-03-14T20:31:01+00:00
+43428,FR-0088,heliport,"Hôpital D'Instruction Des Armées De Percy Heliport",48.81420135498047,2.253890037536621,333,EU,FR,FR-J,Clamart,0,,,,,,,0,2009-03-14T19:29:21+00:00
+43604,FR-0262,small_airport,"Col De Sarenne Airport",45.087501525878906,6.1458330154418945,6496,EU,FR,FR-V,Clavans-le-Haut,0,,,,,,,0,2009-03-14T20:31:25+00:00
+43598,FR-0256,small_airport,"Claveisolles Airport",46.07805633544922,4.547222137451172,2461,EU,FR,FR-V,Clavesoilles,0,,,,,,,0,2009-03-14T20:31:12+00:00
+43370,FR-0030,heliport,"Centre Hospitalier Heliport",45.75694274902344,3.0919439792633057,1366,EU,FR,FR-C,Clermont-Ferrand,0,,,,,,,0,2009-03-14T19:26:01+00:00
+43414,FR-0074,heliport,"Travaux Aeriens Bouquemont Heliport",48.85166549682617,3.967221975326538,483,EU,FR,FR-G,Coligny,0,,,,,,,0,2009-03-14T19:27:31+00:00
+43347,FR-0007,heliport,"Hôpital Pasteur Heliport",48.07500076293945,7.3380560874938965,660,EU,FR,FR-A,Colmar,0,,,,,,,0,2009-03-14T19:25:16+00:00
+43509,FR-0169,heliport,"Centre Hospitalier Heliport",49.38972091674805,2.79555606842041,108,EU,FR,FR-S,Compiegne,0,,,,,,,0,2009-03-14T19:31:01+00:00
+43470,FR-0130,heliport,"Coquelles Eurotunnel Heliport",50.91805648803711,1.7949999570846558,31,EU,FR,FR-O,Coquelles,0,,,,,,,0,2009-03-14T19:29:36+00:00
+43421,FR-0081,heliport,"Centre Hospitalier Heliport",48.59555435180664,2.4811110496520996,255,EU,FR,FR-J,Corbeil,0,,,,,,,0,2009-03-14T19:27:49+00:00
+308842,FR-0317,heliport,"Centre Hospitalier Sud Francilien Heliport",48.620279,2.457238,256,EU,FR,FR-J,"Corbeil - Essonnes",0,,,,,,,0,2013-06-11T00:40:41+00:00
+43546,FR-0206,heliport,"Centre de Secours de Courchevel Heliport",45.415000915527344,6.633056163787842,5799,EU,FR,FR-V,Courchevel,0,,,,,,,0,2009-03-14T19:32:30+00:00
+43478,FR-0138,heliport,"Centre Hospitalier Heliport",49.041236877441406,-1.44343900680542,128,EU,FR,FR-P,Coutances,0,,,,,,,0,2009-03-14T19:29:53+00:00
+43513,FR-0173,heliport,"Centre Hospitalier Laënnec Heliport",49.247222900390625,2.4580559730529785,238,EU,FR,FR-S,Creil,0,,,,,,,0,2009-03-14T19:31:10+00:00
+43422,FR-0082,heliport,"Centre Hospitalier Henri Mondor Heliport",48.79888916015625,2.453610897064209,160,EU,FR,FR-J,Creteil,0,,,,,,,0,2009-03-14T19:27:51+00:00
+43592,FR-0250,small_airport,"Cabaliros Airport",42.95249938964844,0.13527800142765045,5718,EU,FR,FR-N,"D'Argeles Gazost",0,,,,,,,0,2009-03-14T20:30:58+00:00
+43349,FR-0009,heliport,"Azur Heliport",43.80694580078125,-1.2555559873580933,121,EU,FR,FR-B,Dax,0,,,,,,,0,2009-03-14T19:25:20+00:00
+43350,FR-0010,heliport,"Castets Heliport",43.91666793823242,-1.1569440364837646,184,EU,FR,FR-B,Dax,0,,,,,,,0,2009-03-14T19:25:22+00:00
+43353,FR-0013,heliport,"Centre Hospitalier Heliport",43.712501525878906,-1.0402779579162598,31,EU,FR,FR-B,Dax,0,,,,,,,0,2009-03-14T19:25:28+00:00
+43361,FR-0021,heliport,"Herm Heliport",43.82222366333008,-1.111111044883728,253,EU,FR,FR-B,Dax,0,,,,,,,0,2009-03-14T19:25:43+00:00
+43365,FR-0025,heliport,"Pontonx Heliport",43.77777862548828,-0.9194440245628357,53,EU,FR,FR-B,Dax,0,,,,,,,0,2009-03-14T19:25:51+00:00
+43368,FR-0028,heliport,"Tinon Heliport",43.733333587646484,-1.1777780055999756,151,EU,FR,FR-B,Dax,0,,,,,,,0,2009-03-14T19:25:57+00:00
+43382,FR-0042,heliport,"Centre Hospitalier Régional Heliport",47.317222595214844,5.026944160461426,781,EU,FR,FR-D,Dijon,0,,,,,,,0,2009-03-14T19:26:25+00:00
+43570,FR-0230,heliport,"Hôtel Du Château Heliport",46.358055114746094,6.132500171661377,1678,EU,FR,FR-V,Divonne,0,,,,,,,0,2009-03-14T19:33:24+00:00
+43416,FR-0076,heliport,"Centre Hospitalier Heliport",47.08333206176758,5.472221851348877,870,EU,FR,FR-I,Dole,0,,,,,,,0,2009-03-14T19:27:39+00:00
+43450,FR-0110,heliport,"Centre Hospitalier Heliport",48.67070770263672,5.9293107986450195,755,EU,FR,FR-M,"Dommartin Les Toul",0,,,,,,,0,2009-03-14T19:28:50+00:00
+43484,FR-0144,heliport,"Donville-Les-Bains Heliport",48.8663330078125,-1.5757219791412354,33,EU,FR,FR-P,Donville-Les-Bains,0,,,,,,,0,2009-03-14T19:30:06+00:00
+43473,FR-0133,heliport,"Usine Renault Heliport",50.362220764160156,3.037777900695801,95,EU,FR,FR-O,Douai,0,,,,,,,0,2009-03-14T19:29:42+00:00
+43512,FR-0172,heliport,"Centre Hospitalier Heliport",50.15388870239258,2.353332996368408,236,EU,FR,FR-S,Doullens,0,,,,,,,0,2009-03-14T19:31:08+00:00
+43400,FR-0060,heliport,"Centre Hospitalier Heliport",48.727500915527344,1.3847219944000244,451,EU,FR,FR-F,Dreux,0,,,,,,,0,2009-03-14T19:27:03+00:00
+43466,FR-0126,heliport,"Centre Hospitalier Heliport",51.037498474121094,2.396667003631592,55,EU,FR,FR-O,Dunkerque,0,,,,,,,0,2009-03-14T19:29:27+00:00
+43572,FR-0232,heliport,"Hôtel Le Château Heliport",45.59000015258789,5.5369439125061035,1271,EU,FR,FR-V,"Faverges De La Tour",0,,,,,,,0,2009-03-14T19:33:29+00:00
+43494,FR-0154,heliport,"Centre Hospitalier Heliport",49.74305725097656,0.38555601239204407,318,EU,FR,FR-Q,Fecamp,0,,,,,,,0,2009-03-14T19:30:28+00:00
+43611,FR-0269,small_airport,"Ferrere Airport",42.88833236694336,0.4988889992237091,5249,EU,FR,FR-N,"Ferrere ",0,,,,,,,0,2009-03-14T20:31:41+00:00
+43563,FR-0223,heliport,"Flaine-Ete Heliport",46.003334045410156,6.696667194366455,5299,EU,FR,FR-V,Flaine,0,,,,,,,0,2009-03-14T19:33:08+00:00
+43564,FR-0224,heliport,"Flaine-Hiver Heliport",46.00388717651367,6.690278053283691,5153,EU,FR,FR-V,Flaine,0,,,,,,,0,2009-03-14T19:33:11+00:00
+43485,FR-0145,heliport,"Flamanville Heliport",49.533355712890625,-1.8817059993743896,269,EU,FR,FR-P,Flamanville,0,,,,,,,0,2009-03-14T19:30:09+00:00
+43427,FR-0087,heliport,"Flins Heliport",48.9819450378418,1.8638889789581299,82,EU,FR,FR-J,Flins-sur-Seine,0,,,,,,,0,2009-03-14T19:28:01+00:00
+43458,FR-0118,heliport,"Centre Hospitalier Heliport",42.95277786254883,1.611111044883728,1476,EU,FR,FR-N,Foix,0,,,,,,,0,2009-03-14T19:29:10+00:00
+43460,FR-0120,heliport,"Centre Hospitalier Intercommunal du Val d'Ariege Heliport",43.02527618408203,1.6174999475479126,1151,EU,FR,FR-N,Foix,0,,,,,,,0,2009-03-14T19:29:14+00:00
+43642,FR-0300,small_airport,"Plateau De La Calme Airport",42.530555725097656,2.004167079925537,6988,EU,FR,FR-K,"Font Romeu-Odeillo",0,,,,,,,0,2009-03-14T20:32:54+00:00
+43488,FR-0148,heliport,"Casino Heliport",49.599998474121094,1.5333329439163208,492,EU,FR,FR-Q,"Forges Les Eaux",0,,,,,,,0,2009-03-14T19:30:15+00:00
+43607,FR-0265,small_airport,"Coste Del Palm Airport",42.608333587646484,2.01111102104187,7710,EU,FR,FR-K,Formigueres,0,,,,,,,0,2009-03-14T20:31:32+00:00
+43529,FR-0189,heliport,"Hôpital Bonnet Heliport",43.439720153808594,6.751667022705078,69,EU,FR,FR-U,Frejus,0,,,,,,,0,2009-03-14T19:31:52+00:00
+43532,FR-0192,heliport,"Hôpital Heliport",44.557498931884766,6.073332786560059,2490,EU,FR,FR-U,Gap,0,,,,,,,0,2009-03-14T19:31:58+00:00
+43429,FR-0089,heliport,"Hôpital Raymond Poincaré Heliport",48.83944320678711,2.1702780723571777,446,EU,FR,FR-J,Garches,0,,,,,,,0,2009-03-14T19:28:06+00:00
+43641,FR-0299,small_airport,"Pene De Soulit Airport",42.79277801513672,0.4625000059604645,6365,EU,FR,FR-N,Garin,0,,,,,,,0,2009-03-14T20:32:51+00:00
+326619,FR-0370,small_airport,"Gaussan ULM",43.219115,0.473498,,EU,FR,FR-N,Gaussan,0,,,,,,,0,2018-03-10T04:48:36+00:00
+43608,FR-0266,small_airport,"Coumely Airport",42.76250076293945,0.022221999242901802,6562,EU,FR,FR-N,Gedre,0,,,,,,,0,2009-03-14T20:31:35+00:00
+326175,FR-0366,seaplane_base,"Base Hydro-ULM de St Tropez",43.272776,6.608889,,EU,FR,FR-U,"Golfe de Saint Tropez",0,,,LF8361,,,,0,2018-01-26T13:00:38+00:00
+43590,FR-0248,small_airport,"Bacaneres Altiport",42.838333,0.664444,6476,EU,FR,FR-N,Gouaux-de-Luchon,0,,,LF3138,,,,0,2019-01-23T15:04:21+00:00
+43565,FR-0225,heliport,"Grand Colombier Heliport",45.88138961791992,5.757500171661377,4716,EU,FR,FR-V,"Grand Colombier",0,,,,,,,0,2009-03-14T19:33:13+00:00
+43482,FR-0142,heliport,"Centre Hospitalier J. Monod Heliport",48.849998474121094,-1.5833330154418945,167,EU,FR,FR-P,Granville,0,,,,,,,0,2009-03-14T19:30:02+00:00
+43530,FR-0190,heliport,"Hôpital Clavary Heliport",43.619720458984375,6.92888879776001,552,EU,FR,FR-U,Grasse,0,,,,,,,0,2009-03-14T19:31:54+00:00
+43568,FR-0228,heliport,"Hôpital Nord Heliport",45.20083236694336,5.745555877685547,716,EU,FR,FR-V,Grenoble,0,,,,,,,0,2009-03-14T19:33:20+00:00
+43541,FR-0201,heliport,"Sarl R.C.E Heliport",43.26777648925781,6.551943778991699,21,EU,FR,FR-U,Grimaud,0,,,,,,,0,2009-03-14T19:32:18+00:00
+320621,FR-0346,closed,"Grostenquin Air Base",49.0214762,6.7143418,,EU,FR,FR-M,Grostenquin,0,,,,,,,0,2016-10-02T11:48:04+00:00
+43430,FR-0090,heliport,"Les Sangliers Heliport",48.783538818359375,2.0716500282287598,518,EU,FR,FR-J,Guyancourt,0,,,,,,,0,2009-03-14T19:28:08+00:00
+43343,FR-0003,heliport,"Centre Hospitalier Heliport",48.79777908325195,7.776944160461426,530,EU,FR,FR-A,Haguenau,0,,,,,,,0,2009-03-14T19:25:08+00:00
+43487,FR-0147,heliport,"La Ferme Saint Siméon Heliport",49.424686431884766,0.22359499335289001,102,EU,FR,FR-P,Honfleur,0,,,,,,,0,2009-03-14T19:30:13+00:00
+43531,FR-0191,heliport,"Hôpital Heliport",43.11861038208008,6.111944198608398,88,EU,FR,FR-U,Hyeres,0,,,,,,,0,2009-03-14T19:31:56+00:00
+326130,FR-0365,heliport,"Cavallo Helistrip",41.368431,9.264111,,EU,FR,FR-H,"Ile Cavallo",0,,,,,,,0,2018-01-13T10:48:23+00:00
+329815,FR-0378,closed,"Clipperton Island Landing Strip",10.313828,-109.230497,11,EU,FR,FR-U-A,"Île de Clipperton",0,,,,,,,0,2018-12-09T22:29:01+00:00
+43346,FR-0006,heliport,"Graffenstaden Centre Hospitalier Heliport",48.53724670410156,7.721718788146973,515,EU,FR,FR-A,Illkirch-Graffenstaden,0,,,,,,,0,2009-03-14T19:25:14+00:00
+43344,FR-0004,heliport,"Centre Hospitalier Heliport",48.872501373291016,7.48638916015625,659,EU,FR,FR-A,Ingwiller,0,,,,,,,0,2009-03-14T19:25:10+00:00
+43542,FR-0202,heliport,"Societe Europeenne de Propulsion Heliport",43.543888092041016,4.951943874359131,72,EU,FR,FR-U,Istres,0,,,,,,,0,2009-03-14T19:32:21+00:00
+43483,FR-0143,heliport,"Crossma Heliport",49.685123443603516,-1.9099539518356323,482,EU,FR,FR-P,Jobourg,0,,,,,,,0,2009-03-14T19:30:04+00:00
+43385,FR-0045,heliport,"Le Port Heliport",47.981109619140625,3.386667013168335,254,EU,FR,FR-D,Joigny,0,,,,,,,0,2009-03-14T19:26:31+00:00
+322108,FR-0350,seaplane_base,"Base Hydro-ULM Juan Les Pins",43.565548,7.1024686,1,EU,FR,FR-U,Juan-les-Pins,0,,,LF0651,,,,0,2017-02-11T12:37:58+00:00
+43507,FR-0167,heliport,"Camas Heliport",49.73249816894531,3.21476411819458,220,EU,FR,FR-S,Jussy,0,,,,,,,0,2009-03-14T19:30:56+00:00
+308845,FR-0318,heliport,"Centre Hospitalier Bicêtre Heliport",48.809506,2.35622,269,EU,FR,FR-J,Kremlin-Bicêtre,0,,,,,,,0,2013-06-11T08:14:40+00:00
+43481,FR-0141,heliport,"Centre Hospitalier Heliport",48.767051696777344,0.6103230118751526,764,EU,FR,FR-P,L'Aigle,0,,,,,,,0,2009-03-14T19:30:00+00:00
+43636,FR-0294,small_airport,"Altisurface de l'Escoulin",44.825001,5.233333,2165,EU,FR,FR-V,L'Escoulin,0,,,,,,,0,2018-09-08T03:38:12+00:00
+322201,FR-0359,seaplane_base,"Base Hydro-ULM de La Ciotat",43.1737172,5.641389,1,EU,FR,FR-U,"La Ciotat",0,,,LF1353,,,,0,2017-02-19T05:37:49+00:00
+43627,FR-0285,closed,"La Clusaz Airport",45.873611,6.425,4954,EU,FR,FR-V,"La Clusaz",0,,,,,,,0,2019-01-06T14:35:05+00:00
+43610,FR-0268,small_airport,"Dome De La Lauze Airport",44.99861145019531,6.245832920074463,11647,EU,FR,FR-V,"La Grave",0,,,,,,,0,2009-03-14T20:31:39+00:00
+43621,FR-0279,small_airport,"Glacier Lombard Airport",45.108333587646484,6.3222222328186035,10695,EU,FR,FR-V,"La Grave",0,,,,,,,0,2009-03-14T20:32:04+00:00
+43628,FR-0286,small_airport,"La Jasserie Airport",45.39777755737305,4.5833330154418945,4528,EU,FR,FR-V,"La Jasserie ",0,,,,,,,0,2009-03-14T20:32:20+00:00
+43609,FR-0267,closed,"Crete De Brouffiers Altiport",45.34111,5.886111,7251,EU,FR,FR-V,"La Morte Alpe de Serre",0,,,,,,,0,2019-01-21T07:03:25+00:00
+43518,FR-0178,heliport,"Centre Hospitalier Heliport",46.159000396728516,-1.142591953277588,49,EU,FR,FR-T,"La Rochelle",0,,,,,,,0,2009-03-14T19:31:22+00:00
+43630,FR-0288,small_airport,"La Salette Les Opinions Airport",44.836666107177734,5.962500095367432,5184,EU,FR,FR-U,"La Salette",0,,,,,,,0,2009-03-14T20:32:25+00:00
+43632,FR-0290,small_airport,"La Taillade Airport",44.891666412353516,2.956943988800049,2913,EU,FR,FR-C,"La Taillade ",0,,,,,,,0,2009-03-14T20:32:30+00:00
+43352,FR-0012,heliport,"Centre Hospitalier Heliport",44.63138961791992,-1.1627780199050903,20,EU,FR,FR-B,"La Teste De Buch",0,,,,,,,0,2009-03-14T19:25:26+00:00
+43634,FR-0292,closed,"La Toussuire Airport",45.272221,6.266667,5413,EU,FR,FR-V,"La Toussuire",0,,,,,,,0,2019-01-06T14:33:36+00:00
+320052,FR-0341,small_airport,"La Tranclière Private Airstrip",46.0957591958,5.2860195,820,EU,FR,FR-V,"La Tranclière",0,,,LF0121,,,,0,2016-09-03T06:03:30+00:00
+43363,FR-0023,heliport,"Le Huga Heliport",45.00694274902344,-1.164721965789795,52,EU,FR,FR-B,Lacanau,0,,,,,,,0,2009-03-14T19:25:47+00:00
+43389,FR-0049,heliport,"Centre Hospitalier Heliport",48.7227783203125,-3.465277910232544,92,EU,FR,FR-E,Lannion,0,,,,,,,0,2009-03-14T19:26:39+00:00
+43503,FR-0163,heliport,"Centre Hospitalier Heliport",48.06666564941406,-0.7833330035209656,279,EU,FR,FR-R,Laval,0,,,,,,,0,2009-03-14T19:30:48+00:00
+320053,FR-0342,small_airport,Lavours,45.7957181,5.77395432,768,EU,FR,FR-V,Lavours,0,,,LF0125,,,,0,2016-09-03T06:13:17+00:00
+322119,FR-0351,seaplane_base,"Base Hydro-ULM Rhône Lavours",45.8108763,5.78132,,EU,FR,FR-V,Lavours,0,,,LF0158,,,,0,2017-02-12T05:55:42+00:00
+43380,FR-0040,heliport,"Centre Hospitalier Hotel Dieu Heliport",46.80500030517578,4.448888778686523,1180,EU,FR,FR-D,"Le Creusot",0,,,,,,,0,2009-03-14T19:26:21+00:00
+43496,FR-0156,heliport,"Hopital Jacques Monod Heliport",49.524723052978516,0.18472200632095337,40,EU,FR,FR-Q,"Le Havre",0,,,,,,,0,2009-03-14T19:30:32+00:00
+43633,FR-0291,small_airport,"La Tête Des Champs Altiport",47.916668,6.830556,3182,EU,FR,FR-M,"Le Ménil",0,,,LF8821,,,,0,2016-12-26T01:59:14+00:00
+43581,FR-0241,heliport,"Remontées Mécaniques Heliport",46.14860916137695,6.581943988800049,4933,EU,FR,FR-V,"Le Praz De Lys",0,,,,,,,0,2009-03-14T19:33:49+00:00
+43638,FR-0296,small_airport,"Mont Llaret Pic d'Aude Airfield",42.575001,2.038889,7628,EU,FR,FR-K,"Les Angles",0,,,LF6623,,,,0,2016-11-13T02:18:32+00:00
+43639,FR-0297,small_airport,"Mont Llaret Roc d'Aude Airfield",42.580555,2.025,7710,EU,FR,FR-K,"Les Angles",0,,,LF6626,,,,0,2016-11-13T02:17:19+00:00
+43655,FR-0312,small_airport,"Altiport de Vaugellaz",45.607224,6.709722,6627,EU,FR,FR-V,"Les Chapelles",0,,,LF7329,,,,0,2018-12-31T04:27:38+00:00
+43359,FR-0019,heliport,"Clinique Du Medoc Heliport",45.30278778076172,-0.9378859996795654,30,EU,FR,FR-B,Lesparre,0,,,,,,,0,2009-03-14T19:25:39+00:00
+43469,FR-0129,heliport,"Centre Hospitalier Régional Heliport",50.60416793823242,3.0344440937042236,89,EU,FR,FR-O,Lille,0,,,,,,,0,2009-03-14T19:29:34+00:00
+43443,FR-0103,heliport,"Centre Hospitalier Heliport",45.81388854980469,1.2377779483795166,899,EU,FR,FR-L,Limoges,0,,,,,,,0,2009-03-14T19:28:35+00:00
+315956,FR-0329,small_airport,"Ulmodrome de Limoux",43.05666,2.22633,,EU,FR,FR-L,Limoux,0,,,LF1153,,,,0,2016-10-22T17:25:41+00:00
+43452,FR-0112,heliport,"Etablissement Public Heliport",49.531286,5.785929,875,EU,FR,FR-M,Longwy,0,,,,,,,0,2017-03-24T13:38:45+00:00
+43415,FR-0075,heliport,"Centre Hospitalier de Lons le Saunier Heliport",46.677223205566406,5.548288822174072,896,EU,FR,FR-I,"Lons Le Saunier",0,,,,,,,0,2009-03-14T19:27:33+00:00
+43387,FR-0047,heliport,"Bretagne Sud Centre Hospitalier Heliport",47.74972152709961,-3.378056049346924,79,EU,FR,FR-E,Lorient,0,,,,,,,0,2009-03-14T19:26:35+00:00
+308849,FR-0320,small_airport,"Luçon - Chasnais Aerodrome",46.461913,-1.241447,32,EU,FR,FR-R,Luçon,0,,,,http://www.atlanticairpark.com/old/aap_club_fr.htm,,,0,2016-10-12T06:11:44+00:00
+43567,FR-0227,heliport,"Hôpital Edouard-Herriot Heliport",45.74422073364258,4.884532928466797,653,EU,FR,FR-V,Lyon,0,,,,,,,0,2009-03-14T19:33:18+00:00
+43375,FR-0035,heliport,"Centre Hospitalier Heliport",46.31444549560547,4.812222003936768,727,EU,FR,FR-D,Macon,0,,,,,,,0,2009-03-14T19:26:11+00:00
+43576,FR-0236,heliport,"Magland Heliport",45.983333587646484,6.716667175292969,7546,EU,FR,FR-V,Magland,0,,,,,,,0,2009-03-14T19:33:38+00:00
+43384,FR-0044,heliport,"Circuit Automobile de Nevers Magny-Cours Heliport",46.856388092041016,3.1541669368743896,751,EU,FR,FR-D,"Magny Cours",0,,,,,,,0,2009-03-14T19:26:29+00:00
+43419,FR-0079,heliport,"Centre Hospitalier F. Quesnay Heliport",48.999168395996094,1.6749999523162842,92,EU,FR,FR-J,"Mantes La Jolie",0,,,,,,,0,2009-03-14T19:27:45+00:00
+315965,FR-0333,small_airport,"Envol ULM Alsace",48.151278,7.537673,576,EU,FR,FR-A,Marckolsheim,0,,,LF6754,,,,0,2016-10-22T17:29:21+00:00
+43366,FR-0026,heliport,"Relais De Margaux Heliport",45.052955627441406,-0.6622499823570251,7,EU,FR,FR-B,Margaux,0,,,,,,,0,2009-03-14T19:25:53+00:00
+43522,FR-0182,seaplane_base,Berre/Marignane,43.45000076293945,5.216667175292969,0,EU,FR,FR-U,Marseille,0,,,,,,,0,2009-03-14T19:31:32+00:00
+43535,FR-0195,heliport,"Hôpital La Timone Heliport",43.28944396972656,5.403889179229736,138,EU,FR,FR-U,Marseille,0,,,,,,,0,2009-03-14T19:32:05+00:00
+322260,FR-0361,seaplane_base,"Marseille Hydro",43.29909,5.347612,1,EU,FR,FR-U,Marseille,0,,,LF1355,,,,0,2017-02-26T09:15:02+00:00
+43538,FR-0198,heliport,"Nord Heliport",43.38055419921875,5.364999771118164,613,EU,FR,FR-U,Marseille-Hôpital,0,,,,,,,0,2009-03-14T19:32:11+00:00
+43524,FR-0184,heliport,"Centre De Secours Heliport",43.42250061035156,5.048056125640869,136,EU,FR,FR-U,Martigues,0,,,,,,,0,2009-03-14T19:31:39+00:00
+322200,FR-0358,seaplane_base,"Base Hydro-ULM ""Henri Fabre""",43.420833,5.077778,1,EU,FR,FR-U,Martigues,0,,,LF1301,,,,0,2017-02-19T05:27:52+00:00
+43651,FR-0308,small_airport,"Uls Airport",42.85194396972656,0.8488889932632446,6562,EU,FR,FR-N,Melles,0,,,,,,,0,2009-03-14T20:33:13+00:00
+43454,FR-0114,heliport,"Technopole 2000 Heliport",49.09111022949219,6.231389045715332,722,EU,FR,FR-M,Metz,0,,,,,,,0,2009-03-14T19:29:01+00:00
+43575,FR-0235,heliport,"Les Deux Alpes Heliport",45.025001525878906,6.121110916137695,5190,EU,FR,FR-V,"Mont De Lans",0,,,,,,,0,2009-03-14T19:33:36+00:00
+43354,FR-0014,heliport,"Centre Hospitalier Heliport",43.893333435058594,-0.48611098527908325,197,EU,FR,FR-B,"Mont De Marsan",0,,,,,,,0,2009-03-14T19:25:30+00:00
+43381,FR-0041,heliport,"Centre Hospitalier J. Bouveri Heliport",46.650001525878906,4.333889007568359,957,EU,FR,FR-D,"Montceau Les Mines",0,,,,,,,0,2009-03-14T19:26:23+00:00
+43622,FR-0280,small_airport,"Grand Terrus Airport",44.42277908325195,5.644166946411133,2871,EU,FR,FR-U,Montclus,0,,,,,,,0,2009-03-14T20:32:06+00:00
+43436,FR-0096,heliport,"Le Corum Heliport",43.613609313964844,3.8822219371795654,176,EU,FR,FR-K,Montpellier,0,,,,,,,0,2009-03-14T19:28:21+00:00
+43437,FR-0097,heliport,"Montpellier Chr Heliport",43.630001068115234,3.849721908569336,150,EU,FR,FR-K,Montpellier,0,,,,,,,0,2009-03-14T19:28:23+00:00
+322120,FR-0352,seaplane_base,"Base Hydro-ULM de Montrevel-en-Bresse",46.34499,5.142219,620,EU,FR,FR-V,Montrevel-en-Bresse,0,,,LF0159,,,,0,2017-02-12T06:01:52+00:00
+43369,FR-0029,heliport,"Centre Hospitalier Heliport",46.56666564941406,3.3333330154418945,686,EU,FR,FR-C,Moulins,0,,,,,,,0,2009-03-14T19:25:59+00:00
+43556,FR-0216,heliport,"Centre Hospitalier Heliport",45.483612060546875,6.535555839538574,1621,EU,FR,FR-V,Moutiers,0,,,,,,,0,2009-03-14T19:32:52+00:00
+43341,FR-0001,heliport,"Centre Hospitalier De Moenchsberg Heliport",47.725276947021484,7.34499979019165,1081,EU,FR,FR-A,Mulhouse,0,,,,,,,0,2009-03-14T19:25:04+00:00
+43449,FR-0109,heliport,"Brabois Centre Hospitalier Heliport",48.64472198486328,6.151389122009277,1335,EU,FR,FR-M,Nancy,0,,,,,,,0,2009-03-14T19:28:47+00:00
+43453,FR-0113,heliport,"Hôpital Central Heliport",48.685279846191406,6.192500114440918,749,EU,FR,FR-M,Nancy,0,,,,,,,0,2009-03-14T19:29:00+00:00
+43506,FR-0166,heliport,"Quai Moncousu Heliport",47.20897674560547,-1.5534069538116455,77,EU,FR,FR-R,Nantes,0,,,,,,,0,2009-03-14T19:30:54+00:00
+43439,FR-0099,heliport,"St Cressent Heliport",43.17361068725586,2.990833044052124,31,EU,FR,FR-K,Narbonne,0,,,,,,,0,2009-03-14T19:28:27+00:00
+43376,FR-0036,heliport,"Centre Hospitalier Heliport",46.981388092041016,3.1222219467163086,736,EU,FR,FR-D,Nevers,0,,,,,,,0,2009-03-14T19:26:13+00:00
+43534,FR-0194,heliport,"Hôpital L'Archet 2 Heliport",43.6974983215332,7.226110935211182,608,EU,FR,FR-U,Nice,0,,,,,,,0,2009-03-14T19:32:02+00:00
+43536,FR-0196,heliport,"Hôpital Lenval Heliport",43.68944549560547,7.241666793823242,115,EU,FR,FR-U,Nice,0,,,,,,,0,2009-03-14T19:32:07+00:00
+43519,FR-0179,heliport,"Centre Hospitalier Heliport",46.31611251831055,-0.45833298563957214,108,EU,FR,FR-T,Niort,0,,,,,,,0,2009-03-14T19:31:25+00:00
+43560,FR-0220,heliport,"Clinique Pneumologique des rieux Heliport",44.358055114746094,5.149722099304199,1035,EU,FR,FR-V,Nyons,0,,,,,,,0,2009-03-14T19:33:01+00:00
+43357,FR-0017,heliport,"Centre Hospitalier Heliport",43.19633865356445,-0.6160079836845398,758,EU,FR,FR-B,"Oloron Sainte Marie",0,,,,,,,0,2009-03-14T19:25:35+00:00
+43403,FR-0063,heliport,"La Source Heliport",47.834999084472656,1.918889045715332,355,EU,FR,FR-F,Orleans,0,,,,,,,0,2009-03-14T19:27:09+00:00
+43490,FR-0150,heliport,"Centrale Nucléaire Heliport",49.85359191894531,0.6312599778175354,305,EU,FR,FR-Q,Paluel,0,,,,,,,0,2009-03-14T19:30:20+00:00
+43378,FR-0038,heliport,"Centre Hospitalier Heliport",46.46500015258789,4.109722137451172,824,EU,FR,FR-D,"Paray Le Monial",0,,,,,,,0,2009-03-14T19:26:17+00:00
+43424,FR-0084,heliport,"Centre Hospitalier La Pitié Salpétrière Heliport",48.837223052978516,2.361388921737671,255,EU,FR,FR-J,Paris,0,,,,,,,0,2009-03-14T19:27:55+00:00
+43425,FR-0085,heliport,"Centre Hospitalier Lariboisière Heliport",48.88277816772461,2.3544440269470215,262,EU,FR,FR-J,Paris,0,,,,,,,0,2009-03-14T19:27:57+00:00
+43356,FR-0016,heliport,"Centre Hospitalier Heliport",43.32706069946289,-0.3298969864845276,709,EU,FR,FR-B,Pau,0,,,,,,,0,2009-03-14T19:25:34+00:00
+43491,FR-0151,heliport,"Centrale Nucléaire Heliport",49.97222137451172,1.2138890027999878,322,EU,FR,FR-Q,Penly,0,,,,,,,0,2009-03-14T19:30:22+00:00
+43355,FR-0015,heliport,"Centre Hospitalier Heliport",45.19175338745117,0.7315620183944702,502,EU,FR,FR-B,Perigueux,0,,,,,,,0,2009-03-14T19:25:32+00:00
+308847,FR-0319,heliport,"Hôtel La Coquillade Heliport",43.880125,5.319045,818,EU,FR,FR-U,Perrotet,0,,,,,,,0,2013-06-11T23:52:43+00:00
+43600,FR-0258,small_airport,"Col De Belledonne Airport",45.16666793823242,5.987500190734863,9186,EU,FR,FR-V,"Pic Croix de Belledonne",0,,,,,,,0,2009-03-14T20:31:16+00:00
+43420,FR-0080,heliport,"Centre Hospitalier Heliport",48.9177131652832,2.023252010345459,233,EU,FR,FR-J,Poissy,0,,,,,,,0,2009-03-14T19:27:47+00:00
+43515,FR-0175,heliport,"Centre Hospitalier De Poitiers Heliport",46.56055450439453,0.38277798891067505,400,EU,FR,FR-T,Poitiers,0,,,,,,,0,2009-03-14T19:31:14+00:00
+43417,FR-0077,heliport,"Centre Hospitalier Heliport",46.90055465698242,6.359722137451172,2766,EU,FR,FR-I,Pontarlier,0,,,,,,,0,2009-03-14T19:27:41+00:00
+43426,FR-0086,heliport,"Centre Hospitalier René Dubos Heliport",49.066871643066406,2.096982002258301,266,EU,FR,FR-J,Pontoise,0,,,,,,,0,2009-03-14T19:27:59+00:00
+43505,FR-0165,heliport,"Ile D'Yeu Port Joinville Heliport",46.7282257,-2.35029888,10,EU,FR,FR-R,"Port Joinville (Ile D'Yeu)",0,,,,,,,0,2015-11-22T07:39:58+00:00
+43599,FR-0257,small_airport,"Clos De Legua Airport",42.65416717529297,2.038888931274414,7874,EU,FR,FR-K,Puyvalador,0,,,,,,,0,2009-03-14T20:31:14+00:00
+43603,FR-0261,small_airport,"Col De La Marrano Airport",42.662498474121094,2.1666669845581055,6562,EU,FR,FR-K,Puyvalador,0,,,,,,,0,2009-03-14T20:31:23+00:00
+43392,FR-0052,heliport,"Cornouailles Heliport",47.98527526855469,-4.096109867095947,177,EU,FR,FR-E,Quimper,0,,,,,,,0,2009-03-14T19:26:46+00:00
+43467,FR-0127,heliport,"Centre Hospitalier Heliport",50.41444396972656,1.6630560159683228,152,EU,FR,FR-O,"Rang Du Fliers",0,,,,,,,0,2009-03-14T19:29:29+00:00
+43409,FR-0069,heliport,"Centre Hospitalier Régional Heliport",49.225833892822266,4.018610954284668,339,EU,FR,FR-G,Reims,0,,,,,,,0,2009-03-14T19:27:21+00:00
+43413,FR-0073,heliport,"Laboratoires Boehringer Heliport",49.275245666503906,4.0112810134887695,253,EU,FR,FR-G,Reims,0,,,,,,,0,2009-03-14T19:27:29+00:00
+43395,FR-0055,heliport,"Pont Chaillou Heliport",48.12305450439453,-1.6961109638214111,148,EU,FR,FR-E,Rennes,0,,,,,,,0,2009-03-14T19:26:52+00:00
+43462,FR-0122,heliport,"Renneville Heliport",43.3738899230957,1.7255560159683228,623,EU,FR,FR-N,Renneville,0,,,,,,,0,2009-03-14T19:29:18+00:00
+320249,FR-0343,closed,"Rocroi RCAF Air Base",49.9154166,4.4266285,,EU,FR,FR-G,Rocroi,0,,,,,,,0,2016-09-12T05:58:35+00:00
+43459,FR-0119,heliport,"Centre Hospitalier Heliport",44.358890533447266,2.5519440174102783,1951,EU,FR,FR-N,"Rodez Bourran",0,,,,,,,0,2009-03-14T19:29:12+00:00
+43548,FR-0208,heliport,"Centre Hospitalier Heliport",45.04194259643555,5.021944046020508,526,EU,FR,FR-V,Romans,0,,,,,,,0,2009-03-14T19:32:34+00:00
+43397,FR-0057,heliport,"Centre Hospitalier Heliport",47.360557556152344,1.731943964958191,293,EU,FR,FR-F,Romorantin,0,,,,,,,0,2009-03-14T19:26:56+00:00
+43591,FR-0249,closed,"Balesta Nature Airport",43.153646,0.995063,1394,EU,FR,FR-N,Roquefort-sur-Garonne,0,,,LF3153,,,,0,2018-02-16T04:23:44+00:00
+43493,FR-0153,heliport,"Centre Hospitalier Heliport",49.44060134887695,1.111109972000122,145,EU,FR,FR-Q,Rouen,0,,,,,,,0,2009-08-28T21:35:13+00:00
+43495,FR-0155,heliport,"Grand Couronne Heliport",49.3502311706543,0.9805819988250732,16,EU,FR,FR-Q,Rouen,0,,,,,,,0,2009-03-14T19:30:30+00:00
+43517,FR-0177,heliport,"Centre Hospitalier Heliport",45.633331298828125,-1.0608329772949219,30,EU,FR,FR-T,Royan,0,,,,,,,0,2009-03-14T19:31:19+00:00
+43624,FR-0282,small_airport,"Hippopotame Airport",42.477779388427734,2.0472218990325928,4921,EU,FR,FR-K,Saillagouse,0,,,,,,,0,2009-03-14T20:32:11+00:00
+43553,FR-0213,heliport,"Centre Hospitalier Heliport",45.476112365722656,4.5155558586120605,1249,EU,FR,FR-V,"Saint Chamond",0,,,,,,,0,2009-03-14T19:32:45+00:00
+43606,FR-0264,closed,"Altiport de Col Saint Jean",44.413891,6.373056,6201,EU,FR,FR-U,"Saint Jean",0,,,,,,,0,2019-01-21T01:16:44+00:00
+43559,FR-0219,heliport,"Château De Pézay Heliport",46.13694381713867,4.701666831970215,764,EU,FR,FR-V,"Saint Jean D'Ardieres",0,,,,,,,0,2009-03-14T19:32:59+00:00
+43448,FR-0108,heliport,"Chateau De Saint Maixant Heliport",45.99361038208008,2.2088890075683594,26,EU,FR,FR-L,"Saint Maixant",0,,,,,,,0,2009-03-14T19:28:45+00:00
+43523,FR-0183,small_airport,"[Duplicate] CCMAR Mediterranee",43.082699,5.933806,18,EU,FR,FR-U,"Saint Mandrier Sur Mer",0,,,,,,,0,2016-08-22T05:57:10+00:00
+43471,FR-0131,heliport,"Polyclinique Du Ternois Heliport",50.38833236694336,2.336944103240967,417,EU,FR,FR-O,"Saint Pol Sur Ternoise",0,,,,,,,0,2009-03-14T19:29:38+00:00
+322006,FR-0349,small_airport,"Aérodrome de Saint-Aubin La Plaine",46.515876,-1.051669,,EU,FR,FR-R,"Saint-Aubin La Plaine",0,,,LF8571,,,,0,2017-05-03T12:41:01+00:00
+43451,FR-0111,heliport,"Centre Hospitalier Heliport",49.112220764160156,6.7216668128967285,854,EU,FR,FR-M,Saint-Avold,0,,,,,,,0,2009-03-14T19:28:52+00:00
+43390,FR-0050,heliport,"Centre Hospitalier Heliport",48.4908332824707,-2.7511110305786133,354,EU,FR,FR-E,Saint-Brieuc,0,,,,,,,0,2009-03-14T19:26:41+00:00
+43407,FR-0067,heliport,"Centre Hospitalier Heliport",48.63166809082031,4.949443817138672,460,EU,FR,FR-G,Saint-Dizier,0,,,,,,,0,2009-03-14T19:27:17+00:00
+43566,FR-0226,heliport,"Hôpital Bellevue Heliport",45.4113883972168,4.391666889190674,1952,EU,FR,FR-V,Saint-Etienne,0,,,,,,,0,2009-03-14T19:33:15+00:00
+43577,FR-0237,heliport,"Malacussy Heliport",45.42416763305664,4.371388912200928,2148,EU,FR,FR-V,Saint-Etienne,0,,,,,,,0,2009-03-14T19:33:40+00:00
+43446,FR-0106,heliport,"Centre Médical Heliport",46.133331298828125,1.8833329677581787,1542,EU,FR,FR-L,Saint-Feyre,0,,,,,,,0,2009-03-14T19:28:41+00:00
+326393,FR-0369,seaplane_base,"Base Hydro-ULM La Salanque Latécoère",42.81667,3,,EU,FR,FR-U-A,Saint-Laurent-de-la-Salanque,0,,,LF6659,,,,0,2018-02-12T08:41:12+00:00
+43486,FR-0146,heliport,"Hôpital de Saint-Lo Heliport",49.10527801513672,-1.1061110496520996,131,EU,FR,FR-P,Saint-Lo,0,,,,,,,0,2009-03-14T19:30:11+00:00
+43411,FR-0071,heliport,"Hôtel Florotel Heliport",48.724998474121094,3.8333330154418945,341,EU,FR,FR-G,Saint-Loup,0,,,,,,,0,2009-03-14T19:27:25+00:00
+43388,FR-0048,heliport,"Centre Hospitalier Heliport",48.63888931274414,-2.0083329677581787,26,EU,FR,FR-E,Saint-Malo,0,,,,,,,0,2009-03-14T19:26:37+00:00
+43602,FR-0260,closed,"Col De La Fenetre Altiport",45.351391,6.488889,7251,EU,FR,FR-V,Saint-Martin-de-Belleville,0,,,,,,,0,2019-01-21T01:17:42+00:00
+43500,FR-0160,heliport,"Centre Hospitalier Heliport",47.27583312988281,-2.2366669178009033,62,EU,FR,FR-R,Saint-Nazaire,0,,,,,,,0,2009-03-14T19:30:41+00:00
+43468,FR-0128,heliport,"Centre Hospitalier Heliport",50.703609466552734,2.2547221183776855,276,EU,FR,FR-O,Saint-Omer,0,,,,,,,0,2009-03-14T19:29:31+00:00
+43431,FR-0091,heliport,"Saint-Ouen L'Aumone Heliport",49.057777404785156,2.1447219848632812,135,EU,FR,FR-J,"Saint-Ouen L'Aumone",0,,,,,,,0,2009-03-14T19:28:10+00:00
+43440,FR-0100,heliport,"Centre Hospitalier La Perche Heliport",45.516387939453125,1.20305597782135,1178,EU,FR,FR-L,Saint-Yrieix,0,,,,,,,0,2009-03-14T19:28:29+00:00
+43516,FR-0176,heliport,"Centre Hospitalier de Saintongues Heliport",45.747779846191406,-0.6549999713897705,135,EU,FR,FR-T,Saintes,0,,,,,,,0,2009-03-14T19:31:17+00:00
+43557,FR-0217,heliport,"Centre Hospitalier Heliport",45.934722900390625,6.641666889190674,1791,EU,FR,FR-V,Sallanches,0,,,,,,,0,2009-03-14T19:32:54+00:00
+43497,FR-0157,heliport,"Usine Renault Heliport",49.47666549682617,0.30250000953674316,17,EU,FR,FR-Q,Sandouville,0,,,,,,,0,2009-03-14T19:30:34+00:00
+43362,FR-0022,heliport,"La Canéda Centre Hospitalier Heliport",44.90024948120117,1.2231240272521973,656,EU,FR,FR-B,Sarlat,0,,,,,,,0,2009-03-14T19:25:45+00:00
+43502,FR-0162,heliport,"Centre Hospitalier Heliport",47.24555587768555,-0.05944399908185005,272,EU,FR,FR-R,Saumur,0,,,,,,,0,2009-03-14T19:30:45+00:00
+43345,FR-0005,heliport,"Centre Hospitalier Sainte Catherine Heliport",48.74555587768555,7.351110935211182,672,EU,FR,FR-A,Saverne,0,,,,,,,0,2009-03-14T19:25:12+00:00
+43379,FR-0039,heliport,"Centre Hospitalier Heliport",47.49555587768555,4.3444437980651855,957,EU,FR,FR-D,Semur-En-Auxois,0,,,,,,,0,2009-03-14T19:26:19+00:00
+43371,FR-0031,heliport,"Centre De Secours Principal Heliport",48.19194412231445,3.306389093399048,266,EU,FR,FR-D,Sens,0,,,,,,,0,2009-03-14T19:26:03+00:00
+43629,FR-0287,small_airport,"La Plagne Bouirex Airport",42.866668701171875,1.1383329629898071,5249,EU,FR,FR-N,Sentenac-d'Oust,0,,,,,,,0,2009-03-14T20:32:23+00:00
+43510,FR-0170,heliport,"Centre Hospitalier Heliport",49.369998931884766,3.335278034210205,172,EU,FR,FR-S,Soissons,0,,,,,,,0,2009-03-14T19:31:03+00:00
+326072,FR-0363,closed,Soustons,43.7132299,-1.305385,,EU,FR,FR-B,Soustons,0,,,LF4021,,,,0,2018-01-07T02:52:49+00:00
+43616,FR-0274,small_airport,"Glacier De L'etendard Airport",45.162498474121094,6.1666669845581055,9514,EU,FR,FR-V,"St Sorlin D'Arves",0,,,,,,,0,2009-03-14T20:31:52+00:00
+43643,FR-0301,small_airport,"Pointe De Louillon Airport",45.241668701171875,6.216667175292969,7808,EU,FR,FR-V,"St Sorlin D'Arves",0,,,,,,,0,2009-03-14T20:32:56+00:00
+43342,FR-0002,heliport,"Centre Hospitalier Hautepierre Heliport",48.59333419799805,7.704999923706055,487,EU,FR,FR-A,Strasbourg,0,,,,,,,0,2009-03-14T19:25:06+00:00
+43348,FR-0008,heliport,"N.H.C Heliport",48.57583236694336,7.740555763244629,540,EU,FR,FR-A,Strasbourg,0,,,,,,,0,2009-03-14T19:25:18+00:00
+43647,FR-0305,small_airport,"Thorame--Haute Chamatte Airport",44.13972091674805,6.548333168029785,6827,EU,FR,FR-U,Thorame-Haute,0,,,,,,,0,2009-03-14T20:33:06+00:00
+43649,FR-0306,small_airport,"Thorame--Haute Les Serres Airport",44.12305450439453,6.559999942779541,6129,EU,FR,FR-U,Thorame-Haute,0,,,,,,,0,2009-03-14T20:33:09+00:00
+43650,FR-0307,small_airport,"Thorame--Haute Les Serres Airport",44.1150016784668,6.538610935211182,6398,EU,FR,FR-U,Thorame-Haute,0,,,,,,,0,2009-03-14T20:33:11+00:00
+43615,FR-0273,small_airport,"Glacier De La Grande Motte Airport",45.42499923706055,6.894443988800049,9564,EU,FR,FR-V,Tignes,0,,,,,,,0,2009-03-14T20:31:50+00:00
+43635,FR-0293,small_airport,"La Toviere Airport",45.46555709838867,6.934721946716309,7349,EU,FR,FR-V,Tignes,0,,,,,,,0,2009-03-14T20:32:37+00:00
+43656,FR-0313,small_airport,"Vers Le Col Du Palet Airport",45.450557708740234,6.883333206176758,8005,EU,FR,FR-V,Tignes,0,,,,,,,0,2009-03-14T20:33:25+00:00
+43537,FR-0197,heliport,"Milhaud Heliport",43.11333465576172,5.8980560302734375,3,EU,FR,FR-U,Toulon,0,,,,,,,0,2009-03-14T19:32:09+00:00
+43544,FR-0204,heliport,"Toulon Sainte Anne Heliport",43.133331298828125,5.929999828338623,226,EU,FR,FR-U,"Toulon Sainte Anne",0,,,,,,,0,2009-03-14T19:32:25+00:00
+43463,FR-0123,heliport,"Toulouse Rangueil Pech David Heliport",43.5613899230957,1.4486110210418701,793,EU,FR,FR-N,"Toulouse Rangueil Pech David",0,,,,,,,0,2009-03-14T19:29:20+00:00
+43461,FR-0121,heliport,"Centre Hospitalier Régional Heliport",43.61305618286133,1.399999976158142,531,EU,FR,FR-N,Toulouse-Purpan,0,,,,,,,0,2009-03-14T19:29:16+00:00
+43404,FR-0064,heliport,"Trousseau Chu Heliport",47.3488883972168,0.7091670036315918,274,EU,FR,FR-F,Tours,0,,,,,,,0,2009-03-14T19:27:11+00:00
+43432,FR-0092,heliport,"Toussus Le Noble Heliport",48.749610900878906,2.1040709018707275,538,EU,FR,FR-J,"Toussus Le Noble",0,,,,,,,0,2009-03-14T19:28:12+00:00
+322153,FR-0355,small_airport,"Troye d'Ariège ULM",43.0200429348,1.8775087595,1377,EU,FR,FR-N,"Troye d'Ariège",0,,,LF0927,https://partagair.jimdo.com/,,,0,2017-02-13T08:10:02+00:00
+43373,FR-0033,heliport,"Centre Hospitalier Heliport",47.25,4.066667079925537,407,EU,FR,FR-D,Troyes,0,,,,,,,0,2009-03-14T19:26:07+00:00
+43442,FR-0102,heliport,"Centre Hospitalier Heliport",45.266666412353516,1.7666670083999634,794,EU,FR,FR-L,Tulle,0,,,,,,,0,2009-03-14T19:28:33+00:00
+43445,FR-0105,heliport,"Centre Hospitalier Heliport",45.54277801513672,2.3122220039367676,2148,EU,FR,FR-L,Ussel,0,,,,,,,0,2009-03-14T19:28:39+00:00
+43585,FR-0245,heliport,"Tête De Solaise Heliport",45.432777404785156,6.991666793823242,8366,EU,FR,FR-V,"Val D'Isere",0,,,,,,,0,2009-03-14T19:33:59+00:00
+43652,FR-0309,small_airport,"Val Thorens Alti Airport",45.281944274902344,6.573610782623291,8022,EU,FR,FR-V,"Val Thorens",0,,,,,,,0,2009-03-14T20:33:15+00:00
+43543,FR-0203,heliport,"Sophia Antépolis Heliport",43.622779846191406,7.0283331871032715,772,EU,FR,FR-U,Valbonne,0,,,,,,,0,2009-03-14T19:32:23+00:00
+43372,FR-0032,heliport,"Centre d'Etude du C.E.A. Heliport",47.58333206176758,4.900000095367432,1611,EU,FR,FR-D,Valduc,0,,,,,,,0,2009-03-14T19:26:05+00:00
+43547,FR-0207,heliport,"Centre Hospitalier Heliport",44.91444396972656,4.904167175292969,486,EU,FR,FR-V,Valence,0,,,,,,,0,2009-03-14T19:32:32+00:00
+43653,FR-0310,small_airport,"Valloire Bonnenuit Airport",45.12111282348633,6.4194440841674805,5512,EU,FR,FR-V,Valloire,0,,,,,,,0,2009-03-14T20:33:18+00:00
+43654,FR-0311,small_airport,"Valmorel Airport",45.44166564941406,6.418056011199951,6332,EU,FR,FR-V,"Valmorel ",0,,,,,,,0,2009-03-14T20:33:20+00:00
+43391,FR-0051,heliport,"Chubert Centre Hospitalier Heliport",47.66611099243164,-2.7472219467163086,33,EU,FR,FR-E,Vannes,0,,,,,,,0,2009-03-14T19:26:43+00:00
+43578,FR-0238,heliport,"Quartier-Reynies Heliport",45.099998474121094,5.683332920074463,722,EU,FR,FR-V,Varces,0,,,,,,,0,2009-03-14T19:33:43+00:00
+43447,FR-0107,heliport,"Château Castel Novel Heliport",45.18333435058594,1.4500000476837158,344,EU,FR,FR-L,Varetz,0,,,,,,,0,2009-03-14T19:28:43+00:00
+43613,FR-0271,small_airport,"Glacier De La Barbaratre Airport",45.16055679321289,6.138888835906982,9869,EU,FR,FR-V,Vaujany,0,,,,,,,0,2009-03-14T20:31:46+00:00
+43489,FR-0149,heliport,"Center Parc Heliport",48.724998474121094,0.8361110091209412,643,EU,FR,FR-Q,Verneuil,0,,,,,,,0,2009-03-14T19:30:17+00:00
+43492,FR-0152,heliport,"Centre Hospitalier de Verneuil Heliport",48.74444580078125,0.8916670083999634,597,EU,FR,FR-Q,"Verneuil Sur Avre",0,,,,,,,0,2009-03-14T19:30:24+00:00
+43550,FR-0210,heliport,"Centre Hospitalier Heliport",46.00555419921875,4.693056106567383,765,EU,FR,FR-V,Villefranche,0,,,,,,,0,2009-03-14T19:32:39+00:00
+43412,FR-0072,heliport,"Hôtellerie La Briquetterie Heliport",49.025001525878906,3.9069440364837646,328,EU,FR,FR-G,Vinay,0,,,,,,,0,2009-03-14T19:27:27+00:00
+43406,FR-0066,heliport,"Centre Hospitalier Heliport",48.71666717529297,4.6019439697265625,359,EU,FR,FR-G,Vitry-Le-Francois,0,,,,,,,0,2009-03-14T19:27:15+00:00
+43571,FR-0231,heliport,"Hôtel Georges Blanc Heliport",46.22083282470703,4.988889217376709,653,EU,FR,FR-V,Vonnas,0,,,,,,,0,2009-03-14T19:33:27+00:00
+320617,FR-0345,closed,"Vouziers-Séchault Air Base",49.2768694,4.7554409,,EU,FR,FR-G,Vouziers,0,,,,,,,0,2016-10-02T09:14:53+00:00
+328712,LFYV,small_airport,"Yvetot-Baons Le Comte Airfield",49.638411,0.730337,467,EU,FR,FR-Q,Yvetot,0,LFYV,,,http://www.aeroclub-yvetot.fr/,,,0,2018-07-10T05:02:11+00:00

@@ -1,0 +1,125 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+6056,SEGU,medium_airport,"José Joaquín de Olmedo International Airport",-2.1574199199699997,-79.88359832760001,19,SA,EC,EC-G,Guayaquil,1,SEGU,GYE,,,http://en.wikipedia.org/wiki/Jos%C3%A9_Joaqu%C3%ADn_de_Olmedo_International_Airport,"Simon Bolivar International Airport",1050,2014-10-02T21:31:39+00:00
+308273,SEQM,large_airport,"Mariscal Sucre International Airport",-0.129166666667,-78.3575,7841,SA,EC,EC-P,Quito,1,SEQM,UIO,UIO,,http://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport,"Nuevo Aeropuerto Internacional Mariscal Sucre",0,2015-04-19T17:23:24+00:00
+6073,SEQU,closed,"Mariscal Sucre International Airport",-0.141144007444,-78.4881973267,9228,SA,EC,EC-P,Quito,1,SEQU,,,http://www.aeropuertoquito.aero/,http://en.wikipedia.org/wiki/Old_Mariscal_Sucre_International_Airport,"Quito, Ecuador, Dangerous, Closed, Mountains, Volcano, America, Middle of the world",475,2013-02-25T20:00:36+00:00
+6055,SEGS,small_airport,"Seymour Airport",-0.45375800132751465,-90.26589965820312,207,SA,EC,EC-W,Baltra,1,SEGS,GPS,,,,,450,2008-08-08T17:18:26+00:00
+6054,SECU,medium_airport,"Mariscal Lamar Airport",-2.88947,-78.984398,8306,SA,EC,EC-A,Cuenca,1,SECU,CUE,,,https://en.wikipedia.org/wiki/Mariscal_Lamar_International_Airport,,925,2018-09-16T04:08:13+00:00
+6079,SEST,small_airport,"San Cristóbal Airport",-0.910206,-89.617401,62,SA,EC,EC-W,"San Cristóbal",1,SEST,SCY,,,https://en.wikipedia.org/wiki/San_Cristóbal_Airport,,450,2018-09-16T04:06:21+00:00
+6066,SEMT,medium_airport,"Eloy Alfaro International Airport",-0.9460780024528503,-80.67880249023438,48,SA,EC,EC-M,Manta,1,SEMT,MEC,,,http://en.wikipedia.org/wiki/Manta_Air_Base,,1050,2008-06-13T14:30:04+00:00
+6061,SELT,large_airport,"Cotopaxi International Airport",-0.906833,-78.615799,9205,SA,EC,EC-X,Latacunga,1,SELT,LTX,,,https://en.wikipedia.org/wiki/Cotopaxi_International_Airport,"Latacunga, Vulcano, Ecuador, Cargo, Long runway, Height",400,2018-09-13T12:55:51+00:00
+6053,SECO,medium_airport,"Francisco De Orellana Airport",-0.4628860056400299,-76.98680114746094,834,SA,EC,EC-D,Coca,1,SECO,OCC,,,,,800,2008-08-08T17:17:45+00:00
+6084,SETN,small_airport,"General Rivadeneira Airport",0.9785190224647522,-79.62660217285156,32,SA,EC,EC-E,Tachina,1,SETN,ESM,,,,,450,2008-08-08T17:17:47+00:00
+41131,SEII,small_airport,"General Villamil Airport",-0.942628026009,-90.9530029297,35,SA,EC,EC-W,Isabela,1,SEII,IBB,,,,,50,2012-03-17T15:32:58+00:00
+309411,TNW,medium_airport,"Jumandy Airport",-1.059722,-77.583333,1234,SA,EC,EC-N,Tena,0,SEJD,TNW,,http://www.dgac.gob.ec/tena/,https://en.wikipedia.org/wiki/Jumandy_Airport,,0,2018-04-26T06:06:59+00:00
+6063,SEMC,medium_airport,"Coronel E Carvajal Airport",-2.2991700172424316,-78.12079620361328,3452,SA,EC,EC-S,Macas,1,SEMC,XMS,,,http://en.wikipedia.org/wiki/Macas_Airport,,800,2008-08-08T17:18:24+00:00
+6086,SETU,medium_airport,"Teniente Coronel Luis a Mantilla Airport",0.8095059990882874,-77.70809936523438,9649,SA,EC,EC-C,Tulcán,1,SETU,TUA,,,http://en.wikipedia.org/wiki/Teniente_Coronel_Luis_a_Mantilla_International_Airport,,800,2008-08-08T17:17:43+00:00
+6083,SETM,small_airport,"Camilo Ponce Enriquez Airport",-3.99589,-79.371902,4056,SA,EC,EC-L,"La Toma (Catamayo)",1,SETM,LOH,,,https://en.wikipedia.org/wiki/Ciudad_de_Catamayo_Airport,,450,2018-09-14T02:34:46+00:00
+6076,SESA,medium_airport,"General Ulpiano Paez Airport",-2.20499,-80.988899,18,SA,EC,EC-G,Salinas,0,SESA,SNC,,,https://en.wikipedia.org/wiki/General_Ulpiano_Paez_Airport,,325,2016-09-29T16:28:13+00:00
+6051,SEAM,medium_airport,"Chachoán Airport",-1.2120699882507324,-78.57460021972656,8502,SA,EC,EC-T,Ambato,0,SEAM,ATF,,,,,250,2008-08-08T17:18:24+00:00
+6062,SEMA,medium_airport,"Jose Maria Velasco Ibarra Airport",-4.37823009491,-79.94100189210002,1508,SA,EC,EC-L,Macará,0,SEMA,MRR,,,http://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Velasco_Ibarra_Airport,,250,2010-01-21T13:45:14+00:00
+6064,SEMH,medium_airport,"General Manuel Serrano Airport",-3.2689,-79.961601,11,SA,EC,EC-O,Machala,0,SEMH,MCH,,,http://en.wikipedia.org/wiki/General_Manuel_Serrano_Airport,,250,2016-03-02T16:41:26+00:00
+6071,SEPV,medium_airport,"Reales Tamarindos Airport",-1.0416500568389893,-80.47219848632812,130,SA,EC,EC-M,Portoviejo,0,SEPV,PVO,,,,,250,2008-08-08T17:18:15+00:00
+6085,SETR,medium_airport,"Tarapoa Airport",-0.12295600026845932,-76.33779907226562,814,SA,EC,EC-U,Tarapoa,0,SETR,TPC,,,,,250,2008-08-08T17:18:26+00:00
+41105,SEIS,small_airport,"Isabel Maria Airport",-1.86667001247406,-79.7332992553711,20,SA,EC,EC-G,América,0,SEIS,,,,,,50,2008-08-08T17:17:55+00:00
+41132,SEAR,small_airport,"Arajuno Airport",-1.2357300519943237,-77.6854019165039,1700,SA,EC,EC-Y,Arajuno,0,SEAR,,,,,,50,2008-08-08T17:18:28+00:00
+41123,SEAS,small_airport,"Ascazubi Airport",-0.08333329856395721,-78.28333282470703,9517,SA,EC,EC-P,Ascazubi,0,SEAS,,,,,,50,2008-08-08T17:18:19+00:00
+41124,SE13,small_airport,"Babahoyo North Airport",-1.7033530473709106,-79.53804779052734,29,SA,EC,EC-R,Babahoyo,0,SE13,,SE13,,,,50,2008-08-08T17:18:20+00:00
+6080,SESV,small_airport,"Los Perales Airport",-0.6081110239028931,-80.40270233154297,10,SA,EC,EC-M,"Bahía de Caraquez",0,SESV,BHA,,,,,50,2008-08-08T17:18:15+00:00
+41110,SETG,small_airport,"Tenguel Airport",-2.9986000061035156,-79.7947006225586,33,SA,EC,EC-G,"Boca de Tenguel",0,SETG,,,,,,50,2008-08-08T17:18:02+00:00
+41126,SEBF,small_airport,"Buena Fe Airport",-0.8981379866600037,-79.48554229736328,320,SA,EC,EC-R,"Buena Fe",0,SEBF,,,,,,50,2008-08-08T17:18:22+00:00
+2178,SE58,small_airport,"Banasur Airport",-3.340939998626709,-79.86380004882812,30,SA,EC,EC-O,Buenavista,0,SE58,,SE58,,,,50,2008-08-08T17:18:18+00:00
+41595,EC-0001,small_airport,"Carabon Airport",-3.6285500526428223,-80.18779754638672,126,SA,EC,EC-O,Carabon,0,,,,,,,50,2008-08-27T07:58:14+00:00
+41116,SECH,small_airport,"Chone Airport",-0.6951010227203369,-80.0886001586914,51,SA,EC,EC-M,Chone,0,SECH,,,,,,50,2008-08-08T17:18:08+00:00
+41117,SECQ,small_airport,"Coaque Airport",0.0000009999999974752427,-80.0999984741211,131,SA,EC,EC-M,Coaque,0,SECQ,,,,,,50,2008-08-08T17:18:09+00:00
+2176,SE11,small_airport,"Km 60 Airport",-0.536666989326477,-79.368896484375,1640,SA,EC,EC-P,Consumulo,0,SE11,,SE11,,,,50,2008-08-08T17:18:18+00:00
+41112,SEHI,small_airport,"Cotachachi Airport",-0.3029400110244751,-78.26830291748047,7824,SA,EC,EC-I,Cotacachi,0,SEHI,,,,,,50,2008-08-08T17:18:04+00:00
+41133,SECR,small_airport,"Curaray Airport",-1.384465,-76.938944,832,SA,EC,EC-Y,Curacay,0,SECR,,,,,,50,2017-06-12T10:02:23+00:00
+2179,SE59,small_airport,"La Mina Airport",-3.2029199600219727,-79.79820251464844,13,SA,EC,EC-O,"El Guabo",0,SE59,,SE59,,,,50,2008-08-08T17:18:18+00:00
+41111,SEVR,small_airport,"El Vergel Airport",-1.75,-78.61666870117188,9002,SA,EC,EC-H,"El Vergel",0,SEVR,,,,,,50,2008-08-08T17:18:03+00:00
+41118,SEGE,small_airport,"Guale Airport",-1.61667001247406,-80.2332992553711,222,SA,EC,EC-M,Guale,0,SEGE,,,,,,50,2008-08-08T17:18:10+00:00
+41109,SEPX,small_airport,"Payo Airport",-2.309999942779541,-79.45999908447266,101,SA,EC,EC-G,"Hacienda Payo",0,SEPX,,,,,,50,2008-08-08T17:17:59+00:00
+6058,SEIB,small_airport,"Atahualpa Airport",0.33841899037361145,-78.13639831542969,7304,SA,EC,EC-I,Ibarra,0,SEIB,,,,,,50,2008-08-08T17:18:04+00:00
+2172,SE03,small_airport,"Las Penas Airport",-2.947160005569458,-80.10070037841797,3,SA,EC,EC-G,"Isla Puna",0,SE03,,SE03,,,,50,2008-08-08T17:17:47+00:00
+41120,SEJM,small_airport,"Jama Airport",-0.20149700343608856,-80.2654037475586,37,SA,EC,EC-M,Jama,0,SEJM,,,,,,50,2008-08-08T17:18:12+00:00
+41119,SEJI,small_airport,"Jipijapa Airport",-1,-80.66666412353516,223,SA,EC,EC-M,Jipijapa,0,SEJI,JIP,,,,,50,2008-08-08T17:18:11+00:00
+41102,SE14,small_airport,"San Carlos Airport",-2.1665520668029785,-79.43370056152344,126,SA,EC,EC-G,"José Real",0,SE14,,SE14,,,,50,2008-08-08T17:17:51+00:00
+6060,SELJ,small_airport,"Hacienda La Julia Airport",-1.7043800354003906,-79.55229949951172,50,SA,EC,EC-R,Julia,0,SELJ,,,,,,50,2008-08-08T17:18:22+00:00
+2180,SE60,small_airport,"La Puntilla Airport",-2.442850112915039,-79.3989028930664,45,SA,EC,EC-F,"La Puntilla",0,SE60,,SE60,,,,50,2008-08-08T17:17:47+00:00
+6059,SEKK,small_airport,"Km 192 Airport",0.18420299887657166,-79.39199829101562,1247,SA,EC,EC-E,Lagartera,0,SEKK,,,,,,50,2008-08-08T17:17:47+00:00
+32277,SENL,small_airport,"Nueva Loja Airport",0.0930560007691,-76.86750030520001,980,SA,EC,EC-U,"Lago Agrio",0,SENL,LGQ,,,http://en.wikipedia.org/wiki/Lago_Agrio_Airport,"SELA, Lago Agrio,",50,2010-01-21T13:47:14+00:00
+41129,SELI,small_airport,"Limoncocha Airport",-0.40636301040649414,-76.6238021850586,820,SA,EC,EC-U,Limoncocha,0,SELI,,,,,,50,2008-08-08T17:18:25+00:00
+41113,SE16,small_airport,"Loja Airport",-3.8814239501953125,-79.23474884033203,7684,SA,EC,EC-L,Loja,0,SE16,,SE16,,,,50,2008-08-08T17:18:05+00:00
+32278,SELM,small_airport,"Loma Larga Airport",-1.501579999923706,-79.48090362548828,210,SA,EC,EC-R,"Loma Larga",0,SELM,,,,,,50,2008-08-03T11:48:55+00:00
+2173,SE08,small_airport,"San Carlos Costa Airport",-2.054719924926758,-79.43309783935547,21,SA,EC,EC-G,"Lorenzo de Garaicoa",0,SE08,,SE08,,,,50,2008-08-08T17:17:49+00:00
+32281,SEPZ,small_airport,"Los Perez Airport",-0.9537220001220703,-79.37519836425781,75,SA,EC,EC-R,"Los Perez",0,SEPZ,,,,,,50,2008-08-03T11:48:58+00:00
+32279,SEMY,small_airport,"Martinica Airport",-1.7397199869155884,-79.62149810791016,90,SA,EC,EC-R,Martinica,0,SEMY,,,,,,50,2008-08-03T11:48:57+00:00
+6065,SEMO,small_airport,"El Carmen Airport",-2.067009925842285,-76.97570037841797,960,SA,EC,EC-Y,Montalvo,0,SEMO,,,,,,50,2008-08-08T17:18:29+00:00
+2177,SE22,small_airport,"Celia Maria Airport",-3.279330015182495,-79.8009033203125,110,SA,EC,EC-O,Pasaje,0,SE22,,SE22,,,,50,2008-08-08T17:18:18+00:00
+6070,SEPS,small_airport,"Amable Calle Gutierrez Airport",-3.3196699619293213,-79.76920318603516,22,SA,EC,EC-O,Pasaje,0,SEPS,,,,,,50,2008-08-08T17:18:18+00:00
+6069,SEPC,small_airport,"Patuca Airport",-2.7517199516296387,-78.26360321044922,1781,SA,EC,EC-S,Patuca,0,SEPC,,,,,,50,2008-08-08T17:18:24+00:00
+41106,SEPB,small_airport,"Pedro Carbo Airport",-1.8115930557250977,-80.23246002197266,321,SA,EC,EC-G,"Pecro Carbo",0,SEPB,,,,,,50,2008-08-08T17:17:56+00:00
+41121,SEPD,small_airport,"Pedernales Airport",0.06761900335550308,-80.05049896240234,60,SA,EC,EC-M,Pedernales,0,SEPD,,,,,,50,2008-08-08T17:18:15+00:00
+41107,SEPO,small_airport,"Posorja Airport",-2.682029962539673,-80.27559661865234,30,SA,EC,EC-G,Posorja,0,SEPO,,,,,,50,2008-08-08T17:17:57+00:00
+6052,SECM,small_airport,"Hacienda Clementina Airport",-1.7062699794769287,-79.37889862060547,328,SA,EC,EC-R,Pozuelos,0,SECM,,,,,,50,2008-08-08T17:18:22+00:00
+6067,SEMX,small_airport,"Maragrosa Airport",-2.851099967956543,-79.80359649658203,18,SA,EC,EC-G,"Puerto Balao",0,SEMX,,,,,,50,2008-08-08T17:17:55+00:00
+41130,SEPT,small_airport,"Putumayo Airport",0.115949,-75.85022,733,SA,EC,EC-U,"Puerto Putumayo",0,SEPT,PYO,,,,,50,2017-06-23T10:22:24+00:00
+41108,SEPU,small_airport,"Puna Airport",-2.733680009841919,-79.91529846191406,3,SA,EC,EC-G,Puna,0,SEPU,,,,,,50,2008-08-08T17:17:58+00:00
+6072,SEQE,small_airport,"Quevedo Airport",-0.9894000291824341,-79.46510314941406,350,SA,EC,EC-R,Quevedo,0,SEQE,,,,,,50,2008-08-08T17:18:22+00:00
+41125,SE15,small_airport,"Quevedo North Airport",-0.9998260140419006,-79.41535949707031,314,SA,EC,EC-R,Quevedo,0,SE15,,SE15,,,,50,2008-08-08T17:18:21+00:00
+6074,SERB,small_airport,"Chimborazo Airport",-1.6534299850463867,-78.65609741210938,9151,SA,EC,EC-H,Riobamba,0,SERB,,,,,,50,2008-08-08T17:18:02+00:00
+2170,SE01,small_airport,"Alba Elena Airport",-2.166670083999634,-79.2833023071289,150,SA,EC,EC-G,Rocafuerte,0,SE01,,SE01,,,,50,2008-08-08T17:17:47+00:00
+41104,SEAY,small_airport,"Ayangue Airport",-1.9777779579162598,-80.73944091796875,18,SA,EC,EC-G,"San Pedro",0,SEAY,,,,,,50,2008-08-08T17:17:53+00:00
+2174,SE09,small_airport,"San Rafael Airport",-2.1816699504852295,-79.23670196533203,190,SA,EC,EC-G,"San Rafael",0,SE09,,SE09,,,,50,2008-08-08T17:17:49+00:00
+41128,SEAP,small_airport,"Arapicos Airport",-1.8576200008392334,-77.94139862060547,2920,SA,EC,EC-S,Sangay,0,SEAP,,,,,,50,2008-08-08T17:18:24+00:00
+6075,SERO,medium_airport,"Santa Rosa International Airport",-3.441986,-79.996957,20,SA,EC,EC-O,"Santa Rosa",1,SERO,ETR,,,https://en.wikipedia.org/wiki/Santa_Rosa_International_Airport,"Machala International Airport",50,2016-03-02T23:49:45+00:00
+6057,SEGZ,small_airport,"Gualaquiza Airport",-3.4232099056243896,-78.56700134277344,2640,SA,EC,EC-S,Santiago,0,SEGZ,,,,,,50,2008-08-08T17:18:24+00:00
+41594,EC-MZD,small_airport,"Méndez Airport",-2.733330011367798,-78.31670379638672,1770,SA,EC,EC-S,"Santiago de Méndez",0,,MZD,,,,,50,2008-08-27T07:58:13+00:00
+6077,SESD,small_airport,"Santo Domingo de Los Colorados Airport",-0.2482219934463501,-79.21440124511719,1714,SA,EC,EC-P,"Santo Domingo de Los Colorades",0,SESD,,,,,,50,2008-08-08T17:18:19+00:00
+6078,SESM,small_airport,"Rio Amazonas Airport",-1.5052399635299998,-78.0626983643,3465,SA,EC,EC-Y,"Shell Mera",0,SESM,PTZ,,,http://en.wikipedia.org/wiki/Rio_Amazonas_Airport,,50,2011-10-06T20:15:55+00:00
+2171,SE02,small_airport,"Guabital Airport",-2.773390054702759,-79.70249938964844,45,SA,EC,EC-G,Soledad,0,SE02,,SE02,,,,50,2008-08-08T17:17:47+00:00
+32391,SESC,small_airport,"Sucua Airport",-2.4830000400543213,-78.16699981689453,3116,SA,EC,EC-S,Sucua,0,SESC,SUQ,,,,,50,2008-08-03T11:49:00+00:00
+32477,SETH,small_airport,"Taisha Airport",-2.3816699981689453,-77.50279998779297,1669,SA,EC,EC-S,Taisha,0,SETH,TSC,,,,,50,2008-08-03T11:49:02+00:00
+6081,SETA,small_airport,"Taura Airport",-2.261039972305298,-79.6801986694336,56,SA,EC,EC-G,Taura,0,SETA,,,,,,50,2008-08-08T17:18:01+00:00
+6082,SETE,small_airport,"Mayor Galo Torres Airport",-0.9867669939994812,-77.81950378417969,1708,SA,EC,EC-N,Tena,0,SETE,,,,,,50,2008-08-08T17:18:17+00:00
+32473,SETI,small_airport,"Tiputini Airport",-0.7761110067367554,-75.52639770507812,997,SA,EC,EC-D,Tiputini,0,SETI,TPN,,,,,50,2008-08-08T17:17:46+00:00
+2175,SE10,small_airport,"Vinces Airport",-1.5961099863052368,-79.7260971069336,32,SA,EC,EC-R,Vinces,0,SE10,,SE10,,,,50,2008-08-08T17:18:19+00:00
+324021,EC-0019,small_airport,"Santa Rosa 2 Airstrip",-2.212734,-77.572687,,SA,EC,EC-S,,0,,,,,,,0,2017-06-22T09:56:15+00:00
+308084,EC-0002,closed,"USAAFB Baltra",-0.472063445752,-90.2877044678,,SA,EC,EC-W,,0,,,,,http://en.wikipedia.org/wiki/Baltra_Island,,0,2012-12-01T17:38:20+00:00
+323810,EC-0009,small_airport,"Yuca Life Airstrip",-1.497908,-77.474409,,SA,EC,EC-Y,,0,,,,,,,0,2017-06-12T12:23:14+00:00
+324039,EC-0033,small_airport,"Cabaña Yasuni Airstrip",-1.298489,-76.154655,,SA,EC,EC-Y,,0,,,,,,,0,2017-06-23T07:27:09+00:00
+324040,EC-0034,small_airport,"Kapawi Ecolodge Airstrip",-1.649234,-77.046579,,SA,EC,EC-Y,,0,,,,,,,0,2017-06-23T07:29:04+00:00
+323836,EC-0016,small_airport,"Andoas Airstrip",-2.568889,-76.660795,,SA,EC,EC-Y,Andoas,0,,,,,,,0,2017-06-13T05:07:59+00:00
+323805,EC-0005,small_airport,"Ayamu Airstrip",-1.615731,-75.98772,,SA,EC,EC-Y,Ayamu,0,,,,,,,0,2017-06-12T09:59:49+00:00
+324023,EC-0021,small_airport,"Ayuy Airstrip",-2.082567,-77.580241,,SA,EC,EC-S,Ayuy,0,,,,,,,0,2017-06-22T10:01:23+00:00
+324027,EC-0025,small_airport,"Capauari Airstrip",-2.07019,-77.173326,,SA,EC,EC-Y,Capauari,0,,,,,,,0,2017-06-22T10:10:44+00:00
+323835,EC-0015,small_airport,"Chichirata Airstrip",-2.384954,-76.654949,,SA,EC,EC-Y,Chichirata,0,,,,,,,0,2017-06-13T05:07:10+00:00
+324024,EC-0022,small_airport,"Copataza Airstrip",-2.090505,-77.446852,,SA,EC,EC-Y,Copataza,0,,,,,,,0,2017-06-22T10:02:34+00:00
+324028,EC-0026,small_airport,"Cotosaz Airstrip",-2.023515,-77.468726,,SA,EC,EC-Y,Cotosaz,0,,,,,,,0,2017-06-22T10:11:47+00:00
+41101,SE12,heliport,"Canal Uno Heliport",-2.165555953979492,-79.89694213867188,12,SA,EC,EC-G,Guayaquil,0,SE12,,SE12,,,,0,2008-08-08T17:17:50+00:00
+41103,SE17,heliport,"Pepsicola Heliport",-2.1191670894622803,-79.9352798461914,15,SA,EC,EC-G,Guayaquil,0,SE17,,SE17,,,,0,2008-08-08T17:17:52+00:00
+323842,EC-0017,small_airport,"Huasaga Airstrip",-2.483436,-77.201141,,SA,EC,EC-S,Huasaga,0,,,,,,,0,2017-06-13T17:56:00+00:00
+323814,EC-0013,small_airport,"Huito Molino Airstrip",-1.828625,-77.321688,,SA,EC,EC-Y,"Huito Molino",0,,,,,,,0,2017-06-12T12:40:04+00:00
+324026,EC-0024,small_airport,"Jibaría Añangu Airstrip",-2.463387,-76.992629,,SA,EC,EC-Y,"Jibaría Añangu",0,,,,,,,0,2017-06-22T10:08:46+00:00
+324025,EC-0023,small_airport,"Jimbiquiti Airstrip",-1.990084,-77.716252,,SA,EC,EC-Y,Jimbiquiti,0,,,,,,,0,2017-06-22T10:04:59+00:00
+41100,SE06,heliport,"Palobamba Heliport",-2.1902780532836914,-80.024169921875,22,SA,EC,EC-G,Lérida,0,SE06,,SE06,,,,0,2008-08-08T17:17:49+00:00
+41122,SE07,heliport,"Aviandina Heliport",-3.2630560398101807,-79.961669921875,13,SA,EC,EC-O,Machala,0,SE07,,SE07,,,,0,2008-08-08T17:18:18+00:00
+323815,EC-0014,small_airport,"Macuma Airstrip",-2.145775,-77.700306,,SA,EC,EC-S,Macuma,0,,,,,,,0,2017-06-12T12:59:18+00:00
+41115,SE04,heliport,"La Fabril Heliport",-0.9958329796791077,-80.68861389160156,40,SA,EC,EC-M,Manta,0,SE04,,SE04,,,,0,2008-08-08T17:18:07+00:00
+323803,EC-0004,small_airport,"Nuevo Rocafuerte Airstrip",-0.927875,-75.394383,,SA,EC,EC-D,"Nuevo Rocafuerte",0,,,,,,,0,2017-06-12T09:55:37+00:00
+323811,EC-0010,small_airport,"Pacayacu Airstrip",-1.650816,-77.596069,,SA,EC,EC-Y,Pacayacu,0,,,,,,,0,2017-06-12T12:25:42+00:00
+323806,EC-0006,small_airport,"Pavacachi Airstrip",-1.578569,-76.353395,,SA,EC,EC-Y,Pavacachi,0,,,,,,,0,2017-06-12T10:01:25+00:00
+41099,SE05,heliport,"Posorja Heliport",-2.7316670417785645,-80.24583435058594,18,SA,EC,EC-G,Posorja,0,SE05,,SE05,,,,0,2008-08-08T17:17:48+00:00
+317181,EC-0003,small_airport,"Coronel Artilleria Victor Larrea Airport",-3.435278,-79.977778,170,SA,EC,EC-O,"Santa Rosa",0,,,,,,"SERO, ETR",0,2016-03-02T23:19:04+00:00
+323812,EC-0011,small_airport,"Sarayaku Airstrip",-1.739358,-77.485087,,SA,EC,EC-Y,Sarayaku,0,,,,,,,0,2017-06-12T12:27:20+00:00
+323808,EC-0007,small_airport,"Shivacocha Airstrip",-1.384146,-76.958786,,SA,EC,EC-Y,Shivacocha,0,,,,,,,0,2017-06-12T12:19:34+00:00
+324038,EC-0032,small_airport,"Tambo Airstrip",-1.873892,-76.773644,,SA,EC,EC-Y,Tambo,0,,,,,,,0,2017-06-30T07:10:14+00:00
+324037,EC-0031,small_airport,"Tambo Borja Airstrip",-2.36646,-76.513774,,SA,EC,EC-Y,"Tambo Borja",0,,,,,,,0,2017-06-23T06:55:35+00:00
+323809,EC-0008,small_airport,"Taracoa Airstrip",-1.368989,-76.947394,,SA,EC,EC-Y,Taracoa,0,,,,,,,0,2017-06-12T12:20:57+00:00
+323813,EC-0012,small_airport,"Teresa Mama Airstrip",-1.923175,-77.211526,,SA,EC,EC-Y,"Teresa Mama",0,,,,,,,0,2017-06-12T12:39:19+00:00
+324029,EC-0027,small_airport,"Tutaguana Airstrip",-1.926173,-77.505011,,SA,EC,EC-Y,Tutaguana,0,,,,,,,0,2017-06-22T10:12:47+00:00
+323855,EC-0018,small_airport,"Villano Airstrip",-1.502584,-77.327519,,SA,EC,EC-Y,Villano,0,,,,,,,0,2017-06-14T09:18:16+00:00
+324035,EC-0030,small_airport,"Wampuik Airstrip",-2.61555,-77.023164,,SA,EC,EC-S,Wampuik,0,,,,,,,0,2017-06-22T15:22:04+00:00
+324034,EC-0029,small_airport,"Wasakentza Airstrip",-2.543927,-77.199249,,SA,EC,EC-S,Wasakentza,0,,,,,,,0,2017-06-22T15:19:54+00:00
+324030,EC-0028,small_airport,"Yaupi Airstrip",-2.852915,-77.941774,,SA,EC,EC-S,Yaupi,0,,,,,,,0,2017-06-22T10:17:21+00:00
+324022,EC-0020,small_airport,"Yuwints Airstrip",-2.164433,-77.577369,,SA,EC,EC-S,Yuwints,0,,,,,,,0,2017-06-22T09:57:50+00:00

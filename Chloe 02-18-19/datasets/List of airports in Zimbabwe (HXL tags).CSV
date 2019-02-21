@@ -1,0 +1,140 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3004,FVFA,medium_airport,"Victoria Falls International Airport",-18.09589958190918,25.839000701904297,3490,AF,ZW,ZW-MN,"Victoria Falls",1,FVFA,VFA,,,http://en.wikipedia.org/wiki/Victoria_Falls_Airport,,1050,2008-06-13T14:30:04+00:00
+3005,FVHA,large_airport,"Robert Gabriel Mugabe International Airport",-17.931801,31.0928,4887,AF,ZW,ZW-HA,Harare,1,FVRG,HRE,,,http://en.wikipedia.org/wiki/Harare_International_Airport,"FVHA,Harare",1050,2019-01-20T22:10:26+00:00
+3000,FVBU,medium_airport,"Joshua Mqabuko Nkomo International Airport",-20.017401,28.617901,4359,AF,ZW,ZW-BU,Bulawayo,1,FVJN,BUQ,,,http://en.wikipedia.org/wiki/Joshua_Mqabuko_Nkomo_International_Airport,,1050,2018-12-04T15:46:09+00:00
+3006,FVKB,medium_airport,"Kariba International Airport",-16.519800186157227,28.885000228881836,1706,AF,ZW,ZW-MW,Kariba,0,FVKB,KAB,,,,,250,2008-06-13T14:30:04+00:00
+3003,FVCZ,medium_airport,"Buffalo Range Airport",-21.008101,31.5786,1421,AF,ZW,ZW-MV,Chiredzi,0,FVCZ,BFO,,,,,275,2017-10-14T03:21:40+00:00
+3002,FVCP,small_airport,"Charles Prince Airport",-17.75160026550293,30.924699783325195,4845,AF,ZW,ZW-HA,Harare,0,FVCP,,,,http://en.wikipedia.org/wiki/Charles_Prince_Airport,,50,2008-06-13T14:30:04+00:00
+3013,FVTL,medium_airport,"Thornhill Air Base",-19.436399459838867,29.861900329589844,4680,AF,ZW,ZW-MI,Gweru,0,FVTL,GWE,,,,,275,2008-06-13T14:30:04+00:00
+3014,FVWN,medium_airport,"Hwange National Park Airport",-18.629899978637695,27.020999908447266,3543,AF,ZW,ZW-MN,Hwange,0,FVWN,HWN,,,http://en.wikipedia.org/wiki/Hwange_National_Park_Airport,,250,2008-06-13T14:30:04+00:00
+3010,FVMV,medium_airport,"Masvingo International Airport",-20.055299758911133,30.859100341796875,3595,AF,ZW,ZW-MV,Masvingo,0,FVMV,MVZ,,,,,250,2008-06-13T14:30:04+00:00
+30828,FVCH,small_airport,"Chipinge Airport",-20.20669937133789,32.628299713134766,3720,AF,ZW,ZW-MA,Chipinge,0,FVCH,CHJ,,,,,50,2008-12-30T14:09:22+00:00
+32656,FVWT,small_airport,"Hwange (Town) Airport",-18.362967,26.519791,2500,AF,ZW,ZW-MN,Hwange,0,FVWT,WKI,,,,,50,2017-10-10T00:17:34+00:00
+31251,FVMN,small_airport,"Mana Pools Airport",-15.768735,29.385617,1300,AF,ZW,ZW-MW,"Mana Pools",0,FVMN,,,,,,50,2017-10-10T00:26:38+00:00
+3001,FVCN,small_airport,"Centenary Airport",-16.734100341796875,31.121999740600586,4058,AF,ZW,ZW-MC,,0,FVCN,,,,,,50,2008-08-03T11:32:44+00:00
+3007,FVMD,small_airport,"Mount Darwin Airport",-16.76919937133789,31.559799194335938,3240,AF,ZW,ZW-MC,,0,FVMD,,,,,,50,2008-08-03T11:33:19+00:00
+3011,FVOT,small_airport,"Kotwa Airport",-16.984800338745117,32.672698974609375,2450,AF,ZW,ZW-ME,,0,FVOT,,,,,,50,2008-08-03T11:33:30+00:00
+3012,FVSH,small_airport,"Zvishavane Airport",-20.289499282836914,30.088199615478516,3012,AF,ZW,ZW-MI,,0,FVSH,,,,,,50,2008-12-30T14:09:57+00:00
+27232,FV76,small_airport,"Kwekwe East Airport",-19.010799407958984,30.02519989013672,4025,AF,ZW,ZW-MI,,0,FV76,,FV76,,,,50,2008-12-30T14:09:48+00:00
+29900,FVGO,small_airport,"Gokwe Airport",-18.200000762939453,28.91670036315918,4199,AF,ZW,ZW-MI,,0,FVGO,,,,,,50,2008-12-30T14:09:42+00:00
+30583,FVSC,small_airport,"Zisco Airport",-19.029199600219727,29.721900939941406,3990,AF,ZW,ZW-MI,,0,FVSC,,,,,,50,2008-12-30T14:09:53+00:00
+29690,FVBB,small_airport,"Beit Bridge Airport",-22.197617,30.012774,1509,AF,ZW,ZW-MS,,0,FVBB,,,,,,50,2017-10-10T00:11:24+00:00
+27233,FV77,small_airport,"Mhangura Airport",-16.910101,30.2423,4078,AF,ZW,ZW-MW,,0,FVGM,,,,,"FV77, Mangula",50,2016-02-16T01:46:48+00:00
+31216,FVAB,small_airport,"Aberdeen Airport",-18.195092,32.675326,4495,AF,ZW,ZW-MA,Aberdeen,0,FVAB,,,,,,50,2016-06-29T08:32:15+00:00
+31218,FVBI,small_airport,"Binga Airport",-17.648099899291992,27.3174991607666,1950,AF,ZW,ZW-MN,Binga,0,FVBI,,,,,,50,2008-08-03T11:32:29+00:00
+31221,FVBO,small_airport,"Bosbury Airport",-18.216999053955078,30.132999420166016,3940,AF,ZW,ZW-MW,Bosbury,0,FVBO,,,,,,50,2008-08-03T11:32:34+00:00
+31217,FVAE,small_airport,"Braebourne Airport",-16.66699981689453,31.232999801635742,3600,AF,ZW,ZW-MC,Braebourne,0,FVAE,,,,,,50,2008-08-03T11:32:25+00:00
+31220,FVBM,small_airport,"Bumi Airport",-16.8169994354,28.3500003815,1650,AF,ZW,ZW-MW,Bumi,0,FVBM,BZH,,,,,50,2014-07-02T00:01:26+00:00
+31222,FVCC,small_airport,"C.C. Strip",-17.433000564575195,30.299999237060547,4050,AF,ZW,ZW-MW,"C.C. Strip",0,FVCC,,,,,,50,2008-08-03T11:32:36+00:00
+31225,FVCM,small_airport,"Cam+Motor Airport",-18.299999,29.979444,3720,AF,ZW,ZW-MW,Cam+Motor,0,FVCM,,,,,,50,2016-06-22T05:26:35+00:00
+31224,FVCE,small_airport,"Celina Airport",-17.517000198364258,30.850000381469727,4058,AF,ZW,ZW-MC,Celina,0,FVCE,,,,,,50,2008-08-03T11:32:40+00:00
+31238,FVHY,small_airport,"Hippo Valley Airport",-21.049999237060547,31.66699981689453,1420,AF,ZW,ZW-MV,Chiredzi,0,FVHY,,,,,,50,2008-06-13T14:30:04+00:00
+31223,FVCD,small_airport,"Chirundu Airport",-15.998082,28.899056,1310,AF,ZW,ZW-MW,Chirundu,0,FVCD,,,,,,50,2017-10-10T00:12:47+00:00
+31227,FVCV,small_airport,"Chivu Airport",-19.033000946044922,30.899999618530273,4790,AF,ZW,ZW-MI,Chivu,0,FVCV,,,,,,50,2008-12-30T14:09:38+00:00
+31226,FVCR,small_airport,"Chizarira Airport",-17.683000564575195,27.899999618530273,3280,AF,ZW,ZW-MN,Chizarira,0,FVCR,,,,,,50,2008-08-03T11:32:46+00:00
+31229,FVDE,small_airport,"Deka Airport",-18.093208,26.714038,1750,AF,ZW,ZW-MN,Deka,0,FVDE,,,,,,50,2017-10-10T00:14:01+00:00
+31230,FVDU,small_airport,"Dudley Airport",-18.283000946044922,31.482999801635742,4986,AF,ZW,ZW-ME,Dudley,0,FVDU,,,,,,50,2008-08-03T11:32:51+00:00
+31231,FVED,small_airport,"Eduan Airport",-18.767000198364258,29.783000946044922,3900,AF,ZW,ZW-MI,Eduan,0,FVED,,,,,,50,2008-12-30T14:09:40+00:00
+31233,FVFI,small_airport,"Filabusi Airport",-20.535814,29.256185,3525,AF,ZW,ZW-MS,Filabusi,0,FVFI,,,,,,50,2016-06-22T04:14:49+00:00
+31232,FVFG,small_airport,"Fothergill Airport",-16.704523,28.660112,1630,AF,ZW,ZW-MW,Fothergill,0,FVFG,,,,,,50,2017-10-10T00:15:13+00:00
+31235,FVGT,small_airport,"Gaths Mine Airport",-19.982999801635742,30.5,3454,AF,ZW,ZW-MV,"Gaths Mine",0,FVGT,,,,,,50,2008-08-03T11:32:59+00:00
+31234,FVGD,small_airport,"Gwanda Airport",-20.899999618530273,29,3328,AF,ZW,ZW-MS,Gwanda,0,FVGD,,,,,,50,2008-08-03T11:32:57+00:00
+31236,FVGW,small_airport,"Gweru Airport",-19.549999237060547,29.732999801635742,4660,AF,ZW,ZW-MI,Gweru,0,FVGW,,,,,,50,2008-12-30T14:09:44+00:00
+31237,FVHP,small_airport,"Home Park Airport",-18.200000762939453,31.732999801635742,5150,AF,ZW,ZW-ME,"Home Park",0,FVHP,,,,,,50,2008-08-03T11:33:01+00:00
+31239,FVIN,small_airport,"Induna Airport",-20.08300018310547,28.700000762939453,4489,AF,ZW,ZW-MN,Induna,0,FVIN,,,,,,50,2008-08-03T11:33:02+00:00
+31272,FVYT,small_airport,"Inyati Airport",-19.700000762939453,28.850000381469727,4400,AF,ZW,ZW-MN,Inyati,0,FVYT,,,,,,50,2008-08-03T11:33:55+00:00
+31240,FVIT,small_airport,"Itafa Airport",-18.299999237060547,29.882999420166016,3800,AF,ZW,ZW-MW,Itafa,0,FVIT,,,,,,50,2008-08-03T11:33:04+00:00
+31243,FVKZ,small_airport,"Kezi Airport",-20.91699981689453,28.482999801635742,3300,AF,ZW,ZW-MS,Kezi,0,FVKZ,,,,,,50,2008-08-03T11:33:08+00:00
+31241,FVKK,small_airport,"Kwekwe Airport",-18.933300018310547,29.84280014038086,4000,AF,ZW,ZW-MI,Kwekwe,0,FVKK,,,,,,50,2008-12-30T14:09:46+00:00
+31244,FVLA,small_airport,"Langford Airport",-17.933000564575195,30.950000762939453,4600,AF,ZW,ZW-ME,Langford,0,FVLA,,,,,,50,2008-08-03T11:33:10+00:00
+31245,FVLG,small_airport,"Longuiel Airport",-17,29.632999420166016,4200,AF,ZW,ZW-MW,Longuiel,0,FVLG,,,,,,50,2008-08-03T11:33:12+00:00
+31246,FVLU,small_airport,"Lusulu Airport",-18.08300018310547,27.867000579833984,3240,AF,ZW,ZW-MN,Lusulu,0,FVLU,,,,,,50,2008-08-03T11:33:14+00:00
+31219,FVBL,small_airport,"Mabalauta Airport",-21.91699981689453,31.466999053955078,950,AF,ZW,ZW-MV,Mabalauta,0,FVBL,,,,,,50,2008-08-03T11:32:31+00:00
+31249,FVMF,small_airport,"Mabikwa Airport",-18.732999801635742,27.533000946044922,3450,AF,ZW,ZW-MN,Mabikwa,0,FVMF,,,,,,50,2008-08-03T11:33:21+00:00
+31247,FVMA,small_airport,"Marondera Airport",-18.183000564575195,31.466999053955078,5370,AF,ZW,ZW-ME,Marondera,0,FVMA,,,,,,50,2008-08-03T11:33:15+00:00
+31248,FVMB,small_airport,"Mashumbi Airport",-16.16699981689453,30.566999435424805,1240,AF,ZW,ZW-MC,Mashumbi,0,FVMB,,,,,,50,2008-08-03T11:33:17+00:00
+31252,FVMS,small_airport,"Middle Sabi Airport",-20.216999053955078,32.367000579833984,1510,AF,ZW,ZW-MA,"Middle Sabi",0,FVMS,,,,,,50,2008-12-30T14:09:24+00:00
+31250,FVMK,small_airport,"Mkonono Airport",-17.716999053955078,30.41699981689453,4650,AF,ZW,ZW-MW,Mkonono,0,FVMK,,,,,,50,2008-08-03T11:33:23+00:00
+31242,FVKW,small_airport,"Mkwasine Airport",-20.799999237060547,31.816999435424805,1620,AF,ZW,ZW-MV,Mkwasine,0,FVKW,,,,,,50,2008-08-03T11:33:06+00:00
+31253,FVMW,small_airport,"Murewa Airport",-17.649999618530273,31.799999237060547,4579,AF,ZW,ZW-ME,Murewa,0,FVMW,,,,,,50,2008-08-03T11:33:28+00:00
+3009,FVMU,small_airport,"Mutare Airport",-18.997499465942,32.627201080322,3410,AF,ZW,ZW-MA,Mutare,0,FVMU,UTA,,,https://en.wikipedia.org/wiki/Mutare_Airport,,50,2015-08-16T00:38:16+00:00
+30176,FVGR,small_airport,"Grand Reef Airport",-18.9775,32.450802,3333,AF,ZW,ZW-MA,Mutare,0,FVGR,,,,https://en.wikipedia.org/wiki/Grand_Reef_Airport,,50,2016-10-14T12:12:43+00:00
+3008,FVMT,medium_airport,"Mutoko Airport",-17.431900024414062,32.18450164794922,3950,AF,ZW,ZW-ME,Mutoko,0,FVMT,,,,,Mtoko,50,2009-02-25T10:00:26+00:00
+31228,FVDA,small_airport,"Dawsons Airport",-17.0049,30.8961,4762,AF,ZW,ZW-MC,Mvurwi,0,FVDA,,,,,,50,2016-02-19T18:06:19+00:00
+31254,FVNY,small_airport,"Nyanyadzi Airport",-19.732999801635742,32.43299865722656,1850,AF,ZW,ZW-MA,Nyanyadzi,0,FVNY,,,,,,50,2008-12-30T14:09:30+00:00
+31255,FVPL,small_airport,"Plumtree Airport",-20.482999801635742,27.783000946044922,4527,AF,ZW,ZW-MS,Plumtree,0,FVPL,,,,,,50,2008-08-03T11:33:32+00:00
+31256,FVRA,small_airport,"Ratelshoek Airport",-20.234513,32.79753,3250,AF,ZW,ZW-MA,Ratelshoek,0,FVRA,,,,,,50,2017-10-10T00:31:50+00:00
+31257,FVRE,small_airport,"Renroc Airport",-16.966999053955078,29.566999435424805,4200,AF,ZW,ZW-MW,Renroc,0,FVRE,,,,,,50,2008-08-03T11:33:34+00:00
+31259,FVRU,small_airport,"Rusape Airport",-18.533000946044922,32.132999420166016,4560,AF,ZW,ZW-MA,Rusape,0,FVRU,,,,,,50,2008-12-30T14:09:34+00:00
+31258,FVRT,small_airport,"Rutenga Airport",-21.232999801635742,30.732999801635742,1825,AF,ZW,ZW-MV,Rutenga,0,FVRT,,,,,,50,2008-06-13T14:30:04+00:00
+31260,FVSE,small_airport,"Sanyati Estate Airport",-17.966999053955078,29.216999053955078,2790,AF,ZW,ZW-MW,"Sanyati Estate",0,FVSE,,,,,,50,2008-08-03T11:33:36+00:00
+31263,FVSX,small_airport,"Sengwa Gorge Airport",-18.16699981689453,28.850000381469727,2900,AF,ZW,ZW-MI,"Sengwa Gorge",0,FVSX,,,,,,50,2008-12-30T14:09:51+00:00
+31264,FVSY,small_airport,"Siyalima Airport",-16.632999420166016,30.649999618530273,4540,AF,ZW,ZW-MC,Siyalima,0,FVSY,,,,,,50,2008-08-03T11:33:40+00:00
+31262,FVSV,small_airport,"Spray View Airport",-17.91699981689453,25.816999435424805,3210,AF,ZW,ZW-MN,"Spray View",0,FVSV,,,,,,50,2008-06-13T14:30:04+00:00
+31261,FVSN,small_airport,"Sun Yet Sen Airport",-21.33300018310547,28.517000198364258,2891,AF,ZW,ZW-MS,"Sun Yet Sen",0,FVSN,,,,,,50,2008-08-03T11:33:38+00:00
+31265,FVTA,small_airport,"Tashinga Airport",-16.824147,28.443215,1630,AF,ZW,ZW-MW,Tashinga,0,FVTA,,,,,,50,2016-06-22T04:41:32+00:00
+31267,FVTE,small_airport,"Tengwe Airport",-17.117000579833984,29.617000579833984,4000,AF,ZW,ZW-MW,Tengwe,0,FVTE,,,,,,50,2008-08-03T11:33:45+00:00
+31266,FVTD,small_airport,"Tinfields Airport",-19.950000762939453,31.433000564575195,3600,AF,ZW,ZW-MV,Tinfields,0,FVTD,,,,,,50,2008-08-03T11:33:43+00:00
+31268,FVTJ,small_airport,"Tonje Airport",-20.316999435424805,32.349998474121094,1500,AF,ZW,ZW-MA,Tonje,0,FVTJ,,,,,,50,2008-12-30T14:09:36+00:00
+31269,FVTS,small_airport,"Tsholothso Airport",-19.765526,27.766464,3580,AF,ZW,ZW-MN,Tsholothso,0,FVTS,,,,,,50,2017-10-10T00:40:21+00:00
+31270,FVTU,small_airport,"Tuli Airport",-21.934925079345703,29.196338653564453,1940,AF,ZW,ZW-MS,Tuli,0,FVTU,,,,,,50,2008-08-03T11:34:16+00:00
+31271,FVWD,small_airport,"Wedza Airport",-18.617000579833984,31.58300018310547,4600,AF,ZW,ZW-ME,Wedza,0,FVWD,,,,,,50,2008-08-03T11:33:51+00:00
+31274,FVZK,small_airport,"Zaka Airport",-20.335499,31.451845,2550,AF,ZW,ZW-MV,Zaka,0,FVZK,,,,,,50,2016-02-18T15:35:19+00:00
+31273,FVZC,small_airport,"Zisco Airport",-19.033000946044922,29.716999053955078,3975,AF,ZW,ZW-MI,Zisco,0,FVZC,,,,,,50,2008-12-30T14:09:55+00:00
+319235,ZW-0023,small_airport,"Peoza Pasi Airstrip",-15.977261,30.396064,,AF,ZW,ZW-MC,,0,,,,,,,0,2016-06-29T04:25:09+00:00
+319236,ZW-0024,small_airport,"Chapoto Road Airstrip",-15.749968,30.402576,,AF,ZW,ZW-MC,,0,,,,,,,0,2016-06-29T04:31:00+00:00
+319239,ZW-0026,small_airport,"Mucumbura River Airport",-16.205187,31.681177,,AF,ZW,ZW-MC,,0,,,,,,,0,2016-06-29T05:12:35+00:00
+319251,ZW-0035,small_airport,"Gokwe North Airport",-17.537114,28.330871,,AF,ZW,ZW-MI,,0,,,,,,,0,2016-06-29T07:01:39+00:00
+325147,FVRB,small_airport,"Barberton Lodge Airfield",-21.12863,29.871943,2650,AF,ZW,ZW-MI,,0,FVRB,,,,,"Barberton, Barberton Lodge, Bubiana Conservancy Zimbabwe",0,2017-10-10T00:07:20+00:00
+319002,ZW-0016,small_airport,"Chete Airport",-17.050324,28.001822,,AF,ZW,ZW-MN,,0,,,,,,,0,2016-06-22T04:46:07+00:00
+319003,ZW-0017,small_airport,"Lake Kariba Airport",-17.345659,27.635,,AF,ZW,ZW-MN,,0,,,,,,,0,2016-06-22T04:47:25+00:00
+319004,ZW-0018,small_airport,"Sijarira Lodge Airstrip",-17.51631,27.500593,,AF,ZW,ZW-MN,,0,,,,,,,0,2016-06-22T04:48:06+00:00
+319007,ZW-0019,small_airport,"Manjolo Airport",-17.814685,27.171634,,AF,ZW,ZW-MN,,0,,,,,,,0,2016-06-22T05:12:58+00:00
+319248,ZW-0032,small_airport,"Chewonde Airport",-17.958974,28.270602,,AF,ZW,ZW-MN,,0,,,,,,,0,2016-06-29T06:35:27+00:00
+319249,ZW-0033,small_airport,"Sengwa Airport",-18.167161,28.235588,,AF,ZW,ZW-MN,,0,,,,,,,0,2016-06-29T06:36:53+00:00
+319250,ZW-0034,small_airport,"Sengwa Research Area Airstrip",-18.165196,28.215618,,AF,ZW,ZW-MN,,0,,,,,,,0,2016-06-29T06:37:54+00:00
+318987,ZW-0004,small_airport,"Bridge Camp Airstrip",-21.247388,31.908657,,AF,ZW,ZW-MV,,0,,,,,,,0,2016-06-22T04:00:42+00:00
+319254,ZW-0038,small_airport,"Chipinge Farm Airstrip",-20.460575,32.203607,,AF,ZW,ZW-MV,,0,,,,,,,0,2016-06-29T07:44:12+00:00
+319255,ZW-0039,small_airport,"Turwi River Airstrip",-20.395009,32.10904,,AF,ZW,ZW-MV,,0,,,,,,,0,2016-06-29T07:44:46+00:00
+319001,ZW-0015,small_airport,"Maronga Airport",-16.855435,28.427123,,AF,ZW,ZW-MW,,0,,,,,,,0,2016-06-22T04:43:30+00:00
+319241,ZW-0027,small_airport,"Mwanja River Airport",-15.64811,29.9871,,AF,ZW,ZW-MW,,0,,,,,,,0,2016-06-29T05:37:32+00:00
+319242,ZW-0028,small_airport,"Chewore Lodge Airstrip",-15.647438,29.879651,,AF,ZW,ZW-MW,,0,,,,,,,0,2016-06-29T05:46:11+00:00
+319244,ZW-0029,small_airport,"Chikwenya Game Lodge Airstrip",-15.6956,29.576598,,AF,ZW,ZW-MW,,0,,,,,,,0,2016-06-29T05:51:38+00:00
+319245,ZW-0030,small_airport,"Rukomeshe Research Station Airstrip",-16.147148,29.415766,,AF,ZW,ZW-MW,,0,FVRK,,,,,,0,2017-10-10T00:37:02+00:00
+325148,FVMC,small_airport,"Hwange Main Camp Airfield",-18.724765,26.956472,3485,AF,ZW,ZW-U-A,,0,FVMC,,,,,"Hwange, Hwange Main, Hwange Main Camp",0,2017-10-10T00:21:17+00:00
+325149,FVRI,small_airport,"Kipling's Rukari Airstrip",-16.855422,28.427034,1660,AF,ZW,ZW-U-A,,0,FVRI,,,,,,0,2017-10-10T00:25:09+00:00
+325151,FVRF,small_airport,"Rifa Airstrip",-16.31318,28.898235,1350,AF,ZW,ZW-U-A,,0,FVRF,,,,,,0,2017-10-10T00:34:04+00:00
+325152,ZW-0042,small_airport,"Sipepa Airstrip",-19.280942,27.648321,3270,AF,ZW,ZW-U-A,,0,,,,,,,0,2017-10-10T00:39:35+00:00
+318994,ZW-0010,small_airport,"Belingwe Airport",-20.522514,29.876149,,AF,ZW,ZW-MI,Belingwe,0,,,,,,,0,2016-06-22T04:16:07+00:00
+318988,ZW-0005,small_airport,"Boli Airport",-21.532188,31.476691,,AF,ZW,ZW-MV,Boli,0,,,,,,,0,2016-06-22T04:03:09+00:00
+319008,ZW-0020,small_airport,"Chigwell Airport",-18.16483,29.965823,,AF,ZW,ZW-MW,Chigwell,0,,,,,,,0,2016-06-22T05:31:03+00:00
+325143,FVLS,small_airport,"Lonestar Airfield",-21.061103,31.889759,1303,AF,ZW,ZW-MV,Chiredzi,0,FVLS,,FVLS,,,"Lonestar, Pamushana, Malilangwe, Chiredzi",0,2017-10-09T09:19:15+00:00
+319012,ZW-0022,small_airport,"Dorowa Airport",-19.056975,31.775152,,AF,ZW,ZW-MA,Dorowa,0,,,,,,,0,2016-06-22T06:23:06+00:00
+329803,FVGG,small_airport,"Gachegache Airport",-16.748077,28.930312,1665,AF,ZW,ZW-MW,"Gache Gache",0,FVGG,,,,,,0,2018-12-07T10:10:03+00:00
+317037,FVGB,small_airport,"Gombera Airport",-16.958341,30.358828,3294,AF,ZW,ZW-MW,"Gombera Ranch",0,FVGB,,,,,,0,2016-02-18T12:14:00+00:00
+314044,FVMH,small_airport,"Mahenye Airport",-21.231,32.3336,930,AF,ZW,ZW-MA,"Gonarezhou National Park",0,FVMH,MJW,,,,,0,2017-10-10T00:26:03+00:00
+319246,ZW-0031,small_airport,"Honde Valley Airport",-18.497124,32.853992,,AF,ZW,ZW-MA,"Honde Valley",0,,,,,,,0,2016-06-29T06:02:06+00:00
+319009,ZW-0021,small_airport,"Hot Springs Airport",-19.653303,32.4248,,AF,ZW,ZW-MA,"Hot Springs",0,,,,,,,0,2016-06-22T05:45:01+00:00
+318995,ZW-0011,small_airport,"Hwali Airport",-21.679911,29.218657,,AF,ZW,ZW-MS,Hwali,0,,,,,,,0,2016-06-22T04:18:16+00:00
+317019,FVIP,small_airport,"Impinge Airport",-16.9071,30.8003,4800,AF,ZW,ZW-MC,"Impinge Ranch",0,FVIP,,,,,,0,2016-02-16T01:15:05+00:00
+319237,ZW-0025,small_airport,"Kanyemba Airport",-15.665006,30.389806,,AF,ZW,ZW-MC,Kanyemba,0,,,,,,,0,2016-06-29T04:32:07+00:00
+317597,FVTB,small_airport,"Tiger Bay Airstrip",-16.911231,28.426079,1720,AF,ZW,ZW-MW,Kariba,0,FVTB,,,,,,0,2016-04-16T10:36:22+00:00
+318999,ZW-0013,small_airport,"Lupane Airport",-18.927645,27.806533,,AF,ZW,ZW-MN,Lupane,0,,,,,,,0,2016-06-22T04:36:55+00:00
+318991,ZW-0007,small_airport,"Makado Airport",-21.456959,29.7175,,AF,ZW,ZW-MS,Makado,0,,,,,,,0,2016-06-22T04:10:14+00:00
+329802,ZW-0044,closed,"Makuti Airstrip",-16.344021,29.202102,3268,AF,ZW,ZW-MW,Makuti,0,,,,,,,0,2018-12-07T09:41:12+00:00
+318990,ZW-0006,small_airport,"Malipati Airport",-22.063618,31.436257,,AF,ZW,ZW-MV,Malipati,0,,,,,,,0,2016-06-22T04:06:24+00:00
+325150,ZW-0041,small_airport,"Mana West",-15.83586,29.174883,1232,AF,ZW,ZW-U-A,"Mana Pools Area",0,,,,,,,0,2017-10-10T00:28:57+00:00
+318468,ZW-0001,small_airport,"Matetsi Airport",-18.498899,25.918628,,AF,ZW,ZW-MN,Matetsi,0,,,,,,,0,2016-06-10T04:09:49+00:00
+317598,FVML,small_airport,"Mlibizi Airstrip",-17.9604,27.1184,1980,AF,ZW,ZW-MN,Mlibizi,0,FVML,,,,,Mibizi,0,2016-04-16T10:54:10+00:00
+325153,ZW-0043,closed,"Pandamatenga East Airstrip",-18.5269,25.693563,3511,AF,ZW,ZW-MN,Mpandamatenga,0,,,,,,,0,2017-10-10T23:32:26+00:00
+318996,ZW-0012,small_airport,"Mwenezi Airport",-21.431546,30.734302,,AF,ZW,ZW-MV,Mwenezi,0,,,,,,,0,2016-06-22T04:19:49+00:00
+319000,ZW-0014,small_airport,"Nkayi Airport",-18.999493,28.89743,,AF,ZW,ZW-MN,Nkayi,0,,,,,,,0,2016-06-22T04:38:38+00:00
+319256,ZW-0040,small_airport,"Kwaraguza Airport",-18.117815,32.841205,,AF,ZW,ZW-MA,Nyanga,0,,,,,,,0,2016-06-29T08:33:16+00:00
+319252,ZW-0036,small_airport,"Renco Airport",-20.602044,31.170552,,AF,ZW,ZW-MV,Renco,0,,,,,,,0,2016-06-29T07:31:24+00:00
+319253,ZW-0037,small_airport,"Rupangwana Airport",-21.008374,32.181507,,AF,ZW,ZW-MA,Rupangwana,0,,,,,,,0,2016-06-29T07:37:25+00:00
+318469,ZW-0002,small_airport,"Sinamatella Camp Airport",-18.576311,26.320678,,AF,ZW,ZW-MN,"Sinamatella Camp",0,,,,,,,0,2016-06-10T04:11:15+00:00
+318953,ZW-0003,small_airport,"Tilbury Airport",-19.906934,32.969636,,AF,ZW,ZW-MA,Tilbury,0,,,,,,,0,2016-06-20T09:31:01+00:00
+318992,ZW-0008,small_airport,"Towla Airport",-21.440873,29.883056,,AF,ZW,ZW-MS,Towla,0,,,,,,,0,2016-06-22T04:10:53+00:00
+318993,ZW-0009,small_airport,"West Nicholson Airport",-21.048952,29.353583,,AF,ZW,ZW-MS,"West Nicholson",0,,,,,,,0,2016-06-22T04:11:53+00:00
+317036,FVYB,small_airport,"Yomba Airport",-16.946664,30.400914,,AF,ZW,ZW-MW,Yomba,0,FVYB,,,,,,0,2016-02-18T11:54:02+00:00

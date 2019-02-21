@@ -1,0 +1,41 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2512,EGYP,medium_airport,"Mount Pleasant Airport",-51.82279968261719,-58.447200775146484,244,SA,FK,FK-U-A,"Mount Pleasant",1,EGYP,MPN,,,http://en.wikipedia.org/wiki/RAF_Mount_Pleasant,"RAF Mount Pleasant",1000,2008-08-24T11:33:48+00:00
+6087,SFAL,medium_airport,"Port Stanley Airport",-51.685699462891,-57.777599334717,75,SA,FK,FK-U-A,Stanley,1,SFAL,PSY,,,http://en.wikipedia.org/wiki/Port_Stanley_Airport,,550,2016-01-09T10:46:55+00:00
+43041,FK-0011,small_airport,"Carcass Island Landing Strip",-51.263671875,-60.592079162597656,,SA,FK,FK-U-A,"Carcass Island",0,,,,,,,50,2009-01-14T19:49:04+00:00
+41526,FK-0001,small_airport,"Fox Bay Clay Airstrip",-51.933694,-60.061595,,SA,FK,FK-U-A,"Fox Bay",0,,,,,,,50,2017-03-27T10:48:38+00:00
+41530,FK-0005,small_airport,"Goose Green Airfield",-51.819282,-58.980893,,SA,FK,FK-U-A,"Goose Green",0,,,,,,,50,2017-03-15T15:09:26+00:00
+41527,FK-0002,small_airport,"Pebble Island Landing Strip",-51.30978775024414,-59.60877227783203,,SA,FK,FK-U-A,"Pebble Island Settlement",0,,,,,,,50,2008-08-24T08:45:54+00:00
+43039,FK-0009,small_airport,"Port Howard Purvis Pond Airstrip",-51.5681,-59.533699,,SA,FK,FK-U-A,"Port Howard Settlement",0,,,,,,,50,2017-03-27T10:35:14+00:00
+41533,FK-0008,small_airport,"Port San Carlos Landing Strip",-51.50166702270508,-59.00361251831055,,SA,FK,FK-U-A,"Port San Carlos",0,,,,,,,50,2008-08-24T11:38:42+00:00
+41531,FK-0006,small_airport,"Roy Cove Landing Strip",-51.539398193359375,-60.35639953613281,,SA,FK,FK-U-A,"Roy Cove",0,,,,,,,50,2008-08-24T11:10:33+00:00
+43040,FK-0010,small_airport,"Saunders Island Landing Strip",-51.37810134887695,-60.091609954833984,,SA,FK,FK-U-A,"Saunders Island Settlement",0,,,,,,,50,2009-01-14T19:46:57+00:00
+41528,FK-0003,small_airport,"Sea Lion Lodge Airstrip",-52.428215,-59.077744,,SA,FK,FK-U-A,"Sea Lion Island",0,,,,,,,50,2017-03-27T10:43:20+00:00
+41532,FK-0007,small_airport,"Spring Point Landing Strip",-51.82929992675781,-60.45140075683594,,SA,FK,FK-U-A,"Spring Point Settlement",0,,,,,,,50,2009-08-03T14:29:43+00:00
+41529,FK-0004,small_airport,"West Point Island Landing Strip",-51.345611572265625,-60.6839714050293,,SA,FK,FK-U-A,"West Point Island",0,,,,,,,50,2008-08-24T10:24:27+00:00
+322421,FK-0029,small_airport,"Beaver Island Airport",-51.84025,-61.23365,,SA,FK,FK-U-A,"Beaver Island",0,,,,,,,0,2017-03-15T14:57:37+00:00
+322419,FK-0027,small_airport,"Bleaker Island Airport",-52.181403,-58.858788,,SA,FK,FK-U-A,"Bleaker Island",0,,,,,,,0,2017-03-15T14:43:05+00:00
+322398,FK-0017,small_airport,"Chartres Airport",-51.719307,-60.062361,,SA,FK,FK-U-A,Chartres,0,,,,,,,0,2017-03-14T14:00:47+00:00
+322405,FK-0024,small_airport,"Douglas Station Airport",-51.459942,-58.612131,,SA,FK,FK-U-A,Douglas,0,,,,,,,0,2017-03-14T14:44:55+00:00
+322425,FK-0031,closed,"Dunbar Airport",-51.420879,-60.422927,,SA,FK,FK-U-A,Dunbar,0,,,,,,,0,2017-03-27T13:45:37+00:00
+322395,FK-0014,small_airport,"Dunnose Head Airport",-51.753339,-60.415834,,SA,FK,FK-U-A,"Dunnose Head",0,,,,,,,0,2017-03-14T13:55:01+00:00
+322502,FK-0035,small_airport,"Fox Bay East Airstrip",-51.955049,-60.06315,,SA,FK,FK-U-A,"Fox Bay East",0,,,,,,,0,2017-03-27T10:47:56+00:00
+322579,FK-0037,closed,"Fox Bay Helipad",-51.948893,-60.066041,10,SA,FK,FK-U-A,"Fox Bay East",0,,,,,,,0,2017-04-02T10:24:41+00:00
+322404,FK-0023,small_airport,"George Island Airport",-52.349583,-59.758717,,SA,FK,FK-U-A,"George Island House",0,,,,,,,0,2017-03-14T14:43:30+00:00
+322424,FK-0030,closed,"Golding Island Airport",-51.365478,-59.691389,,SA,FK,FK-U-A,"Golding Island",0,,,,,,,0,2017-03-27T13:48:43+00:00
+322397,FK-0016,small_airport,"Hill Cove Airport",-51.504427,-60.144435,,SA,FK,FK-U-A,"Hill Cove",0,,,,,,,0,2017-03-14T13:59:32+00:00
+322403,FK-0022,small_airport,"Lively Island Airport",-51.995626,-58.459238,,SA,FK,FK-U-A,Lively,0,,,,,,,0,2017-03-14T14:41:56+00:00
+322399,FK-0018,small_airport,"New Island Airport",-51.746491,-61.281616,,SA,FK,FK-U-A,"New Island",0,,,,,,,0,2017-03-14T14:03:01+00:00
+322400,FK-0019,small_airport,"North Arm Airport",-52.123295,-59.370239,,SA,FK,FK-U-A,"North Arm",0,,,,,,,0,2017-03-14T14:08:43+00:00
+322504,FK-0036,small_airport,"Pebble Island Beach Airstrip",-51.310931,-59.566162,1,SA,FK,FK-U-A,"Pebble Island",0,,,,,,,0,2017-03-27T13:40:05+00:00
+322394,FK-0013,small_airport,"Port Abermarle Airport",-52.205532,-60.535062,,SA,FK,FK-U-A,"Port Abermarle",0,,,,,,,0,2017-03-14T13:47:47+00:00
+322495,FK-0032,small_airport,"Port Edgar Airport",-52.090803,-60.282682,65,SA,FK,FK-U-A,"Port Edgar",0,,,,,,,0,2017-03-26T14:55:49+00:00
+322500,FK-0033,small_airport,"Port Howard Airstrip",-51.613225,-59.516675,,SA,FK,FK-U-A,"Port Howard",0,,,,,,,0,2017-03-27T10:34:28+00:00
+322393,FK-0012,small_airport,"Port Stephens Airport",-52.09473,-60.852379,,SA,FK,FK-U-A,"Port Stephens",0,,,,,,,0,2017-03-14T13:44:51+00:00
+322401,FK-0020,small_airport,"Salvador Airport",-51.436639,-58.378874,,SA,FK,FK-U-A,Salvador,0,,,,,,,0,2017-03-14T14:24:59+00:00
+322402,FK-0021,closed,"San Carlos Airport",-51.575581,-59.041846,,SA,FK,FK-U-A,"San Carlos",0,,,,,,,0,2017-03-27T13:43:29+00:00
+322501,FK-0034,small_airport,"Sea Lion Island Airstrip",-52.441146,-59.127616,,SA,FK,FK-U-A,"Sea Lion Island",0,,,,,,,0,2017-03-27T10:43:54+00:00
+322396,FK-0015,small_airport,"Shallow Harbour Airport",-51.755735,-60.534498,,SA,FK,FK-U-A,"Shallow Harbour",0,,,,,,,0,2017-03-14T13:58:09+00:00
+322407,FK-0026,small_airport,"Speedwell Island Airport",-52.2299,-59.744502,,SA,FK,FK-U-A,"Speedwell Island",0,,,,,,,0,2017-03-14T14:51:39+00:00
+322406,FK-0025,closed,"Walker Creek Airport",-51.964171,-58.787408,,SA,FK,FK-U-A,"Walker Creek",0,,,,,,,0,2017-03-27T13:44:20+00:00
+322420,FK-0028,small_airport,"Weddell Island Airport",-51.875659,-60.90601,,SA,FK,FK-U-A,"Weddell Island",0,,,,,,,0,2017-03-15T14:53:25+00:00

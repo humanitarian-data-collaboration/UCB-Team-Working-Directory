@@ -1,0 +1,13 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5431,PGSN,medium_airport,"Saipan International Airport",15.119,145.729004,215,OC,MP,MP-U-A,"Saipan Island",1,PGSN,SPN,GSN,,http://en.wikipedia.org/wiki/Saipan_International_Airport,"Francisco C. Ada",1050,2018-08-08T18:26:07+00:00
+5434,PGWT,medium_airport,"Tinian International Airport",14.999199867248535,145.61900329589844,271,OC,MP,MP-U-A,"Tinian Island",0,PGWT,TIQ,TNI,,http://en.wikipedia.org/wiki/Tinian_International_Airport,,275,2008-06-13T14:30:04+00:00
+5430,PGRO,medium_airport,"Rota International Airport",14.174300193786621,145.2429962158203,607,OC,MP,MP-U-A,"Rota Island",1,PGRO,ROP,GRO,,http://en.wikipedia.org/wiki/Rota_International_Airport,,875,2009-08-22T11:10:30+00:00
+4783,TT01,small_airport,"Pagan Airstrip",18.124399185180664,145.7689971923828,34,OC,MP,MP-U-A,Shomu-Shon,0,TT01,,TT01,,http://en.wikipedia.org/wiki/Pagan_Airstrip,,50,2008-06-13T14:30:04+00:00
+4778,C21,heliport,"Commonwealth Health Center Heliport",15.209699630737305,145.7209930419922,16,OC,MP,MP-U-A,Garapan,0,C21,,C21,,,,25,2008-06-13T14:30:04+00:00
+4785,TT04,heliport,"Gualo Ral Heliport",15.1883001328,145.723999023,250,OC,MP,MP-U-A,"Gualo Ral",0,TT04,,TT04,,,,25,2013-11-20T21:57:42+00:00
+4781,HI63,heliport,"Coral Ocean Point Pro-Shop Heliport",15.114399909973145,145.70199584960938,125,OC,MP,MP-U-A,Koblerville,0,HI63,,HI63,,,,25,2008-06-13T14:30:04+00:00
+4782,HI64,heliport,"Tinian Dynasty Heliport",14.960032,145.631096,175,OC,MP,MP-U-A,"San Jose Tinian",0,HI64,,HI64,,,"Tinian Star Heliport",25,2016-12-16T09:19:59+00:00
+4777,0TT8,heliport,"Dynasty Heliport",14.963299751281738,145.64199829101562,150,OC,MP,MP-U-A,"San Jose, Tinian",0,0TT8,,0TT8,,,,25,2008-06-13T14:30:04+00:00
+4780,HI22,heliport,"Tinian Heliport",14.960000038146973,145.62600708007812,75,OC,MP,MP-U-A,"San Jose, Tinian",0,HI22,,HI22,,,,25,2008-06-13T14:30:04+00:00
+4784,TT03,heliport,"Nikko Heliport",15.25,145.783004761,60,OC,MP,MP-U-A,"San Roque",0,TT03,,TT03,,,,25,2013-03-23T22:00:00+00:00

@@ -1,0 +1,58 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+5235,OMDB,large_airport,"Dubai International Airport",25.2527999878,55.3643989563,62,AS,AE,AE-DU,Dubai,1,OMDB,DXB,,http://www.dubaiairport.com/dia/english/home/,http://en.wikipedia.org/wiki/Dubai_International_Airport,"مطار دبي الدولي‎",1013675,2013-05-04T06:01:33+00:00
+5226,OMAA,large_airport,"Abu Dhabi International Airport",24.433000564575195,54.651100158691406,88,AS,AE,AE-AZ,"Abu Dhabi",1,OMAA,AUH,,http://www.abudhabiairport.ae/,http://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport,,1275,2009-07-05T21:11:13+00:00
+5239,OMSJ,large_airport,"Sharjah International Airport",25.32859992980957,55.5172004699707,111,AS,AE,AE-SH,Sharjah,1,OMSJ,SHJ,,,http://en.wikipedia.org/wiki/Sharjah_International_Airport,,1050,2009-07-05T21:21:17+00:00
+300320,OMDW,large_airport,"Al Maktoum International Airport",24.896356,55.161389,114,AS,AE,AE-DU,"Jebel Ali",1,OMDW,DWC,,,http://en.wikipedia.org/wiki/Al_Maktoum_International_Airport,,0,2016-02-14T00:45:33+00:00
+5237,OMFJ,medium_airport,"Fujairah International Airport",25.112199783325195,56.32400131225586,152,AS,AE,AE-FU,,1,OMFJ,FJR,,,http://en.wikipedia.org/wiki/Fujairah_International_Airport,,1050,2008-08-03T11:48:23+00:00
+5238,OMRK,medium_airport,"Ras Al Khaimah International Airport",25.613500595092773,55.93880081176758,102,AS,AE,AE-RK,"Ras Al Khaimah",1,OMRK,RKT,,,http://en.wikipedia.org/wiki/Ras_Al_Khaimah_International_Airport,,875,2008-12-19T20:10:58+00:00
+5236,OMDM,medium_airport,"Al Minhad Air Base",25.0268001556,55.3661994934,165,AS,AE,AE-DU,Dubai,0,OMDM,NHD,,,http://en.wikipedia.org/wiki/Al_Minhad_Air_Base,,50,2012-01-01T14:01:33+00:00
+5230,OMAL,medium_airport,"Al Ain International Airport",24.261699676513672,55.60919952392578,869,AS,AE,AE-AZ,"Al Ain",1,OMAL,AAN,,,http://en.wikipedia.org/wiki/Al_Ain_International_Airport,,875,2009-07-05T21:13:18+00:00
+5227,OMAD,medium_airport,"Bateen Airport",24.428300857543945,54.458099365234375,16,AS,AE,AE-AZ,,0,OMAD,AZI,,,,,250,2008-08-03T11:48:20+00:00
+5231,OMAM,medium_airport,"Al Dhafra Air Base",24.248199462900004,54.547698974599996,77,AS,AE,AE-AZ,,0,OMAM,DHF,,https://www.dhafra.af.mil/,http://en.wikipedia.org/wiki/Al_Dhafra_Air_Base,,50,2012-07-19T20:09:31+00:00
+42255,OMUQ,small_airport,"Umm Al Quwain",25.57722282409668,55.6511116027832,,AS,AE,AE-UQ,,0,OMUQ,,,,,,50,2008-10-10T10:32:40+00:00
+2,OM11,small_airport,"Abu Dhabi Northeast Airport",24.51889991760254,54.980098724365234,88,AS,AE,AE-AZ,"Abu Dhabi",0,,,,,,,50,2009-07-05T21:12:30+00:00
+5228,OMAH,small_airport,"Al Hamra Aux Airport",24.073999404907227,52.463600158691406,50,AS,AE,AE-AZ,,0,OMAH,,,,,,50,2008-06-13T14:30:04+00:00
+5229,OMAJ,small_airport,"Jebel Dhana Airport",24.187400817871094,52.61399841308594,43,AS,AE,AE-AZ,,0,OMAJ,,,,,,50,2008-06-13T14:30:04+00:00
+42259,OMAF,small_airport,Futaysi,24.378889083862305,54.31611251831055,,AS,AE,AE-AZ,,0,OMAF,,,,,,50,2008-10-10T11:04:26+00:00
+42260,OMAB,small_airport,"Buhasa Airport",23.599700927734375,53.379398345947266,,AS,AE,AE-AZ,,0,OMAB,,,,,,50,2009-07-05T21:36:42+00:00
+42253,OMRS,small_airport,"Al Saqr Field",25.752777099609375,55.95944595336914,,AS,AE,AE-RK,,0,OMRS,,,,,,50,2008-10-10T10:13:33+00:00
+5232,OMAR,small_airport,"Arzanah Airport",24.780500411987305,52.559898376464844,15,AS,AE,AE-AZ,"Arzanah Island",0,OMAR,,,,,,50,2009-07-05T20:48:55+00:00
+5233,OMAS,small_airport,"Das Island Airport",25.14620018005371,52.87369918823242,12,AS,AE,AE-AZ,"Das Island",0,OMAS,,,,,,50,2009-07-05T20:51:06+00:00
+42258,OMAQ,small_airport,"Qarnayn Airport",24.930599212646484,52.855098724365234,,AS,AE,AE-AZ,"Qarnayn Island",0,OMAQ,,,,,,50,2009-07-05T20:47:20+00:00
+42254,OM10,small_airport,"Yas Island Airport",24.284000396728516,52.58039855957031,,AS,AE,AE-AZ,"Yas Island",0,,,,,,,50,2009-07-05T20:52:06+00:00
+5234,OMAZ,small_airport,"Zirku Airport",24.862491607666016,53.07714080810547,14,AS,AE,AE-AZ,"Zirku Island",0,OMAZ,,,,,,50,2009-07-05T20:44:12+00:00
+42256,OMAC,closed,"Asab Airfield",23.298099517822266,54.22169876098633,,AS,AE,AE-AZ,,0,OMAC,,,,,,0,2009-07-05T21:35:16+00:00
+315653,OMBY,medium_airport,"Sir Bani Yas Airport",24.283611,52.580278,25,AS,AE,AE-AZ,,0,OMBY,XSB,OMBY,,https://en.wikipedia.org/wiki/Sir_Bani_Yas_Airport,,0,2015-10-06T05:22:11+00:00
+319177,AE-0014,heliport,"Ghantoot Racing & Polo Club Helipad",24.86824,54.905556,,AS,AE,AE-AZ,,0,,,,http://www.grpc.ae/helipad.html,,,0,2016-06-28T07:51:16+00:00
+319178,AE-0015,heliport,"Golden Tulip Al Jazira Helipad",24.858628,54.894996,,AS,AE,AE-AZ,,0,,,,,,,0,2016-06-28T07:52:23+00:00
+319179,AE-0016,heliport,"Ghantoot Hotel 1 Helipad",24.866038,54.88826,,AS,AE,AE-AZ,,0,,,,,,,0,2016-06-28T07:53:53+00:00
+319180,AE-0017,heliport,"Ghantoot Hotel 2 Helipad",24.865417,54.882283,,AS,AE,AE-AZ,,0,,,,,,,0,2016-06-28T07:54:32+00:00
+319181,AE-0018,heliport,"Ghantoot Hotel 3 Helipad",24.894949,54.860294,,AS,AE,AE-AZ,,0,,,,,,,0,2016-06-28T07:55:26+00:00
+319188,AE-0023,heliport,"Al Forsan Helipad",24.406998,54.543507,,AS,AE,AE-AZ,,0,,,,,,,0,2016-06-28T08:11:13+00:00
+319192,AE-0024,small_airport,"Yasat Higher Airport",24.221075,52.006719,,AS,AE,AE-AZ,,0,,,,,,,0,2016-06-28T08:28:15+00:00
+300977,AE-0003,small_airport,"Dubai Skydive",25.0898742332,55.1366257668,,AS,AE,AE-DU,,0,,,,http://www.skydivedubai.ae/facilities/index.htm,,,0,2012-03-17T17:49:41+00:00
+307257,AE-0004,heliport,"Sheikh Sultan Bin Khalifa bin Zayed Al Nahyan palace Heliport Complex",25.1225658976,55.1746809483,,AS,AE,AE-DU,,0,,,,,,,0,2012-09-24T06:04:31+00:00
+313547,AE-0007,heliport,"Al Ghuwaifat Border Post helipad",24.120421,51.600595,,AS,AE,AE-DU,,0,,,,,,,0,2015-01-06T23:26:21+00:00
+313548,AE-0008,heliport,"Al Ghuwaifat Customs Post helipad",24.128339,51.616767,,AS,AE,AE-DU,,0,,,,,,,0,2015-01-06T23:53:35+00:00
+319174,AE-0011,heliport,"Palm Jumeirah Heliport",25.127297,55.114092,,AS,AE,AE-DU,,0,,,,,,,0,2016-06-28T07:41:48+00:00
+319175,AE-0012,heliport,"Waldorf Astoria Dubai Palm Jumeirah Helipad",25.133372,55.150379,,AS,AE,AE-DU,,0,,,,,,,0,2016-06-28T07:43:19+00:00
+329796,AE-0030,medium_airport,"FIVE STAR FINANCE COMPANY",0,0,,AS,AE,AE-DU,,0,,,,,,,0,2018-12-04T15:40:45+00:00
+319176,AE-0013,heliport,"Oceana Palm Jumeirah Helipad",25.110083,55.135169,,AS,AE,AE-U-A,,0,,,,,,,0,2016-06-28T07:47:21+00:00
+325303,AE-0026,closed,"Erase Me 21",0,-0.6,,AS,AE,AE-U-A,,0,,,,,,,0,2017-11-26T09:39:34+00:00
+325970,AE-0027,closed,"marked as spam",0,0,,AS,AE,AE-U-A,,0,0000,,,,,,0,2018-09-14T04:02:09+00:00
+307258,AE-0005,heliport,"Kempinski Emirates Palace Twin Heliport",24.462267882799996,54.3205904961,,AS,AE,AE-UQ,,0,,,,,http://en.wikipedia.org/wiki/Emirates_Palace,,0,2012-09-24T06:09:52+00:00
+317271,AYM,seaplane_base,"Yas Island Seaplane Base",24.467,54.6103,0,AS,AE,AE-AZ,"Abu Dhabi",0,,AYM,,,,,0,2016-03-12T21:21:25+00:00
+319184,AE-0020,heliport,"Yas Marina Heliport",24.468368,54.609561,,AS,AE,AE-AZ,"Abu Dhabi",0,,,,,,,0,2016-06-28T08:04:12+00:00
+319185,AE-0021,heliport,"Yas Marina Circuit Heliport",24.469136,54.603443,,AS,AE,AE-AZ,"Abu Dhabi",0,,,,,,,0,2016-06-28T08:04:53+00:00
+319187,AE-0022,heliport,"Al Mushrif Palace Helipad",24.452066,54.377368,,AS,AE,AE-AZ,"Abu Dhabi",0,,,,,,,0,2016-06-28T08:08:03+00:00
+319193,AE-0025,heliport,"Sila Hospitals Helipad",24.068301,51.762519,,AS,AE,AE-AZ,"Baya Al Sila",0,,,,,,,0,2016-06-28T08:29:23+00:00
+329478,AE-0028,small_airport,"osman anisa",0,0,,AS,AE,AE-DU,"Business Bay",0,,,,,,,0,2018-10-19T08:18:29+00:00
+315507,ZDY,small_airport,"Delma Airport",24.51,52.3352,30,AS,AE,AE-AZ,"Delma Island",1,OMDL,ZDY,,http://www.adac.ae/english/what-we-do/airports/delma-airport,https://en.wikipedia.org/wiki/Dalma_Airport,Dalma,0,2015-09-21T23:58:06+00:00
+315508,AE-0009,heliport,"Delma Hospital Helipad",24.4756,52.3101,17,AS,AE,AE-AZ,"Delma Island",0,,,,,,,0,2015-09-22T00:16:12+00:00
+44426,AE-0002,heliport,"Burj al Arab Resort Helipad",25.141327,55.185496,689,AS,AE,AE-DU,Dubai,0,,,,http://www.jumeirah.com/en/Hotels-and-Resorts/Destinations/Dubai/Burj-Al-Arab/,,,0,2016-06-28T07:34:54+00:00
+300319,DCG,seaplane_base,"Dubai Creek SPB",25.2422222222,55.3313888889,,AS,AE,AE-DU,Dubai,0,,DCG,,,,,0,2012-01-01T13:45:21+00:00
+319172,AE-0010,heliport,"Schumacher Heliport",25.221807,55.138836,,AS,AE,AE-DU,Dubai,0,,,,,,,0,2016-06-28T07:38:28+00:00
+319183,AE-0019,heliport,"Dubai Festival City Helipad",25.220765,55.349227,,AS,AE,AE-DU,Dubai,0,,,,,,,0,2016-06-28T07:59:41+00:00
+329785,AE-0029,closed,"DUPLICATE: Dubai Creek Golf & Yacht Club",0.7,0,,AS,AE,AE-DU,Dubai,0,,,DGC,,,,0,2018-12-02T22:24:16+00:00
+313546,AE-0006,seaplane_base,"Jebel Ali Seaplane Base",24.988967,55.023796,0,AS,AE,AE-DU,"Jebel Ali",0,,DJH,,,,,0,2015-10-02T07:05:43+00:00
