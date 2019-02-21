@@ -1,8 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-3202,HHAS,medium_airport,"Asmara International Airport",15.291899681091309,38.910701751708984,7661,AF,ER,ER-SK,Asmara,1,HHAS,ASM,,,http://en.wikipedia.org/wiki/Asmara_International_Airport,,1050,2008-12-19T20:07:48+00:00
-3204,HHSB,medium_airport,"Assab International Airport",13.071800231933594,42.64500045776367,46,AF,ER,ER-DK,Asab,1,HHSB,ASA,,,http://en.wikipedia.org/wiki/Asseb_International_Airport,,800,2008-12-19T20:07:52+00:00
-3203,HHMS,medium_airport,"Massawa International Airport",15.670000076293945,39.37009811401367,194,AF,ER,ER-SK,Massawa,1,HHMS,MSW,,,http://en.wikipedia.org/wiki/Massawa_International_Airport,,800,2008-12-19T20:07:50+00:00
-32435,HHTS,small_airport,"Tessenei Airport",15.104322,36.681711,2018,AF,ER,ER-GB,Tessenei,0,HHTS,TES,,,,,50,2016-02-18T07:15:14+00:00
-44869,ER-0001,small_airport,"Dahalak Island Airfield",15.68151,40.104431,,AF,ER,ER-SK,,0,,,,,,,0,2009-10-20T12:11:58+00:00
-324060,HHAG,small_airport,"Agordat Airport",15.536688,37.862933,,AF,ER,ER-GB,Agordat,0,HHAG,,,,,,0,2017-06-24T13:06:22+00:00

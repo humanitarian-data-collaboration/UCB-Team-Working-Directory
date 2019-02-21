@@ -1,5 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-6359,TAPA,medium_airport,"V.C. Bird International Airport",17.1367,-61.792702,62,NA,AG,AG-03,"St. John's",1,TAPA,ANU,,,http://en.wikipedia.org/wiki/VC_Bird_International_Airport,,875,2018-08-27T04:40:10+00:00
-35328,TAPH,small_airport,"Codrington Airport",17.635799,-61.828602,15,NA,AG,AG-10,Codrington,1,TAPH,BBQ,,,http://en.wikipedia.org/wiki/Codrington_Airport,,450,2009-10-20T12:07:06+00:00
-35326,TAPT,small_airport,"Coco Point Lodge Airstrip",17.555599,-61.765301,15,NA,AG,AG-10,"Coco Point",0,TAPT,,,,,,50,2009-10-20T12:07:06+00:00

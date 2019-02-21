@@ -1,7 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-26632,VQPR,medium_airport,"Paro Airport",27.403200149499998,89.42459869380001,7332,AS,BT,BT-11,Paro,1,VQPR,PBH,,,http://en.wikipedia.org/wiki/Paro_Airport,,800,2010-09-01T18:41:33+00:00
-606,VQ10,small_airport,"Yongphulla Airport",27.256399,91.514503,9000,AS,BT,BT-41,Tashigang,1,VQTY,YON,,,http://en.wikipedia.org/wiki/Yongphulla_Airport,"Yonphula Airport, VQ10",50,2016-02-14T01:10:00+00:00
-308995,VQGP,medium_airport,"Gelephu Airport",26.88456,90.46412,980,AS,BT,BT-31,Gelephu,0,VQGP,GLU,,,http://en.wikipedia.org/wiki/Gelephu_Airport,,0,2013-07-09T23:56:47+00:00
-315554,VQBT,small_airport,"Bathpalathang Airport",27.5622,90.7471,8485,AS,BT,BT-33,Jakar,1,VQBT,BUT,,,https://en.wikipedia.org/wiki/Bathpalathang_Airport,,0,2018-09-21T18:28:17+00:00
-321776,VQTU,heliport,"Thimphu Heliport",27.4513,89.6557,7608,AS,BT,BT-15,Thimphu,0,VQTU,,,,,QJC,0,2017-01-08T18:59:33+00:00

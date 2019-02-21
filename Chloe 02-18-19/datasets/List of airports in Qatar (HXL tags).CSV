@@ -1,8 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-44686,QA-0001,large_airport,"Hamad International Airport",25.273056,51.608056,13,AS,QA,QA-DA,Doha,1,OTHH,DOH,,http://dohahamadairport.com/,http://en.wikipedia.org/wiki/Hamad_International_Airport,"New Doha International Airport",0,2015-02-22T00:16:01+00:00
-5308,OTBD,medium_airport,"Doha International Airport",25.261101,51.565102,35,AS,QA,QA-DA,Doha,0,OTBD,DIA,,http://www.dohaairport.com/,http://en.wikipedia.org/wiki/Doha_International_Airport,"مطار الدوحة الدولى",1050,2019-02-09T09:18:20+00:00
-5309,OTBH,medium_airport,"Al Udeid Air Base",25.1173000336,51.3149986267,130,AS,QA,QA-RA,"Ar Rayyan",0,OTBH,XJD,,,http://en.wikipedia.org/wiki/Al_Udeid_Air_Base,,250,2013-06-27T19:10:17+00:00
-5310,OTBK,small_airport,"Al Khawr Airport",25.629600524902344,51.50669860839844,10,AS,QA,QA-KH,"Al Khawr",0,OTBK,,,,,"Al Khor",50,2009-02-23T13:54:51+00:00
-319191,QA-0003,heliport,"Banana Island Helipad",25.296837,51.639031,,AS,QA,QA-RA,,0,,,,,,,0,2016-06-28T08:23:30+00:00
-313549,QA-0002,heliport,"As Salwa Border Post helipad",24.747763,50.851541,,AS,QA,QA-RA,"As Salwa",0,,,,,,,0,2016-02-10T20:19:59+00:00

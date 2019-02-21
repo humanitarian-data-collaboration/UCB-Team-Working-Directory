@@ -1,4 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-41841,AD-ALV,heliport,"Andorra la Vella Heliport",42.511174,1.533551,3450,EU,AD,AD-07,"Andorra La Vella",0,,ALV,,,http://pl.wikipedia.org/wiki/Heliport_Andorra_la_Vella,,0,2016-10-24T07:36:01+00:00
-318235,AD-0001,heliport,"Camí Heliport",42.546257,1.51916,,EU,AD,AD-04,"La Massana",0,,,,,,,0,2018-01-04T16:54:27+00:00

@@ -1,4 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-30153,LNMC,heliport,"Monaco Heliport",43.7256011963,7.4191699028,20,EU,MC,MC-U-A,Fontvieille,1,LNMC,MCM,,,http://en.wikipedia.org/wiki/Monte_Carlo_Heliport,"Monte Carlo Heliport",350,2013-07-07T01:50:19+00:00
-319195,MC-0001,heliport,"Jimmy'z Helipad",43.746543,7.43894,,EU,MC,MC-U-A,,0,,,,,,,0,2016-06-28T08:56:37+00:00

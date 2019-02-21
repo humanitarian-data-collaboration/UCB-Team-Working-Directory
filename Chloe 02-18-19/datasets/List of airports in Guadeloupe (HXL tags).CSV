@@ -1,8 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-6366,TFFR,large_airport,"Pointe-à-Pitre Le Raizet",16.265301,-61.531799,36,NA,GP,GP-U-A,Pointe-à-Pitre,1,TFFR,PTP,,http://www.guadeloupe.aeroport.fr/,http://en.wikipedia.org/wiki/Pointe-%C3%A0-Pitre_International_Airport,"Le Raizet, Les Abymes",1050,2017-09-08T07:02:22+00:00
-6365,TFFM,medium_airport,"Les Bases Airport",15.86870002746582,-61.27000045776367,16,NA,GP,GP-U-A,"Grand Bourg",1,TFFM,GBJ,,,,"Marie Galante",800,2008-06-13T14:30:04+00:00
-30683,TFFB,small_airport,"Baillif Airport",16.0132999420166,-61.7421989440918,59,NA,GP,GP-U-A,"Basse Terre",1,TFFB,BBR,,,,,450,2008-06-13T14:30:04+00:00
-30948,TFFA,small_airport,"La Désirade Airport",16.296902,-61.0844,10,NA,GP,GP-U-A,"Grande Anse",1,TFFA,DSD,,,https://en.wikipedia.org/wiki/La_D%C3%A9sirade_Airport,,450,2017-04-09T21:52:22+00:00
-32286,TFFC,small_airport,"St-François Airport",16.25779914855957,-61.26250076293945,10,NA,GP,GP-U-A,St-François,1,TFFC,SFC,,,,,450,2008-06-13T14:30:04+00:00
-31853,TFFS,small_airport,"Terre-de-Haut Airport",15.86439991,-61.5806007385,46,NA,GP,GP-U-A,"Les Saintes",0,TFFS,LSS,,,http://en.wikipedia.org/wiki/Les_Saintes_Airport,,50,2012-11-26T12:04:43+00:00

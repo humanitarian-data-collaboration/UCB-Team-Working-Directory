@@ -1,9 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-4427,LMML,large_airport,"Malta International Airport",35.857498,14.4775,300,EU,MT,MT-25,Valletta,1,LMML,MLA,,http://www.maltairport.com/en/home.htm,http://en.wikipedia.org/wiki/Malta_International_Airport,"Luqa Airport,Valletta,Gudja,RAF Luqa",1275,2017-08-14T22:19:06+00:00
-35207,LMMG,heliport,"Xewkija Heliport",36.027199,14.2728,,EU,MT,MT-62,Gozo,1,LMMG,GZM,,,,,625,2013-11-30T08:58:01+00:00
-312348,MT-0003,closed,"Ta' Qali",35.896914,14.418733,,EU,MT,MT-01,,0,,,,,,,0,2014-07-02T18:10:30+00:00
-312346,MT-0001,closed,"Hal Far Airfield",35.81333,14.513379,235,EU,MT,MT-05,,0,,,,,http://en.wikipedia.org/wiki/RAF_Hal_Far,"HMS Falcon",0,2014-07-02T23:33:45+00:00
-312347,MT-0002,closed,Safi,35.839985,14.494478,,EU,MT,MT-25,,0,,,,,,,0,2014-07-02T18:07:18+00:00
-312349,MT-0004,closed,Qrendi,35.835423,14.435584,,EU,MT,MT-44,,0,,,,,,,0,2014-07-02T18:16:08+00:00
-312350,MT-0005,closed,"Marsa Airfield",35.876926,14.489352,,EU,MT,MT-26,Marsa,0,,,,,,,0,2016-01-30T16:06:20+00:00

@@ -1,8 +1,0 @@
-id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
-3112,GMML,medium_airport,"Hassan I Airport",27.151699,-13.2192,207,AF,EH,EH-U-A,"El Aaiún",1,GMML,EUN,,,http://en.wikipedia.org/wiki/Hassan_Airport,"GSAI, Laâyoune",875,2016-06-19T11:48:02+00:00
-3110,GMMH,medium_airport,"Dakhla Airport",23.7183,-15.932,36,AF,EH,EH-U-A,Dakhla,1,GMMH,VIL,,,http://en.wikipedia.org/wiki/Dakhla_Airport,"GSVO, Villa Cisneros, Dajla, Oued Ed-Dahab",800,2016-06-19T12:11:56+00:00
-3108,GMMA,medium_airport,"Smara Airport",26.7318,-11.6847,350,AF,EH,EH-U-A,Smara,1,GMMA,SMW,,,http://en.wikipedia.org/wiki/Smara_Airport,"GSMA, Semara",800,2016-06-19T22:55:03+00:00
-318924,EH-0002,small_airport,"Al Mahbes Airstrip",27.409695,-9.073016,1520,AF,EH,EH-U-A,"Al Mahbes",0,,,,,,,0,2016-06-19T23:35:31+00:00
-318919,ZLG,closed,"La Güera Airport",20.836389,-17.074167,10,AF,EH,EH-U-A,"La Güera",0,,ZLG,,,https://en.wikipedia.org/wiki/La_G%C3%BCera_Airport,,0,2017-05-03T22:32:21+00:00
-318923,EH-0001,small_airport,"Tifariti Airstrip",26.15126,-10.564245,1624,AF,EH,EH-U-A,Tifariti,0,,,,,,,0,2016-06-19T23:22:40+00:00
