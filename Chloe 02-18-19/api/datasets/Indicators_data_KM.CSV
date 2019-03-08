@@ -1,0 +1,266 @@
+category,indicator,indicator_friendly,type_data,latitude,longitude,region_id,country_id,name,year,value
+#meta+category,#indicator+name,#indicator+description,#indicator+type,#geo+lat,#geo+lon,#region+code,#country+code+v_iso2,#country+name,#date+year,#indicator+value
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1985,1.8
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1955,6.32
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2020,1.53
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1990,0.31
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1960,6.04
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2025,1.84
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1995,-0.16
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1965,2.66
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2030,1.8
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2000,-0.14
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1970,1.82
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2035,1.69
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2005,0.22
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1975,1.78
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2040,1.59
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2010,0.68
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1980,1.85
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2045,1.49
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,1950,6.53
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,-12.1,44.15,289,KM,Comoros,2015,1.12
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,-12.1,44.15,289,KM,Comoros,2000,15.74
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,-12.1,44.15,289,KM,Comoros,1999,20.13
+Education,net_enrolment_rate_2_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 2 Shelter deprivation,p,-12.1,44.15,289,KM,Comoros,1996,42.3
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,-12.1,44.15,289,KM,Comoros,1996,21.7
+Population,pop_urban_percentage,Percentage of national population living in urban areas,p,-12.1,44.15,289,KM,Comoros,2007,27.9
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,-12.1,44.15,289,KM,Comoros,2000,59.62
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,-12.1,44.15,289,KM,Comoros,1999,64.55
+Slum dwellers,connection_to_electricity,Connection to electricity,p,-12.1,44.15,289,KM,Comoros,1996,51.8
+Slum dwellers,improved_pit_latrine,Access to improved pit latrine,p,-12.1,44.15,289,KM,Comoros,1996,32.1
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,-12.1,44.15,289,KM,Comoros,1996,7.6
+Slum dwellers,rainwater,Access to rainwater,p,-12.1,44.15,289,KM,Comoros,1996,20.9
+Slum dwellers,piped_water,Access to piped water,p,-12.1,44.15,289,KM,Comoros,1996,38.8
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1985,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1955,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,2020,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1990,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1960,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,2025,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1995,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1965,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,2000,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1970,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,2005,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1975,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,2010,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1980,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,1950,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,-12.1,44.15,289,KM,Comoros,2015,100
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,-12.1,44.15,289,KM,Comoros,1996,94.6
+Education,net_enrolment_rate_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Slum,p,-12.1,44.15,289,KM,Comoros,1996,47.9
+Slum dwellers,improved_floor,Access to improved flooring,p,-12.1,44.15,289,KM,Comoros,1996,65.8
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,-12.1,44.15,289,KM,Comoros,1996,58.9
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2050,869
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1950,11
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1955,18
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1960,27
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1965,41
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1970,53
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1975,67
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1980,90
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1985,116
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1990,147
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,1995,172
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2000,196
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2005,223
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2007,234
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2010,254
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2015,294
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2020,343
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2025,405
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2030,484
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2035,572
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2040,667
+Population,urban_population_countries,Urban population – Countries,1000,-12.1,44.15,289,KM,Comoros,2045,767
+Education,net_enrolment_rate_non_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Non slum,p,-12.1,44.15,289,KM,Comoros,1996,76.1
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,-12.1,44.15,289,KM,Comoros,2000,101
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,-12.1,44.15,289,KM,Comoros,1995,91
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,-12.1,44.15,289,KM,Comoros,2005,119
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,-12.1,44.15,289,KM,Comoros,1990,80
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,-12.1,44.15,289,KM,Comoros,2007,124
+Resilience,number_of_cyclones,Average annual number of events in cyclones,n,-12.1,44.15,289,KM,Comoros,1980,0.19
+Health,children_with_diarrhea_non_slum,Proportion of children with diarrhea in last two weeks – Non-slum,p,-12.1,44.15,289,KM,Comoros,1996,19.7
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,-12.1,44.15,289,KM,Comoros,1996,34.9
+Health,children_with_diarrhea_urban,Proportion of children with diarrhea in last two weeks – Urban,p,-12.1,44.15,289,KM,Comoros,1996,27.5
+Education,net_enrolment_rate_urban,Net enrolment rate in primary education in urban and rural areas (Male) – Urban,p,-12.1,44.15,289,KM,Comoros,1996,55.5
+Health,children_with_diarrhea_1_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 1 Shelter deprivation,p,-12.1,44.15,289,KM,Comoros,1996,29.6
+Education,net_enrolment_rate_3_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 3 Shelter deprivation,p,-12.1,44.15,289,KM,Comoros,1996,29.4
+Population,has_telephone,Access to telephone,p,-12.1,44.15,289,KM,Comoros,1996,9
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,-12.1,44.15,289,KM,Comoros,1996,72.2
+Health,children_with_diarrhea_2_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 2 Shelter deprivation,p,-12.1,44.15,289,KM,Comoros,1996,31.3
+Education,net_enrolment_rate_rural,Net enrolment rate in primary education in urban and rural areas (Male) – Rural,p,-12.1,44.15,289,KM,Comoros,1996,41.8
+Crime,recorded_bribery_rate,Recorded bribery rate per 100,000 population,n,-12.1,44.15,289,KM,Comoros,2000,0.01
+Crime,recorded_bribery_rate,Recorded bribery rate per 100,000 population,n,-12.1,44.15,289,KM,Comoros,1999,0.02
+Resilience,loss_of_lives_in_cyclones,Average annual loss of lives in cyclones,n,-12.1,44.15,289,KM,Comoros,1980,2.81
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2048,1.03
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2049,1.03
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1950,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1951,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1952,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1953,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1954,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1955,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1956,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1957,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1958,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1959,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1960,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1961,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1962,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1963,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1964,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1965,2.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1966,2.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1967,2.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1968,2.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1969,2.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1970,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1971,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1972,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1973,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1974,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1975,3.94
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1976,3.94
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1977,3.94
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1978,3.94
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1979,3.94
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1980,3.29
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1981,3.29
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1982,3.29
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1983,3.29
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1984,3.29
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1985,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1986,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1987,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1988,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1989,2.89
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1990,2.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1991,2.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1992,2.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1993,2.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1994,2.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1995,2.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1996,2.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1997,2.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1998,2.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,1999,2.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2000,2.65
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2001,2.65
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2002,2.65
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2003,2.65
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2004,2.65
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2005,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2006,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2007,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2008,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2009,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2010,2.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2011,2.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2012,2.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2013,2.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2014,2.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2015,1.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2016,1.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2017,1.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2018,1.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2019,1.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2020,1.81
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2021,1.81
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2022,1.81
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2023,1.81
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2024,1.81
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2025,1.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2026,1.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2027,1.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2028,1.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2029,1.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2030,1.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2031,1.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2032,1.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2033,1.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2034,1.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2035,1.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2036,1.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2037,1.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2038,1.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2039,1.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2040,1.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2041,1.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2042,1.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2043,1.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2044,1.2
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2045,1.03
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2046,1.03
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,-12.1,44.15,289,KM,Comoros,2047,1.03
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,-12.1,44.15,289,KM,Comoros,2000,65.4
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,-12.1,44.15,289,KM,Comoros,1995,65.4
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,-12.1,44.15,289,KM,Comoros,2005,68.9
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,-12.1,44.15,289,KM,Comoros,1990,65.4
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,-12.1,44.15,289,KM,Comoros,2007,68.9
+Health,children_with_diarrhea_total,Proportion of children with diarrhea in last two weeks – Total,p,-12.1,44.15,289,KM,Comoros,1996,23.1
+Slum dwellers,improved_toilet,Access to improved toilet,p,-12.1,44.15,289,KM,Comoros,1996,69.2
+Resilience,number_of_refugees_by_country_of_asylum,Number of refugees by country of asylum,n,-12.1,44.15,289,KM,Comoros,2005,1
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2050,1715
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1950,173
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1955,194
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1960,215
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1965,240
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1970,275
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1975,318
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1980,387
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1985,456
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1990,527
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,1995,607
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2000,699
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2005,798
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2007,839
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2010,902
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2015,1007
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2020,1112
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2025,1217
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2030,1325
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2035,1431
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2040,1534
+Population,population,Total population,1000,-12.1,44.15,289,KM,Comoros,2045,1629
+Health,children_with_diarrhea_slum,Proportion of children with diarrhea in last two weeks – Slum,p,-12.1,44.15,289,KM,Comoros,1996,30.2
+Education,net_enrolment_rate_1_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 1 Shelter deprivation,p,-12.1,44.15,289,KM,Comoros,1996,60
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2050,845
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1950,161
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1955,176
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1960,188
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1965,199
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1970,221
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1975,250
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1980,297
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1985,340
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1990,380
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,1995,435
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2000,503
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2005,575
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2007,605
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2010,648
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2015,713
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2020,769
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2025,812
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2030,841
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2035,860
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2040,867
+Population,rural_population,Rural population,1000,-12.1,44.15,289,KM,Comoros,2045,862
+Resilience,loss_of_lives_in_cyclones_per_million_population,Number of loss of lives in cyclones per million population,n,-12.1,44.15,289,KM,Comoros,1980,5.97
+Slum dwellers,slum_population,Slum population – Urban,1000,-12.1,44.15,289,KM,Comoros,2000,128
+Slum dwellers,slum_population,Slum population – Urban,1000,-12.1,44.15,289,KM,Comoros,1995,112
+Slum dwellers,slum_population,Slum population – Urban,1000,-12.1,44.15,289,KM,Comoros,2005,153
+Slum dwellers,slum_population,Slum population – Urban,1000,-12.1,44.15,289,KM,Comoros,1990,96
+Slum dwellers,slum_population,Slum population – Urban,1000,-12.1,44.15,289,KM,Comoros,2007,162
+Population,percentage_of_international_migrants,Percentage of international migrants,p,-12.1,44.15,289,KM,Comoros,2000,8.7
+Population,percentage_of_international_migrants,Percentage of international migrants,p,-12.1,44.15,289,KM,Comoros,1995,8.6
+Population,percentage_of_international_migrants,Percentage of international migrants,p,-12.1,44.15,289,KM,Comoros,2005,8.4
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,-12.1,44.15,289,KM,Comoros,2000,65.4
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,-12.1,44.15,289,KM,Comoros,1995,65.4
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,-12.1,44.15,289,KM,Comoros,2005,68.9
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,-12.1,44.15,289,KM,Comoros,1990,65.4
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,-12.1,44.15,289,KM,Comoros,2007,68.9
+Slum dwellers,durable_housing_urban_population_countries,Proportion of urban population with durable housing – Countries,p,-12.1,44.15,289,KM,Comoros,1996,65.8
+Resilience,refugees_by_country_of_origin,Number of refugees by country of origin,n,-12.1,44.15,289,KM,Comoros,2005,61

@@ -1,24 +1,42 @@
 import pandas as pd
 import pickle
 import numpy as np
+from sklearn.neural_network import MLPClassifier
+from fastText import load_model
+from Model import process_dataset_2
+
+#testing MLP Classifier
+from sklearn.neural_network import MLPClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error
-from sklearn import linear_model
+
+fasttext_model = 'wiki.en.bin'
+fmodel = load_model(fasttext_model)
+# print("Pre-trained model loaded successfully!\n")
 
 
+col_names = ['Header', 'Tag', 'Attributes','Data','Relative Column Position','Dataset_name', 'Organization','Index']
+headers_and_tags= pd.DataFrame(columns = col_names)
 
-#creat some dummy data to test the api
-X, y = np.arange(10).reshape((5, 2)), range(5)
+# for i in range(5):
+rand_dataset = np.random.randint(0, len(datasets_HXL))
+process_dataset_2(datasets_HXL[rand_dataset], 'CSV', headers_and_tags, './datasets', count)
 
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
+#Classification using only headers
+df = headers_and_tags
+df['Header_embedding'] = df['Header'].map(lambda x: fmodel.get_sentence_vector(str(x)))
+df['Organization_embedded'] = df['Organization'].map(lambda x: fmodel.get_sentence_vector(str(x)))
+print("Word embeddings extracted!\n")
 
-#creating a model and training it
-regr = linear_model.RidgeCV(alphas= np.arange(0.1,10.0,.5))
-regr.fit(X_train, y_train)
+X_train, X_test, y_train, y_test = train_test_split(df['Header_embedding'], 
+                                                    df['Tag'], test_size=0.33, random_state=0)
+clf = MLPClassifier(activation='relu', alpha=0.001, epsilon=1e-08, hidden_layer_sizes=1, solver='adam')
+clf.fit(X_train.values.tolist(), y_train.values.tolist())
+clf.predict(X_test.values.tolist())
+
 
 #exporting my model
-pickle.dump(regr,open("model.pkl","wb"))
+pickle.dump(clf,open("model.pkl","wb"))
 
 # #checking for error
 # ans = regr.predict(X_test)

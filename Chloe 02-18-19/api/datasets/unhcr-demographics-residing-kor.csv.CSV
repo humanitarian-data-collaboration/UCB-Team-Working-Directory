@@ -1,0 +1,201 @@
+Year,Country / territory of asylum/residence,Location Name,Female 0-4,Female 5-11,Female 5-17,Female 12-17,Female 18-59,Female 60+,F: Unknown,F: Total,Male 0-4,Male 5-11,Male 5-17,Male 12-17,Male 18-59,Male 60+,M: Unknown,M: Total,Overall total
+#date+year,#country+residence,#loc+name,#affected+f+children+age0_4,#affected+f+children+age5_11,#affected+f+children+age5_17,#affected+f+adolescents+age12_17,#affected+f+adults+age18_59,#affected+f+elderly+age60plus,#affected+f+other,#affected+f+total,#affected+m+children+age0_4,#affected+m+children+age5_11,#affected+m+children+age5_17,#affected+m+adolescents+age12_17,#affected+m+adults+age18_59,#affected+m+elderly+age60plus,#affected+m+other,#affected+m+total,#affected+all+total
+2005,Rep. of Korea,Seoul,6,,2,,120,12,0,140,5,,3,,436,4,0,448,588
+2006,Rep. of Korea,Seoul/Kyunggi,8,1,1,0,133,11,0,154,8,3,3,0,542,4,0,560,710
+2007,Rep. of Korea,Seoul/Kyunggi Province,11,2,3,1,206,12,0,235,10,4,5,1,971,2,0,993,1220
+2007,Rep. of Korea,Daejeon,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,2
+2007,Rep. of Korea,Daegu,0,0,0,0,7,0,0,7,1,0,0,0,39,0,0,40,47
+2007,Rep. of Korea,Cheongju,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+2007,Rep. of Korea,Busan,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,3
+2008,Rep. of Korea,Seoul/Kyunggi Province,8,9,11,2,226,14,,270,13,10,12,2,953,6,,996,1243
+2008,Rep. of Korea,Suwon,,,0,,7,,,7,,,0,,34,2,,36,43
+2008,Rep. of Korea,Pohang,,,0,,,,,0,,,0,,1,,,1,1
+2008,Rep. of Korea,Masan,,,0,,,,,0,,,0,,6,,,6,6
+2008,Rep. of Korea,Incheon,,1,1,,6,,,8,,,0,,26,,,26,33
+2008,Rep. of Korea,Gwangju,,,0,,,,,0,,,0,,2,,,2,2
+2008,Rep. of Korea,Euijeongbu,,,0,,1,,,1,,,0,,2,,,2,3
+2008,Rep. of Korea,Daejeon,,,0,,1,1,,2,,1,1,,10,1,,13,14
+2008,Rep. of Korea,Daegu,,,1,1,14,,,16,1,1,2,1,64,,,69,82
+2008,Rep. of Korea,Cheongju,,,0,,,,,0,,,0,,4,,,4,4
+2008,Rep. of Korea,Busan,,,0,,8,1,,9,,,0,,21,,,21,30
+2009,Rep. of Korea,Whasung,0,0,0,0,3,1,0,4,0,0,0,0,5,0,0,5,9
+2009,Rep. of Korea,Suwon,0,0,0,0,1,0,0,1,0,0,0,0,4,1,0,5,6
+2009,Rep. of Korea,Seoul,12,6,6,0,112,1,0,137,14,7,9,2,369,5,0,406,528
+2009,Rep. of Korea,Pohang,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+2009,Rep. of Korea,Masan,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,3
+2009,Rep. of Korea,Incheon,0,1,1,0,2,0,0,4,0,0,0,0,12,0,0,12,15
+2009,Rep. of Korea,Euijeongbu,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,2,3
+2009,Rep. of Korea,Daejeon,0,0,0,0,1,1,0,2,0,0,0,0,5,1,0,6,8
+2009,Rep. of Korea,Daegu,1,0,0,0,1,0,0,2,0,0,0,0,6,0,0,6,8
+2009,Rep. of Korea,Cheongju,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,3
+2009,Rep. of Korea,Busan,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,Rep. of Korea,Inchon : Do - Province,0,1,,0,2,0,0,3,0,0,,0,15,0,0,15,18
+2010,Rep. of Korea,Euijeongbu : Point,0,0,,0,1,0,0,1,0,0,,0,2,0,0,2,3
+2010,Rep. of Korea,Whasung : Point,0,0,,0,3,1,0,4,0,0,,0,11,0,0,11,15
+2010,Rep. of Korea,Suwon : Point,0,0,,0,0,0,0,0,0,0,,0,6,1,0,7,7
+2010,Rep. of Korea,Seoul : Point,20,12,,1,134,2,0,169,20,10,,4,506,4,0,544,713
+2010,Rep. of Korea,Pohang : Point,0,0,,0,0,0,0,0,0,0,,0,1,0,0,1,1
+2010,Rep. of Korea,Jeju,0,0,,0,0,0,0,0,0,0,,0,1,0,0,1,1
+2010,Rep. of Korea,Daejeon : Point,0,0,,0,1,1,0,2,0,0,,0,4,1,0,5,7
+2010,Rep. of Korea,Daegu : Point,2,0,,0,3,0,0,5,0,0,,0,6,0,0,6,11
+2010,Rep. of Korea,Cheongju : Point,0,0,,0,0,0,0,0,0,0,,0,2,0,0,2,2
+2010,Rep. of Korea,Busan : Point,0,0,,0,0,0,0,0,0,0,,0,4,0,0,4,4
+2011,Rep. of Korea,Whasung : Point,,,,,3,1,,4,,,,,7,1,,8,12
+2011,Rep. of Korea,Suwon : Point,,,,,,,,0,,,,,6,1,,7,7
+2011,Rep. of Korea,Seoul : Point,15,18,,1,192,4,,230,21,18,,9,1078,8,,1134,1543
+2011,Rep. of Korea,Pohang : Point,,,,,,,,0,,,,,1,,,1,1
+2011,Rep. of Korea,Jeju : Do - Province,,,,,,,,0,,,,,1,,,1,1
+2011,Rep. of Korea,Inchon : Do - Province,,1,,,2,,,3,,,,,15,,,15,18
+2011,Rep. of Korea,Euijeongbu : Point,,,,,1,,,1,,,,,2,,,2,3
+2011,Rep. of Korea,Daejeon : Point,,,,,1,1,,2,,,,,2,1,,3,5
+2011,Rep. of Korea,Daegu : Point,2,,,,3,,,5,,,,,3,,,3,8
+2011,Rep. of Korea,Cheongju : Point,,,,,1,,,1,,,,,2,,,2,3
+2011,Rep. of Korea,Busan : Point,,,,,,,,0,,,,,1,,,1,1
+2012,Rep. of Korea,Yeosu,,,,,,,,0,,,,,1,,,1,1
+2012,Rep. of Korea,Yangju,,,,,1,,,1,,,,,2,,,2,3
+2012,Rep. of Korea,Whasung : Point,,,,,3,1,,4,,,,,11,1,,12,16
+2012,Rep. of Korea,Suwon : Point,,,,,,,,0,,,,,6,1,,7,7
+2012,Rep. of Korea,Republic of Korea : Dispersed in country,,,,,,,111,111,,,,,,,68,68,394
+2012,Rep. of Korea,Pohang : Point,,,,,,,,0,,,,,1,,,1,1
+2012,Rep. of Korea,Inchon : Do - Province,,1,,,2,,,3,,,,,15,,,15,18
+2012,Rep. of Korea,Daejeon : Gwangyeoksi - Metropolitan City,,,,,1,1,,2,,,,,1,1,,2,4
+2012,Rep. of Korea,Daegu : Gwangyeoksi - Metropolitan City,,,,,2,,,2,,,,,1,,,1,3
+2012,Rep. of Korea,Cheongju : Point,,1,,,1,,,2,,,,,3,,,3,5
+2012,Rep. of Korea,Seoul : Teukbyeolsi - Capital Metropolitan City,21,19,,2,218,5,,265,25,20,,13,1433,6,,1497,1762
+2013,Rep. of Korea,Yangju : Point,,,,,2,,,2,,,,,4,,,4,6
+2013,Rep. of Korea,Whasung : Point,,,,,3,1,,4,,,,,9,1,,10,14
+2013,Rep. of Korea,Ulsan,,,,,,,,0,,,,,5,,,5,5
+2013,Rep. of Korea,Suwon : Point,,,,,,,,0,,,,,10,1,,11,11
+2013,Rep. of Korea,Sacheon,,,,,,,,0,,,,,1,,,1,1
+2013,Rep. of Korea,Republic of Korea : Dispersed in the country / territory,,,,,,,,0,,,,,,,,0,601
+2013,Rep. of Korea,Pusan,,,,,1,,,1,,,,1,9,,,10,11
+2013,Rep. of Korea,Pohang : Point,,,,,,,,0,,,,,1,,,1,1
+2013,Rep. of Korea,Jeonju,,,,,1,,,1,,,,,5,,,5,6
+2013,Rep. of Korea,Inchon : Do - Province,1,1,,,8,,,10,1,1,,1,25,,,28,38
+2013,Rep. of Korea,Gwangju,,,,,2,,,2,,,,,16,,,16,18
+2013,Rep. of Korea,Gunsan,,,,,,,,0,,,,,1,,,1,1
+2013,Rep. of Korea,Goyang,,,,,,,,0,,,,,1,,,1,1
+2013,Rep. of Korea,Daejeon : Gwangyeoksi - Metropolitan city,2,1,,,2,1,,6,,,,3,5,1,,9,15
+2013,Rep. of Korea,Daegu : Gwangyeoksi - Metropolitan city,,,,,2,,,2,,,,1,10,,,11,13
+2013,Rep. of Korea,Cheongju : Point,,1,,,1,,,2,,,,,3,,,3,5
+2013,Rep. of Korea,Cheju,,,,6,,,,6,,,,,3,,,3,9
+2013,Rep. of Korea,Changwon,,,,,,,,0,,,,2,7,,,9,9
+2013,Rep. of Korea,Seoul : Teukbyeolsi - Capital metropolitan city,33,29,,7,297,14,,380,37,26,,33,1865,32,,1993,2373
+2014,Rep. of Korea,Ansan,0,0,,0,0,0,0,0,1,0,,0,4,0,0,5
+2014,Rep. of Korea,Changwon,1,0,,1,0,0,0,2,2,0,,1,12,0,0,15
+2014,Rep. of Korea,Goyang,0,0,,0,0,0,0,0,0,0,,1,1,0,0,2
+2014,Rep. of Korea,Gwangju,1,1,,0,8,0,0,10,3,2,,0,109,0,0,114
+2014,Rep. of Korea,Incheon Airport,1,1,,0,7,0,0,9,3,1,,0,14,0,0,18
+2014,Rep. of Korea,Inchon Airport,0,0,,0,1,0,0,1,0,0,,0,5,0,0,5
+2014,Rep. of Korea,Jeonju,0,0,,0,1,0,0,1,0,0,,0,7,0,0,7
+2014,Rep. of Korea,Mokpo,0,0,,0,1,0,0,1,2,0,,0,10,0,0,12
+2014,Rep. of Korea,Pohang : Point,0,0,,0,0,0,0,0,0,0,,0,1,0,0,1
+2014,Rep. of Korea,Pusan,2,1,,1,6,0,0,10,1,3,,1,41,0,0,46
+2014,Rep. of Korea,Sacheon,0,0,,0,0,0,0,0,0,0,,0,1,0,0,1
+2014,Rep. of Korea,Suwon : Point,0,0,,0,1,0,0,1,0,0,,0,39,1,0,40
+2014,Rep. of Korea,Ulsan,1,0,,0,1,0,0,2,1,0,,0,7,0,0,8
+2014,Rep. of Korea,Unidentified,0,0,,0,0,0,0,0,0,0,,0,0,0,0,0
+2014,Rep. of Korea,Whasung : Point,0,0,,0,3,1,0,4,0,0,,0,10,1,0,11
+2014,Rep. of Korea,Yangju,0,0,,0,0,0,0,0,0,0,,0,2,0,0,2
+2014,Rep. of Korea,Yangju : Point,1,0,,0,8,0,0,9,3,0,,0,66,0,0,69
+2014,Rep. of Korea,Yeosu,0,0,,0,0,0,0,0,0,0,,0,2,0,0,2
+2014,Rep. of Korea,Cheongju : Point,0,1,,0,2,0,0,3,0,0,,0,6,0,0,6
+2014,Rep. of Korea,Daegu : Gwangyeoksi - Metropolitan city,1,1,,0,12,1,0,15,0,0,,1,125,0,0,126
+2014,Rep. of Korea,Daejeon : Gwangyeoksi - Metropolitan city,1,2,,0,4,1,0,8,0,0,,3,13,1,0,17
+2014,Rep. of Korea,Inchon - Yeongjongdo,0,1,,0,2,0,0,3,1,0,,0,3,0,0,4
+2014,Rep. of Korea,Inchon: Gwangyeoksi - Metropolican,0,1,,0,1,0,0,2,0,0,,0,2,0,0,2
+2014,Rep. of Korea,Inchon: Gwangyeoksi - Metropolitan,1,0,,0,3,0,0,4,1,1,,1,32,0,0,35
+2014,Rep. of Korea,Jeju - Do (Province),0,0,,0,119,0,0,119,0,0,,0,104,1,0,105
+2014,Rep. of Korea,Republic of Korea : Dispersed in the country / territory,0,0,,0,0,0,0,0,0,0,,0,0,0,0,0
+2014,Rep. of Korea,Seoul : Teukbyeolsi - Capital metropolitan city,59,50,,14,409,14,0,546,42,46,,33,2754,15,0,2890
+2015,Rep. of Korea,Ansan,,,,,10,,,10,1,1,,,73,,,75
+2015,Rep. of Korea,Busan: Gwangyeoksi - Metropolitan City,2,6,,2,27,,,37,3,7,,5,151,,,166
+2015,Rep. of Korea,Changwon,1,,,,6,,,7,2,,,,47,,,49
+2015,Rep. of Korea,Cheonan,,,,,5,,,5,,,,,3,,,3
+2015,Rep. of Korea,Cheongju,,1,,,3,,,4,,,,,11,,,11
+2015,Rep. of Korea,Cheongju Detention,,,,,,,,0,,,,,2,,,2
+2015,Rep. of Korea,Chuncheon,,,,,1,,,1,,,,,1,,,1
+2015,Rep. of Korea,Daegu : Gwangyeoksi - Metropolitan city,4,1,,,42,1,,48,2,,,,445,1,,448
+2015,Rep. of Korea,Daejeon : Gwangyeoksi - Metropolitan city,2,2,,,14,1,,19,,,,2,39,1,,42
+2015,Rep. of Korea,Gimhae,,,,,,,,0,,,,,2,,,2
+2015,Rep. of Korea,Gunsan,,,,,,,,0,,,,,2,,,2
+2015,Rep. of Korea,Gwangju,4,4,,,38,,,46,6,3,,2,471,,,482
+2015,Rep. of Korea,Incheon Airport,34,18,,11,86,2,,151,23,20,,26,91,1,,161
+2015,Rep. of Korea,Inchon - Yeongjongdo,,1,,2,6,,,9,2,6,,1,4,,,13
+2015,Rep. of Korea,Inchon: Gwangyeoksi - Metropolitan,2,4,,,40,,,46,8,3,,3,198,,,212
+2015,Rep. of Korea,Jeju - Do (Province),1,,,1,134,1,,137,,,,1,139,4,,144
+2015,Rep. of Korea,Jeonju,,,,,2,,,2,1,,,,71,,,72
+2015,Rep. of Korea,Mokpo,,,,,,,,0,2,,,,14,,,16
+2015,Rep. of Korea,Pohang : Point,,,,,,,,0,,,,,1,,,1
+2015,Rep. of Korea,Republic of Korea : Dispersed in the country / territory,,,,,,,,0,,,,,,,,0
+2015,Rep. of Korea,Sacheon,,,,,,,,0,,,,,1,,,1
+2015,Rep. of Korea,Suwon : Point,2,,,,22,,,24,,,,,217,1,,218
+2015,Rep. of Korea,Ulsan,1,,,,9,,,10,2,,,1,107,,,110
+2015,Rep. of Korea,Whasung,,,,,3,1,,4,,,,,13,1,,14
+2015,Rep. of Korea,Whasung Detention,,,,,1,,,1,,,,,5,,,5
+2015,Rep. of Korea,Yangju : Point,1,,,1,21,,,23,5,2,,1,206,1,,215
+2015,Rep. of Korea,Yeosu,,,,,,,,0,,,,,5,,,5
+2015,Rep. of Korea,Seoul : Teukbyeolsi - Capital metropolitan city,62,66,,19,481,17,,645,66,53,,29,3040,18,,3206
+2016,Rep. of Korea,Ansan,,1,,1,79,1,,82,1,1,,2,365,1,,370
+2016,Rep. of Korea,Busan: Gwangyeoksi - Metropolitan City,6,6,,3,39,,,54,8,10,,7,149,1,,175
+2016,Rep. of Korea,Changwon,1,,,,4,,,5,2,,,,31,,,33
+2016,Rep. of Korea,Cheju,2,,,1,55,3,,61,2,,,1,93,1,,97
+2016,Rep. of Korea,Cheonan,,,,1,13,,,14,,,,,58,,,58
+2016,Rep. of Korea,Cheongju,,,,,3,,,3,,,,,24,,,24
+2016,Rep. of Korea,Cheongju Detention,,1,,,1,,,2,,,,,6,,,6
+2016,Rep. of Korea,Chuncheon,,,,,3,,,3,,,,,4,,,4
+2016,Rep. of Korea,Daegu : Gwangyeoksi - Metropolitan city,8,,,,34,,,42,2,,,,241,2,,245
+2016,Rep. of Korea,Daejeon : Gwangyeoksi - Metropolitan city,2,3,,,10,1,,16,,2,,,25,1,,28
+2016,Rep. of Korea,Dangjin,,,,,,,,0,,,,,2,,,2
+2016,Rep. of Korea,Donghae,,,,,1,,,1,,,,,12,,,12
+2016,Rep. of Korea,Gimhae,,,,,,,,0,,,,,2,,,2
+2016,Rep. of Korea,Goyang,,,,,5,,,5,,,,,9,,,9
+2016,Rep. of Korea,Gunsan,,,,,,,,0,,,,,4,,,4
+2016,Rep. of Korea,Gwangju,9,4,,1,60,,,74,8,4,,3,361,1,,377
+2016,Rep. of Korea,Incheon Airport,32,30,,18,98,5,,183,24,26,,23,107,1,,181
+2016,Rep. of Korea,Inchon: Gwangyeoksi - Metropolitan,12,4,,3,86,,,105,12,4,,5,542,,,563
+2016,Rep. of Korea,Jeonju,1,,,,5,,,6,,,,1,81,,,82
+2016,Rep. of Korea,Mokpo,,,,,,,,0,,,,,5,,,5
+2016,Rep. of Korea,Osan,,,,,71,,,71,1,,,,273,2,,276
+2016,Rep. of Korea,Pohang,,,,,,,,0,,,,,1,,,1
+2016,Rep. of Korea,Republic of Korea : Dispersed in the country / territory,,,,,,,,0,,,,,,,,0
+2016,Rep. of Korea,Sacheon,,,,,,,,0,,,,,1,,,1
+2016,Rep. of Korea,Seosan,,,,,2,,,2,,,,,6,,,6
+2016,Rep. of Korea,Suwon,6,2,,,118,,,126,1,1,,1,431,2,,436
+2016,Rep. of Korea,Ulsan,2,,,,12,,,14,1,3,,,99,,,103
+2016,Rep. of Korea,Unidentified,,,,,,,,0,,,,,1,,,1
+2016,Rep. of Korea,Whasung Detention,,,,,5,1,,6,,,,,14,3,,17
+2016,Rep. of Korea,Yangju,4,0,,1,68,0,,73,7,1,,7,383,3,,401
+2016,Rep. of Korea,Yeosu,,,,,1,,,1,,,,,3,,,3
+2016,Rep. of Korea,Seoul : Teukbyeolsi - Capital metropolitan city,76,67,,29,639,18,,829,68,80,,38,3159,23,,3368
+2017,Rep. of Korea,Ansan,,*,,,19,*,,21,,*,,*,93,,,95
+2017,Rep. of Korea,Busan: Gwangyeoksi - Metropolitan City,*,12,,*,33,,,51,10,10,,10,153,*,,184
+2017,Rep. of Korea,Changwon,*,*,,,*,,,5,*,*,,,14,,,16
+2017,Rep. of Korea,Cheonan,,,,*,10,,,11,,,,,43,,,43
+2017,Rep. of Korea,Cheongju,*,,,,14,,,15,*,,,,39,,,42
+2017,Rep. of Korea,Cheongju Detention,,,,*,*,,,*,,,,,*,,,*
+2017,Rep. of Korea,Chuncheon,,,,,6,,,6,,,,,6,,,6
+2017,Rep. of Korea,Daegu : Gwangyeoksi - Metropolitan city,*,*,,*,14,,,22,*,*,,*,129,,,133
+2017,Rep. of Korea,Daejeon : Gwangyeoksi - Metropolitan city,*,*,,,9,*,,16,,,,,17,*,,18
+2017,Rep. of Korea,Dangjin,,,,,,,,0,,,,,22,,,22
+2017,Rep. of Korea,Donghae,,,,,,,,0,,,,*,22,,,23
+2017,Rep. of Korea,Gimhae,,,,,,,,0,,,,,*,,,*
+2017,Rep. of Korea,Goyang,,,,,61,,,61,,*,,,62,,,63
+2017,Rep. of Korea,Gunsan,,,,,*,,,*,*,,,,6,,,7
+2017,Rep. of Korea,Gwangju,6,9,,*,64,,,81,8,*,,*,267,*,,284
+2017,Rep. of Korea,Incheon Airport,21,39,,15,102,5,,182,22,21,,23,114,*,,181
+2017,Rep. of Korea,Jeju - Do (Province),*,*,,*,111,*,,118,*,*,,,142,,,148
+2017,Rep. of Korea,Jeonju,,,,,12,,,12,*,,,,51,,,53
+2017,Rep. of Korea,Mokpo,,,,,,,,0,,,,,*,,,*
+2017,Rep. of Korea,Pohang,,,,,,,,0,,,,,*,,,*
+2017,Rep. of Korea,Pyeongtaek,*,*,,,50,,,52,*,,,,153,*,,155
+2017,Rep. of Korea,Republic of Korea : Dispersed in the country / territory,,,,,,,,0,,,,,,,,0
+2017,Rep. of Korea,Sacheon,,,,,,,,0,,,,,*,,,*
+2017,Rep. of Korea,Seosan,,,,,*,,,*,,,,,7,,,7
+2017,Rep. of Korea,Suwon,*,,,,111,,,115,5,*,,*,496,*,,507
+2017,Rep. of Korea,Ulsan,*,*,,,9,,,13,*,*,,,96,,,102
+2017,Rep. of Korea,Whasung Detention,,,,,*,*,,5,,,,,15,*,,18
+2017,Rep. of Korea,Yangju,6,*,,*,187,,,196,22,*,,10,1050,*,,1085
+2017,Rep. of Korea,Yeosu,,,,,*,,,*,,*,,,5,,,7
+2017,Rep. of Korea,Inchon: Gwangyeoksi - Metropolitan,47,16,,14,519,*,,597,32,20,,22,1686,5,,1765
+2017,Rep. of Korea,Seoul : Teukbyeolsi - Capital metropolitan city,77,56,,29,884,15,,1061,61,74,,38,4029,14,,4216

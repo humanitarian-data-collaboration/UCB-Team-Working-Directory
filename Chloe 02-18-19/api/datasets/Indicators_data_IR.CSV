@@ -1,0 +1,393 @@
+category,indicator,indicator_friendly,type_data,latitude,longitude,region_id,country_id,name,year,value
+#meta+category,#indicator+name,#indicator+description,#indicator+type,#geo+lat,#geo+lon,#region+code,#country+code+v_iso2,#country+name,#date+year,#indicator+value
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1985,0.57
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1955,2.43
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2020,0.09
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1990,0.59
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1960,1.68
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2025,0.06
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1995,0.66
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1965,1.39
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2030,0.05
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2000,0.58
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1970,1.07
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2035,0.05
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2005,0.37
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1975,0.88
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2040,0.05
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2010,0.24
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1980,0.68
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2045,0.04
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,1950,2.85
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32,53,589,IR,Iran, islamic republic of,2015,0.15
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,35.671943,51.424344,589,IR,Tehran,2000,0.51
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,35.671943,51.424344,589,IR,Tehran,2010,1.17
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,31.279989,48.720013,589,IR,Ahvaz,2000,2.01
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,31.279989,48.720013,589,IR,Ahvaz,2010,1.81
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,36.27002,59.569997,589,IR,Mashhad,2000,2.47
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,36.27002,59.569997,589,IR,Mashhad,2010,1.78
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,35.800359,50.970005,589,IR,Karaj,2000,3.77
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,35.800359,50.970005,589,IR,Karaj,2010,2.17
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32.700005,51.700038,589,IR,Isfahan,2000,2.32
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32.700005,51.700038,589,IR,Isfahan,2010,1.81
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,29.62996,52.570011,589,IR,Shiraz,2000,1.54
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,29.62996,52.570011,589,IR,Shiraz,2010,1.66
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,38.086292,46.301246,589,IR,Tabriz,2000,1.6
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,38.086292,46.301246,589,IR,Tabriz,2010,1.66
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,34.650015,50.950006,589,IR,Qom,2000,2.13
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,34.650015,50.950006,589,IR,Qom,2010,1.84
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,34.380006,47.060011,589,IR,Kermanshah,2000,1.39
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,34.380006,47.060011,589,IR,Kermanshah,2010,1.69
+Transport,passengers_carried_by_railway,Passengers carried by railway (million passengers/km),n,32,53,589,IR,Iran, islamic republic of,2000,10012
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1985,5
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2020,11
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1990,5
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2025,11
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1995,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2000,3
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1970,2
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2005,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1975,3
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2010,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1980,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2015,8
+Population,pop_urban_percentage,Percentage of national population living in urban areas,p,32,53,589,IR,Iran, islamic republic of,2007,93.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,35.671943,51.424344,589,IR,Tehran,2000,16.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,35.671943,51.424344,589,IR,Tehran,2010,14.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,35.671943,51.424344,589,IR,Tehran,2020,14.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.279989,48.720013,589,IR,Ahvaz,2000,2.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.279989,48.720013,589,IR,Ahvaz,2010,2.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.279989,48.720013,589,IR,Ahvaz,2020,2.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,36.27002,59.569997,589,IR,Mashhad,2000,5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,36.27002,59.569997,589,IR,Mashhad,2010,5.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,36.27002,59.569997,589,IR,Mashhad,2020,5.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,38.086292,46.301246,589,IR,Tabriz,2000,3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,38.086292,46.301246,589,IR,Tabriz,2010,2.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,38.086292,46.301246,589,IR,Tabriz,2020,3.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.700005,51.700038,589,IR,Isfahan,2000,3.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.700005,51.700038,589,IR,Isfahan,2010,3.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.700005,51.700038,589,IR,Isfahan,2020,3.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.62996,52.570011,589,IR,Shiraz,2000,2.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.62996,52.570011,589,IR,Shiraz,2010,2.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.62996,52.570011,589,IR,Shiraz,2020,2.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,35.800359,50.970005,589,IR,Karaj,2000,2.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,35.800359,50.970005,589,IR,Karaj,2010,3.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,35.800359,50.970005,589,IR,Karaj,2020,3.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.650015,50.950006,589,IR,Qom,2000,2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.650015,50.950006,589,IR,Qom,2010,2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.650015,50.950006,589,IR,Qom,2020,2.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.380006,47.060011,589,IR,Kermanshah,2000,1.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.380006,47.060011,589,IR,Kermanshah,2010,1.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.380006,47.060011,589,IR,Kermanshah,2020,1.7
+Streets,percentage_of_roads,Percentage of roads measured in length,p,32,53,589,IR,Iran, islamic republic of,2000,67.4
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,32,53,589,IR,Iran, islamic republic of,1990,34
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1985,57.54
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1955,76.06
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,2020,52.48
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1990,56.92
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1960,74.42
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,2025,52.56
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1995,59.77
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1965,72.78
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,2000,61.16
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1970,63.42
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,2005,57.48
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1975,58.13
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,2010,55.65
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1980,57.48
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,1950,77.65
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,32,53,589,IR,Iran, islamic republic of,2015,54.28
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1985,1345
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1955,1396
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,2020,12914
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1990,3833
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1960,1873
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,2025,14672
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1995,5279
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1965,2511
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,2000,6921
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1970,3290
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,2005,7792
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1975,4273
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,2010,10855
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,1950,1041
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,32,53,589,IR,Iran, islamic republic of,2015,11967
+Population,percentage_of_international_migrants,Percentage of international migrants,p,32,53,589,IR,Iran, islamic republic of,2000,0.2
+Population,percentage_of_international_migrants,Percentage of international migrants,p,32,53,589,IR,Iran, islamic republic of,1995,0.1
+Population,percentage_of_international_migrants,Percentage of international migrants,p,32,53,589,IR,Iran, islamic republic of,2005,0.1
+Population,urban_population_cities,Urban population – Cities,1000,35.671943,51.424344,589,IR,Tehran,2000,6880
+Population,urban_population_cities,Urban population – Cities,1000,35.671943,51.424344,589,IR,Tehran,2010,7243
+Population,urban_population_cities,Urban population – Cities,1000,35.671943,51.424344,589,IR,Tehran,2020,8138
+Population,urban_population_cities,Urban population – Cities,1000,31.279989,48.720013,589,IR,Ahvaz,2000,868
+Population,urban_population_cities,Urban population – Cities,1000,31.279989,48.720013,589,IR,Ahvaz,2010,1061
+Population,urban_population_cities,Urban population – Cities,1000,31.279989,48.720013,589,IR,Ahvaz,2020,1271
+Population,urban_population_cities,Urban population – Cities,1000,36.27002,59.569997,589,IR,Mashhad,2000,2073
+Population,urban_population_cities,Urban population – Cities,1000,36.27002,59.569997,589,IR,Mashhad,2010,2653
+Population,urban_population_cities,Urban population – Cities,1000,36.27002,59.569997,589,IR,Mashhad,2020,3171
+Population,urban_population_cities,Urban population – Cities,1000,38.086292,46.301246,589,IR,Tabriz,2000,1264
+Population,urban_population_cities,Urban population – Cities,1000,38.086292,46.301246,589,IR,Tabriz,2010,1484
+Population,urban_population_cities,Urban population – Cities,1000,38.086292,46.301246,589,IR,Tabriz,2020,1752
+Population,urban_population_cities,Urban population – Cities,1000,32.700005,51.700038,589,IR,Isfahan,2000,1382
+Population,urban_population_cities,Urban population – Cities,1000,32.700005,51.700038,589,IR,Isfahan,2010,1743
+Population,urban_population_cities,Urban population – Cities,1000,32.700005,51.700038,589,IR,Isfahan,2020,2088
+Population,urban_population_cities,Urban population – Cities,1000,29.62996,52.570011,589,IR,Shiraz,2000,1115
+Population,urban_population_cities,Urban population – Cities,1000,29.62996,52.570011,589,IR,Shiraz,2010,1300
+Population,urban_population_cities,Urban population – Cities,1000,29.62996,52.570011,589,IR,Shiraz,2020,1535
+Population,urban_population_cities,Urban population – Cities,1000,35.800359,50.970005,589,IR,Karaj,2000,1087
+Population,urban_population_cities,Urban population – Cities,1000,35.800359,50.970005,589,IR,Karaj,2010,1584
+Population,urban_population_cities,Urban population – Cities,1000,35.800359,50.970005,589,IR,Karaj,2020,1968
+Population,urban_population_cities,Urban population – Cities,1000,34.650015,50.950006,589,IR,Qom,2000,843
+Population,urban_population_cities,Urban population – Cities,1000,34.650015,50.950006,589,IR,Qom,2010,1043
+Population,urban_population_cities,Urban population – Cities,1000,34.650015,50.950006,589,IR,Qom,2020,1253
+Population,urban_population_cities,Urban population – Cities,1000,34.380006,47.060011,589,IR,Kermanshah,2000,729
+Population,urban_population_cities,Urban population – Cities,1000,34.380006,47.060011,589,IR,Kermanshah,2010,838
+Population,urban_population_cities,Urban population – Cities,1000,34.380006,47.060011,589,IR,Kermanshah,2020,992
+Resilience,loss_of_lives_in_floods_per_million_population,Number of loss of lives in floods per million population,n,32,53,589,IR,Iran, islamic republic of,1980,2.2
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1985,14.67
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1980,16.53
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1975,13.86
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2050,84267
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1950,4659
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1955,5833
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1960,7322
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1965,9225
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1970,11871
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1975,15254
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1980,19544
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1985,25853
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1990,31925
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,1995,37467
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2000,42452
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2005,46467
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2007,48410
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2010,51620
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2015,57046
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2020,62376
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2025,66930
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2030,70972
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2035,74849
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2040,78545
+Population,urban_population_countries,Urban population – Countries,1000,32,53,589,IR,Iran, islamic republic of,2045,81779
+Transport,passengers_carried_by_air,Passengers carried by air,1000,32,53,589,IR,Iran, islamic republic of,2004,12234
+Transport,total_railway_route,Total railway route,km,32,53,589,IR,Iran, islamic republic of,1999,6405
+Population,population_capital_cities,Population of capital cities,1000,35.671943,51.424344,589,IR,Tehran,2007,7873
+Resilience,number_of_refugees_by_country_of_asylum,Number of refugees by country of asylum,n,32,53,589,IR,Iran, islamic republic of,2005,716403
+Resilience,loss_of_lives_in_floods,Average annual loss of lives in floods,n,32,53,589,IR,Iran, islamic republic of,1980,131.19
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1955,23.94
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1960,25.58
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,2025,21.92
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1965,27.22
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1970,27.71
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,2005,16.77
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1950,22.35
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,2015,20.98
+Resilience,loss_of_lives_by_earthquake_per_million_population,Number of loss of lives by earthquake per million population,n,32,53,589,IR,Iran, islamic republic of,1980,38.68
+Resilience,loss_of_lives_by_earthquake,Average annual loss of lives in earthquake,n,32,53,589,IR,Iran, islamic republic of,1980,2250.81
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2048,0.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2049,0.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1950,2.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1951,2.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1952,2.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1953,2.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1954,2.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1955,2.57
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1956,2.57
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1957,2.57
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1958,2.57
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1959,2.57
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1960,2.74
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1961,2.74
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1962,2.74
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1963,2.74
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1964,2.74
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1965,2.92
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1966,2.92
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1967,2.92
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1968,2.92
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1969,2.92
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1970,2.93
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1971,2.93
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1972,2.93
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1973,2.93
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1974,2.93
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1975,3.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1976,3.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1977,3.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1978,3.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1979,3.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1980,4.16
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1981,4.16
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1982,4.16
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1983,4.16
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1984,4.16
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1985,3.15
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1986,3.15
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1987,3.15
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1988,3.15
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1989,3.15
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1990,1.86
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1991,1.86
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1992,1.86
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1993,1.86
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1994,1.86
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1995,1.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1996,1.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1997,1.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1998,1.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,1999,1.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2000,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2001,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2002,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2003,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2004,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2005,1.35
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2006,1.35
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2007,1.35
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2008,1.35
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2009,1.35
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2010,1.33
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2011,1.33
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2012,1.33
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2013,1.33
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2014,1.33
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2015,1.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2016,1.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2017,1.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2018,1.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2019,1.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2020,0.88
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2021,0.88
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2022,0.88
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2023,0.88
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2024,0.88
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2025,0.7
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2026,0.7
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2027,0.7
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2028,0.7
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2029,0.7
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2030,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2031,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2032,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2033,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2034,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2035,0.56
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2036,0.56
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2037,0.56
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2038,0.56
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2039,0.56
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2040,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2041,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2042,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2043,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2044,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2045,0.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2046,0.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,32,53,589,IR,Iran, islamic republic of,2047,0.26
+Resilience,population_affected_by_conflicts,Annual average of population affected by conflicts,p,32,53,589,IR,Iran, islamic republic of,1980,22
+Transport,goods_hauled_by_railways,Goods hauled by railways (million passengers/km),n,32,53,589,IR,Iran, islamic republic of,1999,18182
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2050,42049
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1950,5094
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1955,6230
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1960,7579
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1965,9094
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1970,10721
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1975,12734
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1980,15091
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1985,17317
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1990,19731
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,1995,22078
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2000,24402
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2005,26726
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2007,27657
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2010,29045
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2015,31294
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2020,33415
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2025,35373
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2030,37149
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2035,38720
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2040,40059
+Population,population,Total population,1000,32,53,589,IR,Iran, islamic republic of,2045,41152
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,32,53,589,IR,Iran, islamic republic of,1990,54
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,32,53,589,IR,Iran, islamic republic of,1960,164
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,32,53,589,IR,Iran, islamic republic of,1995,43
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,32,53,589,IR,Iran, islamic republic of,2000,36
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,32,53,589,IR,Iran, islamic republic of,1970,122
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,32,53,589,IR,Iran, islamic republic of,2005,31
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,32,53,589,IR,Iran, islamic republic of,2007,29
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,32,53,589,IR,Iran, islamic republic of,1980,92
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1990,72
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1960,281
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1995,55
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,2000,44
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1970,191
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,2005,36
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,2007,32.8
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1980,130
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2050,15906
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1950,12254
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1955,13257
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1960,14382
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1965,15661
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1970,16934
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1975,18090
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1980,19785
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1985,22565
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1990,24749
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,1995,24733
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2000,23673
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2005,22954
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2007,22798
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2010,22656
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2015,22333
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2020,21868
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2025,21097
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2030,20183
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2035,19213
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2040,18198
+Population,rural_population,Rural population,1000,32,53,589,IR,Iran, islamic republic of,2045,17102
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1985,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2020,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1990,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2025,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1995,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2000,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2005,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2010,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1980,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2015,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1985,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1955,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2020,7
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1990,3
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1960,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2025,8
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1995,4
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1965,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2000,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1970,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2005,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1975,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2010,7
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,1950,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,32,53,589,IR,Iran, islamic republic of,2015,7
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1985,22.59
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1990,19.94
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,2025,14.66
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1995,17.85
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,2000,16.79
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,2005,16.47
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,2010,15.93
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,1980,25.99
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,32,53,589,IR,Iran, islamic republic of,2015,15.48
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,32,53,589,IR,Iran, islamic republic of,2001,0.03
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,32,53,589,IR,Iran, islamic republic of,2003,0.1
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1990,54
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1960,164
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1995,43
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,2000,36
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1970,122
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,2005,31
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,2007,29
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,32,53,589,IR,Iran, islamic republic of,1980,92
+Streets,total_road_network,Total road network (in km),n,32,53,589,IR,Iran, islamic republic of,2000,179388
+Resilience,refugees_by_country_of_origin,Number of refugees by country of origin,n,32,53,589,IR,Iran, islamic republic of,2005,262142

@@ -18,9 +18,38 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = os.path.join(app.instance_path)
 
 
+def process(pandas_dataset, dataframe):
+    if (not pandas_dataset.empty):
+            dataset_df = pandas_dataset
+            headers = list(dataset_df.columns.values)
+            headers = clean_cols(headers)
+            tags = list(dataset_df.iloc[0,:])
+            for i in range(len(headers)):
+                try:
+                    splitted = re.split('[(^\s+)+#]', tags[i])
+                    splitted = list(filter(None, splitted))
+                    hashtag = splitted[0]
+                    attributes = splitted[1:]
+                    dic = {'Header': headers[i], 'Tag': hashtag, 'Attributes': attributes, 
+                           'Data': list(dataset_df.iloc[1:, i]), 
+                           'Relative Column Position': (i+1) / len(dataset_df.columns), 
+                           'Dataset_name': os.path.basename(path), 
+                           'Organization': organization,
+                           'Index': index}
+                    dataframe.loc[len(dataframe)] = dic
+                except:
+                    print("Error: different number of headers and tags")
+            count += 1
+        os.remove(path)
+        print("File Removed!")
+        return
+
+
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS 
+
+
 
 @app.route('/', methods=['GET','POST'])
 def upload_file():
@@ -36,20 +65,29 @@ def upload_file():
             return redirect(request.url)
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
-            df = pd.read_csv(file)
-            # resp = make_response(df.to_csv())
-            # resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
-            # resp.headers["Content-Type"] = "text/csv"
-            # return resp  
+            input_dataset = pd.read_csv(file)
+                # process the untagged dataset
+            
+            process(input_dataset, )
+            model = pickle.load(open("model.pkl", "rb"))
+            output_dataset = model.predict(input_dataset.values.to_list())
+
+
+            resp = make_response(output_dataset.to_csv())
+            resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
+            resp.headers["Content-Type"] = "text/csv"
+            return resp  
     return '''
     <!doctype html>
     <title>Upload new File</title>
     <h1>Upload new File (only CSV files accepted)</h1>
-    <form action={{url_for('tag', dataset='df')}} method=post enctype=multipart/form-data>
+    <form method=post enctype=multipart/form-data>
       <input type=file name=file>
       <input type=submit value=Upload>
     </form>
     ''' 
+
+ # action={{url_for('tag', dataset='df')}}   
 
 @app.route('/tag/<dataset>', methods=['POST'])
 def tag(dataset):

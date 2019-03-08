@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Add hashtags @ HXL Proxy</title>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="/static/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" />
+<link href="/static/hxl-proxy/hxl-proxy.css" rel="stylesheet" />
+<link rel="apple-touch-icon" sizes="57x57" href="/static/hxl-proxy/icons/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/static/hxl-proxy/icons/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/static/hxl-proxy/icons/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/static/hxl-proxy/icons/apple-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/static/hxl-proxy/icons/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/static/hxl-proxy/icons/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/static/hxl-proxy/icons/apple-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/static/hxl-proxy/icons/apple-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/static/hxl-proxy/icons/apple-icon-180x180.png" />
+<link rel="icon" type="image/png" sizes="192x192"  href="/static/hxl-proxy/icons/android-icon-192x192.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/static/hxl-proxy/icons/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/static/hxl-proxy/icons/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/static/hxl-proxy/icons/favicon-16x16.png" />
+<link rel="manifest" href="/static/hxl-proxy/icons/manifest.json" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+<meta name="theme-color" content="#ffffff" />
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+    <script src="/static/compat/html5shiv.min.js"></script>
+    <script src="/static/compat/respond.min.js"></script>
+    <![endif]-->  </head>
+  <body class="container-fluid">
+<nav role="navigation" class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="/">
+        <img class="navbar-brand" src="/static/images/hxl-logo-white.png" alt="#HXL" />
+      </a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="">
+          <a href="/data/source">
+            <span class="glyphicon glyphicon-plus"></span>
+            New
+          </a>
+        </li>
+        <li class="active">
+          <a href="/data?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+            <span class="glyphicon glyphicon-th-list"></span>
+            Data
+          </a>
+        </li>
+        <li class="">
+          <a href="/data/validate?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+            <span class="glyphicon glyphicon-ok"></span>
+            Validate
+          </a>
+        </li>
+        <li class="">
+          <a href="/data/chart?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+            <span class="glyphicon glyphicon-signal"></span>
+            Visualise
+          </a>
+        </li>
+        <li class="">
+          <a href="/data/map?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+            <span class="glyphicon glyphicon-globe"></span>
+            Map
+          </a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a href="/about.html">
+            <span class="glyphicon glyphicon-info-sign"></span>
+            About
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="https://github.com/HXLStandard/hxl-proxy/wiki/Tagger-page">
+            <span class="glyphicon glyphicon-question-sign"></span>
+            Help
+          </a>
+        </li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>
+<div class="alert alert-warning messages">
+  <a href="#" class="close" data-dismiss="alert">&times;</a>
+  No HXL hashtags found
+</div>
+    <header class="col-sm-12">
+<ul class="nav nav-tabs"> 
+  <li class="">
+    <a href="/data/source?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+      Source
+    </a>
+  </li>
+  <li class="active">
+    <a href="/data/tagger?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+      Tags
+    </a>
+  </li>
+  <li class="">
+    <a href="/data/edit?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+      Recipe
+    </a>
+  </li>
+  <li class="">
+    <a href="/data/save?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+      Save
+    </a>
+  </li>
+  <li class="">
+    <a href="/data?url=http%3A%2F%2Fngoaidmap.org%2Fdownloads%3Fdoc%3Dcsv%26geolocation%3Dgn_290557%26level%3D0%26name%3Dactivities.csv%26status%3Dactive&amp;stub=ngoaidmap-are&amp;tagger-20-header=actual_project_reach&amp;tagger-11-tag=%23sector%2Blist&amp;tagger-28-tag=%23meta%2Burl&amp;tagger-15-tag=%23date%2Bbudget&amp;tagger-23-header=location&amp;tagger-13-header=budget_numeric&amp;tagger-32-tag=%23org%2Bdonor%2Blist&amp;tagger-25-tag=%23contact%2Brole&amp;tagger-19-header=target_project_reach&amp;tagger-27-header=project_contact_phone_number&amp;tagger-09-tag=%23date%2Bstart&amp;tagger-13-tag=%23budget%2Bnum&amp;cut-exclude-tags01=contact&amp;header-row=1&amp;tagger-07-header=activities&amp;tagger-27-tag=%23contact%2Bphone&amp;tagger-15-header=budget_value_date&amp;tagger-10-tag=%23date%2Bend&amp;tagger-22-header=target_groups&amp;tagger-04-header=project_tags&amp;tagger-06-tag=%23activity%2Bdescription&amp;tagger-02-header=interaction_intervention_id&amp;tagger-06-header=project_description&amp;tagger-18-tag=%23org%2Bprime&amp;tagger-11-header=sectors&amp;tagger-10-header=end_date&amp;tagger-19-tag=%23targeted%2Bnum&amp;tagger-09-header=start_date&amp;tagger-16-tag=%23org%2Bpartner%2Binternational%2Blist&amp;tagger-29-header=date_provided&amp;tagger-12-tag=%23subsector%2Bcrosscut&amp;tagger-17-header=local_partners&amp;tagger-04-tag=%23meta%2Btags&amp;tagger-12-header=cross_cutting_issues&amp;tagger-05-header=project_name&amp;tagger-01-header=organization&amp;tagger-30-tag=%23date%2Bupdated&amp;tagger-07-tag=%23activity%2Bdetails&amp;tagger-26-header=project_contact_email&amp;tagger-08-header=additional_information&amp;tagger-05-tag=%23activity%2Bname&amp;tagger-31-tag=%23status%2Bcode&amp;force=on&amp;tagger-24-header=project_contact_person&amp;tagger-14-header=budget_currency&amp;tagger-01-tag=%23org%2Bimplementing%2Bname&amp;tagger-14-tag=%23budget%2Bcurrency&amp;tagger-29-tag=%23date%2Bprovided&amp;tagger-03-header=org_intervention_id&amp;tagger-30-header=date_updated&amp;tagger-21-header=project_reach_unit&amp;tagger-02-tag=%23meta%2Bid%2Binteraction&amp;tagger-20-tag=%23reached%2Bnum&amp;tagger-21-tag=%23targeted%2Btype&amp;tagger-31-header=status&amp;tagger-22-tag=%23targeted%2Bdescription&amp;tagger-03-tag=%23meta%2Bid%2Borg&amp;tagger-25-header=project_contact_position&amp;tagger-32-header=donors&amp;tagger-23-tag=%23loc&amp;filter01=cut&amp;tagger-16-header=international+partners&amp;tagger-24-tag=%23contact%2Bname&amp;tagger-28-header=project_website&amp;tagger-08-tag=%23meta%2Bnotes&amp;tagger-17-tag=%23org%2Bpartner%2Blocal%2Blist&amp;tagger-26-tag=%23contact%2Bemail&amp;tagger-18-header=prime_awardee">
+      View
+    </a>
+  </li>
+</ul>      <h1>
+        Tag a non-HXL dataset
+      </h1>
+<div>
+  <b>Original data:</b>
+  <a target="_blank" href="http://ngoaidmap.org/downloads?doc=csv&amp;geolocation=gn_290557&amp;level=0&amp;name=activities.csv&amp;status=active">
+    http://ngoaidmap.org/downloads?doc=csv&amp;geolocation=gn_290557&amp;level=0&amp;name=activities.csv&amp;status=active
+  </a>
+</div>
+
+
+    </header>
+    <main id="tagger" class="col-md-6 col-lg-5">
+      <section>
+
+        <form class="tagger" action="/data/edit" method="GET">
+
+
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h2 class="panel-title">Tagger settings</h2>
+            </div>
+            <div class="form-group row panel-body">
+
+              <div class="checkbox col-sm-6">
+                <label>
+                  <input type="checkbox" name="tagger-match-all"
+/>
+                    Match full header text?
+                </label>
+              </div>
+
+              <div class="form-field col-sm-6">
+                <label for="tagger-default-tag">
+                  Default HXL hashtag
+                </label>
+                <input class="form-control"
+                       name="tagger-default-tag"
+                       value=""
+                       pattern="^\s*#?[A-Za-z][_0-9A-Za-z]*(\s*[+][A-Za-z][_0-9A-Za-z]*)*\s*$"
+                       title="Hashtag spec, &#34;#&#34; optional (e.g. &#34;country+code&#34;)"
+                       placeholder="#tag"/>
+              </div>
+
+            </div>
+          </div>
+
+          <p class="alert alert-info">
+            Pick HXL tags for some or all of your headers.
+          </p>
+
+          <p class="visible-xs visible-sm">
+            (<a href="#preview">jump to raw source data preview</a>)
+          </p>
+
+          <div class="form-group">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th></th>
+                  <th>Header (sub)string</th>
+                  <th>HXL hashtag</th>
+                </tr>
+                <tr>
+                  <td><i>E.g.</i></td>
+                  <td><code>Province</code></td>
+                  <td><code>#adm1</code></td>
+                </tr>
+              </thead>
+              <tbody>
+              </tbody>
+            </table>
+          </div>
+          <div class="form-group">
+            <button class="btn btn-success" type="submit">Next</button>
+          </div>
+
+<div>
+  <!-- Saved metadata parameters -->
+  <input type="hidden" name="url" value="http://ngoaidmap.org/downloads?doc=csv&amp;geolocation=gn_290557&amp;level=0&amp;name=activities.csv&amp;status=active"/>
+  <input type="hidden" name="stub" value="ngoaidmap-are"/>
+</div><div>
+  <!-- Saved recipe parameters -->
+  <input type="hidden" name="cut-exclude-tags01" value="contact"/>
+  <input type="hidden" name="header-row" value="1"/>
+  <input type="hidden" name="force" value="on"/>
+  <input type="hidden" name="filter01" value="cut"/>
+</div>
+        </form>
+      </section>
+    </main>
+    <aside id="preview" class="preview col-md-6 col-lg-7">
+      <h2>Raw source data (preview)</h2>
+      <p class="visible-xs visible-sm">
+        (<a href="#tagger">jump to tagger</a>)
+      </p>
+      <table class="table">
+      </table>
+    </aside>
+<script src="/static/jquery/jquery.js"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+<script src="/static/compat/ie10-viewport-bug-workaround.js"></script>
+<script src="/static/hxl-proxy/hxl-proxy.js"></script>
+<script>
+  hxl_proxy.config.gdriveDeveloperKey = 'AIzaSyBcojxW0V82VjY7Kaadxr2QVWgaozSAFoM';
+  hxl_proxy.config.gdriveClientId = '158516950629-33esurvu5l2fmc6vs4uoaia4phgeot59.apps.googleusercontent.com';
+</script>  </body>
+</html>
