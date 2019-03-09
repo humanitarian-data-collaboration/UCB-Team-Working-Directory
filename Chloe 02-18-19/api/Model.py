@@ -323,7 +323,6 @@ print("Pre-trained model loaded successfully!\n")
 
 # In[ ]:
 
-
 #Classification using only headers
 df = headers_and_tags
 df['Header_embedding'] = df['Header'].map(lambda x: fmodel.get_sentence_vector(str(x)))

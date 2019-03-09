@@ -1,0 +1,507 @@
+category,indicator,indicator_friendly,type_data,latitude,longitude,region_id,country_id,name,year,value
+#meta+category,#indicator+name,#indicator+description,#indicator+type,#geo+lat,#geo+lon,#region+code,#country+code+v_iso2,#country+name,#date+year,#indicator+value
+Streets,composite_street_connectivity_index_city_core,Composite Street Connectivity Index – city core,index,20.670016,-103.330034,389,MX,Guadalajara,2013,0.721
+Streets,composite_street_connectivity_index_city_core,Composite Street Connectivity Index – city core,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.76
+Streets,road_density_national_roads,Road density (km/100km²),n,23,-102,389,MX,Mexico,2009,19
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,23,-102,389,MX,Mexico,2001,116.74
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,23,-102,389,MX,Mexico,2002,112.47
+Transport,goods_hauled_by_road,Goods hauled by road (million ton/km),n,23,-102,389,MX,Mexico,2000,204217
+Streets,land_allocated_to_street_index_sub_urban_area,Land Allocated to Street Index – suburban area,index,20.670016,-103.330034,389,MX,Guadalajara,2013,0.4
+Streets,land_allocated_to_street_index_sub_urban_area,Land Allocated to Street Index – suburban area,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.321
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,1985,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,2020,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,1990,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,2025,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,1995,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,2000,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,2005,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,1975,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,2010,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,1980,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,23,-102,389,MX,Mexico,2015,1
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1985,8
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1955,1
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,2020,22
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1990,15
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1960,2
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,2025,22
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1995,18
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1965,1
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,2000,19
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1970,1
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,2005,22
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1975,3
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,2010,20
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,1980,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,23,-102,389,MX,Mexico,2015,20
+Population,pop_urban_percentage,Percentage of national population living in urban areas,p,23,-102,389,MX,Mexico,2007,76.9
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,23,-102,389,MX,Mexico,2001,260.41
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,23,-102,389,MX,Mexico,2002,251.91
+Streets,street_density_sub_urban_area,Street density (km/km²) – suburban area,n,20.670016,-103.330034,389,MX,Guadalajara,2013,12.6
+Streets,street_density_sub_urban_area,Street density (km/km²) – suburban area,n,19.442442,-99.130988,389,MX,Mexico City,2013,10
+Streets,percentage_of_roads,Percentage of roads measured in length,p,23,-102,389,MX,Mexico,2000,37
+Population,urban_agglomeration_population_density,Urban agglomeration population density (population/km²),n,20.670016,-103.330034,389,MX,Guadalajara,2013,6500
+City prosperity,cpi_environment_index,Environmental Sustainability index,p,19.442442,-99.130988,389,MX,Mexico City,2012,0.866
+City prosperity,cpi_environment_index,Environmental Sustainability index,p,19.442442,-99.130988,389,MX,Mexico City,2013,0.908
+City prosperity,cpi_equity_index,Equity Index,p,19.442442,-99.130988,389,MX,Mexico City,2012,0.405
+City prosperity,cpi_equity_index,Equity Index,p,19.442442,-99.130988,389,MX,Mexico City,2013,0.55
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,23,-102,389,MX,Mexico,2003,201
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,23,-102,389,MX,Mexico,1990,119
+Streets,proportion_land_allocated_to_street_city_core,Proportion of land allocated to street – city core,p,20.670016,-103.330034,389,MX,Guadalajara,2013,21.8
+Streets,proportion_land_allocated_to_street_city_core,Proportion of land allocated to street – city core,p,19.442442,-99.130988,389,MX,Mexico City,2013,23.4
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1985,51.71
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1955,70.82
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,2020,35.79
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1990,45.38
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1960,65.77
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,2025,37.21
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1995,41.27
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1965,64.15
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,2000,38.54
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1970,60.31
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,2005,36.21
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1975,57.66
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,2010,35.94
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1980,54.4
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,1950,75.63
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,23,-102,389,MX,Mexico,2015,35.58
+Streets,intersection_density_total,Intersection density (km²) – total,n,20.670016,-103.330034,389,MX,Guadalajara,2013,95.8
+Streets,intersection_density_total,Intersection density (km²) – total,n,19.442442,-99.130988,389,MX,Mexico City,2013,78.5
+Streets,street_density_index_sub_urban_area,Street density index – Sub urban area,index,20.670016,-103.330034,389,MX,Guadalajara,2013,0.4
+Streets,street_density_index_sub_urban_area,Street density index – Sub urban area,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.31
+City prosperity,cpi_4_dimensions,City Prosperity Index with 4 dimensions,p,19.442442,-99.130988,389,MX,Mexico City,2012,0.816
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1985,6283
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1955,3801
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,2020,25582
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1990,7291
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,2025,26384
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1995,10227
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1965,1148
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,2000,15108
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1970,2773
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,2005,16551
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1975,3439
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,2010,21146
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1980,5401
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,1950,2883
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,23,-102,389,MX,Mexico,2015,24531
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,1985,26.63
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,2020,21.28
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,1990,25.52
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,2025,20.54
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,1995,24.95
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,2000,24.18
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,2005,23.55
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,1980,28.29
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,23,-102,389,MX,Mexico,2015,22
+Streets,proportion_land_allocated_to_street_total,Proportion of land allocated to street – total,p,20.670016,-103.330034,389,MX,Guadalajara,2013,14.6
+Streets,proportion_land_allocated_to_street_total,Proportion of land allocated to street – total,p,19.442442,-99.130988,389,MX,Mexico City,2013,12.3
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1985,3
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1955,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,2020,13
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1990,3
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,2025,13
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1995,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1965,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,2000,8
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1970,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,2005,8
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1975,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,2010,11
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1980,3
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,1950,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,23,-102,389,MX,Mexico,2015,13
+Population,urban_population_cities,Urban population – Cities,1000,19.733381,-101.189493,389,MX,Morelia,2000,625
+Population,urban_population_cities,Urban population – Cities,1000,19.733381,-101.189493,389,MX,Morelia,2010,810
+Population,urban_population_cities,Urban population – Cities,1000,19.733381,-101.189493,389,MX,Morelia,2020,1069
+Population,urban_population_cities,Urban population – Cities,1000,32.500018,-117.079996,389,MX,Tijuana,2000,1287
+Population,urban_population_cities,Urban population – Cities,1000,32.500018,-117.079996,389,MX,Tijuana,2010,1757
+Population,urban_population_cities,Urban population – Cities,1000,32.500018,-117.079996,389,MX,Tijuana,2020,2299
+Population,urban_population_cities,Urban population – Cities,1000,28.644982,-106.084982,389,MX,Chihuahua,2000,683
+Population,urban_population_cities,Urban population – Cities,1000,28.644982,-106.084982,389,MX,Chihuahua,2010,854
+Population,urban_population_cities,Urban population – Cities,1000,28.644982,-106.084982,389,MX,Chihuahua,2020,1060
+Population,urban_population_cities,Urban population – Cities,1000,22.30002,-97.870006,389,MX,Tampico,2000,659
+Population,urban_population_cities,Urban population – Cities,1000,22.30002,-97.870006,389,MX,Tampico,2010,763
+Population,urban_population_cities,Urban population – Cities,1000,22.30002,-97.870006,389,MX,Tampico,2020,908
+Population,urban_population_cities,Urban population – Cities,1000,16.849991,-99.915979,389,MX,Acapulco,2000,791
+Population,urban_population_cities,Urban population – Cities,1000,16.849991,-99.915979,389,MX,Acapulco,2010,865
+Population,urban_population_cities,Urban population – Cities,1000,16.849991,-99.915979,389,MX,Acapulco,2020,1056
+Population,urban_population_cities,Urban population – Cities,1000,25.419959,-101.004982,389,MX,Saltillo,2000,643
+Population,urban_population_cities,Urban population – Cities,1000,25.419959,-101.004982,389,MX,Saltillo,2010,825
+Population,urban_population_cities,Urban population – Cities,1000,25.419959,-101.004982,389,MX,Saltillo,2020,1044
+Population,urban_population_cities,Urban population – Cities,1000,31.690377,-106.490048,389,MX,Ciudad Ju rez,2000,1225
+Population,urban_population_cities,Urban population – Cities,1000,31.690377,-106.490048,389,MX,Ciudad Ju rez,2010,1332
+Population,urban_population_cities,Urban population – Cities,1000,31.690377,-106.490048,389,MX,Ciudad Ju rez,2020,1492
+Population,urban_population_cities,Urban population – Cities,1000,20.966639,-89.616634,389,MX,Merida,2020,1235
+Population,urban_population_cities,Urban population – Cities,1000,21.87946,-102.290413,389,MX,Aguascalientes,2000,734
+Population,urban_population_cities,Urban population – Cities,1000,21.87946,-102.290413,389,MX,Aguascalientes,2010,934
+Population,urban_population_cities,Urban population – Cities,1000,21.87946,-102.290413,389,MX,Aguascalientes,2020,1162
+Population,urban_population_cities,Urban population – Cities,1000,18.921105,-99.24,389,MX,Cuernavaca,2000,667
+Population,urban_population_cities,Urban population – Cities,1000,18.921105,-99.24,389,MX,Cuernavaca,2010,878
+Population,urban_population_cities,Urban population – Cities,1000,18.921105,-99.24,389,MX,Cuernavaca,2020,1111
+Population,urban_population_cities,Urban population – Cities,1000,20.630019,-100.379982,389,MX,Queretaro,2000,795
+Population,urban_population_cities,Urban population – Cities,1000,20.630019,-100.379982,389,MX,Queretaro,2010,1101
+Population,urban_population_cities,Urban population – Cities,1000,20.630019,-100.379982,389,MX,Queretaro,2020,1466
+Population,urban_population_cities,Urban population – Cities,1000,19.330382,-99.669999,389,MX,Toluca,2000,1417
+Population,urban_population_cities,Urban population – Cities,1000,19.330382,-99.669999,389,MX,Toluca,2010,1702
+Population,urban_population_cities,Urban population – Cities,1000,19.330382,-99.669999,389,MX,Toluca,2020,2130
+Population,urban_population_cities,Urban population – Cities,1000,25.669995,-100.329985,389,MX,Monterrey,2000,3266
+Population,urban_population_cities,Urban population – Cities,1000,25.669995,-100.329985,389,MX,Monterrey,2010,4100
+Population,urban_population_cities,Urban population – Cities,1000,25.669995,-100.329985,389,MX,Monterrey,2020,5113
+Population,urban_population_cities,Urban population – Cities,1000,32.649983,-115.480016,389,MX,Mexicali,2000,770
+Population,urban_population_cities,Urban population – Cities,1000,32.649983,-115.480016,389,MX,Mexicali,2010,938
+Population,urban_population_cities,Urban population – Cities,1000,32.649983,-115.480016,389,MX,Mexicali,2020,1142
+Population,urban_population_cities,Urban population – Cities,1000,25.570053,-103.420003,389,MX,Torreon,2000,1014
+Population,urban_population_cities,Urban population – Cities,1000,25.570053,-103.420003,389,MX,Torreon,2010,1218
+Population,urban_population_cities,Urban population – Cities,1000,25.570053,-103.420003,389,MX,Torreon,2020,1478
+Population,urban_population_cities,Urban population – Cities,1000,24.829995,-107.379968,389,MX,Culiacan,2000,749
+Population,urban_population_cities,Urban population – Cities,1000,24.829995,-107.379968,389,MX,Culiacan,2010,836
+Population,urban_population_cities,Urban population – Cities,1000,24.829995,-107.379968,389,MX,Culiacan,2020,977
+Population,urban_population_cities,Urban population – Cities,1000,29.098881,-110.954065,389,MX,Hermosillo,2000,616
+Population,urban_population_cities,Urban population – Cities,1000,29.098881,-110.954065,389,MX,Hermosillo,2010,789
+Population,urban_population_cities,Urban population – Cities,1000,29.098881,-110.954065,389,MX,Hermosillo,2020,986
+Population,urban_population_cities,Urban population – Cities,1000,22.169976,-100.999996,389,MX,San Luis Potosi,2000,858
+Population,urban_population_cities,Urban population – Cities,1000,22.169976,-100.999996,389,MX,San Luis Potosi,2010,1042
+Population,urban_population_cities,Urban population – Cities,1000,22.169976,-100.999996,389,MX,San Luis Potosi,2020,1257
+Population,urban_population_cities,Urban population – Cities,1000,21.149987,-101.70003,389,MX,Leon,2000,1290
+Population,urban_population_cities,Urban population – Cities,1000,21.149987,-101.70003,389,MX,Leon,2010,1613
+Population,urban_population_cities,Urban population – Cities,1000,21.149987,-101.70003,389,MX,Leon,2020,1999
+Population,urban_population_cities,Urban population – Cities,1000,26.079996,-98.300031,389,MX,Reynosa,2000,531
+Population,urban_population_cities,Urban population – Cities,1000,26.079996,-98.300031,389,MX,Reynosa,2010,729
+Population,urban_population_cities,Urban population – Cities,1000,26.079996,-98.300031,389,MX,Reynosa,2020,934
+Population,urban_population_cities,Urban population – Cities,1000,20.670016,-103.330034,389,MX,Guadalajara,2000,3703
+Population,urban_population_cities,Urban population – Cities,1000,20.670016,-103.330034,389,MX,Guadalajara,2010,4442
+Population,urban_population_cities,Urban population – Cities,1000,20.670016,-103.330034,389,MX,Guadalajara,2020,5293
+Population,urban_population_cities,Urban population – Cities,1000,19.04996,-98.200037,389,MX,Puebla,2000,1907
+Population,urban_population_cities,Urban population – Cities,1000,19.04996,-98.200037,389,MX,Puebla,2010,2296
+Population,urban_population_cities,Urban population – Cities,1000,19.04996,-98.200037,389,MX,Puebla,2020,2730
+Population,urban_population_cities,Urban population – Cities,1000,19.442442,-99.130988,389,MX,Mexico City,2020,23239
+Resilience,loss_of_lives_in_floods_per_million_population,Number of loss of lives in floods per million population,n,23,-102,389,MX,Mexico,1980,1.41
+Population,population_estimate_urban_agglomerations,Population estimate of urban agglomeration,n,20.670016,-103.330034,389,MX,Guadalajara,2013,4567000
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,23,-102,389,MX,Mexico,2025,16.44
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,23,-102,389,MX,Mexico,2010,16.73
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,23,-102,389,MX,Mexico,2020,16.63
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,23,-102,389,MX,Mexico,2005,19.44
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,23,-102,389,MX,Mexico,1990,16.95
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2050,115916
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1950,11833
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1955,15056
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1960,19224
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1965,24393
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1970,30707
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1975,38103
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1980,45990
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1985,52971
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1990,59994
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,1995,67368
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2000,74524
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2005,79564
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2007,81951
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2010,85839
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2015,91777
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2020,97265
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2025,102258
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2030,106689
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2035,110379
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2040,113177
+Population,urban_population_countries,Urban population – Countries,1000,23,-102,389,MX,Mexico,2045,115023
+Streets,intersection_density_city_core,Intersection density (#/km²) – city core,n,20.670016,-103.330034,389,MX,Guadalajara,2013,133.2
+Streets,intersection_density_city_core,Intersection density (#/km²) – city core,n,19.442442,-99.130988,389,MX,Mexico City,2013,138.9
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,19.733381,-101.189493,389,MX,Morelia,2000,2.6
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,19.733381,-101.189493,389,MX,Morelia,2010,2.77
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32.500018,-117.079996,389,MX,Tijuana,2000,3.11
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32.500018,-117.079996,389,MX,Tijuana,2010,2.69
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,28.644982,-106.084982,389,MX,Chihuahua,2000,2.24
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,28.644982,-106.084982,389,MX,Chihuahua,2010,2.16
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.30002,-97.870006,389,MX,Tampico,2000,1.46
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.30002,-97.870006,389,MX,Tampico,2010,1.74
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,16.849991,-99.915979,389,MX,Acapulco,2000,0.89
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,16.849991,-99.915979,389,MX,Acapulco,2010,2
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.419959,-101.004982,389,MX,Saltillo,2000,2.5
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.419959,-101.004982,389,MX,Saltillo,2010,2.35
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,31.690377,-106.490048,389,MX,Ciudad Ju rez,2000,0.84
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,31.690377,-106.490048,389,MX,Ciudad Ju rez,2010,1.13
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.966639,-89.616634,389,MX,Merida,2010,1.9
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.87946,-102.290413,389,MX,Aguascalientes,2000,2.41
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.87946,-102.290413,389,MX,Aguascalientes,2010,2.18
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,18.921105,-99.24,389,MX,Cuernavaca,2000,2.76
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,18.921105,-99.24,389,MX,Cuernavaca,2010,2.36
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.630019,-100.379982,389,MX,Queretaro,2000,3.25
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.630019,-100.379982,389,MX,Queretaro,2010,2.86
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,19.330382,-99.669999,389,MX,Toluca,2000,1.84
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,19.330382,-99.669999,389,MX,Toluca,2010,2.24
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.079996,-98.300031,389,MX,Reynosa,2000,3.16
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.079996,-98.300031,389,MX,Reynosa,2010,2.48
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32.649983,-115.480016,389,MX,Mexicali,2000,1.97
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,32.649983,-115.480016,389,MX,Mexicali,2010,1.96
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.570053,-103.420003,389,MX,Torreon,2000,1.83
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.570053,-103.420003,389,MX,Torreon,2010,1.93
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,24.829995,-107.379968,389,MX,Culiacan,2000,1.1
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,24.829995,-107.379968,389,MX,Culiacan,2010,1.56
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,29.098881,-110.954065,389,MX,Hermosillo,2000,2.48
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,29.098881,-110.954065,389,MX,Hermosillo,2010,2.23
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.169976,-100.999996,389,MX,San Luis Potosi,2000,1.95
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.169976,-100.999996,389,MX,San Luis Potosi,2010,1.87
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.149987,-101.70003,389,MX,Leon,2000,2.24
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.149987,-101.70003,389,MX,Leon,2010,2.15
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.669995,-100.329985,389,MX,Monterrey,2000,2.27
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.669995,-100.329985,389,MX,Monterrey,2010,2.21
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.670016,-103.330034,389,MX,Guadalajara,2000,1.82
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.670016,-103.330034,389,MX,Guadalajara,2010,1.75
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,19.04996,-98.200037,389,MX,Puebla,2000,1.85
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,19.04996,-98.200037,389,MX,Puebla,2010,1.73
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1985,0.7
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1955,1.67
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2020,0.33
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1990,0.54
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1960,1.58
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2025,0.31
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1995,0.37
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1965,1.44
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2030,0.28
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2000,0.42
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1970,1.23
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2035,0.26
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2005,0.39
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1975,1.11
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2040,0.24
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2010,0.37
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1980,0.77
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2045,0.23
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,1950,1.8
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23,-102,389,MX,Mexico,2015,0.35
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,23,-102,389,MX,Mexico,2000,14800
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,23,-102,389,MX,Mexico,1995,14457
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,23,-102,389,MX,Mexico,2005,11574
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,23,-102,389,MX,Mexico,1990,13760
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,23,-102,389,MX,Mexico,2007,11906
+Streets,intersection_density_sub_urban_area,Intersection density (#/km²) – suburban area,n,20.670016,-103.330034,389,MX,Guadalajara,2013,85.6
+Streets,intersection_density_sub_urban_area,Intersection density (#/km²) – suburban area,n,19.442442,-99.130988,389,MX,Mexico City,2013,68
+Transport,passengers_carried_by_air,Passengers carried by air,1000,23,-102,389,MX,Mexico,2004,21240
+Streets,street_density_index_city_core,Street density index – City core,index,20.670016,-103.330034,389,MX,Guadalajara,2013,0.686
+Streets,street_density_index_city_core,Street density index – City core,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.717
+Transport,total_railway_route,Total railway route,km,23,-102,389,MX,Mexico,1999,26656
+Streets,intersection_density_index_city_core,Intersection Density Index – City Core,index,20.670016,-103.330034,389,MX,Guadalajara,2013,0.761
+Streets,intersection_density_index_city_core,Intersection Density Index – City Core,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.794
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,20.630019,-100.379982,389,MX,Queretaro,2000,0.678
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,19.04996,-98.200037,389,MX,Puebla,2000,0.538
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,28.644982,-106.084982,389,MX,Chihuahua,2000,0.6
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,19.229975,-103.72001,389,MX,Colima,2000,0.571
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,19.82999,-90.49999,389,MX,Campeche,2000,0.566
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,17.08269,-96.66995,389,MX,Oaxaca,2000,0.559
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,24.031103,-104.67003,389,MX,Durango,2000,0.624
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,19.177342,-96.159981,389,MX,Veracruz,2000,0.549
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,22.770431,-102.580002,389,MX,Zacatecas,2000,0.548
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,21.87946,-102.290413,389,MX,Aguascalientes,2000,0.515
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,21.020408,-101.279978,389,MX,Guanajuato,2000,0.624
+Land area,urban_agglomeration_land_area,Urban agglomeration land area (km²),n,20.670016,-103.330034,389,MX,Guadalajara,2013,699
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.733381,-101.189493,389,MX,Morelia,2000,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.733381,-101.189493,389,MX,Morelia,2010,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.733381,-101.189493,389,MX,Morelia,2020,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.500018,-117.079996,389,MX,Tijuana,2000,1.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.500018,-117.079996,389,MX,Tijuana,2010,2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.500018,-117.079996,389,MX,Tijuana,2020,2.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.644982,-106.084982,389,MX,Chihuahua,2000,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.644982,-106.084982,389,MX,Chihuahua,2010,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.644982,-106.084982,389,MX,Chihuahua,2020,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.30002,-97.870006,389,MX,Tampico,2000,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.30002,-97.870006,389,MX,Tampico,2010,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.30002,-97.870006,389,MX,Tampico,2020,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,16.849991,-99.915979,389,MX,Acapulco,2000,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,16.849991,-99.915979,389,MX,Acapulco,2010,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,16.849991,-99.915979,389,MX,Acapulco,2020,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.419959,-101.004982,389,MX,Saltillo,2000,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.419959,-101.004982,389,MX,Saltillo,2010,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.419959,-101.004982,389,MX,Saltillo,2020,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.690377,-106.490048,389,MX,Ciudad Ju rez,2000,1.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.690377,-106.490048,389,MX,Ciudad Ju rez,2010,1.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.690377,-106.490048,389,MX,Ciudad Ju rez,2020,1.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.966639,-89.616634,389,MX,Merida,2000,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.966639,-89.616634,389,MX,Merida,2010,1.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.966639,-89.616634,389,MX,Merida,2020,1.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.87946,-102.290413,389,MX,Aguascalientes,2000,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.87946,-102.290413,389,MX,Aguascalientes,2010,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.87946,-102.290413,389,MX,Aguascalientes,2020,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.921105,-99.24,389,MX,Cuernavaca,2000,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.921105,-99.24,389,MX,Cuernavaca,2010,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.921105,-99.24,389,MX,Cuernavaca,2020,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.630019,-100.379982,389,MX,Queretaro,2000,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.630019,-100.379982,389,MX,Queretaro,2010,1.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.630019,-100.379982,389,MX,Queretaro,2020,1.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.330382,-99.669999,389,MX,Toluca,2000,1.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.330382,-99.669999,389,MX,Toluca,2010,1.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.330382,-99.669999,389,MX,Toluca,2020,2.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.079996,-98.300031,389,MX,Reynosa,2000,0.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.079996,-98.300031,389,MX,Reynosa,2010,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.079996,-98.300031,389,MX,Reynosa,2020,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.649983,-115.480016,389,MX,Mexicali,2000,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.649983,-115.480016,389,MX,Mexicali,2010,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,32.649983,-115.480016,389,MX,Mexicali,2020,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.570053,-103.420003,389,MX,Torreon,2000,1.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.570053,-103.420003,389,MX,Torreon,2010,1.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.570053,-103.420003,389,MX,Torreon,2020,1.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,24.829995,-107.379968,389,MX,Culiacan,2000,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,24.829995,-107.379968,389,MX,Culiacan,2010,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,24.829995,-107.379968,389,MX,Culiacan,2020,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.098881,-110.954065,389,MX,Hermosillo,2000,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.098881,-110.954065,389,MX,Hermosillo,2010,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.098881,-110.954065,389,MX,Hermosillo,2020,1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.169976,-100.999996,389,MX,San Luis Potosi,2000,1.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.169976,-100.999996,389,MX,San Luis Potosi,2010,1.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.169976,-100.999996,389,MX,San Luis Potosi,2020,1.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.149987,-101.70003,389,MX,Leon,2000,1.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.149987,-101.70003,389,MX,Leon,2010,1.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.149987,-101.70003,389,MX,Leon,2020,2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.669995,-100.329985,389,MX,Monterrey,2000,4.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.669995,-100.329985,389,MX,Monterrey,2010,4.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.669995,-100.329985,389,MX,Monterrey,2020,5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.670016,-103.330034,389,MX,Guadalajara,2000,5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.670016,-103.330034,389,MX,Guadalajara,2010,5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.670016,-103.330034,389,MX,Guadalajara,2020,5.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.04996,-98.200037,389,MX,Puebla,2000,2.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.04996,-98.200037,389,MX,Puebla,2010,2.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.04996,-98.200037,389,MX,Puebla,2020,2.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.442442,-99.130988,389,MX,Mexico City,2010,22.8
+Resilience,number_of_refugees_by_country_of_asylum,Number of refugees by country of asylum,n,23,-102,389,MX,Mexico,2005,3229
+Resilience,loss_of_lives_in_floods,Average annual loss of lives in floods,n,23,-102,389,MX,Mexico,1980,121.19
+Population,base_year_population_estimate,Urban agglomeration base year population estimate,n,20.670016,-103.330034,389,MX,Guadalajara,2013,4440000
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,1985,14109
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,2020,20695
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,1990,15312
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,2025,21009
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,1995,16811
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,2000,18022
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,2005,18735
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,1975,10690
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,2010,19485
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,1980,13010
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,23,-102,389,MX,Mexico,2015,20189
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,23,-102,389,MX,Mexico,1955,25.25
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,23,-102,389,MX,Mexico,1995,15.18
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,23,-102,389,MX,Mexico,2000,20.27
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,23,-102,389,MX,Mexico,2010,24.63
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,23,-102,389,MX,Mexico,1950,24.37
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,23,-102,389,MX,Mexico,2015,26.73
+City prosperity,cpi_6_dimensions,City Prosperity Index with 6 dimensions,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.788
+Resilience,loss_of_lives_by_earthquake_per_million_population,Number of loss of lives by earthquake per million population,n,23,-102,389,MX,Mexico,1980,5.05
+Streets,composite_street_connectivity_index_sub_urban_area,Composite Street Connectivity Index – suburban area,index,20.670016,-103.330034,389,MX,Guadalajara,2013,0.428
+Streets,composite_street_connectivity_index_sub_urban_area,Composite Street Connectivity Index – suburban area,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.338
+Resilience,loss_of_lives_in_cyclones,Average annual loss of lives in cyclones,n,23,-102,389,MX,Mexico,1980,80.76
+Resilience,loss_of_lives_by_earthquake,Average annual loss of lives in earthquake,n,23,-102,389,MX,Mexico,1980,427.24
+Streets,intersection_density_index_sub_urban_area,Intersection density index – Sub urban area,index,20.670016,-103.330034,389,MX,Guadalajara,2013,0.489
+Streets,intersection_density_index_sub_urban_area,Intersection density index – Sub urban area,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.388
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,23,-102,389,MX,Mexico,2000,19.9
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,23,-102,389,MX,Mexico,1995,21.5
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,23,-102,389,MX,Mexico,2005,14.4
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,23,-102,389,MX,Mexico,1990,23.1
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,23,-102,389,MX,Mexico,2007,14.4
+City prosperity,cpi_productivity_index,Productivity index,p,19.442442,-99.130988,389,MX,Mexico City,2012,0.743
+City prosperity,cpi_productivity_index,Productivity index,p,19.442442,-99.130988,389,MX,Mexico City,2013,0.806
+City prosperity,cpi_5_dimensions,City Prosperity Index with 5 dimensions,p,19.442442,-99.130988,389,MX,Mexico City,2012,0.709
+City prosperity,cpi_infrastructure_index,Infrastructure Development index,p,19.442442,-99.130988,389,MX,Mexico City,2012,0.9
+City prosperity,cpi_infrastructure_index,Infrastructure Development index,p,19.442442,-99.130988,389,MX,Mexico City,2013,0.96
+Resilience,number_of_cyclones,Average annual number of events in cyclones,n,23,-102,389,MX,Mexico,1980,1.57
+Population,percentage_of_international_migrants,Percentage of international migrants,p,23,-102,389,MX,Mexico,2000,0.5
+Population,percentage_of_international_migrants,Percentage of international migrants,p,23,-102,389,MX,Mexico,1995,0.5
+Population,percentage_of_international_migrants,Percentage of international migrants,p,23,-102,389,MX,Mexico,2005,0.6
+Streets,land_allocated_to_street_index_city_core,Land Allocated to Street Index – city core,index,20.670016,-103.330034,389,MX,Guadalajara,2013,0.717
+Streets,land_allocated_to_street_index_city_core,Land Allocated to Street Index – city core,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.772
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2050,132278
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1950,27741
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1955,32253
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1960,37877
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1965,44406
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1970,52028
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1975,60713
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1980,69325
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1985,76826
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1990,84002
+Population,population,Total population,1000,23,-102,389,MX,Mexico,1995,91823
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2000,99735
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2005,104266
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2007,106535
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2010,110293
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2015,115756
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2020,120559
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2025,124695
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2030,128125
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2035,130683
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2040,132237
+Population,population,Total population,1000,23,-102,389,MX,Mexico,2045,132758
+Streets,paved_road,Paved roads,p,23,-102,389,MX,Mexico,2009,35.3
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,23,-102,389,MX,Mexico,1990,41.5
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,23,-102,389,MX,Mexico,1960,93.2
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,23,-102,389,MX,Mexico,1995,36.2
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,23,-102,389,MX,Mexico,2000,31.6
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,23,-102,389,MX,Mexico,1970,79
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,23,-102,389,MX,Mexico,2005,29.5
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,23,-102,389,MX,Mexico,2007,28.8
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,23,-102,389,MX,Mexico,1980,57.9
+Streets,street_density_city_core,Street density (km/km²) – city core,n,20.670016,-103.330034,389,MX,Guadalajara,2013,20.9
+Streets,street_density_city_core,Street density (km/km²) – city core,n,19.442442,-99.130988,389,MX,Mexico City,2013,21.8
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1990,52.37
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1960,133.04
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1995,44.63
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,2000,38.46
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1970,110.61
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,2005,35.66
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,2007,34.72
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1980,77.55
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2050,16362
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1950,15908
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1955,17197
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1960,18654
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1965,20013
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1970,21321
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1975,22610
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1980,23335
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1985,23854
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1990,24009
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,1995,24455
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2000,25210
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2005,24702
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2007,24584
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2010,24454
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2015,23978
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2020,23294
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2025,22437
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2030,21436
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2035,20304
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2040,19060
+Population,rural_population,Rural population,1000,23,-102,389,MX,Mexico,2045,17735
+Streets,total_length_road,Total length of road network (km),n,23,-102,389,MX,Mexico,2009,366807
+Resilience,loss_of_lives_in_cyclones_per_million_population,Number of loss of lives in cyclones per million population,n,23,-102,389,MX,Mexico,1980,0.93
+Streets,proportion_land_allocated_to_street_sub_urban_area,Proportion of land allocated to street – suburban area,p,20.670016,-103.330034,389,MX,Guadalajara,2013,12.6
+Streets,proportion_land_allocated_to_street_sub_urban_area,Proportion of land allocated to street – suburban area,p,19.442442,-99.130988,389,MX,Mexico City,2013,10.3
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,23,-102,389,MX,Mexico,1960,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,23,-102,389,MX,Mexico,1970,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,23,-102,389,MX,Mexico,1965,1
+Slum dwellers,slum_population,Slum population – Urban,1000,23,-102,389,MX,Mexico,2000,14830
+Slum dwellers,slum_population,Slum population – Urban,1000,23,-102,389,MX,Mexico,1995,14484
+Slum dwellers,slum_population,Slum population – Urban,1000,23,-102,389,MX,Mexico,2005,11457
+Slum dwellers,slum_population,Slum population – Urban,1000,23,-102,389,MX,Mexico,1990,13859
+Slum dwellers,slum_population,Slum population – Urban,1000,23,-102,389,MX,Mexico,2007,11801
+Streets,street_density_total,Street density (km/km²) – total,n,20.670016,-103.330034,389,MX,Guadalajara,2013,14.4
+Streets,street_density_total,Street density (km/km²) – total,n,19.442442,-99.130988,389,MX,Mexico City,2013,11.8
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,23,-102,389,MX,Mexico,1970,28.56
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,23,-102,389,MX,Mexico,1965,27.27
+City prosperity,cpi_quality_of_live_index,Quality of life index,p,19.442442,-99.130988,389,MX,Mexico City,2012,0.764
+City prosperity,cpi_quality_of_live_index,Quality of life index,p,19.442442,-99.130988,389,MX,Mexico City,2013,0.813
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,23,-102,389,MX,Mexico,2001,0.3
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,23,-102,389,MX,Mexico,2003,0.3
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,23,-102,389,MX,Mexico,2000,19.9
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,23,-102,389,MX,Mexico,1995,21.5
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,23,-102,389,MX,Mexico,2005,14.4
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,23,-102,389,MX,Mexico,1990,23.1
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,23,-102,389,MX,Mexico,2007,14.4
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1990,41.5
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1960,93.2
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1995,36.2
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,2000,31.6
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1970,79
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,2005,29.5
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,2007,28.8
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,23,-102,389,MX,Mexico,1980,57.9
+City prosperity,cpi_composite_street_connectivity_index,Composite Street Connectivity Index,index,19.442442,-99.130988,389,MX,Mexico City,2013,0.76
+Streets,total_road_network,Total road network (in km),n,23,-102,389,MX,Mexico,2000,355796
+Resilience,refugees_by_country_of_origin,Number of refugees by country of origin,n,23,-102,389,MX,Mexico,2005,2313

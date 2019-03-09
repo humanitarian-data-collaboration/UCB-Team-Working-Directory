@@ -7,10 +7,17 @@ import hashlib
 import pandas as pd
 from werkzeug.utils import secure_filename
 import pickle
-from Model import clean_cols
+import re
+from sklearn.neural_network import MLPClassifier
+from fasttext import load_model
+from sklearn.model_selection import train_test_split
+
 
 
 #This is not but-free, still have some problems...
+
+fasttext_model = 'wiki.en.bin'
+fmodel = load_model(fasttext_model)
 
 UPLOAD_FOLDER = '\datasets'
 ALLOWED_EXTENSIONS = set(['csv'])
@@ -18,30 +25,53 @@ ALLOWED_EXTENSIONS = set(['csv'])
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = os.path.join(app.instance_path)
 
+def lower_cols(lst):
+    #convert data to lowercases
+    #QUESTION: will I miss anyt important information? 
+    return [word.lower() for word in lst]
 
-def process(pandas_dataset, dataframe):
+
+def remove_chars(lst):
+    #remove punctuation characters such as ",", "(", ")", """, ":", "/", and "."
+    #NOTE: PRESERVES WHITE SPACE.
+    #QUESTION: any other characters we should be aware of? Is this a good idea? I'm inspecting each word individually.
+    #Any potential pitfalls? 
+    cleaned = [re.sub('\s+', ' ', mystring).strip() for mystring in lst]
+    cleaned = [re.sub(r'[[^A-Za-z0-9\s]+]', ' ', mystr) for mystr in cleaned]
+    cleaned = [mystr.replace('_', ' ') for mystr in cleaned]
+    return cleaned
+
+def clean_cols(data):
+    data = lower_cols(data)
+    data = remove_chars(data)
+    return data
+
+# def process(pandas_dataset, dataframe):
+#     if (not pandas_dataset.empty):
+#             dataset_df = pandas_dataset
+#             headers = list(dataset_df.columns.values)
+#             headers = clean_cols(headers)
+#     for i in range(len(headers)):
+#         try:
+#             dic = {'Header': headers[i], 
+#                    'Data': list(dataset_df.iloc[1:, i]), 
+#                    'Relative Column Position': (i+1) / len(dataset_df.columns), 
+#                    'Dataset_name': os.path.basename(path), 
+#                    'Organization': organization,
+#                    'Index': index}
+#             dataframe.loc[len(dataframe)] = dic
+#         except:
+#             print("Error: different number of headers and tags")
+#     return
+
+def preprocess(pandas_dataset):
     if (not pandas_dataset.empty):
-            dataset_df = pandas_dataset
-            headers = list(dataset_df.columns.values)
-            headers = clean_cols(headers)
-            tags = list(dataset_df.iloc[0,:])
-    for i in range(len(headers)):
-        try:
-            splitted = re.split('[(^\s+)+#]', tags[i])
-            splitted = list(filter(None, splitted))
-            hashtag = splitted[0]
-            attributes = splitted[1:]
-            dic = {'Header': headers[i], 'Tag': hashtag, 'Attributes': attributes, 
-                   'Data': list(dataset_df.iloc[1:, i]), 
-                   'Relative Column Position': (i+1) / len(dataset_df.columns), 
-                   'Dataset_name': os.path.basename(path), 
-                   'Organization': organization,
-                   'Index': index}
-            dataframe.loc[len(dataframe)] = dic
-        except:
-            print("Error: different number of headers and tags")
-    count += 1
-    return
+        dataset_df = pandas_dataset
+        headers = list(dataset_df.columns.values)
+        headers = clean_cols(headers)
+    for i in headers:
+        i = fmodel.get_sentence_vector(str(i))
+    return headers
 
 
 def allowed_file(filename):
@@ -66,13 +96,12 @@ def upload_file():
             filename = secure_filename(file.filename)
             input_dataset = pd.read_csv(file)
                 # process the untagged dataset
-            count = 0
-            col_names = ['Header', 'Tag', 'Attributes','Data','Relative Column Position','Dataset_name', 'Organization','Index']
-            headers_and_tags= pd.DataFrame(columns = col_names)
 
-            process(input_dataset, headers_and_tags)
+            headers = preprocess(input_dataset)
+           
             model = pickle.load(open("model.pkl", "rb"))
-            output_dataset = model.predict(headers_and_tags.values.to_list())
+
+            output_dataset = pd.DataFrame(data = model.predict(headers))
 
             resp = make_response(output_dataset.to_csv())
             resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
